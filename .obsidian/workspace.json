@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e22ee713fa324fa",
+        "id": "ffb8e4328c79e7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e4570daa7c1ea879",
+            "id": "9061aca732674302",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Tab mới"
             }
           }
         ]
@@ -166,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +177,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4570daa7c1ea879",
+  "active": "9061aca732674302",
   "lastOpenFiles": [
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 1 -.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates/Template bài học lý thuyết.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates/Template lý thuyết cơ sở.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates/Template case lâm sàng.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates/Template thực hành.md",
     "README.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates",
+    "MH18. Kỹ năng giao tiếp - Giáo dục sức khỏe.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.3. Biểu mẫu lượng giá",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu",
+    "Ghi chú tổng quan/templates",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Ghi chú tổng quan/Chưa đặt tên.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH18. Kỹ năng giao tiếp - Giáo dục sức khỏe/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH20. Quản lý khoa phòng VLTL/01. TÀI LIỆU & LINK THAM KHẢO.md",
@@ -207,18 +214,6 @@
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH30_32_36. Bệnh lý và VLTL hệ thần kinh cơ (I & II)/Nhật ký Thực tập Lâm sàng",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH29_37. Bệnh lý và VLTL hệ cơ xương (I & II)/Nhật ký Thực tập Lâm sàng",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH23_35. Vận động trị liệu (I & II)/Nhật ký Thực tập Lâm sàng",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH43. PHCN dựa vào cộng đồng/Kỹ thuật Thực hành",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH42. Dinh dưỡng tiết chế/Kỹ thuật Thực hành",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH39. Thực tập tốt nghiệp/Kỹ thuật Thực hành",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH39. Thực tập tốt nghiệp/Bài học Lý thuyết",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH34. Bệnh lý và VLTL hệ da - tiêu hóa - sinh dục - nội tiết/Kỹ thuật Thực hành",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH31_38. Bệnh lý và PHCN hệ Tim mạch - Hô hấp (I & II)/Kỹ thuật Thực hành",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH43. PHCN dựa vào cộng đồng/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH43. PHCN dựa vào cộng đồng/00. MỤC LỤC & ĐỀ CƯƠNG.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH42. Dinh dưỡng tiết chế/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH42. Dinh dưỡng tiết chế/00. MỤC LỤC & ĐỀ CƯƠNG.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH39. Thực tập tốt nghiệp/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH39. Thực tập tốt nghiệp/00. MỤC LỤC & ĐỀ CƯƠNG.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH34. Bệnh lý và VLTL hệ da - tiêu hóa - sinh dục - nội tiết/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md"
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH43. PHCN dựa vào cộng đồng/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md"
   ]
 }

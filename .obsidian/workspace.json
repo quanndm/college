@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "39622ad43e5496ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bab2c3b08cf1cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "071a5fed7f716c50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Tab mới"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29e93540f6328b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "7167bb6ff1591668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a4d401fa01b03f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          },
+          {
+            "id": "026ac9245078575a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec68dc3289ca66b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4b4bd4f9014a1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "320ee9d8b02ae2f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b658e1bb552b0f71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lộ trình.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lộ trình"
+            }
+          },
+          {
+            "id": "f26da795d8ecc16e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lộ trình.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lộ trình"
+            }
+          },
+          {
+            "id": "6d0e09d53d5e7a18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ea5a5144df693d3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lộ trình.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lộ trình"
+            }
+          },
+          {
+            "id": "73dce1809c619742",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Mở trình chuyển đổi Markdown": false,
+      "bases:Tạo cơ sở mới": false,
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "071a5fed7f716c50",
+  "lastOpenFiles": [
+    "Môn học/môn cơ sở/MH09 - Hóa sinh.md",
+    "Môn học/môn cơ sở/⛔ MH18 - Kỹ năng giao tiếp – Giáo dục sức khỏe.md",
+    "Môn học/môn cơ sở/appimagekit_d90c6cc7c7c18fabff067b57747cba26-Logseq.desktop",
+    "Môn học/môn cơ sở/Chưa đặt tên.md",
+    "Môn học/môn cơ sở/MH07 - Giải phẫu Sinh lý.md",
+    "Chưa đặt tên.md",
+    "Môn học/môn cơ sở/MH19 - Y học cổ truyền và dưỡng sinh.md",
+    "Môn học/môn cơ sở/MH08  -Hóa học - Vật lý đại cương và Lý sinh.md",
+    "journals/2026_06_15.md",
+    "assets",
+    "Chưa đặt tên.base",
+    "Ghi chú tổng quan/timeline.md",
+    "pages/contents.md",
+    "Ghi chú tổng quan",
+    "logseq/custom.css",
+    "pages",
+    "logseq/config.edn",
+    "journals",
+    "logseq",
+    "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
+    "Môn học/môn chuyên ngành/MH24 - Lượng giá chức năng vận động.md",
+    "Môn học/môn chuyên ngành/MH23 - Vận động trị liệu I.md",
+    "Môn học/môn chuyên ngành/⛔MH22 - Giải phẫu chức năng hệ vận  động và thần kinh.md",
+    "Môn học/môn chuyên ngành/MH22 - Giải phẫu chức năng hệ vận động và thần kinh.md",
+    "Môn học/môn chuyên ngành/MH19 - Nghiên cứu khoa học.md",
+    "Môn học/môn chuyên ngành/⛔ MH20 -  Quản lý khoa+phòng VLTL.md",
+    "Môn học/môn chuyên ngành/⛔ MH21 - Quá trình phát triển con người.md",
+    "Môn học/môn chuyên ngành",
+    "Môn học/môn cơ sở/MH17 - Tâm lý - Y đức – Tổ chức y tế.md",
+    "Môn học/môn cơ sở/MH16 - Điều dưỡng cơ sở - Cấp cứuban đầu.md",
+    "Môn học/môn cơ sở/MH14 - Dược lý.md",
+    "Môn học/môn cơ sở/MH13 - Bệnh học cơ sở.md",
+    "Môn học/môn cơ sở/MH12 - Xác suất, thống kê Y.md",
+    "Môn học/môn cơ sở/MH10 - Vi sinh - ký sinh trùng.md",
+    "Môn học/môn cơ sở/MH11 - Sinh học và Di truyền.md"
+  ]
+}

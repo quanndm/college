@@ -1,0 +1,39 @@
+[Desktop Entry]
+Name=Logseq (0.10.15)
+Exec=/home/quanndm/Applications/Logseq-linux-x64-0.10.15_f54d86c27de7fed1e8c93b65d7fcf7a4.AppImage %u
+Terminal=false
+Type=Application
+Icon=appimagekit_d90c6cc7c7c18fabff067b57747cba26_Logseq
+StartupWMClass=Logseq
+X-AppImage-Version=0.10.15
+Comment=A privacy-first, open-source platform for knowledge management and collaboration.
+MimeType=x-scheme-handler/logseq
+Categories=Utility
+
+TryExec=/home/quanndm/Applications/Logseq-linux-x64-0.10.15_f54d86c27de7fed1e8c93b65d7fcf7a4.AppImage
+X-AppImage-Old-Icon=Logseq
+X-AppImage-Old-Name=Logseq
+X-AppImage-Identifier=d90c6cc7c7c18fabff067b57747cba26
+Actions=AppImageLauncher-Remove-AppImage;
+X-AppImageLauncher-Version=3.0.0-beta-2 (git commit 96cb937), built on 2025-10-28 22:31:15 UTC
+
+[Desktop Action AppImageLauncher-Remove-AppImage]
+Name=Delete this AppImage
+Icon=AppImageLauncher
+Exec=/opt/appimagelauncher.AppDir/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/quanndm/Applications/Logseq-linux-x64-0.10.15_f54d86c27de7fed1e8c93b65d7fcf7a4.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=Dieses AppImage löschen
+Name[en]=Delete this AppImage
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer cette AppImage
+Name[it]=Rimuovi questa AppImage
+Name[ko]=이 AppImage 삭제
+Name[nb_NO]=Slett AppImage
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_BR]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage
+Name[tr]=Bu AppImage uygulamasını sil
+Name[zh_Hans]=删除此 AppImage

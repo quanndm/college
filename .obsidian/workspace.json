@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8bab2c3b08cf1cf5",
+        "id": "52edaebfc37aeaf5",
         "type": "tabs",
         "children": [
           {
-            "id": "071a5fed7f716c50",
+            "id": "36ca02e456805d0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH16. Điều dưỡng cơ sở - Cấp cứu ban đầu/Chưa đặt tên.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "Chưa đặt tên"
             }
           }
         ]
@@ -178,42 +182,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "071a5fed7f716c50",
+  "active": "36ca02e456805d0f",
   "lastOpenFiles": [
-    "Môn học/môn cơ sở/MH09 - Hóa sinh.md",
-    "Môn học/môn cơ sở/⛔ MH18 - Kỹ năng giao tiếp – Giáo dục sức khỏe.md",
-    "Môn học/môn cơ sở/appimagekit_d90c6cc7c7c18fabff067b57747cba26-Logseq.desktop",
+    "Môn học  (nháp)/môn cơ sở/MH16 - Điều dưỡng cơ sở - Cấp cứuban đầu.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH16. Điều dưỡng cơ sở - Cấp cứu ban đầu/Chưa đặt tên.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH14. Dược lý/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Môn học  (nháp)/môn cơ sở/MH14 - Dược lý.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH13. Bệnh học cơ sở/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Môn học  (nháp)/môn cơ sở/MH13 - Bệnh học cơ sở.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Môn học  (nháp)/môn cơ sở/MH12 - Xác suất, thống kê Y.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Môn học  (nháp)/môn cơ sở/MH11 - Sinh học và Di truyền.md",
+    "Môn học  (nháp)/môn cơ sở/MH10 - Vi sinh - ký sinh trùng.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Môn học  (nháp)/môn cơ sở/MH09 - Hóa sinh.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Môn học  (nháp)/môn cơ sở/MH08  -Hóa học - Vật lý đại cương và Lý sinh.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Môn học  (nháp)/môn cơ sở/MH07 - Giải phẫu Sinh lý.md",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH43. PHCN dựa vào cộng đồng",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH42. Dinh dưỡng tiết chế",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/Chưa đặt tên/Chưa đặt tên",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH39. Thực tập tốt nghiệp",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH34. Bệnh lý và VLTL hệ da - tiêu hóa - sinh dục - nội tiết",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH31. Bệnh lý và PHCN hệ Tim mạch - Hô hấp (I & II)",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH30. Bệnh lý và VLTL hệ thần kinh cơ (I & II)",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH29. Bệnh lý và VLTL hệ cơ xương (I & II)",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH28. Thử cơ và đo tầm hoạt động",
+    "Kỹ thuật Phục hồi chức năng/00. Quản lý & Thực tập/Đề cương & Quy chế.md",
+    "Kỹ thuật Phục hồi chức năng/00. Quản lý & Thực tập/Nhật ký thực tập bệnh viện.md",
+    "Kỹ thuật Phục hồi chức năng/00. Quản lý & Thực tập/Chuẩn bị tốt nghiệp.md",
+    "README.md",
+    "Môn học  (nháp)/môn cơ sở/⛔ MH18 - Kỹ năng giao tiếp – Giáo dục sức khỏe.md",
     "Môn học/môn cơ sở/Chưa đặt tên.md",
-    "Môn học/môn cơ sở/MH07 - Giải phẫu Sinh lý.md",
-    "Chưa đặt tên.md",
-    "Môn học/môn cơ sở/MH19 - Y học cổ truyền và dưỡng sinh.md",
-    "Môn học/môn cơ sở/MH08  -Hóa học - Vật lý đại cương và Lý sinh.md",
-    "journals/2026_06_15.md",
-    "assets",
-    "Chưa đặt tên.base",
-    "Ghi chú tổng quan/timeline.md",
-    "pages/contents.md",
-    "Ghi chú tổng quan",
-    "logseq/custom.css",
-    "pages",
-    "logseq/config.edn",
-    "journals",
-    "logseq",
-    "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
-    "Môn học/môn chuyên ngành/MH24 - Lượng giá chức năng vận động.md",
-    "Môn học/môn chuyên ngành/MH23 - Vận động trị liệu I.md",
-    "Môn học/môn chuyên ngành/⛔MH22 - Giải phẫu chức năng hệ vận  động và thần kinh.md",
-    "Môn học/môn chuyên ngành/MH22 - Giải phẫu chức năng hệ vận động và thần kinh.md",
-    "Môn học/môn chuyên ngành/MH19 - Nghiên cứu khoa học.md",
-    "Môn học/môn chuyên ngành/⛔ MH20 -  Quản lý khoa+phòng VLTL.md",
-    "Môn học/môn chuyên ngành/⛔ MH21 - Quá trình phát triển con người.md",
-    "Môn học/môn chuyên ngành",
-    "Môn học/môn cơ sở/MH17 - Tâm lý - Y đức – Tổ chức y tế.md",
-    "Môn học/môn cơ sở/MH16 - Điều dưỡng cơ sở - Cấp cứuban đầu.md",
-    "Môn học/môn cơ sở/MH14 - Dược lý.md",
-    "Môn học/môn cơ sở/MH13 - Bệnh học cơ sở.md",
-    "Môn học/môn cơ sở/MH12 - Xác suất, thống kê Y.md",
-    "Môn học/môn cơ sở/MH10 - Vi sinh - ký sinh trùng.md",
-    "Môn học/môn cơ sở/MH11 - Sinh học và Di truyền.md"
+    "Môn học  (nháp)/môn cơ sở/MH19 - Y học cổ truyền và dưỡng sinh.md",
+    "journals/2026_06_15.md"
   ]
 }

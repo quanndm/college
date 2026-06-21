@@ -243,15 +243,3 @@ Cách học chuẩn:
 - Học rời rạc từng môn
 
 ---
-
-## 🚀 7. Nếu bạn muốn đi xa hơn (pro level)
-
-Bạn có background IT → tận dụng:
-
-- Làm:
-    - app ghi chú bệnh
-    - flashcard riêng
-- Hoặc:
-    - nghiên cứu khoa học (MH19)
-
-👉 Đây là cách bạn vượt top 1%

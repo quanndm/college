@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "34210cff42d09869",
+        "id": "c266baa37e489e90",
         "type": "tabs",
         "children": [
           {
-            "id": "e38aee685090c25c",
+            "id": "3ef5306c956d788c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ghi chú tổng quan/Lộ trình 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "Lộ trình 2"
             }
           }
         ]
@@ -178,11 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e38aee685090c25c",
+  "active": "3ef5306c956d788c",
   "lastOpenFiles": [
-    "Ghi chú tổng quan/timeline.md",
-    "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
     "Ghi chú tổng quan/Lộ trình.md",
+    "Ghi chú tổng quan/Lộ trình 2.md",
+    "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
+    "Ghi chú tổng quan/timeline.md",
     "pages/contents.md",
     "journals/2026_06_15.md",
     "README.md",
@@ -201,7 +206,6 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu",
     "Ghi chú tổng quan/templates",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
-    "Ghi chú tổng quan/Chưa đặt tên.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH18. Kỹ năng giao tiếp - Giáo dục sức khỏe/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH20. Quản lý khoa phòng VLTL/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH21. Quá trình phát triển con người/01. TÀI LIỆU & LINK THAM KHẢO.md",

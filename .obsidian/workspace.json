@@ -11,10 +11,14 @@
             "id": "0b5d553903a2f6a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ghi chú tổng quan/timeline demo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "timeline demo"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -179,10 +184,10 @@
   },
   "active": "0b5d553903a2f6a2",
   "lastOpenFiles": [
-    "Ghi chú tổng quan/Lộ trình 2.md",
     "Ghi chú tổng quan/Lộ trình.md",
+    "Ghi chú tổng quan/Lộ trình 2.md",
     "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
-    "Ghi chú tổng quan/timeline.md",
+    "Ghi chú tổng quan/timeline demo.md",
     "pages/contents.md",
     "journals/2026_06_15.md",
     "README.md",

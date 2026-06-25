@@ -1,7 +1,10 @@
 Học kỳ 1: Nền tảng Y sinh cơ bản (17 Tín chỉ)
 
+- học trước hóa đại cương 
+	- https://www.youtube.com/playlist?list=PLH6-bzUhLHVMzbNzyqBhC_5ydXEsq-Y0-
+
 - **Giải phẫu Sinh lý** (4 TC) (p. 2)
-- **Hóa sinh** (3 TC) (p. 2)
+- **Hóa sinh** (3 TC) (p. 2) 
 - **Hóa học - Vật lý đại cương & Lý sinh** (2 TC) (p. 2)
 - **Sinh học và Di truyền** (2 TC) (p. 2)
 - **Tâm lý - Y đức - Tổ chức y tế** (2 TC) (p. 2)

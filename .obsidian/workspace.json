@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -167,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,14 +184,19 @@
   },
   "active": "0b5d553903a2f6a2",
   "lastOpenFiles": [
+    "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
     "Ghi chú tổng quan/Lộ trình.md",
     "Ghi chú tổng quan/Lộ trình 2.md",
-    "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
     "Ghi chú tổng quan/timeline demo.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
+    "README.md",
     "pages/contents.md",
     "journals/2026_06_15.md",
-    "README.md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH17. Tâm lý - Y đức - Tổ chức y tế/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 1 -.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates/Template bài học lý thuyết.md",
@@ -205,18 +210,12 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu",
     "Ghi chú tổng quan/templates",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH18. Kỹ năng giao tiếp - Giáo dục sức khỏe/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH20. Quản lý khoa phòng VLTL/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH21. Quá trình phát triển con người/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH42. Dinh dưỡng tiết chế/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH22. Giải phẫu chức năng hệ vận động & thần kinh/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH25. Các phương pháp điều trị VLTL/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH26. Ngôn ngữ trị liệu/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH27. Xoa bóp trị liệu/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH28. Thử cơ và đo tầm hoạt động/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH29_37. Bệnh lý và VLTL hệ cơ xương (I & II)/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH30_32_36. Bệnh lý và VLTL hệ thần kinh cơ (I & II)/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH31_38. Bệnh lý và PHCN hệ Tim mạch - Hô hấp (I & II)/Nhật ký Thực tập Lâm sàng",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH30_32_36. Bệnh lý và VLTL hệ thần kinh cơ (I & II)/Nhật ký Thực tập Lâm sàng",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH29_37. Bệnh lý và VLTL hệ cơ xương (I & II)/Nhật ký Thực tập Lâm sàng"

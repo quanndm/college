@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67a3f1b4fa9b74ac",
+        "id": "c1114d570df9f56f",
         "type": "tabs",
         "children": [
           {
-            "id": "0b5d553903a2f6a2",
+            "id": "010a06ba6e625a6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ghi chú tổng quan/timeline demo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "timeline demo"
+              "title": "Tab mới"
             }
           }
         ]
@@ -166,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,12 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b5d553903a2f6a2",
+  "active": "73dce1809c619742",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH14. Dược lý/DUOC-LY-1.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/GIAI-PHAU-SINH-LY.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Ghi chú tổng quan/timeline demo.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/1_GIAO TRINH GIAI PHAU SINH LY.pdf",
     "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
     "Ghi chú tổng quan/Lộ trình.md",
     "Ghi chú tổng quan/Lộ trình 2.md",
-    "Ghi chú tổng quan/timeline demo.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
@@ -215,9 +214,6 @@
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH21. Quá trình phát triển con người/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH_Tuchon. Tự chọn/MH42. Dinh dưỡng tiết chế/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH22. Giải phẫu chức năng hệ vận động & thần kinh/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH25. Các phương pháp điều trị VLTL/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH31_38. Bệnh lý và PHCN hệ Tim mạch - Hô hấp (I & II)/Nhật ký Thực tập Lâm sàng",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH30_32_36. Bệnh lý và VLTL hệ thần kinh cơ (I & II)/Nhật ký Thực tập Lâm sàng",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH29_37. Bệnh lý và VLTL hệ cơ xương (I & II)/Nhật ký Thực tập Lâm sàng"
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH31_38. Bệnh lý và PHCN hệ Tim mạch - Hô hấp (I & II)/Nhật ký Thực tập Lâm sàng"
   ]
 }

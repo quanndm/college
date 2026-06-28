@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73dce1809c619742",
+  "active": "0b5d553903a2f6a2",
   "lastOpenFiles": [
     "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
     "Ghi chú tổng quan/Lộ trình.md",

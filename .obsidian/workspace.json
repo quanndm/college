@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c1114d570df9f56f",
+        "id": "6425f43b8e48cbd3",
         "type": "tabs",
         "children": [
           {
-            "id": "010a06ba6e625a6f",
+            "id": "4577353ff6ac4ba1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/CÂU HỎI ÔN TẬP MÔN SINH HỌC DI TRUYỀN (4.26).pdf"
+                "file": "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CÂU HỎI ÔN TẬP MÔN SINH HỌC DI TRUYỀN (4.26)"
+              "title": "CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "010a06ba6e625a6f",
+  "active": "4577353ff6ac4ba1",
   "lastOpenFiles": [
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/SINH-HOC-DI-TRUYEN.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/CÂU HỎI ÔN TẬP MÔN SINH HỌC DI TRUYỀN (4.26).pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/SINH-HOC-DI-TRUYEN.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/VI-SINH---KY-SINH-TRUNG.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH14. Dược lý/DUOC-LY-1.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/GIAI-PHAU-SINH-LY.pdf",

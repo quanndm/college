@@ -5,7 +5,7 @@ Kho lưu trữ và hệ thống hóa kiến thức, bài giảng, tài liệu th
 > **Mục tiêu**: Tích lũy đủ 93 tín chỉ chuyên ngành | Quản lý lộ trình học tập và đi lâm sàng.
 
 ---
-
+class code (name): 26K3PHCN01B
 ## 🗺️ Danh sách môn học chính
 
 ### 📑 1. Cơ Sở Ngành

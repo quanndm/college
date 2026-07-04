@@ -174,4 +174,61 @@ Là lớp biểu mô lát tầng dày từ 0,07 - 2,5 mm, chủ yếu gồm các
 ![[Da_2.png]]
 
 #### 1.2 Trung bì
+- Nằm dưới lớp thượng bì và ngăn cách với nhau bởi màng đáy ngoằn ngoèo.
+- Dày 1 - 2 mm, là mô liên kết làm nhiệm vụ dinh dưỡng cho biểu bì, được chia thành 2 lớp: **lớp nhú, lớp lưới**
+##### 1.2.1 Lớp nhú 
+- Bề dày tùy vào vùng da, gan bàn tay, bàn chân lớp nhú rất cao nhưng ở da mặt thì hầu như lại không có.
+- Là mô liên kết chứa nhiều sợi chun, sợi collagen, mạch máu, bạch huyết, tận cùng thần kinh, các tuyến và cơ trơn.
+- Các tuyến, các bó cơ trơn, lớp nhú làm nhiệm vụ dinh dưỡng cho lớp biểu bì.
+##### 1.2.2 Lớp lưới 
+- Là mô liên kết chứa sợi collagen dầy đặc, mạch máu, thần kinh và các phần phụ của da (như cơ dựng lông bám vào nang lông).
+- Phần lớn các phần phụ của da đều nằm ở lớp này
+
+
+#### 1.3 Hạ bì 
+- Nằm dưới lớp lưới của trung bì và ngăn với tổ chức dưới nó bởi lớp cân nông.
+- Là tổ chức liên kết lỏng lẻo nằm dưới cùng, chứa nhiều mô mỡ, mạch máu, tiểu cầu mồ hôi và các thụ cảm thể thần kinh. Đây là nơi dự trữ mỡ lớn nhất và tham gia điều hòa thân nhiệt.
+![[Da_3.png]]
+
+### 2. Các phần phụ của tuyến da
+Gồm **tuyến mồ hôi, tuyến bã, tuyến vú, lông tóc, móng.**
+#### 2.1 Tuyến mồ hôi
+- Có khoảng 2 triệu tuyến khắp cơ thể (nhiều nhất ở nách, trán, gan bàn tay/chân - có đến 300 tuyến/1cm2).
+- Hoạt động từ tháng thứ 2 sau sinh giúp điều hòa thân nhiệt.
+- Cấu tạo gồm:
+	- **Tiểu cầu mồ hôi**: là hệ thống ống cuộn lại tạo thành khối cầu.
+	- **Ống tiết**: xuyên qua các lớp của biểu bì để đào thải mô hôi ra ngoài.
+![[tuyen_mo_hoi.png]]
+#### 2.2 Tuyến bã 
+- Tập trung ở mặt, da đầu, lưng (không có ở gan bàn tay/chân)
+- Cấu tạo gồm: **túi tuyến và ống tuyến**
+	 - Túi tuyến: tiết ra chất bã đổ vào ống tuyến
+	 - Ống tuyến: dẫn chất bã đổ ra bề mặt cơ thể và các nang lông.
+- Chất bã có tác dụng làm cho da mềm và không thấm nước, ngăn cản tác động cùa nhiều chất hóa học và vi khuẩn để bảo vệ da.
+#### 2.3 Tuyến sữa 
+- Là dạng đặc biệt của tuyến mồ hôi, chỉ phát triển ở động vật có vú và giống cái.
+- gồm 2 tuyến nằm dưới lớp trung bì, phát triển cùng chức năng sinh dục và thai kỳ
+ ![[tuyen_sua_1.png|411]]
+#### 2.4 Lông tóc
+- Xuất hiện từ tháng thứ 5 của phôi thai.
+- Cấu tạo gồm: **nang lông** (sinh tế bào sừng tạo lông), **chân lông** (nằm trong nang) và **thân lông** (phần mọc ra ngoài).
+	- Nang lông: nằm sâu trong da, có các tế bào thượng bì có nhiệm vụ sinh ra các lớp tế bào sừng, nén lại và tạo thành lông.
+	- Chân lông: nằm trong nang lông.
+	- Thân lông: là phần mọc ra ngoài trên bề mặt da, gồm nhiều lớp tế bào sừng nén lại với nhau 
+![[long_toc.png|404]]
+
+#### 2.5 Móng
+- Là tấm sừng ở mu đầu ngón tay/chân, gồm 1 bờ tự do và 3 bờ được mép da phủ.
+![[Mong_1.png]]
+![[mong_2.png]]
+
+
+
+### 3. Chức năng của da 
+
+
+
+
+
+
 

@@ -73,3 +73,4 @@ class code (name): 26K3PHCN01B
 
 ## ✍️ Nhật Ký Cập Nhật (Changelog)
 * `15/06/2026`: Init project Logseq + obsidian
+* `04/07/2026`: remove logseq

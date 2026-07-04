@@ -9,7 +9,7 @@
     
 4. **Sự phối hợp cơ (Muscle Coordination):** Mỗi động tác của cơ thể không bao giờ do một cơ độc lập thực hiện mà là sự phối hợp của một nhóm cơ, bao gồm **Cơ chủ vận (Agonist)**, **Cơ đối vận (Antagonist)**, và **Cơ hiệp đồng (Synergist)**.
     
-5. **Cấu trúc bắp cơ:** Một bắp cơ điển hình tối thiểu phải gồm có cấu tạo cơ bản: **1 Bụng cơ và 2 đầu**. Trong đó **Bụng cơ (Muscle belly)** là phần thịt phình to chứa các sợi cơ có khả năng co giãn, và hai đầu là **Gân (Tendon)** – các mô sợi dai giúp đính cơ vào xương (gân không có tính co giãn như bụng cơ).
+5. **Cấu trúc bắp cơ:** Một bắp cơ điển hình tối thiểu phải gồm có cấu tạo cơ bản: **1 Bụng/thân cơ và 2 đầu**. Trong đó **Bụng cơ (Muscle belly)** là phần thịt phình to chứa các sợi cơ có khả năng co giãn, và hai đầu là **Gân (Tendon)** – các mô sợi dai giúp đính cơ vào xương (gân không có tính co giãn như bụng cơ).
 	- **Cơ nhị đầu, tam đầu, tứ đầu:** Tên gọi này dựa trên số lượng đầu nguyên ủy (đầu bám cố định) của cơ đó. Ví dụ, cơ nhị đầu (biceps) có 2 đầu nguyên ủy tách biệt nhưng cùng chung nhau 1 bụng cơ và 1 đầu bám tận; cơ tam đầu (triceps) có 3 đầu nguyên ủy; cơ tứ đầu (quadriceps) có 4 đầu nguyên ủy. Tất cả các đầu này sau đó hợp lại để tạo thành hành khối cơ thống nhất.
     
 6. **Mạc cơ (Fascia):** Đây là các màng mô liên kết bao bọc xung quanh từng sợi cơ, bó cơ và toàn bộ bắp cơ. Chúng giúp định hình bắp cơ, bảo vệ và giảm ma sát khi các cơ trượt lên nhau khi chuyển động.

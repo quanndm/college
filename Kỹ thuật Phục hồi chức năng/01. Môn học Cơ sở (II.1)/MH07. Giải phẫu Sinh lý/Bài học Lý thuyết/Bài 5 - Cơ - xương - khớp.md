@@ -1,4 +1,4 @@
-# Cơ 
+# Hệ Cơ 
 ## 10 Nguyên lý cơ bản về Hệ cơ xương (Skeletal Muscular System)
 
 1. **Nguyên ủy (Origin) và Bám tận (Insertion):** Đầu gần tâm cơ thể (hoặc đầu bám vào xương ít di động khi co cơ) gọi là **Nguyên ủy**. Ngược lại, đầu xa tâm (hoặc bám vào xương di động nhiều hơn) gọi là **Bám tận**.
@@ -41,5 +41,29 @@
 ![[co_1.jpeg]]
 ![[co_2.jpeg]]
 ![[co_3.jpeg]]
+
+
+# Hệ Khớp 
+## 1. Phân loại 
+- Các xương tiếp khớp với nhau tạo thành bộ xương, vị trí xương tiếp nối với nhau gọi là khớp xương. Có 3 loại khớp:
+	- **Khớp bất động:** khớp xương sọ.
+	- **Khớp bán động:** khớp đốt sống, khớp cùng chậu.
+	- **Khớp động:** Các khớp ở chân và tay.
+
+## 2. Cấu tạo khớp 
+- Mỗi khớp động có 3 phần: **mặt khớp, bao khớp và ổ khớp.**
+### 2.1 Mặt khớp 
+- được bao phủ một lớp sụn, mỗi khớp có hình thể khác nhau tùy vào mỗi khớp. Thường có 2 mặt đối lập nhau, mặt lồi và mặt lõm.
+### 2.2 Bao khớp 
+- nối các đầu xương với nhau, cấu tạo gồm có:
+	- **Lớp ngoài:** lớp xơ
+	- **Lớp trong:** bao hoạt dịch.
+	- **Dây chằng:** tăng cường phía ngoài bao khớp.
+
+### 2.3 Ổ khớp 
+- là khe kẽ giới hạn bởi bao khớp và sụn khớp, trong ổ khớp có dịch do bao hoạt dịch tiết ra làm giảm ma sát khi khớp cử động.
+![[khop.png|485]]
+
+# Hệ xương 
 
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a00fac8a2496148",
+        "id": "2e2b719aaec6c768",
         "type": "tabs",
         "children": [
           {
-            "id": "2e68c53937b9ba05",
+            "id": "4aceeed5a7874abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Cơ - xương - khớp.md",
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 4 - Mô.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài 5 - Cơ - xương - khớp"
+              "title": "Bài 4 - Mô"
             }
           }
         ]
@@ -181,12 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e68c53937b9ba05",
+  "active": "4aceeed5a7874abb",
   "lastOpenFiles": [
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Cơ - xương - khớp.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/Pasted image 20260704122147.png",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/Pasted image 20260704122225.png",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 4 - Mô.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Hình ảnh tham khảo /co_2.jpeg",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/Pasted image 20260704122257.png",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Hình ảnh tham khảo /co_3.jpeg",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Hình ảnh tham khảo /co_1.jpeg",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Hình ảnh tham khảo /co_2.jpeg",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Baigiang GPSLcaodang.pdf",
@@ -219,7 +223,6 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates/Template lý thuyết cơ sở.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates/Template case lâm sàng.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates/Template thực hành.md",
-    "MH18. Kỹ năng giao tiếp - Giáo dục sức khỏe.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH18. Kỹ năng giao tiếp - Giáo dục sức khỏe/01. TÀI LIỆU & LINK THAM KHẢO.md"
+    "MH18. Kỹ năng giao tiếp - Giáo dục sức khỏe.md"
   ]
 }

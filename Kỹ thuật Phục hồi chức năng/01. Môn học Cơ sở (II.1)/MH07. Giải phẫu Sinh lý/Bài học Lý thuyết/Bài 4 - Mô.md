@@ -225,10 +225,39 @@ Gồm **tuyến mồ hôi, tuyến bã, tuyến vú, lông tóc, móng.**
 
 
 ### 3. Chức năng của da 
+#### 3.1 Chức năng bảo vệ 
+- bảo vệ các cơ quan bên trong như mạch máu, thần kinh, cơ, xương và các yếu tố cơ học, lý hóa học và sinh học 
 
+#### 3.2 Điều hòa thân nhiệt 
+- Thông qua cơ chế ra mồ hôi và phản ứng vận mạch. Giúp tăng cường hay hạn chế nước bay hơi qua da, giúp ổn định thân nhiệt.
 
+#### 3.3 Bài tiết 
+- Thông qua bài tiết mồ hôi, chất tiết của tuyến bã và tuyến sữa.
 
+#### 3.4 Dự trữ và chuyển hóa 
+- Chứa 9% nước của cơ thể, dự trữ muối,
+- Dưới tác dụng của tia cực tím cholesteron dưới da được chuyển hoá thành vitamin D cần thiết cho sự hấp thu chất Ca+2 ở xương.
+- Tỷ lệ glucose tự do trong da thường bằng 2/3 đường huyết. Khi tỷ lệ này tăng cao, thường dễ bị ngứa, nhiễm vi khuẩn, nấm...
+- Da chứa rất nhiều loại men như oxydase, protease, hyaluronidase các men này tham gia  vào sự chuyển hoá chất trong cơ thể hoặc ngăn cản tác động của vi sinh vật hoặc nấm xâm nhập vào cơ thể.
 
+#### 3.5 Tạo Keratin và Melanin 
+- Tế bào sừng chiếm phần lớn các tế bào biểu bì, chúng luôn được sừng hoá và biệt hoá, được đẩy dần từ lớp tế bào mầm ở màng đáy lên lớp bề mặt.
+- Tế bào sắc tố (melanocyte): tổng hợp ra sắc tố melanin bảo vệ cơ thể.
 
+#### 3.6 Cảm giác 
+- Nhờ có các thụ cảm thể nhận cảm ở da mà có thể nhận biết xúc giác, đau, nóng, lạnh để tránh yếu tố có hại, giúp cơ thể thích nghi được với ngoại cảnh.
 
+#### 3.7 Miễn dịch 
+- Liên quan đến miễn dịch tế bào nhờ tế bào Langerhans và lympho T.
 
+#### 3.8 Ngoại hình 
+- Tạo hình thái và thẩm mỹ cho cơ thể.
+
+#### 3.9 Sự liên quan giữa da và nội tạng
+ - Da là nơi phản ánh nhiều rối loạn và tổn thương bên trong nội tạng.
+	 - Bệnh gan, mật biểu hiện vàng da và niêm mạc.
+	 - Rối loạn thiểu năng tuyến yên, giáp trạng có thể gây biến đổi ở da, rụng, tóc, móng.
+	 - Thiếu sinh tố có thể gây nhiều biến đổi đặc hiệu trên da.
+ - Tổn thương da có thể ảnh hưởng sâu sắc đến nội tạng đến sức khoẻ chung.
+	 - Bệnh da ngứa mạn tính có thể ảnh hưởng đến thần kinh trung ương, gây suy nhược thần kinh.
+	 - Mụn nhọt, nhiễm trùng da có thể gây nhiễm khuẩn huyết, viêm cầu thận cấp nguy hiểm.

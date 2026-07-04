@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ce6f4169647aad6e",
+        "id": "94092ea00f50b13c",
         "type": "tabs",
         "children": [
           {
-            "id": "76750e6b7b7410f5",
+            "id": "7644085504384c82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 3 - Ngoại môi - Nội môi.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bài 3 - Ngoại môi - Nội môi"
+              "title": "Tab mới"
             }
           }
         ]
@@ -166,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76750e6b7b7410f5",
+  "active": "7644085504384c82",
   "lastOpenFiles": [
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 3 - Ngoại môi - Nội môi.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Baigiang GPSLcaodang.pdf",

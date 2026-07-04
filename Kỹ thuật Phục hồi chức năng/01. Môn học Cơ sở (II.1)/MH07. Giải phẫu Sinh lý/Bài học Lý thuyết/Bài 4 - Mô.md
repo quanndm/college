@@ -1,8 +1,8 @@
 ## I. Khái niệm 
 
-**Mô** là một tổ chức gồm các **tế bào** và **chất gian bào** (chất nằm giữa các tế bào), có cùng một **cấu trúc**, **nguồn gốc** và cùng thực hiện một **chức năng** nhất định.
+- **Mô** là một tổ chức gồm các **tế bào** và **chất gian bào** (chất nằm giữa các tế bào), có cùng một **cấu trúc**, **nguồn gốc** và cùng thực hiện một **chức năng** nhất định.
 
-Trong cơ thể con người, các tế bào không tồn tại biệt lập mà kết hợp với nhau thành các mô để cùng thực hiện các nhiệm vụ chuyên hóa (ví dụ: mô cơ giúp co duỗi và vận động, mô thần kinh giúp truyền dẫn thông tin...).
+- Trong cơ thể con người, các tế bào không tồn tại biệt lập mà kết hợp với nhau thành các mô để cùng thực hiện các nhiệm vụ chuyên hóa (ví dụ: mô cơ giúp co duỗi và vận động, mô thần kinh giúp truyền dẫn thông tin...).
 
 ## II. Phân loại 
 
@@ -108,10 +108,70 @@ Mô cơ trong cơ thể được chia làm 3 loại chính dựa vào cấu tạ
 
 
 ### 4. Mô thần kinh 
+#### 4.1 Khái niệm 
+ - Mô thần kinh được cấu tạo bởi các **tế bào thần kinh**.
+ - Chức năng chính: Chỉ huy và thống nhất các hoạt động của toàn bộ cơ thể.
 
+#### 4.2 Cấu tạo 
+Mô thần kinh bao gồm 3 thành phần cấu trúc chính:
+- **Tế bào thần kinh** 
+- **Sợi thần kinh** 
+- **Tận cùng thần kinh (Si náp / Synapse)**
 
+##### 4.2.1 Tế bào thần kinh 
+- **Tế bào thần kinh chính thức (Neuron):** Là đơn vị cấu trúc và chức năng chính, mỗi neuron gồm 2 phần:
+	- **_Thân:_** Có hình sao, chứa nhân bên trong. Thân là nơi tiếp nhận và phân tích các xung động thần kinh.
+	- **_Các nhánh:_** Gồm **sợi trục** (axone) và **đuôi gai** (dendrid).
 
+- **Tế bào thần kinh đệm:** Là những tế bào vệ tinh bao quanh neuron, có tác dụng **chống đỡ** và **dinh dưỡng** cho các tế bào thần kinh chính thức.
+##### 4.2.2 Sợi thần kinh 
+Bản chất là các nhánh của **neuron** kéo dài ra, được chia làm 3 loại chính dựa trên màng bọc:
+- **_Sợi trần:_** Hoàn toàn không có màng bọc bảo vệ.
+- **_Sợi không có myelin:_** Chỉ được bọc bên ngoài bởi một lớp gọi là bao Schwann.
+- **_Sợi có myelin:_** Bao myelin bọc sát ngay sợi trục , trên đường đi có những đoạn thắt lại gọi là **vòng thắt Ranvier (eo Ranvier)** , bên ngoài cùng vẫn là bao Schwann.
+- **_Tổ chức:_** Các sợi thần kinh tập hợp lại tạo thành các bó sợi , và nhiều bó sợi tập hợp lại sẽ tạo nên một **dây thần kinh** (được bọc ngoài bởi bao dây thần kinh).
+
+##### 4.2.3 Tận cùng thần kinh (Si náp / Synapse)
+- **Khái niệm:** Si náp chính là **điểm tiếp xúc** giữa các **neuron** với nhau.
+- **Cơ chế:** Các tận cùng sợi trục của neuron này sẽ tiếp xúc trực tiếp với đầu tận cùng của đuôi gai hoặc thân của neuron tiếp theo để truyền tín hiệu.
+- **Phân loại:** Gồm **tận cùng cảm giác** và **tận cùng vận động**.
+![[Mo_10.png]]
 
 
 ## III. Da
+- Có nhiệm vụ che phủ toàn bộ mặt ngoài cơ thể và chống lại các tác nhân cơ học, lý hóa học và sinh học có hại từ bên ngoài
+### 1. Cấu tạo 
+- Da có diện tích khoảng $1,2 - 2 \text{ m}^2$, chiếm 26% trọng lượng cơ thể. Chiều dày của da thay đổi từ 0,5 - 4 mm và gồm 3 lớp chính: biểu bì (thượng bì), trung bì và hạ bì.
+![[Da_1.png]]
+#### 1.1 Biểu bì (Thượng bì)
+Là lớp biểu mô lát tầng dày từ 0,07 - 2,5 mm, chủ yếu gồm các **tế bào sừng (keratinocyte)** tiến triển từ dưới lên qua 5 lớp tế bào: **mầm, gai, hạt, bóng và sừng.**
+
+##### 1.1.1 Lớp tế bào mầm
+- Nằm dưới cùng trên màng đáy, hình trụ hoặc hình vuông, có khả năng phân chia sinh sản(tb điển hình có nhân, nhiễm sắc thể). 
+- Xen kẽ là các **tế bào sắc tố (melanocyte)** tiết ra melanin bảo vệ cơ thể.
+- Tỷ lệ| tế bào sắc tố so với tế bàọ mầm khoảng $\dfrac{1}{4}$ - $\dfrac{1}{12}$ tùy vàọ từng vùng của cơ thể.
+##### 1.1.2 Lớp tế bào gai 
+- Nằm ngay phía trên lớp tế bào mầm, có độ dày từ 5 đến 10 lớp tế bào.
+- Các tế bào ở lớp này có hình đa diện và trên bề mặt có các nhú gai nhô ra để liên kết chặt chẽ với nhau.
+- Tế bào lớp gai cũng có khả năng sinh sản bằng gián phân như tế bào mầm (khoảng 20 ngày biểu bì lại được đổi mới 1 lần).
+##### 1.1.3 Lớp tế bào hạt 
+- Nằm phía trên lớp tế bào gai, gồm từ 3 đến 4 lớp tế bào dẹt.
+- Trong bào tương của chúng xuất hiện nhiều hạt sừng, được gọi là hạt **_keratohyalin_**.
+
+##### 1.1.4 Lớp tế bào bóng 
+- Gồm từ 3 đến 4 lớp tế bào dẹt. Tại lớp này, các tế bào đã bị mất nhân, lưới nội bào và các ty thể.
+- Các hạt **keratohyalin** cũng được thay thế bằng hạt **êlêidin**.
+- Lớp tế bào bóng thường chỉ quan sát thấy rõ ở những vùng da dày (ví dụ như ở gan bàn tay, gan bàn chân).
+
+##### 1.1.5 Lớp tế bào sừng 
+- Là lớp nằm ở vị trí trên cùng của biểu bì, tiếp xúc trực tiếp với môi trường.
+- Các tế bào lúc này bị dẹt hoàn toàn, mất hết nhân cùng các cơ quan nội bào, chỉ còn lại các sợi sừng _keratin_ xếp chồng chất lên nhau.
+- Lớp này luôn có hiện tượng bong ra một cách tự nhiên hàng ngày (tạo thành tế bào chết/ghét trên da).
+
+**Các tế bào khác trong biểu bì:**
+- Bên cạnh các tế bào sừng và tế bào sắc tố, trong cấu trúc biểu bì còn xuất hiện các **tế bào Langerhans** – đóng vai trò quan trọng trong việc tham gia vào hệ thống miễn dịch bảo vệ cơ thể.
+- Ngoài ra còn có các **tế bào Meckel** – các tế bào chuyên hóa đảm nhận chức năng thu nhận cảm giác cho da.
+![[Da_2.png]]
+
+#### 1.2 Trung bì
 

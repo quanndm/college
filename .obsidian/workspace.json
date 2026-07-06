@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "be44e05e04cc8657",
+        "id": "ccc34cd645e068f4",
         "type": "tabs",
         "children": [
           {
-            "id": "5cb1e6221be8544d",
+            "id": "66f11462a6a65d47",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/CÂU HỎI ÔN TẬP MÔN SINH HỌC DI TRUYỀN (4.26).pdf"
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/SINH-HOC-DI-TRUYEN.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CÂU HỎI ÔN TẬP MÔN SINH HỌC DI TRUYỀN (4.26)"
+              "title": "SINH-HOC-DI-TRUYEN"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cb1e6221be8544d",
+  "active": "66f11462a6a65d47",
   "lastOpenFiles": [
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/SINH-HOC-DI-TRUYEN.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/CÂU HỎI ÔN TẬP MÔN SINH HỌC DI TRUYỀN (4.26).pdf",

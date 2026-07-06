@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37d61511785716ad",
+        "id": "be44e05e04cc8657",
         "type": "tabs",
         "children": [
           {
-            "id": "aba83b3f5461041e",
+            "id": "5cb1e6221be8544d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aba83b3f5461041e",
+  "active": "5cb1e6221be8544d",
   "lastOpenFiles": [
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 2 - Tế bào.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/te_bao_7.png",

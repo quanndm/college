@@ -65,5 +65,16 @@
 ![[khop.png|485]]
 
 # Hệ xương 
+## 1. Xương đầu mặt 
+
+## 2. Xương thân mình 
+
+
+## 3. Xương chi trên 
+
+
+## 4. Xương chi dưới 
+
+
 
 

@@ -2,7 +2,7 @@
 
 Kho lưu trữ và hệ thống hóa kiến thức, bài giảng, tài liệu tham khảo trong suốt quá trình học tập hệ Cao đẳng ngành Phục hồi chức năng / Vật lý trị liệu.
 
-> **Mục tiêu**: Tích lũy đủ 93 tín chỉ chuyên ngành | Quản lý lộ trình học tập và đi lâm sàng.
+> **Mục tiêu**: Tích lũy đủ 98 tín chỉ chuyên ngành | Quản lý lộ trình học tập và đi lâm sàng.
 
 ---
 class code (name): 26K3PHCN01B

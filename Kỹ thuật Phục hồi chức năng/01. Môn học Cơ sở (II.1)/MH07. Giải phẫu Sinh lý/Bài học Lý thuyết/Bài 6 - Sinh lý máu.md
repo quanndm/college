@@ -56,16 +56,44 @@
 	- **Chuyển động kiểu amip:** N và M có khả năng chuyển động bằng chân giả, tốc độ khoảng 40 mm/ phút
 	- **Hóa ứng và nhiệt ứng:** vi khuân hoặc các sản phẩm của ổ viêm thu hút (lôi kéo) bạch cầu tới gọi là hóa ứng (+), xua đuổi bạch cầu là hóa ứng (-). Ví dụ: sát khuẩn hoặc nhỏ ôxy già. Hiện tượng nhiệt ứng cũng giống như hóa ứng.
 - **Chức năng:** * **N** và **M**: Thực bào (Phagocytosis) tiêu diệt vi khuẩn
-
+	- Có một số vi khuẩn men của Lysosom không tiêu diệt được (vi khuẩn lao), vi khuẩn tồn tại được và diệt lại bạch cầu gây ra bệnh mạn tính.
+	- Khả năng thực bào không phải là vô hạn: 1 N diệt được 5 - 20 vi khuẩn,1 M diệt được 100 vi khuẩn, sau đó bạch cầu chết.
+	- **E**: Tiết men tiêu diệt ký sinh trùng
+	- **B**: Tiết Heparin chống đông máu.
+	- **L (Lympho B và T)**: Sinh kháng thể (Antibodies) tạo miễn dịch.
 ### 3.3 Tiểu cầu 
-
-
-
+![[tieu_cau.png]]
+ - **Hình dạng & Số lượng:** Tế bào không nhân, hình đĩa , đường kính khoảng $4\ \mu\text{m}$, sinh ra từ các mảnh vỡ của mẫu tiểu cầu (Megakaryocyte) trong tủy xương. Số lượng: $250.000 - 300.000\text{/mm}^3$ máu.
+	 - **Tăng**: lao động, khi ăn uống, chảy máu, bệnh, Hodkin
+	 - **Giảm**: nhiễm độc, nhiễm xạ, xuất huyết, suy tủy...
+- **Chức năng:** Tham gia vào quá trình đông máu sinh lý (Hemostasis) và kích thích tái tạo tổ chức. Giảm tiểu cầu gây xuất huyết.
 
 ## 4. Nhóm máu (Blood groups)
+### 4.1 Phân loại (Hệ ABO)
+- Dựa vào kháng nguyên (Antigen) trên hồng cầu và kháng thể (Antibody) trong huyết tương:
+	- **Nhóm O:** Không có kháng nguyên; có kháng thể $\alpha$ và $\beta$.
+	- **Nhóm A:** Có kháng nguyên A; có kháng thể $\beta$.
+	- **Nhóm B:** Có kháng nguyên B; có kháng thể $\alpha$
+	- **Nhóm AB:** Có kháng nguyên A và B; không có kháng thể
 
-
+| Nhóm máu | Kháng nguyên (antigen) | Kháng thể(antibodies) |
+| -------- | ---------------------- | --------------------- |
+| O        | Không có               | $\alpha$ và $\beta$.  |
+| A        | A                      | $\beta$               |
+| B        | B                      | $\alpha$              |
+| AB       | A và B                 | Không có              |
+### 4.2 Nguyên tắc truyền máu  (Blood transfusion rules)
+- **_Cơ bản:_** Truyền cùng nhóm máu, không để kháng nguyên người cho gặp kháng thể đối kháng của người nhận.
+- **_Tối thiểu (khi truyền khác nhóm):_** Không để huyết tương người nhận chứa kháng thể chống lại kháng nguyên hồng cầu người cho (Sơ đồ: O truyền được cho tất cả; AB nhận được từ tất cả).
+- _Lưu ý khác nhóm:_ Không truyền quá $250\text{ ml}$, truyền thật chậm, chú ý hệ Rh (Rhesus factor).
+![[So_do_truyen_mau.png]]
 
 ## 5. Đông máu (Blood Coagulation / Clotting)
-
-
+- **Khái niệm:** Là quá trình chuyển máu từ thể lỏng sang thể đặc, thực chất là biến **Fibrinogen** (hòa tan) thành sợi **Fibrin** (không hòa tan) để tạo cục máu đông.
+- **3 Giai đoạn đông máu:**
+	- **_Giải phóng Thrombokinase (Thromboplastin):_** Khi mạch máu tổn thương, tiểu cầu/bạch cầu vỡ tạo Thrombokinase hoạt động, bắt đầu phát động cơ chế đông máu
+	- **_Tạo Thrombin:_** Thrombokinase cùng ion $Ca^{2+}$ biến Prothrombin (do gan sản xuất nhờ vitamin K) thành Thrombin hoạt động.
+	- **_Tạo Fibrin:_** Thrombin biến Fibrinogen thành các sợi Fibrin ôm chặt huyết cầu tạo thành cục máu đông.
+- **Hiện tượng sau đông máu:** Sau vài giờ, cục máu co lại tiết ra **huyết thanh (Serum)** (là huyết tương đã loại bỏ Fibrinogen). Sau 24 giờ, cục máu tan ra nhờ chất **Plasmin** do bạch cầu ái toan tiết ra (cần đề phòng chảy máu thứ phát).
+![[so_do_tom_tat_co_che_dong_mau.png]]
+![[mau_yeu_to_thanh_mach.png]]

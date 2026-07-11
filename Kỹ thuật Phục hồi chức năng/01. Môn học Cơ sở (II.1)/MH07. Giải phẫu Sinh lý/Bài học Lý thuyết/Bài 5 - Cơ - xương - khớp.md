@@ -65,7 +65,37 @@
 ![[khop.png|485]]
 
 # Hệ xương 
+**Cấu trúc và số lượng**
+- **Số lượng**: 206 đến 208 xương (ở người trưởng thành).
+- **Liên kết**: Tiếp khớp với nhau tạo thành khung xương vững chắc.
+- **Phân chia giải phẫu**:
+    - Xương đầu (khối xương sọ và xương mặt).
+    - Xương thân mình (cột sống, xương sườn, xương ức).
+    - Xương chi (chi trên, chi dưới, đai vai, đai chậu).
+
+**Chức năng cơ học**
+- **Nâng đỡ**: Làm trụ cột cơ học, định hình phom dáng cơ thể.
+- **Bảo vệ**: Tạo các khoang chứa cơ quan nội tạng, các hốc bảo vệ giác quan.
+- **Vận động**: Phối hợp hệ cơ và hệ thần kinh giúp cơ thể di chuyển.
+
+**Chức năng sinh lý (Bổ sung mới)**
+- **Tạo máu**: Tủy đỏ trong xương sản sinh hồng cầu, bạch cầu, tiểu cầu.
+- **Dự trữ**: Lưu trữ, điều hòa các khoáng chất thiết yếu (Canxi, Phốt pho).
+
 ## 1. Xương đầu mặt 
+- Gồm 22 xương chia làm hai phần là sọ và mặt.
+- Xương 23 là xương móng
+![[Xuong-so-nhin-truoc.png|645]]
+![[Xuong-so-nhin-ben.png|645]]
+
+### 1.1 xương sọ 
+-  Có 8 xương: 
+	- xương đơn: xương trán(frontal bone), xương sàng, xương chẩm(Occipital bone), xương bướm 
+	- xương đôi: xương đỉnh(Parietal bone), xương thái dương(Temporal bone)
+
+
+### 1.2 xương mặt 
+
 
 ## 2. Xương thân mình 
 

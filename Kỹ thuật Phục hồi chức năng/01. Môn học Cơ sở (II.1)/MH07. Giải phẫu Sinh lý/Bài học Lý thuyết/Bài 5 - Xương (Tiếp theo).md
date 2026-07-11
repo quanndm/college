@@ -125,6 +125,12 @@
 - Kết hợp với mảnh thẳng đứng của xương sàng (_perpendicular plate of ethmoid bone_) để tạo nên **vách ngăn mũi (Nasal septum)**.
 
 ## 2. Xương thân mình 
+### 2.1 Xương cột sống (Columna vertebralis)
+
+### 2.2 Xương lồng ngực (Thorax)
+
+
+### 2.3 Xương chậu
 
 
 ## 3. Xương chi trên 

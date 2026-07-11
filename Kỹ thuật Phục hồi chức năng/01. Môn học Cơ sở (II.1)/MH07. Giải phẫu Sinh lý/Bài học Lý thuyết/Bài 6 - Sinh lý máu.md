@@ -17,4 +17,22 @@
 	- **_Hô hấp (Respiration):_** Vận chuyển $O_2$ từ phổi đến tế bào và mang $CO_2$ từ tế bào về phổi để đào thải(nhờ huyết sắc tố trong hồng cầu)
 	- **_Dinh dưỡng (Nutrition):_** Vận chuyển các chất dinh dưỡng sau tiêu hóa đến nuôi tế bào (hấp thu vào máu, máu vận chuyển nuôi tb)
 	- **_Đào thải (Excretion):_** Vận chuyển các chất cặn bã, sản phẩm chuyển hóa ($CO_2$, urê, $H_2O$) đến các cơ quan bài tiết(phổi, thận, tuyến mồ hôi).
-	- **_Bảo vệ cơ thể (Immunity / Defense):_** Thực bào vi khuẩn nhờ bạch cầu và sản xuất kháng thể nhờ bạch cầu lympho B
+	- **_Bảo vệ cơ thể (Immunity / Defense):_** Thực bào tiêu diệt vi khuẩn nhờ bạch cầu và sản xuất kháng thể (tạo khả năng miễn dịch) nhờ bạch cầu lympho B
+	- **_Điều hòa thân nhiệt (Thermoregulation):_** Giãn mạch ngoại vi để thải nhiệt khi nóng , co mạch ngoại vi để giữ nhiệt khi lạnh.
+	- **_Thống nhất cơ thể (Homeostasis):_** Điều hòa hoạt động cơ quan thông qua cơ chế thần kinh và thể dịch (Humoral regulation).
+
+
+## 3. Các loại huyết cầu (Blood cells)
+### 3.1 Hồng cầu (Erythrocytes / Red Blood Cells - RBC)
+
+
+### 3.2 Bạch cầu 
+
+
+### 3.3 Tiểu cầu 
+
+
+## 4. Nhóm máu (Blood groups)
+
+
+## 5. Đông máu (Blood Coagulation / Clotting)

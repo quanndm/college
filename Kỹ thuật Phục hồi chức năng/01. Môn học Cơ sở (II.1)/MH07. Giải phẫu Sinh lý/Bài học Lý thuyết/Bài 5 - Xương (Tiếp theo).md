@@ -21,7 +21,8 @@
 
 ![[Xuong-so-nhin-truoc.png|645]]
 ![[Xuong-so-nhin-ben.png|645]]
-
+![[Thiet-do-dung-doc-giua-600x463.png]]
+![[Mat-ngoai-nen-so-600x679.png]]
 ### 1.1 xương sọ 
 - **Có 8 xương:** 
 	- xương đơn: xương trán(frontal bone), xương sàng(ethmoid bone), xương chẩm(Occipital bone), xương bướm (sphenoid)
@@ -92,11 +93,36 @@
 		- **Xương hàm dưới**: Mandible (hoặc Mandibular bone)
 		- **Xương lá mía**: Vomer
 #### 1.2.1. Nhóm xương đôi
- - **Xương hàm trên (Maxilla)**
+- **Xương hàm trên (Maxilla)**
 	- Là xương lớn nhất vùng mặt, chứa xoang hàm trên (_maxillary sinus_).
     - Gồm 4 mỏm: Mỏm trán (_frontal process_), mỏm gò má (_zygomatic process_), mỏm huyệt răng (_alveolar process_ chứa chân răng) và mỏm khẩu cái (_palatine process_ tạo nên vòm miệng cứng).
     - Chi tiết quan trọng: Lỗ dưới ổ mắt (_infraorbital foramen_) cho mạch máu và thần kinh cùng tên đi qua.
+- **Xương gò má (Zygomatic bone)**
+	- Tạo nên độ nhô của má và thành ngoài ổ mắt.
+	- Mỏm thái dương của xương gò má kết hợp với mỏm gò má của xương thái dương tạo thành **cung tiếp gò má (Zygomatic arch)**.
+- **Xương mũi (Nasal bone)**
+	- Hai xương dẹt nhỏ ghép vào nhau ở đường giữa tạo thành cầu mũi (gốc mũi).
+- **Xương lệ (Lacrimal bone)**
+	- Xương nhỏ nhất vùng mặt, nằm ở thành trong ổ mắt.
+    - Có rãnh lệ (_lacrimal groove_) phối hợp với xương hàm trên tạo thành ống lệ mũi (_nasolacrimal canal_) dẫn nước mắt xuống mũi.
+- **Xương khẩu cái (Palatine bone)**
+	- Xương hình chữ L nằm ở phía sau ổ mũi và vòm miệng.
+	- Gồm mảnh thẳng đứng (_perpendicular plate_) tạo thành thành ngoài ổ mũi và mảnh ngang (_horizontal plate_) tạo thành phần sau của vòm miệng cứng (_hard palate_).
+- **Xương xoăn mũi dưới (Inferior nasal concha)**:
+    - Mảnh xương cong cuộn lại nằm ở thành ngoài ổ mũi, giúp làm ấm và làm ẩm không khí khi hít vào.
 
+#### 1.2.2. Nhóm xương đơn
+- **Xương hàm dưới (Mandible)**:
+    - Là xương vùng mặt duy nhất có thể cử động nhờ khớp thái dương hàm (_temporomandibular joint - TMJ_).
+    - **Thân xương hàm dưới (Body of mandible)**: Chứa mỏm huyệt răng dưới, mặt trước có lồi cằm (_mental protuberance_) và lỗ cằm (_mental foramen_).
+    - **Ngành hàm dưới (Ramus of mandible)**: Nhô lên phía trên, tận cùng bằng 2 mỏm:
+        - Mỏm vẹt (_coronoid process_): Ở phía trước, nơi bám của cơ thái dương.
+        - Mỏm lồi cầu (_condylar process_): Ở phía sau, gồm chỏm hàm dưới (_head of mandible_) tham gia vào khớp TMJ.
+    - Mặt trong ngành hàm có lỗ hàm dưới (_mandibular foramen_) cho thần kinh huyệt răng dưới đi qua (vị trí gây tê trong nha khoa).
+
+**Xương lá mía (Vomer )**:
+- Mảnh xương mỏng hình tam giác nằm trên đường giữa.
+- Kết hợp với mảnh thẳng đứng của xương sàng (_perpendicular plate of ethmoid bone_) để tạo nên **vách ngăn mũi (Nasal septum)**.
 
 ## 2. Xương thân mình 
 

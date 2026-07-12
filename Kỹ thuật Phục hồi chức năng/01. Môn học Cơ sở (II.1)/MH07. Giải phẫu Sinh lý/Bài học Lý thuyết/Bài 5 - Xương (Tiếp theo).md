@@ -127,16 +127,45 @@
 ## 2. Xương thân mình 
 ### 2.1 Xương cột sống (Columna vertebralis)
 
-### 2.2 Xương lồng ngực (Thorax)
+
+### 2.2 Xương lồng ngực (Thoracic Cage / Rib Cage)
 
 
-### 2.3 Xương chậu
+
+## 3. Xương chi
+### 3.1 Xương chi trên 
+#### 3.1.1 Đai vai 
 
 
-## 3. Xương chi trên 
+#### 3.1.2 Xương cánh  tay 
 
 
-## 4. Xương chi dưới 
+
+#### 3.1.3 Xương cẳng tay 
+
+
+#### 3.1.4 Xương cổ tay  
+
+
+#### 3.1.5 Xương bàn tay và ngón tay 
+
+
+
+### 3.2 Xương chi dưới 
+#### 3.2.1 Xương chậu
+
+
+#### 3.2.2 Xương đùi 
+
+
+#### 3.2.3 Xương cẳng chân 
+
+
+#### 3.2.4 Xương cổ chân 
+
+
+
+#### 3.2.5 Xương bàn chân và ngón chân 
 
 
 

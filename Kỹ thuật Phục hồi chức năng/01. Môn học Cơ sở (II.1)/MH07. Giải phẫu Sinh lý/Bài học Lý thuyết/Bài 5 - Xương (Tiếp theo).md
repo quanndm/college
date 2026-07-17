@@ -127,8 +127,24 @@
 ## 2. Xương thân mình (Skeleton of trunk)
 ### 2.1 Xương cột sống (Columna vertebralis)
 #### 2.1.1 Đặc điểm 
+- Gồm **32 – 33 (34) đốt sống** xếp chồng lên nhau, cùng với các hệ thống dây chằng, giữa các đốt sống là đĩa đệm 
+- Trong cột sống có ống sống để chứa tủy sống 
+- 32 – 33 (34) đốt sống → **26 xương.**
+#### 2.1.2 Phân loại 
+- **Đốt sống cổ (Vertebrae cervicales):** Gồm **7 đốt** (ký hiệu từ C1 đến C7). Đốt C1 (đốt đội) và C2 (đốt trục) có cấu tạo đặc biệt giúp đầu cử động linh hoạt.
+- **Đốt sống ngực (Vertebrae thoracicae):** Gồm **12 đốt** (ký hiệu từ T1 đến T12), có các hố sườn để khớp với các xương sườn.
+- **Đốt sống thắt lưng (Vertebrae lumbales):** Gồm **5 đốt** (ký hiệu từ L1 đến L5), có thân đốt sống rất lớn và dày để chịu lực cho toàn bộ thân trên.
+- **Xương cùng (Os sacrum):** Gồm **5 đốt sống cùng** gắn kết chặt chẽ lại với nhau tạo thành một khối xương hình chêm đơn lẻ → dính thành **1 xương cùng**.
+- **Xương cụt (Os coccygis):** Gồm **3 – 4 đốt (Một số tài liệu: 3–5 đốt) đốt sống cụt** tiêu biến, gắn liền lại thành một mẩu xương nhỏ ở tận cùng cột sống → dính thành **1 xương cụt**.
+##### 2.1.2.1 Đốt sống cổ  (Vertebrae cervicales)
 
+##### 2.1.2.2 **Đốt sống ngực (Vertebrae thoracicae)
 
+##### 2.1.2.3 **Đốt sống thắt lưng (Vertebrae lumbales)
+
+##### 2.1.2.4 **Xương cùng (Os sacrum)
+
+##### 2.1.2.5 **Xương cụt (Os coccygis)
 
 ### 2.2 Xương lồng ngực (Thoracic Cage / Rib Cage /Thorax)
 

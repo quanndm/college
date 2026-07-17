@@ -126,16 +126,47 @@
 
 ## 2. Xương thân mình (Skeleton of trunk)
 ### 2.1 Xương cột sống (Columna vertebralis)
-#### 2.1.1 Đặc điểm 
+#### 2.1.1 Đặc điểm  
 - Gồm **32 – 33 (34) đốt sống** xếp chồng lên nhau, cùng với các hệ thống dây chằng, giữa các đốt sống là đĩa đệm 
 - Trong cột sống có ống sống để chứa tủy sống 
 - 32 – 33 (34) đốt sống → **26 xương.**
-#### 2.1.2 Phân loại 
+
+#### 2.1.2 Đặc điểm chung của 1 đốt sống
+![[xuong_dot_song_1.png|645]]
+![[xuong_dot_song_3.png]]
+![[xuong_dot_song_2.png]]
+
+- **Dựa vào hình, một đốt sống điển hình được cấu tạo gồm các phần chính sau:**
+	- **Thân đốt sống:** Phần xương hình trụ dày nằm ở phía trước.
+	- **Lỗ ống sống:** Lỗ trống nằm ngay giữa thân đốt sống và cung đốt sống.
+	- **Chân cung:** Phần xương ngắn nối liền giữa thân đốt sống với các mỏm phía sau.
+	- **Mẫu ngang (Mỏm ngang):** Hai nhánh xương nhô đối xứng sang hai bên.
+	- **Mẫu gai (Mỏm gai):** Nhánh xương nhô dài hẳn ra phía sau (ở phần đuôi đốt sống).
+	- **Mẫu khớp của đốt sống (Mỏm khớp):** Các diện khớp nhô lên/xuống để liên kết với các đốt sống lân cận.
+- **Sự liên kết giữa các đống sống và chức năng liên quan** 
+	- **Tạo thành Ống sống bảo vệ tủy gai**
+		- **Mô tả:** Các **lỗ đốt sống** khi xếp chồng liên tục lên nhau sẽ tạo thành một đường ống dài gọi là **Ống sống**.
+		- **Chức năng:** Chứa đựng và bảo vệ an toàn cho **tủy sống** cùng các rễ thần kinh chạy dọc bên trong.
+	- **Tạo thành Lỗ gian đốt sống (Lỗ liên hợp)**
+		- **Mô tả:** Các khuyết sống trên và khuyết sống dưới của các cuống cung đốt sống kế cận ghép lại tạo thành các **Lỗ liên hợp** ở hai bên.
+		- **Chức năng:** Là lối thoát để các **rễ dây thần kinh tủy** đi ra ngoài ống sống nhằm chi phối cho các cơ quan và chi.
+	- **Đĩa đệm gian đốt sống (Discus intervertebralis)**
+		- **Mô tả:** Là tấm sụn - sợi nằm đệm giữa hai mặt thân đốt sống kế cận.
+		- **Chức năng:** Giảm chấn động, chịu lực phân phối đều và giúp cột sống có thể chuyển động cúi, ưỡn, nghiêng, xoay linh hoạt.
+	- **Khớp giữa các đốt sống (Khớp mỏm khớp)**
+		- **Mô tả:** Các mỏm khớp trên của đốt sống dưới liên kết chặt chẽ với mỏm khớp dưới của đốt sống ngay trên nó.
+		- **Chức năng:** Giúp cố định trục cột sống, giới hạn biên độ chuyển động quá mức để bảo vệ tủy sống tránh bị trượt hoặc chấn thương.
+
+
+#### 2.1.3 Phân loại 
 - **Đốt sống cổ (Vertebrae cervicales):** Gồm **7 đốt** (ký hiệu từ C1 đến C7). Đốt C1 (đốt đội) và C2 (đốt trục) có cấu tạo đặc biệt giúp đầu cử động linh hoạt.
 - **Đốt sống ngực (Vertebrae thoracicae):** Gồm **12 đốt** (ký hiệu từ T1 đến T12), có các hố sườn để khớp với các xương sườn.
 - **Đốt sống thắt lưng (Vertebrae lumbales):** Gồm **5 đốt** (ký hiệu từ L1 đến L5), có thân đốt sống rất lớn và dày để chịu lực cho toàn bộ thân trên.
 - **Xương cùng (Os sacrum):** Gồm **5 đốt sống cùng** gắn kết chặt chẽ lại với nhau tạo thành một khối xương hình chêm đơn lẻ → dính thành **1 xương cùng**.
-- **Xương cụt (Os coccygis):** Gồm **3 – 4 đốt (Một số tài liệu: 3–5 đốt) đốt sống cụt** tiêu biến, gắn liền lại thành một mẩu xương nhỏ ở tận cùng cột sống → dính thành **1 xương cụt**.
+- **Xương cụt (Os coccygis):** Gồm **3 – 4 đốt (Một số tài liệu: 3–5 đốt) đốt sống cụt** tiêu biến, gắn liền lại thành một mẩu xương nhỏ ở tận cùng cột sống → dính thành **1 xương cụt**. 
+
+> Riêng **xương cùng** và **xương cụt** dính với nhau thành 1 khối, không có các đĩa đệm giữa các đốt sống 
+
 ##### 2.1.2.1 Đốt sống cổ  (Vertebrae cervicales)
 
 ##### 2.1.2.2 **Đốt sống ngực (Vertebrae thoracicae)
@@ -187,7 +218,4 @@
 
 
 #### 3.2.6 Xương bàn chân và ngón chân (Metatarsal & Phalanges)
-
-
-
 

@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a4d401fa01b03f4",
+  "active": "28365821c7588044",
   "lastOpenFiles": [
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/TỔNG ÔN VI SINH CÙNG DANH.xlsx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/TỔNG ÔN VI SINH CÙNG DANH.xlsx",

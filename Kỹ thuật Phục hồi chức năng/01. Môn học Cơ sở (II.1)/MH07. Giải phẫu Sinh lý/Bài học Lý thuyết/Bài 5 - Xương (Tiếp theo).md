@@ -16,7 +16,7 @@
 - **Tạo máu**: Tủy đỏ trong xương sản sinh hồng cầu, bạch cầu, tiểu cầu.
 - **Dự trữ**: Lưu trữ, điều hòa các khoáng chất thiết yếu (Canxi, Phốt pho).
 
-## 1. Xương đầu mặt 
+## 1. Xương đầu mặt (Skeleton of head)
 - Gồm 22 xương chia làm hai phần là sọ và mặt.
 
 ![[Xuong-so-nhin-truoc.png|645]]
@@ -124,48 +124,53 @@
 - Mảnh xương mỏng hình tam giác nằm trên đường giữa.
 - Kết hợp với mảnh thẳng đứng của xương sàng (_perpendicular plate of ethmoid bone_) để tạo nên **vách ngăn mũi (Nasal septum)**.
 
-## 2. Xương thân mình 
+## 2. Xương thân mình (Skeleton of trunk)
 ### 2.1 Xương cột sống (Columna vertebralis)
-
-
-### 2.2 Xương lồng ngực (Thoracic Cage / Rib Cage)
-
-
-
-## 3. Xương chi
-### 3.1 Xương chi trên 
-#### 3.1.1 Đai vai 
-
-
-#### 3.1.2 Xương cánh  tay 
+#### 2.1.1 Đặc điểm 
 
 
 
-#### 3.1.3 Xương cẳng tay 
-
-
-#### 3.1.4 Xương cổ tay  
-
-
-#### 3.1.5 Xương bàn tay và ngón tay 
+### 2.2 Xương lồng ngực (Thoracic Cage / Rib Cage /Thorax)
 
 
 
-### 3.2 Xương chi dưới 
-#### 3.2.1 Xương chậu
+## 3. Xương chi (Appendicular skeleton)
+### 3.1 Xương chi trên (Ossa membri superioris)
+#### 3.1.1 Đai vai (Pectoral girdle)
 
 
-#### 3.2.2 Xương đùi 
-
-
-#### 3.2.3 Xương cẳng chân 
-
-
-#### 3.2.4 Xương cổ chân 
+#### 3.1.2 Xương cánh  tay (Humerus)
 
 
 
-#### 3.2.5 Xương bàn chân và ngón chân 
+#### 3.1.3 Xương cẳng tay (Skeleton of forearm)
+
+
+#### 3.1.4 Xương cổ tay  (Carpal bones)
+
+
+#### 3.1.5 Xương bàn tay và ngón tay (Metacarpal & Phalanges)
+
+
+
+### 3.2 Xương chi dưới (Ossa membri inferioris)
+#### 3.2.1 Đai hông / Xương chậu (Pelvic girdle / Coxal bone)
+
+
+#### 3.2.2 Xương đùi (Femur)
+
+
+
+#### 3.2.3 Xương bánh chè (Patella)
+
+#### 3.2.4 Xương cẳng chân (Skeleton of leg)
+
+
+#### 3.2.5 Xương cổ chân (Tarsal bones)
+
+
+
+#### 3.2.6 Xương bàn chân và ngón chân (Metatarsal & Phalanges)
 
 
 

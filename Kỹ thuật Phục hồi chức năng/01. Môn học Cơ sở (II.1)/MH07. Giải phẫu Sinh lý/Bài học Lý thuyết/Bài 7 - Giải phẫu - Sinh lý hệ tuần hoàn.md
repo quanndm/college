@@ -26,6 +26,22 @@
 #### 1.1.2.1 Mặt
 - Gồm mặt trước (mặt ức sườn), mặt trái (mặt phổi), mặt dưới (mặt hoành)
 ##### a. Mặt ức sườn (mặt trước)
+![[tim_mat_uc_suon.png]]
+![[tim_mat_uc_suon_2.png]]
+![[tim_mat_uc_suon_3.png]]
+- Còn gọi là mặt trước, có 2 rãnh lớn 
+Rãnh vành (Coronary sulcus): chia tim theo chiều ngang
+
+- Ranh giới: Chia tầng tâm nhĩ ở trên và tầng tâm thất ở dưới.
+- Thành phần trong rãnh (ở mặt trước):
++ Bên phải tim: Động mạch vành phải & Tĩnh mạch tim nhỏ.
++ Bên trái tim: Nhánh mũ của động mạch vành trái & Tĩnh mạch tim lớn.
+- Đặc điểm bề mặt trước: 
++ Bị thân động mạch phổi và động mạch chủ nằm đè lên, che khuất đoạn ở giữa.
++ Có tiểu nhĩ phải và tiểu nhĩ trái nằm ngay phía trên rãnh, ôm hai bên gốc động mạch.
+	- **Rãnh gian thất trước (Anterior interventricular groove)**
+
+
 
 ##### b. Mặt Phổi (mặt trái)
 

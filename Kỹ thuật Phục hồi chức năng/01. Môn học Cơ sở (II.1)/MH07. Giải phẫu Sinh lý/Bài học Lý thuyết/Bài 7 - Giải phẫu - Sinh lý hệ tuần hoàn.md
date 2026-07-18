@@ -81,6 +81,7 @@
  là mặt sau của 2 tâm nhĩ phải và trái 
 ### 1.1.3 Hình thể trong 
 - Bổ dọc tim thấy được 1 vách dọc và 2 vách ngang, chia tim làm 4 ngăn, 2 tâm nhĩ ở trên và 2 tâm thất ở dưới
+![[tim_mat_cat_trong.png]]
 #### 1.1.3.1 Tâm nhĩ phải 
 #### 1.1.3.2 Tâm nhĩ trái 
 #### 1.1.3.3 Tâm thất phải 

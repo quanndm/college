@@ -20,9 +20,14 @@
 	- Trước => Sau 
 - Trục đỉnh - đáy tim có chiều dài 12cm 
 - Trục ngang có chiều dài 8cm 
-
-
 ### 1.1.2 Hình thể ngoài
+- Tim hình tháp tam giác có 3 mặt, 1 nền và 1 đỉnh 
+
+#### 1.1.2.1 Mặt
+
+#### 1.1.2.2 Đỉnh tim (Mỏm tim)
+
+#### 1.1.2.3
 
 ### 1.1.3 Hình thể trong 
 

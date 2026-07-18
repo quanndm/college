@@ -80,16 +80,31 @@
 - Giữa 2 tâm nhĩ có rãnh dọc gọi là rãnh gian nhĩ 
  là mặt sau của 2 tâm nhĩ phải và trái 
 ### 1.1.3 Hình thể trong 
+#### 1.1.3.1 Vách tim
 
 ![[tim_mat_cat_trong.png]]
 ![[tim_vach_trong.png]]
 - Bổ dọc tim thấy được 1 vách dọc và 2 vách ngang, chia tim làm 4 ngăn, 2 tâm nhĩ ở trên và 2 tâm thất ở dưới:
-	- 
+	-  **Vách gian nhĩ (Interatrial septum)**
+		- **Vị trí:** Là bức tường mỏng ngăn cách giữa **hai tâm nhĩ** (tâm nhĩ phải - right atrium và tâm nhĩ trái - left atrium) ở phía trên.
+		- **Đặc điểm giải phẫu quan trọng:**
+		    - Vách này chủ yếu là mô cơ mỏng và mô màng.
+		    - Ở mặt bên phải của vách có một vết lõm gọi là **hố bầu dục** (fossa ovalis). Đây chính là dấu vết của _lỗ bầu dục_ thời bào thai — nơi cho phép máu chảy trực tiếp từ nhĩ phải sang nhĩ trái trước khi phổi của em bé hoạt động.
+		    - Nếu lỗ này không đóng kín sau khi sinh, y học gọi là tật _thông liên nhĩ_.
+	- **Vách gian thất (Interventricular septum)**
+		- **Vị trí:** Là bức tường dày dặn ngăn cách giữa **hai tâm thất** (tâm thất phải - right ventricle và tâm thất trái - left ventricle) ở phía dưới.
+		- **Đặc điểm giải phẫu quan trọng:** Vách này được chia làm hai phần rõ rệt do độ dày không đồng đều:
+			- **Phần cơ (Muscular part):** Chiếm đại đa số diện tích phía dưới, rất dày và khỏe (đặc biệt là hướng về phía thất trái) để chịu được áp lực co bóp lớn của tim.
+			- **Phần màng (Membranous part):** Là một vùng nhỏ, mỏng nằm ở phía trên cao (gần các van tim). Đây là vị trí rất dễ bị tổn thương bẩm sinh, dẫn đến tật _thông liên thất_ (máu bị rò rỉ từ thất này sang thất kia).
+	- **Vách nhĩ thất (Atrioventricular septum)**
+		- **Vị trí:** Đây là phần vách hỗn hợp nằm ở vị trí trung gian, ngăn cách giữa **tâm nhĩ phải và tâm thất trái**.
+			- Do cấu trúc hình học của tim, tâm nhĩ trái nằm ở vị trí hơi cao hơn so với tâm nhĩ phải, còn van ba lá (bên phải) lại bám thấp hơn van hai lá (bên trái).
+			- Sự "lệch tầng" này tạo ra một khoảng vách nhỏ nằm xen kẽ. Một mặt của vách này nhìn vào tâm nhĩ phải, còn mặt kia lại nhìn vào tâm thất trái. Vách này phần lớn là màng mỏng.
+#### 1.1.3.2 Tâm nhĩ phải 
 
-#### 1.1.3.1 Tâm nhĩ phải 
-#### 1.1.3.2 Tâm nhĩ trái 
-#### 1.1.3.3 Tâm thất phải 
-#### 1.1.3.4 Tâm thất trái 
+#### 1.1.3.3 Tâm nhĩ trái 
+#### 1.1.3.4 Tâm thất phải 
+#### 1.1.3.5 Tâm thất trái 
 
 ### 1.1.4 Cấu tạo
 

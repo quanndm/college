@@ -24,11 +24,24 @@
 - Tim hình tháp tam giác có 3 mặt, 1 nền và 1 đỉnh 
 
 #### 1.1.2.1 Mặt
+- Gồm mặt trước (mặt ức sườn), mặt trái (mặt phổi), mặt dưới (mặt hoành)
+##### a. Mặt ức sườn (mặt trước)
+
+##### b. Mặt Phổi (mặt trái)
+
+##### c. Mặt hoành (Mặt dưới)
 
 #### 1.1.2.2 Đỉnh tim (Mỏm tim)
-
-#### 1.1.2.3
-
+- Nằm chếch sang trái, quay xuống dưới, ngay sau lồng ngực
+- Ở khoang liên (gian) sườn V (có thể là IV) trên đường giữa đòn bên trái
+![[dinh_tim.png]]
+#### 1.1.2.3 Nền (Đáy tim)
+![[day_tim_nhin_sau.png]]
+![[tim_mat_hoanh_nhin_sau_duoi.png]]
+%% **thân cánh tay đầu => động mạch cảnh cánh tay đầu**  %%
+- hướng lên trên, ra sau, và sang phải là 2 mặt sau của tâm nhĩ 
+- Giữa 2 tâm nhĩ có rãnh dọc gọi là rãnh gian nhĩ 
+ là mặt sau của 2 tâm nhĩ phải và trái 
 ### 1.1.3 Hình thể trong 
 
 

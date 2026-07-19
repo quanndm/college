@@ -114,7 +114,7 @@
 - Lỗ xoang tĩnh mạch vành
 - Thông với tâm thất phải qua van 3 lá (Trên hình có lá van vách trong của van 3 lá)
 #### 1.1.3.4 Tâm nhĩ trái 
-![[tim_tam_nhi_that_phai.png]]
+![[tim_tam_nhi_that_trai.png]]
 - Có **4 lỗ tĩnh mạch phổi** đổ vào thành sau (gồm 2 tĩnh mạch phổi trái và 2 tĩnh mạch phổi phải), mang máu giàu oxy từ phổi về tim.
 - **Vị trí thông dưới:** Phía dưới thông với tâm thất trái qua **lỗ nhĩ thất trái** (Lỗ van 2 lá), được đậy bằng **van 2 lá** (mũ ni - van tăng cơ học giúp máu đi một chiều).
 - **Tiểu nhĩ trái**: Túi cơ phía trên.
@@ -129,8 +129,34 @@
 - Thông với Động mạch phổi qua van động mạch phổi(**Van tổ chim**) (**Lá van bán nguyệt trước**, **Lá van bán nguyệt phải**, và **Lá van bán nguyệt trái**.)
 #### 1.1.3.6 Tâm thất trái 
 ![[tim_tam_that_trai.png]]
-- 
+![[tim_tam_nhi_that_trai.png]]
+- **Hình dạng:** Có dạng hình nón dài, thành cơ **dày gấp 3 lần** tâm thất phải (để chịu áp lực tống máu đi toàn cơ thể), lòng thất gồ ghề ở phía dưới và nhẵn ở phía đường ra động mạch.
+- **Phân chia lòng thất:** Cũng chia làm 2 buồng (buồng nhận và buồng tống) nhưng ranh giới không rõ bằng thất phải:
+    - **Buồng nhận (phía sau dưới):** Đầy bè cơ gồ ghề, nhận máu từ nhĩ trái qua van 2 lá.
+    - **Buồng tống (phía trước trên):** Thành nhẵn mịn, dẫn máu hướng lên **Van động mạch chủ** (nằm ngay sau lá van trước của van 2 lá).
+- **Van 2 lá:** Chỉ gồm 2 lá van: **Lá van trước** (còn gọi là lá động mạch chủ vì nó ngăn cách buồng nhận và buồng tống) và **Lá van sau**.
+	- **Hệ thống giữ van:** Các thừng gân ở thất trái rất dày và chắc, nối từ 2 lá van vào **2 cột cơ nhú lớn**:
+		- Cơ nhú trước
+		- Cơ nhú sau
+- Thông với tâm nhĩ trái qua **lỗ nhĩ thất trái** (**van 2 lá**)
+- Thông với Động mạch chủ bởi **lỗ Động mạch chủ**  (**Van động mạch chủ - van tổ chim**)
+
+#### 1.1.3.7 Van tim
+##### a. Thì tâm trương 
+![[van_tim_thi_tam_truong.png]]
+##### b. Thì tâm thu 
+![[van_tim_thi_tam_thu.png]]
 ### 1.1.4 Cấu tạo
+- Từ ngoài vào tim gồm có 3 lớp 
+	- Màng ngoài tim (Ngoại tâm mạc)
+	- Cơ tim 
+	- Màng trong tim (Nội tâm mạc)
+#### 1.1.4.1 Màng ngoài tim (Ngoại tâm mạc)
+
+#### 1.1.4.2 Cơ tim 
+
+#### 1.1.4.3 Màng trong tim (Nội tâm mạc)
+
 
 
 ### 1.1.5 Mạch máu và thần kinh (liên quan đến tim)

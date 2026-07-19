@@ -80,9 +80,10 @@
 - Giữa 2 tâm nhĩ có rãnh dọc gọi là rãnh gian nhĩ 
  là mặt sau của 2 tâm nhĩ phải và trái 
 ### 1.1.3 Hình thể trong 
+![[tim_mat_cat_trong.png]]
 #### 1.1.3.1 Vách tim
 
-![[tim_mat_cat_trong.png]]
+
 ![[tim_vach_trong.png]]
 - Bổ dọc tim thấy được 1 vách dọc và 2 vách ngang, chia tim làm 4 ngăn, 2 tâm nhĩ ở trên và 2 tâm thất ở dưới:
 	-  **Vách gian nhĩ (Interatrial septum)**
@@ -100,11 +101,26 @@
 		- **Vị trí:** Đây là phần vách hỗn hợp nằm ở vị trí trung gian, ngăn cách giữa **tâm nhĩ phải và tâm thất trái**.
 			- Do cấu trúc hình học của tim, tâm nhĩ trái nằm ở vị trí hơi cao hơn so với tâm nhĩ phải, còn van ba lá (bên phải) lại bám thấp hơn van hai lá (bên trái).
 			- Sự "lệch tầng" này tạo ra một khoảng vách nhỏ nằm xen kẽ. Một mặt của vách này nhìn vào tâm nhĩ phải, còn mặt kia lại nhìn vào tâm thất trái. Vách này phần lớn là màng mỏng.
-#### 1.1.3.2 Tâm nhĩ phải 
 
-#### 1.1.3.3 Tâm nhĩ trái 
-#### 1.1.3.4 Tâm thất phải 
-#### 1.1.3.5 Tâm thất trái 
+
+
+#### 1.1.3.2 Van tim 
+- Van 2 lá: Ngăn cách giữa tâm nhĩ trái và tâm thất trái 
+- Van 3 lá : Ngăn cách giữa tâm nhĩ phải và tâm thất phải
+#### 1.1.3.3 Tâm nhĩ phải 
+![[tim_tam_nhi_phai.png]]
+- Tĩnh mạch chủ trên và tĩnh mạch chủ dưới
+- Hố bầu dục 
+- Lỗ xoang tĩnh mạch vành
+- Thông với tâm thất phải qua van 3 lá (Trên hình có lá van vách trong của van 3 lá)
+#### 1.1.3.4 Tâm nhĩ trái 
+![[tim_tam_nhi_that_phai.png]]
+
+
+#### 1.1.3.5 Tâm thất phải 
+
+
+#### 1.1.3.6 Tâm thất trái 
 
 ### 1.1.4 Cấu tạo
 

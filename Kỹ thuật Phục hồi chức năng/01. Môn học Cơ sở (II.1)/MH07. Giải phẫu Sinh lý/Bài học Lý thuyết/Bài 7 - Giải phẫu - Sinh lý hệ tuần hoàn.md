@@ -115,10 +115,12 @@
 - Thông với tâm thất phải qua van 3 lá (Trên hình có lá van vách trong của van 3 lá)
 #### 1.1.3.4 Tâm nhĩ trái 
 ![[tim_tam_nhi_that_phai.png]]
-
-
+- Có **4 lỗ tĩnh mạch phổi** đổ vào thành sau (gồm 2 tĩnh mạch phổi trái và 2 tĩnh mạch phổi phải), mang máu giàu oxy từ phổi về tim.
+- **Vị trí thông dưới:** Phía dưới thông với tâm thất trái qua **lỗ nhĩ thất trái** (Lỗ van 2 lá), được đậy bằng **van 2 lá** (mũ ni - van tăng cơ học giúp máu đi một chiều).
+- **Tiểu nhĩ trái**: Túi cơ phía trên.
+- **Van lỗ bầu dục**: Ở vách liên nhĩ.
 #### 1.1.3.5 Tâm thất phải 
-
+![[tim_tam_that_phai.png]]
 
 #### 1.1.3.6 Tâm thất trái 
 

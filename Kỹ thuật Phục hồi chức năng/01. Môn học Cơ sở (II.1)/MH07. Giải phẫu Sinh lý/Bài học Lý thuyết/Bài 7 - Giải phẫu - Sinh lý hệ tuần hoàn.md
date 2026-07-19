@@ -121,9 +121,15 @@
 - **Van lỗ bầu dục**: Ở vách liên nhĩ.
 #### 1.1.3.5 Tâm thất phải 
 ![[tim_tam_that_phai.png]]
-
+- **Hình dạng:** Có dạng hình tháp 3 mặt, thành mỏng hơn nhiều so với tâm thất trái (chỉ dày bằng 1/3 thất trái).
+- **Phân chia lòng thất:** Chia làm 2 vùng rõ rệt nhờ cấu trúc **Mào trên thất**:
+    - **Buồng nhận (phía sau dưới):** Thành tim gồ ghề, chứa nhiều **bè cơ** và hệ thống van 3 lá để nhận máu từ nhĩ phải.
+    - **Buồng tống / Nón động mạch (phía trước trên):** Thành nhẵn mịn, dẫn máu hướng lên **Van động mạch phổi**.
+- Thông với Tâm nhĩ phải qua van 3 lá (lá van trước, lá van vách/trong, lá van sau)
+- Thông với Động mạch phổi qua van động mạch phổi(**Van tổ chim**) (**Lá van bán nguyệt trước**, **Lá van bán nguyệt phải**, và **Lá van bán nguyệt trái**.)
 #### 1.1.3.6 Tâm thất trái 
-
+![[tim_tam_that_trai.png]]
+- 
 ### 1.1.4 Cấu tạo
 
 

@@ -205,22 +205,25 @@ Tim có thể tự đập kể cả khi cắt đứt thần kinh nối với cơ
 ## 1.2 Hệ thống mạch máu
 - Hệ thống mạch máu bao gồm động mạch, tĩnh mạch, mao mạch
 ### 1.2.1 Hệ động mạch
+#### 1.2.1.1 Cấu trúc thành mạch
 ![[tim_cau_truc_tbanh_mach_dong_mach.jpg]]
 - **Cấu trúc thành mạch** gồm 3 lớp:
 	- Lớp áo trong (Lớp nội mạc / Tunica intima)
 		- **Thành phần chính:** Được cấu tạo bởi các tế bào nội mạc (_endothelial cells_).
 	- Lớp áo giữa (Lớp cơ / Tunica media)
 		- **Thành phần chính:** Chủ yếu gồm cơ trơn (_smooth muscle_) và sợi chun (_elastin_).
+		- Dày nhất, có nheièu sợi cơ trơn xen kẽ sợi đàn hồi để điều hòa lưu lượng máu, cho dòng máu chảy liên tục và đều đặn 
 	- Lớp áo ngoài (Lớp mô liên kết / Tunica externa /Tunica adventitia)
 		- **Thành phần chính:** Mô liên kết sợi lỏng lẻo (_loose fibrous connective tissue_).
-#### 1.2.1.1 Động mạch chủ 
-##### a. Đường đi
+- Lớp thanh mạc(Serosa)
+#### 1.2.1.2 Động mạch chủ 
+##### a. Đường đi, phân đoạn
 
 
 ##### b. Nhánh tận
 
 
-#### 1.2.1.2 Động mạch phổi
+#### 1.2.1.3 Động mạch phổi
 
 
 ### 1.2.2 Hệ tĩnh mạch
@@ -229,8 +232,30 @@ Tim có thể tự đập kể cả khi cắt đứt thần kinh nối với cơ
 
 
 ## 1.3 Hệ thống bạch huyết
+![[tim_he_thong_bach_huyet.png]]
+### 1.3.1 Định nghĩa & chức năng chung 
+Hệ bạch huyết là một mạng lưới gồm các mao mạch, mạch, hạch và cơ quan chuyên biệt có **3 vai trò cốt lõi**:
+- **Dẫn lưu dịch kẽ:** Thu gom phần dịch dư thừa từ mô (dịch kẽ) và đưa trở lại hệ tuần hoàn máu.
+- **Đáp ứng miễn dịch:** Chứa các tế bào bạch cầu (đặc biệt là Lympho T và B) để tiêu diệt vi khuẩn, virus, tế bào bất thường.
+- **Hấp thu chất béo:** Hấp thu lipit và các chất dinh dưỡng dạng mỡ từ ruột non thông qua hệ thống dưỡng trắc (dịch nhũ trấp).
+### 1.3.2 Các cơ quan bạch huyết chính (Lymphoid Organs)
+#### A. Các cơ quan & mô bạch huyết
+- **Amidal (Tonsils):** Nằm ở vùng hầu họng, là "lá chắn đầu tiên" bảo vệ cơ thể khỏi tác nhân gây bệnh đi qua đường miệng và mũi.
+- **Tuyến ức (Thymus):** Nằm ở trung thất trước (trên tim), là nơi huấn luyện và trưởng thành của các tế bào **T-lympho**.
+- **Lá lách (Spleen):** Cơ quan bạch huyết lớn nhất cơ thể, có chức năng lọc máu, tiêu hủy tế bào hồng cầu già cũ và dự trữ máu/bạch cầu.
+#### B. Hạch bạch huyết (Lymph nodes)
+Là những hạt nhỏ hình hạt đậu nằm rải rác dọc theo đường đi của các mạch bạch huyết, hoạt động như những **"trạm lọc"**:
+- **Hạch bạch huyết cổ (Cervical nodes):** Lọc dịch từ vùng đầu, mặt, cổ.
+- **Các hạch bạch huyết vùng nách (Axillary nodes):** Lọc dịch từ tay, chi trên và chi chóp ngực/vú.
+- **Các hạch bạch huyết bẹn (Inguinal nodes):** Lọc dịch từ hai chân và vùng chậu.
 
-
+### 1.3.3 Hệ thống mạch và dòng chảy bạch huyết
+Bạch huyết di chuyển theo một chiều duy nhất nhờ sự co bóp của cơ bắp xung quanh và hệ thống van 1 chiều:
+1. **Mao mạch bạch huyết $\rightarrow$ Mạch bạch huyết $\rightarrow$ Thân bạch huyết.**
+2. **Nhũ trấp ruột non (Cisterna chyli):** Đoạn phồng lớn ở phần đầu ống ngực (ngang mức thắt lưng), là nơi tập trung bạch huyết giàu chất béo hấp thu từ ruột.
+3. **Hai ống thu gom chính đổ về tĩnh mạch:**
+    - **Ống phải của bạch huyết (Right lymphatic duct):** Chỉ thu gom bạch huyết ở **1/4 trên bên phải** cơ thể (nửa phải đầu, cổ, ngực và tay phải) $\rightarrow$ Đổ vào tĩnh mạch dưới đòn phải.
+    - **Ống lồng ngực (Thoracic duct):** Lớn hơn rất nhiều, thu gom bạch huyết của **3/4 còn lại** của cơ thể (toàn bộ phần dưới cơ thể + tay trái, nửa trái đầu/cổ/ngực) $\rightarrow$ Đổ vào tĩnh mạch dưới đòn trái.
 
 # 2. Sinh lý 
 ## 2.1 Khái niệm 

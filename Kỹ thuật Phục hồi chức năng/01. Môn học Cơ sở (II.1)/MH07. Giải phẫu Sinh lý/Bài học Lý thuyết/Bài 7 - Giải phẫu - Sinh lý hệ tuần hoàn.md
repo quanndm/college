@@ -261,17 +261,79 @@ Ngang mức đốt sống thắt lưng 4 ($L4$), động mạch chủ bụng chi
 Động mạch phổi bắt đầu từ tim và chia làm 3 phần chính:
 
 ###### a. Thân động mạch phổi ($Pulmonary\ Trunk$)
-
+- **Gốc xuất phát:** Đi từ **lỗ động mạch phổi** ở **tâm thất phải** (được đậy bởi van động mạch phổi).
+- **Đường đi:** Chạy chếch lên trên, ra sau và sang trái, bắt chéo phía trước Động mạch chủ lên.
+- **Chiều dài:** Khoảng $4 - 5\text{ cm}$. Khi đi tới phía dưới quai động mạch chủ (ngang mức đốt sống ngực $D5$ / góc ức) thì chia làm **2 nhánh tận**.
 ###### b.Các nhánh tận (ĐM phổi phải và trái)
-
-###### c. Động mạch phổi trái ($Left\ Pulmonary\ Artery$):
-
+- **Động mạch phổi phải ($Right\ Pulmonary\ Artery$):**
+    - Chạy sang phải, đi phía sau ĐM chủ lên và Tĩnh mạch chủ trên để vào **rốn phổi phải**.
+    - Dài và lớn hơn ĐM phổi trái.
+    - Chia thành các nhánh đi vào 3 thùy của phổi phải (thùy trên, thùy giữa, thùy dưới).
+- **Động mạch phổi trái ($Left\ Pulmonary\ Artery$):**
+    - Chạy ngắn hơn, đi ngang sang trái, phía trước Động mạch chủ xuống để vào **rốn phổi trái**.
+    - Chia thành các nhánh đi vào 2 thùy của phổi trái (thùy trên, thùy dưới).
 ##### C. Liên quan giải phẫu quan trọng
-
+- **Dây chằng động mạch ($Ligamentum\ arteriosum$):**
+    - Là di tích của _ống động mạch_ thời kỳ thai nhi.
+    - Nối từ điểm phân chia của thân ĐMP (hoặc gốc ĐMP trái) đến mặt dưới của **quai động mạch chủ**.
+- **Đơn vị chức năng:** Khi đi vào rốn phổi, các nhánh ĐMP sẽ phân chia nhỏ dần đi cùng với hệ thống **phế quản** (cây phế quản) cho đến tận các phế nang để tạo thành mạng lưới mao mạch quanh phế nang.
 ### 1.2.2 Hệ tĩnh mạch
+![[tim_he_tinh_mach.png]]
+- Dẫn máu từ các cơ quan về tim, gồm có tĩnh mạch chủ trên, tĩnh mạch chủ dưới và
+tĩnh mạch phổi.
+#### a.Tổng quan & Khái niệm
+- **Chức năng:** Dẫn máu nghèo $O_2$ (chứa nhiều $CO_2$ và chất chuyển hóa) từ các cơ quan, mô về **tâm nhĩ phải** của tim (trừ hệ tĩnh mạch phổi đưa máu giàu $O_2$ về tâm nhĩ trái).
+    
+- **Phân loại chính:** Hệ tĩnh mạch trong cơ thể được chia làm 3 hệ thống lớn:
+    
+    1. **Hệ Tĩnh mạch chủ trên** (thu máu nửa trên cơ thể).
+        
+    2. **Hệ Tĩnh mạch chủ dưới** (thu máu nửa dưới cơ thể).
+        
+    3. **Hệ Tĩnh mạch phổi**
+#### b. Hệ Tĩnh mạch chủ trên ($Superior\ Vena\ Cava$)
+Thu nhận toàn bộ máu từ **đầu, mặt, cổ, hai chi trên và lồng ngực** đổ về **tâm nhĩ phải**.
+- **Sự hình thành:** Do **2 tĩnh mạch cánh tay đầu** (trái và phải) hợp lại ở sau sụn sườn 1 bên phải.
+    - Mỗi TM cánh tay đầu lại được tạo thành do sự hợp hợp giữa: **TM cảnh trong** (thu máu đầu, mặt, cổ) + **TM dưới đòn** (thu máu chi trên).
+- **Đường đi:** Chạy thẳng xuống dưới dọc bờ phải xương ức và đổ vào tâm nhĩ phải.
+- **Nhánh nhận quan trọng:** **Tĩnh mạch đơn** ($Azygos\ vein$) – nhận máu từ các TM liên sườn, trung thất rồi chui qua bờ trên phế quản chính phải để đổ vào TM chủ trên.
+- **Đặc điểm Tĩnh mạch nông chi trên:** Gồm _TM đầu_ (chạy phía ngoài), _TM nền_ (chạy phía trong) và _TM giữa cẳng tay_. Ở nếp gấp khuỷu tay tạo thành **mạng tĩnh mạch chữ M hoặc chữ V** (nơi thường dùng để tiêm, truyền tĩnh mạch).
 
+#### c. Hệ Tĩnh mạch chủ dưới ($Inferior\ Vena\ Cava$)
+
+Thu nhận toàn bộ máu từ **chi dưới, vùng chậu hông, thành bụng và các tạng trong bụng** đổ về **tâm nhĩ phải**.
+- **Sự hình thành:** Do **2 tĩnh mạch chậu chung** (trái và phải) hợp lại ở ngang mức **đốt sống thắt lưng $L4 - L5$** (phía sau ĐM chủ bụng).
+    - Mỗi TM chậu chung được tạo thành do: **TM chậu trong** (thu máu tạng & thành chậu) + **TM chậu ngoài** (tiếp nối từ TM đùi, thu máu chi dưới).
+- **Đường đi:** Chạy ngược lên phía trước bên phải cột sống, chui qua **lỗ tĩnh mạch chủ của cơ hoành** (ngang đốt sống $T8$) rồi đổ vào tâm nhĩ phải.
+- **Các nhánh nhận chính:**
+    - **Nhánh thành:** Các TM dưới hoành, các TM thắt lưng.
+    - **Nhánh tạng:** Các TM thận, TM tuyến thượng thận, TM sinh dục (TM tinh hoàn/buồng trứng), và **các TM gan (TM trên gan)**.
+- **Đặc điểm Tĩnh mạch nông chi dưới:** Gồm _TM hiển lớn_ (chạy ở mặt trong cẳng - đùi) và _TM hiển bé_ (chạy ở mặt sau cẳng chân). Các TM này có **van một chiều** giúp đưa máu chảy ngược trọng lực về tim.
+#### d. Hệ Tĩnh mạch phổi (Pulmonary Veins)
+- **Thuộc vòng tuần hoàn:** **Vòng tuần hoàn nhỏ** (Tuần hoàn phổi / Vòng tuần hoàn hô hấp).
+- **Đặc điểm sinh học:** Dù tên là _tĩnh mạch_, nhưng chúng mang **máu giàu $O_2$** (máu đỏ tươi) từ phổi trở về tim.
+- **Đường đi & Đích đến:** Sau khi máu trao đổi khí ở các phế nang, các mao mạch tập trung thành **4 tĩnh mạch phổi** (2 TM phổi phải, 2 TM phổi trái) đổ trực tiếp về **Tâm nhĩ trái** của tim.
 ### 1.2.3 Hệ mao mạch
+![[tim_he_mao_mach.jpg]]
+#### a. Khái niệm & Chức năng cốt lõi
+- **Khái niệm:** Mao mạch là những mạch máu **nhỏ nhất** trong hệ tuần hoàn (đường kính khoảng $5 - 10\ \mu m$, chỉ đủ cho 1 tế bào hồng cầu đi qua lần lượt), nối giữa **tiểu động mạch** và **tiểu tĩnh mạch**.
+- **Chức năng quan trọng nhất:** Là **nơi duy nhất diễn ra sự trao đổi chất** (chất dinh dưỡng, $O_2$, $CO_2$, chất thải và nước) giữa **máu** và **tế bào/mô** của cơ thể.
+#### b. Cấu tạo giải phẫu đặc biệt
 
+Cấu tạo của mao mạch được tối ưu hóa tối đa cho chức năng trao đổi chất:
+
+- **Thành mạch cực mỏng:** Không có lớp cơ hay lớp mô liên kết dày như động/tĩnh mạch, thành mao mạch **chỉ gồm 1 lớp tế bào nội mô** ($endothelium$) nằm trên một lớp màng đáy mỏng.
+    
+- **Cơ thắt tiền mao mạch ($Precapillary\ sphincters$):** Là những vòng cơ trơn nằm tại gốc các mao mạch tách ra từ tiểu động mạch. Chúng đóng/mở để **điều hòa lượng máu** đi vào lưới mao mạch tùy theo nhu cầu chuyển hóa của từng mô tại từng thời điểm.
+
+#### c. Phân loại Mao mạch
+Dựa vào cấu trúc của lớp tế bào nội mô và màng đáy, mao mạch được chia làm **3 loại chính**:
+
+| **Loại mao mạch**                                                | **Cấu trúc đặc trưng**                                                                              | **Vị trí xuất hiện chính**                                              |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Mao mạch liên tục**<br><br>  <br><br>($Continuous\ capillary$) | Tế bào nội mô xếp sát nhau, không có lỗ hổng. Chỉ cho phép các chất nhỏ (nước, ion) khuếch tán qua. | Cơ, da, phổi, hệ thần kinh trung ương (tạo nên _Hàng rào máu - não_).   |
+| **Mao mạch cửa sổ**<br><br>  <br><br>($Fenestrated\ capillary$)  | Trên tế bào nội mô có nhiều "lỗ nhỏ" (cửa sổ), giúp tăng tốc độ trao đổi chất.                      | Ruột non (hấp thu dinh dưỡng), Thận (lọc cầu thận), các tuyến nội tiết. |
+| **Mao mạch kiểu xoang**<br><br>  <br><br>($Sinusoid\ capillary$) | Lỗ hổng rất lớn, màng đáy không liên tục, cho phép cả tế bào máu và protein lớn đi qua.             | **Gan**, **Lách**, **Tủy xương**.                                       |
 
 ## 1.3 Hệ thống bạch huyết
 ![[tim_he_thong_bach_huyet.png]]
@@ -301,6 +363,7 @@ Bạch huyết di chuyển theo một chiều duy nhất nhờ sự co bóp củ
 
 # 2. Sinh lý 
 ## 2.1 Khái niệm 
+
 
 ## 2.2 Vai trò 
 

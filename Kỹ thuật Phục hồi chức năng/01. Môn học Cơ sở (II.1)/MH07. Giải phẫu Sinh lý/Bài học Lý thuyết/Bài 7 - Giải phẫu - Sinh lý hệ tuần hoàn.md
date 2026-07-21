@@ -205,6 +205,7 @@ Tim có thể tự đập kể cả khi cắt đứt thần kinh nối với cơ
 ## 1.2 Hệ thống mạch máu
 - Hệ thống mạch máu bao gồm động mạch, tĩnh mạch, mao mạch
 ### 1.2.1 Hệ động mạch
+![[tim_tong_quan_dong_mach.png]]
 #### 1.2.1.1 Cấu trúc thành mạch
 ![[tim_cau_truc_tbanh_mach_dong_mach.jpg]]
 - **Cấu trúc thành mạch** gồm 3 lớp:
@@ -218,13 +219,53 @@ Tim có thể tự đập kể cả khi cắt đứt thần kinh nối với cơ
 - Lớp thanh mạc(Serosa)
 #### 1.2.1.2 Động mạch chủ 
 ##### a. Đường đi, phân đoạn
+Động mạch chủ (ĐMC) xuất phát từ **tâm thất trái**, đi chếch lên trên sang phải rồi vòng sang trái đến đốt sống ngực 4 ($D4$) tạo thành một quai (quai ĐMC). Sau đó, mạch máu chạy phía trước bên trái cột sống, chui qua cơ hoành ở ngang mức **đốt sống ngực 11 ($D11$)** xuống ổ bụng, tới **đốt sống thắt lưng 4 ($L4$)** thì chia thành các nhánh tận.
 
+Về mặt giải phẫu, ĐMC được chia thành **3 đoạn chính**:
+###### 1. Quai động mạch chủ (Cung ĐMC)
+ _Mốc: Từ Tâm thất trái đến đốt sống ngực 4 ($D4$)_
+Tách ra **5 nhánh** cấp máu cho tim, đầu mặt cổ và hai tay:
+- **2 ĐM vành (phải và trái):** Tách ra ngay sát gốc ĐMC để nuôi tim.
+- **Thân ĐM cánh tay đầu:** Chạy lên trên rồi chia thành 2 nhánh: _ĐM cảnh gốc phải_ (ĐM cảnh chung phải) là _ĐM dưới đòn phải_.
+- **ĐM cảnh gốc trái** (ĐM cảnh chung trái).
+- **ĐM dưới đòn trái.**
+###### 2. Động mạch chủ ngực
+ _Mốc: Từ đốt sống ngực 4 ($D4$) đến đốt sống ngực 11 ($D11$) – chui qua cơ hoành_
+Chạy trong trung thất sau, tách ra **4 loại nhánh** cấp máu cho vách ngực và các tạng trong ngực
+- **2 ĐM phế quản:** Nuôi phổi.
+- **ĐM trung thất sau:** Nuôi màng ngoài tim.
+- **3 – 5 ĐM thực quản:** Nuôi 2/3 trên thực quản.
+- **9 đôi ĐM liên sườn cuối:** Nuôi vách ngực.
 
+###### 3. Động mạch chủ bụng
+_Mốc: Từ đốt sống ngực 4 ($D4$) đến đốt sống ngực 11 ($D11$) – chui qua cơ hoành_
+Chạy trong trung thất sau, tách ra **4 loại nhánh** cấp máu cho vách ngực và các tạng trong ngực:
+- **2 ĐM phế quản:** Nuôi phổi.
+- **ĐM trung thất sau:** Nuôi màng ngoài tim.
+- **3 – 5 ĐM thực quản:** Nuôi 2/3 trên thực quản.
+- **9 đôi ĐM liên sườn cuối:** Nuôi vách ngực.
 ##### b. Nhánh tận
-
+Ngang mức đốt sống thắt lưng 4 ($L4$), động mạch chủ bụng chia thành **3 nhánh tận chính**:
+- **ĐM cùng giữa:** Nhánh nhỏ chạy tiếp xuống dưới, tách ra _đôi ĐM thắt lưng V_.
+- **2 ĐM chậu gốc (ĐM chậu chung phải và trái):** Tách sang hai bên, mỗi ĐM chậu gốc lại tiếp tục chia thành 2 nhánh:
+    - **ĐM chậu trong:** Chạy vào trong chậu hông để cấp máu nuôi các tạng trong chậu và thành chậu.
+    - **ĐM chậu ngoài:**
+        - Trên đường đi cho 2 nhánh bên là _ĐM thượng vị_ (ĐM thượng vị dưới) và _ĐM mũ chậu sâu_.
+        - Sau đó chạy qua **cung đùi** (dây chằng bẹn) xuống **tam giác Scarpa** (tam giác đùi) thì đổi tên thành **động mạch đùi** để nuôi toàn bộ chi dưới.
 
 #### 1.2.1.3 Động mạch phổi
+##### A. Chức năng và Đặc điểm đặc biệt
+- **Chức năng:** Dẫn máu nghèo $O_2$ và giàu $CO_2$ từ tim tới hai phổi để thực hiện quá trình trao đổi khí (thuộc **vòng tuần hoàn nhỏ** / tuần hoàn phổi)
+- **Đặc điểm:** Dù mang tên là _động mạch_ nhưng lại chứa _máu tĩnh mạch_ (có màu đỏ thẫm).
+##### B. Đường đi và Phân đoạn
+Động mạch phổi bắt đầu từ tim và chia làm 3 phần chính:
+###### a. Thân động mạch phổi ($Pulmonary\ Trunk$)
 
+###### b.Các nhánh tận (ĐM phổi phải và trái)
+
+###### c. Động mạch phổi trái ($Left\ Pulmonary\ Artery$):
+
+##### C. Liên quan giải phẫu quan trọng
 
 ### 1.2.2 Hệ tĩnh mạch
 

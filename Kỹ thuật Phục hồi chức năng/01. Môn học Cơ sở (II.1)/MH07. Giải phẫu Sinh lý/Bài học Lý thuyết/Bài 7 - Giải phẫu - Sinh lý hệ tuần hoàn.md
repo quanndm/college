@@ -259,6 +259,7 @@ Ngang mức đốt sống thắt lưng 4 ($L4$), động mạch chủ bụng chi
 - **Đặc điểm:** Dù mang tên là _động mạch_ nhưng lại chứa _máu tĩnh mạch_ (có màu đỏ thẫm).
 ##### B. Đường đi và Phân đoạn
 Động mạch phổi bắt đầu từ tim và chia làm 3 phần chính:
+
 ###### a. Thân động mạch phổi ($Pulmonary\ Trunk$)
 
 ###### b.Các nhánh tận (ĐM phổi phải và trái)

@@ -539,8 +539,18 @@ $$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \
     
     - Cuối thời kỳ tâm trương, **tâm nhĩ co nhẹ** (chiếm 0,1 giây) để đẩy nốt 20–30% lượng máu còn lại xuống thất, hoàn tất việc "đổ đầy" và kết thúc một chu chuyển.
 ### 2.5.2 Biểu hiện bên ngoài của chu chuyển tim 
+#### a. Mỏm tim đập 
+- **Hiện tượng:** Khi tâm thất co bóp, mỏm tim thu nhỏ, cứng lại và dội ra phía trước.
+- **Vị trí vị trí bắt/cảm nhận:** Khoang liên sườn V, trên đường giữa đòn bên trái.
 
-
+### b. Tiếng tim & Tần số co bóp
+- **Tiếng tim:** Mỗi chu chuyển nghe được 2 tiếng chính:
+    - **Tiếng T1 ("Bùm"):** Nghe ở **đầu thì tâm thu** (do đóng van nhĩ - thất).
+    - **Tiếng T2 ("Tặc"):** Nghe ở **đầu thì tâm trương** (do đóng van tổ chim/mạch máu).
+        
+- **Tần số tim bình thường:**
+    - **Người lớn:** 60 – 80 lần/phút.
+    - **Trẻ em:** Fast hơn, khoảng 100 – 110 lần/phút.
 
 
 ## 2.6 Huyết áp 

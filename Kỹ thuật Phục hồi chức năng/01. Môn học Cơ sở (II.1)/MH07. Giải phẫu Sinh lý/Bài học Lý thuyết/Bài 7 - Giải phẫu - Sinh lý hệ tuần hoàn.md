@@ -552,7 +552,7 @@ $$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \
     - **Người lớn:** 60 – 80 lần/phút.
     - **Trẻ em:** Fast hơn, khoảng 100 – 110 lần/phút.
 
-
+####
 ## 2.6 Huyết áp 
 
 

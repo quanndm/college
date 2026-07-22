@@ -563,6 +563,135 @@ $$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \
 
 ## 2.6 Huyết áp 
 
+### 2.6.1 Khái niệm 
+- **Huyết áp (Blood Pressure - BP):** Là áp lực của máu tác động lên thành động mạch khi tim co bóp và thư giãn.
+    
+- **Huyết áp tâm thu (Systolic Blood Pressure - SBP):** Áp lực tối đa trong động mạch khi tim co bóp (tâm thu). _Giá trị bình thường: 90 – 120 mmHg._
+    
+- **Huyết áp tâm trương (Diastolic Blood Pressure - DBP):** Áp lực tối thiểu trong động mạch khi tim dãn (tâm trương). _Giá trị bình thường: 60 – 80 mmHg._
+    
+- **Huyết áp hiệu số / Hiệu áp (Pulse Pressure - PP):** $PP = SBP - DBP$ (thường khoảng 30 – 50 mmHg).
+    
+- **Huyết áp trung bình (Mean Arterial Pressure - MAP):** Áp lực trung bình trong một chu kỳ tim, phản ánh mức độ tưới máu cơ quan.
+    
+    $$\text{MAP} \approx \text{DBP} + \frac{1}{3}\text{PP}$$
 
-## 2.7 Điều tiết tuần hoàn 
+### 2.6.2 Yếu tố ảnh hưởng đến huyết áp
+Huyết áp phụ thuộc vào công thức nền tảng:
 
+$$\text{BP} = \text{CO} \times \text{TPR}$$
+
+_(Trong đó: **CO (Cardiac Output)** = Cung lượng tim; **TPR (Total Peripheral Resistance)** = Sức cản ngoại vi toàn bộ)_
+
+- **Cung lượng tim (Cardiac Output - CO):**
+    
+    - Tăng thể tích nhát bóp (**Stroke Volume - SV**) hoặc tần số tim (**Heart Rate - HR**) $\rightarrow$ **Tăng BP**.
+        
+- **Sức cản ngoại vi (Total Peripheral Resistance - TPR):**
+    
+    - Phụ thuộc lớn nhất vào bán kính lòng mạch (**Vessel Radius**). Co mạch (**Vasoconstriction**) $\rightarrow$ Tăng TPR $\rightarrow$ **Tăng BP**; Giãn mạch (**Vasodilation**) $\rightarrow$ **Giảm BP**.
+        
+- **Thể tích máu (Blood Volume):** Tăng thể tích (uống nhiều nước, giữ muối) $\rightarrow$ **Tăng BP**.
+    
+- **Độ nhớt của máu (Blood Viscosity):** Máu đặc hơn (như đa hồng cầu) $\rightarrow$ **Tăng BP**.
+    
+- **Độ đàn hồi của thành mạch (Arterial Compliance / Elasticity):** Mạch xơ vữa, giảm đàn hồi $\rightarrow$ **Tăng SBP** (thường gặp ở người già).
+
+### 2.6.3 Phân loại
+_(Theo chuẩn phân loại phổ biến của AHA/ACC)_
+
+| **Phân loại (Category)**                      | **Huyết áp tâm thu (SBP)** |             | **Huyết áp tâm trương (DBP)** |
+| --------------------------------------------- | -------------------------- | ----------- | ----------------------------- |
+| **Bình thường (Normal)**                      | $< 120\text{ mmHg}$        | **và**      | $< 80\text{ mmHg}$            |
+| **Tăng HA tiền đề / Tiền tăng HA (Elevated)** | $120 - 129\text{ mmHg}$    | **và**      | $< 80\text{ mmHg}$            |
+| **Tăng huyết áp Độ 1 (Stage 1 Hypertension)** | $130 - 139\text{ mmHg}$    | **hoặc**    | $80 - 89\text{ mmHg}$         |
+| **Tăng huyết áp Độ 2 (Stage 2 Hypertension)** | $\ge 140\text{ mmHg}$      | **hoặc**    | $\ge 90\text{ mmHg}$          |
+| **Cơn tăng huyết áp (Hypertensive Crisis)**   | $> 180\text{ mmHg}$        | **và/hoặc** | $> 120\text{ mmHg}$           |
+
+### 2.6.4 Ý nghĩa của huyết áp
+- **Duy trì tưới máu mô (Tissue Perfusion):** Đảm bảo cung cấp oxy và dưỡng chất đến các cơ quan quan trọng (não, tim, thận).
+    
+- **Đánh giá sức khỏe hệ tim mạch (Cardiovascular Assessment):** Là một trong những dấu hiệu sinh tồn (**Vital Signs**) quan trọng nhất.
+    
+- **Cảnh báo nguy cơ lâm sàng:**
+    
+    - **Hạ huyết áp (Hypotension):** Dẫn đến thiếu máu cục bộ (**Ischemia**), gây choáng/sốc (**Shock**), ngất (**Syncope**).
+        
+    - **Tăng huyết áp (Hypertension):** Dẫn đến biến chứng dài hạn như đột quỵ (**Stroke**), nhồi máu cơ tim (**Myocardial Infarction**), suy thận (**Kidney Failure**).
+
+### 2.6.5 Cơ chế điều hòa huyết áp 
+- **Thần kinh (Short-term / Neural Control):** Thụ thể áp lực (**Baroreceptors**) ở xoang động mạch cảnh và cung động mạch chủ giúp điều chỉnh huyết áp chỉ trong vài giây thông qua hệ thần kinh thực vật (Giao cảm/Phó giao cảm).
+    
+- **Thể dịch / Nội tiết (Long-term / Hormonal Control):**
+    
+    - **Hệ RAAS (Renin-Angiotensin-Aldosterone System):** Thận tiết Renin khi HA giảm $\rightarrow$ Co mạch + giữ muối nước $\rightarrow$ Tăng HA.
+        
+    - **Hormone ADH (Antidiuretic Hormone):** Tăng tái hấp thu nước ở thận.
+        
+    - **ANP (Atrial Natriuretic Peptide):** Do tâm nhĩ tiết ra khi HA cao $\rightarrow$ Tăng thải muối nước $\rightarrow$ Giảm HA.
+
+## 2.7 Điều tiết tuần hoàn (Regulation of Circulation)
+Hệ tuần hoàn được điều hòa thông qua **3 cơ chế chính**: Thần kinh (Neural), Phản xạ (Reflexes) và Thể dịch (Humoral/Hormonal).
+### 2.7.1 Cơ chế thần kinh (Neural Mechanisms)
+- **Hệ dẫn truyền tự động của tim (Intrinsic Cardiac Conduction System):**
+    
+    - Gồm: Nút xoang (**Sinoatrial node - SA node**), Nút nhĩ thất (**Atrioventricular node - AV node**), Bó His (**Bundle of His**) và Mạng Purkinje (**Purkinje fibers**). Tạo và dẫn truyền xung động tự động.
+        
+- **Hệ thần kinh thực vật (Autonomic Nervous System - ANS):**
+    
+    - **Hệ giao cảm (Sympathetic System):** Tiết _Noradrenaline/Norepinephrine_ $\rightarrow$ Tăng tần số tim (**Positive Chronotropy**), tăng lực co bóp (**Positive Inotropy**), co mạch ngoại vi $\rightarrow$ **Tăng huyết áp (Tăng BP)**.
+        
+    - **Hệ phó giao cảm (Parasympathetic System - Dây X / Vagus Nerve):** Tiết _Acetylcholine (ACh)_ $\rightarrow$ Giảm nhịp tim, giảm lực co bóp, giãn mạch $\rightarrow$ **Giảm huyết áp (Giảm BP)**.
+        
+- **Vỏ não & Tâm lý (Cerebral Cortex & Emotions):**
+    
+    - Cảm xúc vừa phải / Lo âu $\rightarrow$ Kích thích giao cảm $\rightarrow$ **Tim đập nhanh, tăng BP**.
+        
+    - Sốc / Cảm xúc quá mạnh $\rightarrow$ Kích thích phó giao cảm đột ngột $\rightarrow$ **Ức chế tim, chậm nhịp hoặc ngừng tim tạm thời (Syncope/Ngất)**.
+
+### 2.7.2 Cơ chế phản xạ (Reflex Mechanisms)
+Đây là các phản xạ tự động của cơ thể nhằm giữ ổn định huyết áp và dòng máu (Hằng định nội môi).
+#### A. Phản xạ tại gốc tim (Cardiac Reflexes / Bainbridge Reflex)
+
+- **Cơ chế:** Khi máu về tim nhiều (**Tăng Tĩnh mạch về / Venous Return**) $\rightarrow$ Giãn buồng tim $\rightarrow$ Kích thích thụ cảm thể thể tích (**Stretch/Volume Receptors**).
+    
+- **Đáp ứng:** Xung động về hành tủy $\rightarrow$ Tăng giao cảm $\rightarrow$ Tăng sức co bóp và nhịp tim.
+    
+- **Ý nghĩa:** Tự điều hòa, tống máu hiệu quả ra ngoại vi, tránh **ứ máu tại tim**.
+
+#### B.Phản xạ từ Thụ cảm thể Áp lực & Hóa học (Baroreceptors & Chemoreceptors)
+Nằm ở 2 vị trí chiến lược: **Quai động mạch chủ (Aortic Arch)** và **Xoang động mạch cảnh (Carotid Sinus)**.
+
+|**Loại thụ cảm thể**|**Tín hiệu kích thích**|**Đường truyền về**|**Trung khu điều khiển**|**Kết quả / Phản xạ**|
+|---|---|---|---|---|
+|**Thụ cảm thể Áp lực (Baroreceptors)**|Huyết áp tăng|Dây Cyon (đổ về dây X)<br><br>  <br><br>Dây Hering (đổ về dây IX)|Trung khu giảm áp (Vasomotor Center - hành tủy)|**Phản xạ giảm áp:** Giảm giao cảm, tăng phó giao cảm $\rightarrow$ Nhịp tim chậm, giãn mạch, **Giảm BP**. (Ngược lại khi BP giảm).|
+|**Thụ cảm thể Hóa học (Chemoreceptors)**|Giảm $O_2$, tăng $CO_2$, tăng $H^+$ (Toan hóa)|Theo dây IX và X|Trung khu tăng áp|**Phản xạ tăng áp:** Tăng giao cảm $\rightarrow$ Tim đập nhanh, co mạch, **Tăng BP** để tăng tưới máu oxy.|
+
+#### C. Phản xạ bắt nguồn ngoài hệ tuần hoàn (Extracardiac Reflexes)
+- **Phản xạ Mắt - Tim (Aschner Reflex):** Ấn nhẹ 2 nhãn cầu $\rightarrow$ Kích thích nhánh mắt của **Dây V (Trigeminal Nerve)** $\rightarrow$ Xung về hành tủy kích thích **Dây X** $\rightarrow$ **Tim đập chậm lại**. _(Dùng ứng dụng cắt cơn tim đập nhanh lâm sàng)_.
+    
+- **Phản xạ Nội tạng (Goltz Reflex):** Kích thích cơ học mạnh vào vùng thượng vị/bụng $\rightarrow$ Kích thích dây X mạnh $\rightarrow$ **Tim chậm hoặc ngưng đập**.
+    
+- **Phản xạ Đau (Pain Reflex):** Kích thích đau mạnh ở da/cơ $\rightarrow$ Kích thích giao cảm $\rightarrow$ **Tim đập nhanh, tăng BP**.
+    
+- **Hoạt động trí óc & Lo âu:** Làm tăng catecholamine lưu thông $\rightarrow$ **Tăng BP**.
+
+### 2.7.3 Điều tiết tim mạch theo cơ chế thể dịch (Humoral Regulation)
+Nội tiết và hóa chất trong máu tác động trực tiếp hoặc gián tiếp lên tim mạch:
+- **Khí trong máu:**
+    
+    - Tăng $CO_2$ ($PCO_2$ tăng) hoặc Giảm $O_2$ $\rightarrow$ Kích thích trung khu vận mạch $\rightarrow$ **Tim đập nhanh, co mạch, tăng BP**.
+        
+- **Các chất Cường giao cảm (Sympathomimetic Agents):**
+    
+    - _Adrenalin (Epinephrine)_ & _Noradrenalin (Norepinephrine)_: Do tủy thượng thận tiết ra $\rightarrow$ **Tăng nhịp tim, tăng lực co bóp, co mạch, tăng BP**.
+        
+- **Các chất Cường phó giao cảm (Parasympathomimetic Agents):**
+    
+    - _Acetylcholine (ACh)_: Do đầu tận cùng dây phó giao cảm tiết $\rightarrow$ **Giảm nhịp tim, giãn mạch, giảm BP**.
+        
+- **Nồng độ Ion Cation trong máu (Electrolytes):**
+    
+    - **Ion Potassium ($K^+$):** $K^+$ máu tăng quá cao $\rightarrow$ Giảm điện thế nghỉ $\rightarrow$ **Tim đập chậm, yếu, có thể ngừng tim ở thì tâm trương** (Rất nguy hiểm trên lâm sàng).
+        
+    - **Ion Calcium ($Ca^{2+}$):** $Ca^{2+}$ máu tăng $\rightarrow$ Tăng co bóp cơ tim $\rightarrow$ **Tim đập mạnh, co thắt, có thể ngừng tim ở thì tâm thu**.

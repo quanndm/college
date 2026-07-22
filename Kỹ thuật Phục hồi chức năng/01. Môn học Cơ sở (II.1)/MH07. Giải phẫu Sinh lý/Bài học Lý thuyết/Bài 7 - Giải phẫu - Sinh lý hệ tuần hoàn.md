@@ -552,7 +552,10 @@ $$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \
     - **Người lớn:** 60 – 80 lần/phút.
     - **Trẻ em:** Fast hơn, khoảng 100 – 110 lần/phút.
 
-####
+#### c. Lưu lượng tim
+- **Thể tích tống máu (mỗi nhịp):** 60 – 70 ml/lần tâm thu.
+- **Lưu lượng phút (mỗi phút):** 4 – 6 lít/phút.
+
 ## 2.6 Huyết áp 
 
 

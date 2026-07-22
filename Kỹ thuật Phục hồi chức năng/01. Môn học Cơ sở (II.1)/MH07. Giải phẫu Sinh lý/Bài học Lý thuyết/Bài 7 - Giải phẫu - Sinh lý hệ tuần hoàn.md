@@ -556,7 +556,10 @@ $$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \
 - **Thể tích tống máu (mỗi nhịp):** 60 – 70 ml/lần tâm thu.
 - **Lưu lượng phút (mỗi phút):** 4 – 6 lít/phút.
 
-###
+#### d. Mạch đập
+- **Bản chất:** Là **sóng giãn của thành động mạch** khi tim co bóp tống máu vào hệ tuần hoàn.    
+- **Vị trí dễ cảm nhận:** Các động mạch nông, sát bề mặt cơ thể (cổ tay, thái dương, cổ).
+
 
 ## 2.6 Huyết áp 
 

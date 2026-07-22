@@ -444,12 +444,102 @@ Hệ tuần hoàn đóng vai trò quyết định đối với sự sống. Có 
 
 ## 2.4 Phân chia vòng tuần hoàn 
 ![[so-do-vong-tuan-hoan-mau-o-nguoi-min_1.png]]
+### 2.4.1 Vòng tuần hoàn nhỏ / Tuần hoàn phổi (_Pulmonary Circulation_)
+Máu nghèo $\text{O}_2$ (giàu $\text{CO}_2$) từ cơ thể trở về tâm thất phải được bơm lên phổi để trao đổi khí và quay về tâm nhĩ trái:
+
+$$\text{Tâm thất phải} \rightarrow \text{Động mạch phổi} \rightarrow \text{Mao mạch phổi} \rightarrow \text{Tĩnh mạch phổi} \rightarrow \text{Tâm nhĩ trái}$$
+
+- **(1) Tâm thất phải** (_Right Ventricle_): Co bóp đưa máu nghèo $\text{O}_2$, qua van động mạch phổi (_Pulmonary valve_).
+    
+- $\rightarrow$ **(2) Động mạch phổi** (_Pulmonary Artery_): Vận chuyển máu nghèo $\text{O}_2$ phân nhánh sang hai bên.
+    
+- $\rightarrow$ **(3) Phổi & Mao mạch phổi** (_Lungs & Pulmonary Capillaries_): Tại đây diễn ra quá trình trao đổi khí (nhả $\text{CO}_2$, nhận $\text{O}_2$). Máu trở thành máu dồi dào $\text{O}_2$ (máu đỏ tươi).
+    
+- $\rightarrow$ **Tĩnh mạch phổi** (_Pulmonary Veins_): Dẫn máu giàu $\text{O}_2$ từ phổi trở về tim.
+    
+- $\rightarrow$ **(4) Tâm nhĩ trái** (_Left Atrium_): Tiếp nhận máu giàu $\text{O}_2$ từ tĩnh mạch phổi để chuẩn bị chuyển sang vòng đại tuần hoàn.
 
 
+### 2.4.2 Vòng tuần hoàn lớn / Tuần hoàn hệ thống (_Systemic Circulation_)
+Máu giàu $\text{O}_2$ được bơm từ tâm thất trái đi nuôi toàn bộ cơ thể, sau đó nhận $\text{CO}_2$ và chất thải quay về tâm nhĩ phải:
 
+$$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \text{Mao mạch cơ quan} \rightarrow \text{Tĩnh mạch chủ} \rightarrow \text{Tâm nhĩ phải}$$
 
+- _(Chuyển tiếp: Máu từ **(4) Tâm nhĩ trái** qua van 2 lá / van hai lá (_Mitral valve_) đổ xuống **(5) Tâm thất trái**)_
+    
+- **(5) Tâm thất trái** (_Left Ventricle_): Co bóp đẩy máu giàu $\text{O}_2$ qua van động mạch chủ (_Aortic valve_).
+    
+- $\rightarrow$ **(6) Động mạch chủ** (_Aorta_): Đưa máu giàu $\text{O}_2$ đi nuôi cơ thể, chia làm các nhánh hướng lên trên và xuống dưới:
+    
+    - Nhánh trên đi tới **(7) Mao mạch đầu và chi trên** (_Capillaries of Head and Upper Limbs_).
+        
+    - Nhánh dưới đi tới **(8) Mao mạch các cơ quan bụng và chi dưới** (_Capillaries of Abdominal Organs and Lower Limbs_).
+        
+- $\rightarrow$ **Mao mạch cơ thể** (_Systemic Capillaries_): Máu nhường $\text{O}_2$ và dinh dưỡng cho tế bào, đồng thời nhận $\text{CO}_2$ cùng chất thải (chuyển thành máu nghèo $\text{O}_2$).
+    
+- $\rightarrow$ **Tĩnh mạch chủ** (_Vena Cava_):
+    
+    - Máu từ nửa trên cơ thể theo **(9) Tĩnh mạch chủ trên** (_Superior Vena Cava_).
+        
+    - Máu từ nửa dưới cơ thể theo **(10) Tĩnh mạch chủ dưới** (_Inferior Vena Cava_).
+        
+- $\rightarrow$ **(11) Tâm nhĩ phải** (_Right Atrium_): Tiếp nhận toàn bộ máu nghèo $\text{O}_2$ thu gom từ hệ tĩnh mạch chủ.
+    
+
+> **Ghi chú khép kín vòng tuần hoàn:** Máu từ **(11) Tâm nhĩ phải** sẽ qua van 3 lá (_Tricuspid valve_) để đổ xuống **(1) Tâm thất phải**, chuẩn bị bắt đầu lại Vòng tuần hoàn nhỏ.
 
 ## 2.5 Hoạt động của tim
+### 2.5.1 Chu chuyển tim (**Chu kỳ tim** - _Cardiac Cycle_)
+- Tim co bóp và nghỉ nhịp nhàng tạo thành các chu chuyển tim
+	- Là khoảng thời gian từ cuối kỳ co bóp này đến cuối kỳ co bóp kế tiếp
+- Một chu chuyển tim (0,8 giây) được chia làm **2 thời kỳ lớn**: **Tâm thu** (_Systole_ - tim co bóp tống máu) và **Tâm trương** (_Diastole_ - tim dãn ra nhận máu).
+- Thời gian của một chu chuyển tim là 8/10 giây.
+	+ Tâm nhĩ thu 1/10 giây, nghỉ 7/10 giây
+	+ Tâm thất thu 3/10 giây, nghỉ 5/10 giây
+ ![[tim_chu_chuyen_tim.png]]
+![[cac-dien-bien-cua-chu-chuyen-tim.jpg]]
+
+#### 2.5.1.1 Thì tâm thu (_Systole_)
+(có thì tâm nhĩ thu và tâm thất thu) tim co lại tống máu vào các động mạch.
+- **Tâm nhĩ thu:**
+	- Hai tâm nhĩ co lại, đẩy nốt lượng máu còn lại xuống hai tâm thất qua van hai lá và van ba lá.
+	- Co bóp chiếm khoảng 1/10 giây, nghỉ khoảng 7/10 giây
+
+- **Tâm thất thu**:
+	- Hai tâm thất co mạnh, đóng các van nhĩ-thất (tạo ra tiếng tim thứ nhất - tiếng "bùm") và đẩy máu vào động mạch chủ và động mạch phổi qua các van bán nguyệt.
+	- Hai tâm thất co bóp khoảng 3/10 giây. (Có hai giai đoạn: Giai đoạn tăng áp lực, giai đoạn tống máu.)
+
+
+- **Giai đoạn Co đồng thể tích / Co đẳng tích** (_Isovolumetric Contraction_):
+    
+    - Tâm thất bắt đầu co, áp suất thất tăng vọt vượt quá áp suất nhĩ $\rightarrow$ **Van nhĩ-thất đóng lại** (tạo tiếng tim $T_1$ / tiếng "bùm").
+        
+    - Lúc này van động mạch vẫn chưa mở, thể tích máu trong thất không đổi.
+        
+- **Giai đoạn Tống máu** (_Ejection Phase_):
+    
+    - Áp suất thất tiếp tục tăng cao hơn áp suất động mạch $\rightarrow$ **Van động mạch mở ra**.
+        
+    - Máu được phun mạnh vào động mạch chủ và động mạch phổi (tống máu nhanh rồi tống máu chậm).
+#### 2.5.1.2 Thì tâm trương (_Diastole_):
+- Là lúc tim nghỉ toàn bộ. Toàn bộ tim dãn ra. Các van bán nguyệt đóng lại (tạo ra tiếng tim thứ hai - tiếng "tặc") để ngăn máu chảy ngược. Máu từ các tĩnh mạch bị hút về hai tâm nhĩ.
+
+- **Giai đoạn Dãn đồng thể tích / Dãn đẳng tích** (_Isovolumetric Relaxation_):
+    
+    - Tâm thất bắt đầu dãn, áp suất thất giảm xuống dưới áp suất động mạch $\rightarrow$ **Van động mạch đóng lại** (tạo tiếng tim $T_2$ / tiếng "tặc").
+    - Tất cả các van đều đóng, thể tích thất không đổi.
+        
+- **Giai đoạn Đổ đầy thất** (_Ventricular Filling Phase_):
+    
+    - Áp suất thất giảm xuống thấp hơn áp suất nhĩ $\rightarrow$ **Van nhĩ-thất mở ra**.
+        
+    - Máu từ nhĩ ùa xuống thất (hút máu về tự nhiên chiếm khoảng 70–80% lượng máu).
+        
+- **Giai đoạn Nhĩ thu** (_Atrial Systole_):
+    
+    - Cuối thời kỳ tâm trương, **tâm nhĩ co nhẹ** (chiếm 0,1 giây) để đẩy nốt 20–30% lượng máu còn lại xuống thất, hoàn tất việc "đổ đầy" và kết thúc một chu chuyển.
+### 2.5.2 Biểu hiện bên ngoài của chu chuyển tim 
+
 
 
 

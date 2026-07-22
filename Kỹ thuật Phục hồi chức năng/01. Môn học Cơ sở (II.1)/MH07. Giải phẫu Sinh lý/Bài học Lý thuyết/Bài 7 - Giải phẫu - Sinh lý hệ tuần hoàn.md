@@ -362,16 +362,99 @@ Bạch huyết di chuyển theo một chiều duy nhất nhờ sự co bóp củ
     - **Ống lồng ngực (Thoracic duct):** Lớn hơn rất nhiều, thu gom bạch huyết của **3/4 còn lại** của cơ thể (toàn bộ phần dưới cơ thể + tay trái, nửa trái đầu/cổ/ngực) $\rightarrow$ Đổ vào tĩnh mạch dưới đòn trái.
 
 # 2. Sinh lý 
-## 2.1 Khái niệm 
+## 2.1 Khái niệm
+Tuần hoàn là sự vận động của máu (và dịch bạch huyết) trong cơ thể, cũng như cơ chế hoạt động của các cơ quan tham gia vào quá trình này (tim và hệ thống mạch máu).
 
+Hệ tuần hoàn là một hệ thống khép kín gồm **2 vòng tuần hoàn chính**:
+- **Vòng tuần hoàn lớn (Tần hoàn cơ thể):** Đưa máu giàu $O_2$ và dinh dưỡng từ **thất trái** tim đến nuôi các cơ quan, sau đó nhận lại $CO_2$ và chất thải về **tâm nhĩ phải**.    
+- **Vòng tuần hoàn nhỏ (Tuần hoàn phổi):** Đưa máu giàu $CO_2$ từ **thất phải** tim lên phổi để trao đổi khí (thải $CO_2$, nhận $O_2$), rồi trả máu giàu $O_2$ về **tâm nhĩ trái**.
+## 2.2 Đặc tính sinh lý của cơ tim 
+Có 4 đặc tính:
+- **Tính hưng phấn** 
+- **Tính trơ có chu kỳ** 
+- **Tính nhịp điệu** 
+- **Tính dẫn truyền** 
 
-## 2.2 Vai trò 
+### a. Tính hưng phấn (Excitability)
+- **Khái niệm:** Là khả năng của cơ tim biết hưng phấn (phát ra điện thế hoạt động và co bóp) khi có một kích thích đạt ngưỡng.
 
+ - **Đặc điểm về điện thế hoạt động của cơ tim: cao nguyên (plateau).**
+	 + Kênh calci chậm ở màng tế bào cơ tim  
+	 + Giảm tính thấm với ion kali
 
-## 2.3 Phân chia vòng tuần hoàn 
+- **Quy luật "Tất hoặc không" (All-or-None):**
+    - Nếu kích thích dưới ngưỡng: Cơ tim **không co bóp**.
+    - Nếu kích thích đạt hoặc vượt ngưỡng: Cơ tim sẽ **co bóp tối đa**.
+    - _Lý do:_ Cơ tim hoạt động như một hợp bào (syncytium) nhờ các cầu liên kết (gap junctions) giữa các tế bào. Khi 1 tế bào hưng phấn, nó sẽ lan truyền ra toàn bộ tâm nhĩ hoặc toàn bộ tâm thất.
+![[tim_sinh_ly_tinh_hung_phan.jpg]] 
+_Hình - Đường ghi co cơ tim và co cơ vân theo cường độ kích thích_
+### b. Tính trơ có chu kỳ (Refractory Period)
+- **Khái niệm:** Là tính không đáp ứng với kích thích của cơ tim khi nó đang co bóp.
+
+- **Đặc điểm:**
+    - **Trơ tuyệt đối:** Trong giai đoạn tim đang co (tâm thu), dù có kích thích mạnh đến đâu tim cũng **không đáp ứng**        
+    - **Trơ tương đối:** Khi tim bắt đầu giãn (đầu tâm trương), nếu kích thích rất mạnh thì tim có thể co thêm một nhịp bất thường (gọi là **ngoại tâm thu**).
+
+- **Khi kích thích liên tục** => **Tim không bị co cứng** => **Phù hợp chức năng bơm máu**
+	- **Ý nghĩa sinh lý tối quan trọng:** Giúp cơ tim **không bao giờ bị co cứng (uốn ván)** như cơ xương. Tim bắt buộc phải có khoảng nghỉ (tâm trương) để hút máu về nạp đầy các buồng tim trước khi bơm tiếp.
+![[tim_sinh_ly_tinh_tro_co_chu_ky.png]]
+### c. Tính nhịp điệu (Rhythmicity)
+- **Khái niệm:** Là khả năng tự phát ra các xung động nhịp nhàng theo chu kỳ của hệ thống nút tự động trong tim, ngay cả khi cắt đứt hoàn toàn dây thần kinh chi phối.
+    
+- **Hệ thống phát nhịp tự động:**
+    1. **Nút xoang (SA node):** "Lãnh đạo" phát nhịp chính (60–100 lần/phút, thường thấy là 70 - 80).
+    2. **Nút nhĩ thất (AV node):** Phát nhịp phụ (40–60 lần/phút, thường thấy là 50 - 60) nếu nút xoang hỏng.
+    3. **Bó His & Mạng Purkinje:** Phát nhịp chậm nhất (20–40 lần/phút).
+
+### d. Tính dẫn truyền (Conductivity)
+- **Khái niệm:** Là khả năng dẫn truyền xung điện từ điểm phát nhịp đi khắp các buồng tim.
+![[tim_sinh_ly_tinh_dan_truyen.jpeg]]
+
+- **Con đường dẫn truyền:**
+
+$$\text{Nút xoang (SA)} \longrightarrow \text{Nút nhĩ thất (AV)} \longrightarrow \text{Bó His} \longrightarrow \text{Nhánh T/P} \longrightarrow \text{Mạng Purkinje} \longrightarrow \text{Cơ tâm thất}$$
+
+- **Nút thắt quan trọng:** Khi dòng điện qua **nút nhĩ thất (AV node)**, tốc độ dẫn truyền bị **chậm lại khoảng 0.1 giây**. Mục đích để tâm nhĩ co xong và tống hết máu xuống tâm thất rồi tâm thất mới bắt đầu co.
+
+### e. Tóm tắt so sánh 4 đặc tính
+
+|**Đặc tính**|**Bản chất đơn giản**|**Tác dụng/Ý nghĩa sinh lý**|
+|---|---|---|
+|**1. Hưng phấn**|Nhận kích thích -> Co bóp|Tuân theo quy luật "Tất hoặc không"|
+|**2. Trơ có chu kỳ**|Đang co thì không nhận thêm kích thích|Giúp tim không bị co cứng, bảo vệ nhịp bơm máu|
+|**3. Nhịp điệu**|Tự phát ra điện không cần thần kinh|Giữ tim đập đều đặn liên tục suốt đời|
+|**4. Dẫn truyền**|Truyền dòng điện đi khắp tim|Phối hợp nhịp nhàng: Nhĩ co trước, thất co sau|
+## 2.3 Vai trò 
+Hệ tuần hoàn đóng vai trò quyết định đối với sự sống. Có thể nhóm thành 4 nhóm vai trò lớn sau:
+### a. Chức năng vận chuyển (Giao thông toàn thân)
+- **Cung cấp $O_2$ và chất dinh dưỡng:** Đưa oxy từ phổi và chất dinh dưỡng (glucose, axit amin, lipid...) hấp thu từ hệ tiêu hóa đến tận từng tế bào.
+- **Đào thải chất thừa:** Thu gom $CO_2$ vận chuyển về phổi để thở ra ngoài, và gom các chất chuyển hóa độc hại (ure, creatinin...) mang đến thận, gan để lọc/thải ra ngoài.
+
+### b. Chức năng bảo vệ cơ thể
+- **Miễn dịch:** Vận chuyển các bạch cầu, kháng thể và các yếu tố miễn dịch đi khắp cơ thể để phát hiện, tiêu diệt vi khuẩn, virus, tế bào lạ.
+- **Cầm máu:** Chứa tiểu cầu và các yếu tố đông máu giúp bịt kín vết thương, ngăn ngừa mất máu khi mạch máu bị tổn thương.
+
+### c. Chức năng điều hòa & Nội môi 
+- **Điều hòa hoạt động cơ quan:** Vận chuyển các **hormone** (nội tiết tố) từ các tuyến nội tiết đến cơ quan đích để chỉ đạo hoạt động.
+- **Duy trì nội môi:** Giữ ổn định pH máu, áp suất thẩm thấu, lượng nước và nồng độ các ion trong môi trường bên trong tế bào/mô.
+
+### d. Chức năng điều hòa nhiệt độ
+- Máu chứa nhiều nước nên có khả năng tích trữ và phân phối nhiệt rất tốt.
+- Khi nóng, các mạch máu dưới da **giãn ra** để tỏa nhiệt. Khi lạnh, mạch máu **co lại** để giữ nhiệt cho các cơ quan nội tạng quan trọng.
+
+## 2.4 Phân chia vòng tuần hoàn 
 ![[so-do-vong-tuan-hoan-mau-o-nguoi-min_1.png]]
 
 
 
 
+
+## 2.5 Hoạt động của tim
+
+
+
+## 2.6 Huyết áp 
+
+
+## 2.7 Điều tiết tuần hoàn 
 

@@ -124,15 +124,99 @@ Mũi được cấu tạo chủ yếu bởi khung xương-sụn và lớp niêm 
     - Kéo dài xuống dưới đến ngang mức **Đốt sống cổ VI (C6)** hoặc bờ dưới **Sụn nhẫn** (_Cricoid cartilage_), nơi nó liên tiếp với **Thực quản** (_Esophagus_).
 ![[he_ho_hap_hau_1.png|645]]
 
-### 1.2.2 Hình thể ngoài 
+### 1.2.2 Hình thể ngoài (Không có)
 
-### 1.2.3 Hình thể trong 
+### 1.2.3 Hình thể trong  
+Hầu được chia thành **3 tầng / 3 đoạn** từ trên xuống dưới:
+![[he_ho_hap_hau_3.png]]
+#### A. Tỵ hầu / Hầu mũi (Nasopharynx)
+- **Vị trí**: Nằm sau hố mũi, từ nền sọ đến bờ sau của khẩu cái mềm (_Soft palate_). Chỉ có chức năng hô hấp.
+
+- **Các chi tiết giải phẫu quan trọng**:
+    - **Lỗ mũi sau** (_Choanae_): Thông phía trước với hố mũi.
+    - **Vòm hầu** => niêm mạc phủ mặt dưới của xương thân bướm, phần nền xương chẩm, cung trước đốt đội
+	    -  **Tuyến hạnh nhân hầu / VA** (_Pharyngeal tonsil / Adenoid_): Nằm ở trần và thành sau tỵ hầu. Khi phì đại gọi là **chêm VA**, gây nghẹt mũi ở trẻ em.
+    - **Lỗ vòi tai / Vòi Eustache** (_Pharyngeal opening of auditory tube_): Nằm ở thành bên, thông tỵ hầu với hòm tai (giúp cân bằng áp suất không khí ở tai giữa).
+	    - Mô bạch huyết quanh lỗ hầu của vòi tai => **hạnh nhân vòi**
+		- **Tuyến hạnh nhân vòi** (_Tubal tonsil_): Nằm vây quanh lỗ vòi tai.
+![[he_ho_hap_hau_2.png]]
+#### B. Khẩu hầu / Hầu miệng (Oropharynx)
+- **Vị trí**: Nằm sau khoang miệng, từ khẩu cái mềm xuống đến bờ trên **Sụn nắp thanh nhiệt** (_Epiglottis_). Là đoạn chung cho cả hô hấp và tiêu hóa.
+
+- **Các chi tiết giải phẫu quan trọng**:
+    - **Eo họng** (_Oropharyngeal isthmus_): Thông phía trước với khoang miệng.
+	    - Giới hạn bởi:
+		    - Lưỡi gà trên 
+		    - Hai cung khẩu cái lưỡi (trên)
+		    - Lưng lưỡi (ở dưới)
+	- Dưới eo họng:
+		- Phần lưng mặt lưỡi ở sau chữ V lưỡi dựng đứng như 1 bức tường nằm trước phần dưới khẩu hầu 
+		- **Tuyến hạnh nhân lưỡi** (_Lingual tonsil_): Nằm ở rễ lưỡi (1/3 sau lưỡi). Mô bạch huyết  nằm ở vùng này
+    - Thành sau: nằm ở trước đốt sống cổ 2 và 3
+    - Hai thành bên :
+	    - Hai nếp niêm mạc từ khẩu cái mềm đi xuống 
+		    - cung khẩu cái lưỡi ở trước 
+		    - cung khẩu cái hầu ở sau 
+		    - Giữa 2 cung: 1 hố chứa **hạnh nhân khẩu cái**
+		-  **Tuyến hạnh nhân khẩu cái / Amydal** (_Palatine tonsil_): Nằm ở hố amydal giữa hai nếp cơ (trụ trước và trụ sau). Đây là tổ chức hay bị viêm nhất.
+
+> **Ghi chú mở rộng (Vòng Waldeyer - Waldeyer's ring):**
+> 
+> Các tuyến hạnh nhân tập hợp lại thành một **vòng bạch huyết quanh hầu** bảo vệ cửa ngõ hô hấp/tiêu hóa gồm: _Tuyến hạnh nhân hầu (VA) + (2) Tuyến hạnh nhân vòi + (2) Tuyến hạnh nhân khẩu cái (Amydal) + Tuyến hạnh nhân lưỡi_.
+![[he_ho_hap_hau_4.png]]
+#### C. Thanh hầu / Hầu thanh quản (Laryngopharynx / Hypopharynx)
+- **Vị trí**: 
+	- Nằm sau thanh quản, đi từ bờ trên sụn nắp thanh nhiệt xuống đến bờ dưới sụn nhẫn (đốt sống C6).
+		- Phần trên: Lỗ đổ vào thành quản
+		- Phần dưới: Ngắn cách với ổ thanh quản bằng sụn phễu; sụn nhẫn và cơ gian phễu
+		- => Khi nuốt, thượng thiệt hạ xuống đậy lỗ vào thanh quản
+	- nằm trước các đốt sống cổ 3, 4, 5
+
+
+- **Các chi tiết giải phẫu quan trọng**:
+    - **Lỗ vào thanh quản** (_Laryngeal inlet_): Thông phía trước với thanh quản.
+    - **Ngách xoang lê** (_Piriform fossa / Recess_): Nằm ở hai bên lỗ vào thanh quản. Đây là nơi dị vật (như xương cá) rất hay bị hóc/mắc kẹt.
+![[he_ho_hap_hau_5.png]]
 
 ### 1.2.4 Cấu tạo 
+Thành hầu được cấu tạo bởi 4 lớp (từ trong ra ngoài):
+
+1. **Lớp niêm mạc** (_Mucosa_): Lót bên trong hốc hầu.
+2. **Mạc trong hầu** (_Pharyngobasilar fascia_): Lớp xơ đệm.
+3. **Lớp cơ hầu** (_Pharyngeal muscles_):
+    - **Cơ khép hầu** (_Pharyngeal constrictors_): Cơ khép hầu trên, giữa, dưới (giúp đẩy thức ăn xuống khi nuốt).
+    - **Cơ dọc / Cơ nâng hầu** (_Levator muscles_): Cơ trâm hầu (_Stylopharyngeus_), cơ vòi hầu (_Salpingopharyngeus_)...
+4. **Mạc ngoài hầu** (_Buccopharyngeal fascia_): Lớp xơ bao bọc bên ngoài.
 
 ### 1.2.5 Liên quan 
+- **Mặt trước**: Thông trực tiếp với 3 khoang tương ứng: Hố mũi, Khoang miệng và Thanh quản (_Larynx_).
+- **Mặt sau**: Liên quan với **Khoang sau hầu** (_Retropharyngeal space_), mạc trước sống và thân các **Đốt sống cổ từ C1 đến C6**.
+- **Mặt bên**:
+    - Liên quan với **Bao cảnh** (_Carotid sheath_) chứa: Động mạch cảnh chung (_Common carotid artery_), Tĩnh mạch cảnh trong (_Internal jugular vein_) và Thần kinh lang thang (_Vagus nerve - CN X_).
+    - Thông với tai giữa qua **Vòi tai / Vòi Eustache**.
+- **Phía dưới**: Liên tiếp với **Thực quản** (_Esophagus_) ở phía sau và **Thanh quản** (_Larynx_) ở phía trước.
 
 ### 1.2.6 Chức năng
+#### A. Chức năng Tiêu hóa - Nuốt (Deglutition / Swallowing)
+- Hầu là đường dẫn thức ăn và nước uống từ khoang miệng xuống thực quản.
+- Khi nuốt, các **cơ khép hầu** (_Pharyngeal constrictor muscles_) sẽ co bóp theo phản xạ để đẩy viên thức ăn xuống dưới.
+- Đồng thời, **sụn nắp thanh nhiệt** (_Epiglottis_) sẽ đậy kín đường thở (thanh quản) lại để tránh thức ăn, nước uống bị sặc vào phổi.
+
+#### B. Chức năng Hô hấp - Dẫn khí (Respiration / Air passage)
+- Hầu là đoạn đường chung dẫn không khí từ hố mũi (hoặc miệng) xuống thanh quản và khí quản để vào phổi.
+- Giúp duy trì đường thở luôn thông thoáng ở cả tư thế nằm hay ngồi.
+    
+#### C. Chức năng Bảo vệ & Miễn dịch (Immune Defense)
+- **Vòng bạch huyết Waldeyer** (_Waldeyer's lymphatic ring_) nằm ở họng (gồm VA, Amydal, hạnh nhân vòi, hạnh nhân lưỡi) đóng vai trò là "đồn cảnh sát" đầu tiên.
+- Nơi đây chứa rất nhiều tế bào miễn dịch giúp phát hiện, bắt giữ và tiêu diệt vi khuẩn, virus xâm nhập qua đường ăn uống hoặc đường thở.
+    
+#### D. Chức năng Phát âm & Cộng hưởng âm thanh (Phonination & Resonance)
+- Dù dây thanh âm nằm ở thanh quản mới là nơi phát ra tiếng, nhưng **hầu đóng vai trò như một hộp cộng hưởng** (_Resonating chamber_).
+- Hình dạng và sự co bóp của khoang hầu giúp thay đổi âm sắc, tạo nên chất giọng đặc trưng và hỗ trợ việc phát âm rõ chữ (tròn vành rõ tiếng).
+    
+#### E. Chức năng Cân bằng áp suất Tai giữa (Equalization of Middle Ear Pressure)
+- Thông qua **Vòi tai / Vòi Eustache** (_Auditory tube_) nối từ tỵ hầu lên hòm tai.
+- Mỗi khi bạn nuốt hoặc ngáp, vòi tai sẽ mở ra giúp cân bằng áp suất không khí giữa tai giữa và môi trường bên ngoài (đây là lý do tại sao khi đi máy bay hay nuốt nước bọt để hết bị ù tai).
 
 ## 1.3 Thanh Quản  
 ### 1.3.1 Vị trí 

@@ -218,18 +218,122 @@ Thành hầu được cấu tạo bởi 4 lớp (từ trong ra ngoài):
 - Thông qua **Vòi tai / Vòi Eustache** (_Auditory tube_) nối từ tỵ hầu lên hòm tai.
 - Mỗi khi bạn nuốt hoặc ngáp, vòi tai sẽ mở ra giúp cân bằng áp suất không khí giữa tai giữa và môi trường bên ngoài (đây là lý do tại sao khi đi máy bay hay nuốt nước bọt để hết bị ù tai).
 
-## 1.3 Thanh Quản  
+## 1.3 Thanh Quản (_Larynx_)
+**Khái niệm chung:** Thanh quản là một bộ phận của đường hô hấp trên, đóng vai trò như một van bảo vệ đường thở và là cơ quan phát âm chính của cơ thể.
 ### 1.3.1 Vị trí 
+- **Đốt sống liên quan:** Nằm ở phía trước cổ, tương ứng từ đốt sống cổ **C3 đến C6** (_C3–C6 cervical vertebrae_). Ở phụ nữ và trẻ em, vị trí thường nằm cao hơn một chút.
+    
+- **Giới hạn:**
+    - **Phía trên:** Nối với xương móng (_hyoid bone_) và hầu (_pharynx_).
+    - **Phía dưới:** Nối liên tiếp với khí quản (_trachea_) tại bờ dưới sụn nhẫn (_cricoid cartilage_).
+    - **Đặc tính di động:** Di chuyển lên/xuống rõ rệt khi nuốt hoặc nói.
+![[he_ho_hap_thanh_quan_1.jpg]]
 
 ### 1.3.2 Hình thể ngoài 
+Hình dạng tổng thể giống như một **hình tháp 3 mặt** (mặt trước-bên x2, mặt sau) với 1 đỉnh ở dưới và 1 đáy ở trên:
 
+- **Đáy thanh quản (_Base_):** Hướng lên trên, mở vào phần hầu-thanh quản (_laryngopharynx_), được đậy một phần bởi sụn nắp thanh quản (_epiglottis_).
+    
+- **Đỉnh thanh quản (_Apex_):** Hướng xuống dưới, liên tiếp với ống khí quản.
+    
+- **Lồi thanh quản (_Laryngeal prominence_):** Còn gọi là "Trái cổ" hay "Táo Adam" (_Adam's apple_), do 2 mảnh sụn giáp chụm lại tạo thành ở đường giữa phía trước (rõ hơn ở nam giới).
+
+- **Hình thể ngoài của thanh quản được nhìn từ mặt bên** 
+	- Hình ống, nối hầu với khí quản
+	- Gồm các mảnh sụn khớp nối với nhau, giữ chặt bằng màng và các dây chằng
+	- Bên trong lót bởi niêm mạc, liên tục với niêm mạc hầu, khí quản 
+	- Dài trung bình 5cm, ở nữ ngắn và nhỏ hơn 
+	
+	- **Hệ Thống Sụn (Cartilages):**
+	    - **Sụn giáp (Thyroid cartilage):** Nhìn thấy rõ mảnh sụn bên và lồi thanh quản (trái cổ).
+	    - **Sụn nhẫn (Cricoid cartilage):** Vị trí nằm ngay dưới sụn giáp, là nền của thanh quản.
+	    - **Xương móng (Hyoid bone):** Nằm trên thanh quản, là mốc quan trọng nối với thanh quản qua màng giáp móng.
+	
+	- **Hệ Thống Cơ (Muscles):**
+	    - **Cơ nhẫn giáp (Cricothyroid muscle):** Cơ nội tại duy nhất có thể nhìn thấy ở mặt nông, nối sụn nhẫn với sụn giáp.
+	    - **Cơ khít hầu dưới (Inferior constrictor muscle):** Các thớ cơ ôm lấy sụn giáp từ phía sau.
+	    - _(Cá thể hóa các cơ nâng khác như cơ nhị thân, cơ hàm-móng)._
+	        
+	- **Hệ Thống Màng và Dây Chằng (Membranes & Ligaments):**
+	    - **Màng giáp móng (Thyrohyoid membrane):** Nối bờ trên sụn giáp với xương móng.
+	    - **Dây chằng nhẫn giáp (Cricothyroid ligament):** Nối sụn nhẫn và sụn giáp ở đường giữa (vị trí hay dùng để mở khí quản cấp cứu nông).
+
+![[he_ho_hap_thanh_quan_2.png]]
 ### 1.3.3 Hình thể trong 
+Lòng thanh quản (_cavity of larynx_) được chia làm **3 tầng** nhờ hai đôi nếp gấp niêm mạc ngang:
+
+1. **Tầng thượng thanh môn (_Supraglottic space / Vestibule_):**
+    - Khoảng không tính từ lỗ vào thanh quản (_laryngeal inlet_) xuống đến **nếp gấp tiền đình** (_vestibular fold / false vocal cord_).
+        
+2. **Tầng thanh môn (_Glottic space / Middle cavity_):**
+    - Nằm giữa nếp gấp tiền đình ở trên và **nếp gấp thanh âm** (_vocal fold / true vocal cord_) ở dưới.
+    - **Khe thanh môn (_Rima glottidis_):** Khe hẹp nằm giữa hai dây thanh âm, là vị trí hẹp nhất của đường hô hấp trên.
+    - **Xoang thanh quản (_Laryngeal ventricle_):** Ngách nhỏ nằm giữa nếp tiền đình và nếp thanh âm.
+        
+3. **Tầng hạ thanh môn (_Infraglottic / Subglottic space_):**
+    - Đi từ nếp gấp thanh âm xuống đến bờ dưới sụn nhẫn (nối với khí quản).
+![[he_ho_hap_thanh_quan_3.jpeg]]
 
 ### 1.3.4 Cấu tạo 
+Thanh quản được cấu tạo bởi khung sụn, các khớp, màng-dây chằng và hệ thống cơ:
+
+#### A. Khung sụn thanh quản (_Laryngeal Cartilages_)
+
+- **Các sụn đơn (lớn) - 3 sụn đơn:**
+    
+    - **Sụn giáp (_Thyroid cartilage_):** Sụn đơn lớn nhất, hình cuốn sách mở.
+        
+    - **Sụn nhẫn (_Cricoid cartilage_):** Hình chiếc nhẫn có mặt nhẫn phía sau, làm nền nâng đỡ toàn bộ thanh quản.
+        
+    - **Sụn nắp / Sụn nắp thanh môn (_Epiglottic cartilage / Epiglottis_):** Hình chiếc lá, đậy đường thở khi nuốt.
+        
+- **Các sụn đôi (nhỏ) - 2 sụn đôi :**
+    
+    - **Sụn phễu (_Arytenoid cartilages_):** Quan trọng nhất để vận động dây thanh âm.
+        
+    - **Sụn sừng (_Corniculate cartilages_)** & **Sụn chêm (_Cuneiform cartilages_)**: Các sụn phụ trợ nhỏ.
+        
+![[he_ho_hap_thanh_quan_4.png]]
+![[he_ho_hap_thanh_quan_5.png]]
+
+#### B. Cơ thanh quản (_Laryngeal Muscles_)
+
+- **Cơ ngoại lai (_Extrinsic muscles_):** Nối thanh quản với các cấu trúc xung quanh (như xương móng, ức, hầu) $\rightarrow$ Giúp nâng/hạ toàn bộ thanh quản khi nuốt.
+    
+- **Cơ nội tại (_Intrinsic muscles_):** Nằm hoàn toàn trong thanh quản $\rightarrow$ Điều chỉnh độ căng, độ mở/khép của dây thanh âm:
+    
+    - **Cơ nhẫn-phễu sau (_Posterior cricoid muscle_):** Cơ **DUY NHẤT** làm **mở** khe thanh môn (mở đường thở).
+        
+    - **Cơ nhẫn-phễu bên (_Lateral cricoid muscle_) & Cơ phễu (_Arytenoid muscle_):** Làm **khép** khe thanh môn.
+        
+    - **Cơ nhẫn-giáp (_Cricothyroid muscle_) & Cơ giáp-phễu (_Thyroarytenoid muscle / Vocalis_):** Làm căng hoặc chùng dây thanh âm để chỉnh cao độ giọng nói.
+
 
 ### 1.3.5 Liên quan 
+- **Phía trước - bên:** Nông, phủ bởi da, mạc cổ và các cơ dưới móng (_infrahyoid muscles_). Phía dưới áp sát **tuyến giáp** (_thyroid gland_ - gồm 2 thùy và eo tuyến giáp).
+    
+- **Phía sau:** Nằm ngay trước **hầu-thanh quản** (_laryngopharynx_) và thực quản (_esophagus_).
+    
+- **Hai bên:** Liên quan sát với **bó mạch thần kinh cổ** (_carotid sheath_) gồm: Động mạch cảnh chung (_common carotid artery_), Tĩnh mạch cảnh trong (_internal jugular vein_) và Thần kinh lang thang (_Vagus nerve - CN X_).
+    
+- **Mạch máu & Thần kinh chi phối:**
+    
+    - **Mạch máu:** Động mạch thanh quản trên & dưới (_Superior & Inferior laryngeal arteries_).
+        
+    - **Thần kinh:** Xuất phát từ Thần kinh X (CN X):
+        
+        - **Thần kinh thanh quản trên (_Superior laryngeal nerve_):** Cảm giác tầng trên và vận động cơ nhẫn-giáp.
+            
+        - **Thần kinh thanh quản ngoặt ngược (_Recurrent laryngeal nerve_):** Chi phối vận động cho **tất cả các cơ nội tại còn lại** (rất quan trọng trong phẫu thuật tuyến giáp).
 
 ### 1.3.6 Chức năng
+- **Bảo vệ đường hô hấp (_Airway protection_):** Khi nuốt, sụn nắp gập lại và hai dây thanh âm khép chặt để ngăn thức ăn, nước uống rơi vào khí-phế quản (phản xạ ho khi có dị vật).
+    
+- **Phát âm (_Phonation_):** Luồng không khí từ phổi đẩy lên làm rung các nếp gấp thanh âm, tạo ra âm thanh cơ bản (sau đó được cộng hưởng và biến đổi bởi khoang miệng, mũi, lưỡi).
+    
+- **Thông khí hô hấp (_Respiration_):** Điều hòa lượng không khí đi vào và ra khỏi phổi qua việc đóng/mở khe thanh môn.
+    
+- **Cố định lồng ngực (_Fixation of the thorax_):** Đóng chặt thanh môn giúp tăng áp lực nội ngực/nội ổ bụng trong các động tác rặn (sinh con, đi ngoài, nâng vật nặng - _Valsalva maneuver_).
 
 ## 1.4 Khí Quản (check)
 ### 1.4.1 Vị trí 

@@ -436,7 +436,7 @@ Khí quản được cấu tạo bởi **16–20 vòng sụn trong hình chữ D
     
 - **Phản xạ ho (_Cough Reflex_):** Khi bị kích thích (đặc biệt tại cựa khí quản _carina_), khí quản co lại kết hợp tăng áp lực đẩy dị vật ra ngoài.
 
-## 1.5 Phế Quản (_Bronchi_)
+## 1.5 Phế Quản (_Bronchi_) (Đang soạn)
 Phế quản là hệ thống ống dẫn khí nối tiếp từ điểm chia đôi của khí quản, đi vào hai bên phổi và tiếp tục phân nhánh nhỏ dần tạo thành **cây phế quản (_bronchial tree_)**.
 ### 1.5.1 Vị trí (_Location_)
 - **Điểm bắt đầu:** Bắt đầu từ cựa khí quản (_carina_), ngang đốt sống ngực T4-T5 (ngang góc xương ức).
@@ -457,7 +457,7 @@ Hai phế quản chính có sự khác biệt rõ rệt về mặt hình thái g
 | Ý nghĩa lâm sàng | Dị vật rơi vào đường thở **dễ chui vào phế quản phải** hơn. | Ít gặp dị vật hơn do góc tách ra dốc ngang hơn. |
 
 
-### 1.5.3 Hình thể trong 
+### 1.5.3 Cấu tạo (_Structure_)
 Cấu tạo thay đổi dần từ phế quản chính lớn đến các tiểu phế quản nhỏ:
 
 1. **Vòng sụn (_Cartilaginous layer_):**
@@ -476,12 +476,56 @@ Cấu tạo thay đổi dần từ phế quản chính lớn đến các tiểu 
     
     - Gồm biểu mô trụ giả tầng có lông chuyển và tế bào tiết nhầy, thảm lông chuyển chuyển động liên tục để đẩy chất bẩn lên phía trên.
 
-### 1.5.4 Cấu tạo 
+### 1.5.4 Sự phân nhánh của Cây phế quản (_Bronchial Tree_)
 
-### 1.5.5 Liên quan 
+Khí quản chia thành:
 
-### 1.5.6 Chức năng
+- **Phế quản chính (_Main/Primary bronchi_):** Gồm 2 nhánh (Phải & Trái).
+    
+- **Phế quản thùy (_Lobar/Secondary bronchi_):**
+    
+    - Phổi Phải có **3 phế quản thùy** (thùy trên, thùy giữa, thùy dưới).
+        
+    - Phổi Trái có **2 phế quản thùy** (thùy trên, thùy dưới).
+        
+- **Phế quản phân thùy (_Segmental/Tertiary bronchi_):** Chia nhỏ đến các phân thùy phổi (mỗi bên phổi gồm 10 phân thùy).
+    
+- **Tiểu phế quản (_Bronchioles_):** Đường kính $< 1\text{ mm}$, **không còn sụn**, chỉ còn cơ trơn.
+    
+- **Tiểu phế quản tận (_Terminal bronchioles_) $\rightarrow$ Tiểu phế quản hô hấp (_Respiratory bronchioles_):** Nối trực tiếp với phế nang.
 
+### 1.5.5 Liên quan giải phẫu (_Anatomical Relations_)
+
+- **Tại rốn phổi (_Lung hilum_):** Phế quản chính cùng với động mạch phổi, tĩnh mạch phổi, mạch bạch huyết và thần kinh tạo thành **cuống phổi (_root of lung_)**.
+    
+    - _Bên phải:_ Phế quản chính nằm **sau** động mạch phổi.
+        
+    - _Bên trái:_ Phế quản chính nằm **dưới** động mạch phổi.
+        
+- **Lân cận:**
+    
+    - Phế quản chính Phải: Được tĩnh mạch kỳ (_azygos vein_) vòng qua phía trên.
+        
+    - Phế quản chính Trái: Được quai động mạch chủ (_aortic arch_) bắt ngang qua phía trên và vắt qua phía sau.
+
+### 1.5.6 Mạch máu & Thần kinh (_Blood Supply & Innervation_) 
+- **Động mạch nuôi dưỡng (_Arteries_):** **Động mạch phế quản (_bronchial arteries_)** – xuất phát trực tiếp từ động mạch chủ ngực (khác với máu trao đổi khí từ động mạch phổi).
+    
+- **Tĩnh mạch (_Veins_):** Đổ về tĩnh mạch kỳ (_azygos_) bên phải và tĩnh mạch bán kỳ (_hemiazygos_) bên trái.
+    
+- **Thần kinh (_Innervation_):** Đám rối phế quản (_pulmonary plexus_) gồm:
+    
+    - Giao cảm: Làm **giãn** cơ trơn phế quản và giảm tiết dịch.
+        
+    - Đối giao cảm (TK X): Làm **co** cơ trơn phế quản và tăng tiết nhầy.
+
+### 1.5.7 Chức năng (_Function_)
+
+1. **Dẫn khí (_Air Conduction_):** Tiếp tục phân phối không khí từ khí quản đến khắp các thùy và phân thùy của phổi.
+    
+2. **Làm sạch & Bảo vệ (_Cleansing & Defense_):** Hệ thống lông chuyển và lớp nhầy bẫy vi sinh vật, bụi bẩn đẩy ra ngoài.
+    
+3. **Điều hòa lưu lượng khí (_Airway Resistance Regulation_):** Sự co/giãn của lớp cơ trơn (cơ Reisseisen) giúp điều chỉnh đường kính lòng ống, kiểm soát lượng khí vào phổi.
 ## 1.6 Phổi  
 ### 1.6.1 Vị trí 
 

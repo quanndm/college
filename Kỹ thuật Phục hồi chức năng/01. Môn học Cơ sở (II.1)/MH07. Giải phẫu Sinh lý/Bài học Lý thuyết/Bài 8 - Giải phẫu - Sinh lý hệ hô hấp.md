@@ -397,15 +397,35 @@ Khí quản được cấu tạo bởi **16–20 vòng sụn trong hình chữ D
 - **Lớp vỏ ngoài (_Adventitia_):** Mô liên kết bao bọc, cố định khí quản vào các cấu trúc lân cận.
 
 - **Màng (_Fibrous membrane_ / _Posterior wall_):**
-
 	- Lớp màng sợi - đàn hồi bao bọc phía sau (nằm ngay sau lớp cơ trơn).
 	    
 	- **Nhiệm vụ:** Tạo thành phần thành mềm phía sau áp sát vào thực quản, giúp thực quản dễ dàng co giãn phình ra khi nuốt thức ăn mà không bị vướng.
 
 
 ### 1.4.4 Liên quan giải phẫu (_Anatomical Relations_)
-
+- **Phía trước (_Anterior_):**
+    
+    - Đoạn cổ: Eo tuyến giáp (_isthmus of thyroid gland_ - phủ từ vòng sụn 2 đến 4), cơ dưới móng, da và mạc cổ.
+        
+    - Đoạn ngực: Xương ức (_sternum_), tuyến ức (_thymus_), quai động mạch chủ (_aortic arch_), thân động mạch cánh tay đầu (_brachiocephalic trunk_).
+        
+- **Phía sau (_Posterior_):** Tiếp xúc trực tiếp với **Thực quản (_esophagus_)**. (_Lưu ý: Nhờ mặt sau khí quản là mô mềm/cơ trơn nên thực quản có thể giãn ra khi nuốt thức ăn mà không bị chèn ép bởi sụn hard_).
+    
+- **Phía hai bên (_Lateral_):**
+    
+    - Đoạn cổ: Các thùy bên tuyến giáp (_thyroid lobes_), bó mạch thần kinh cổ (chứa động mạch cảnh chung, tĩnh mạch cảnh trong, thần kinh lang thang X).
+        
+    - Đoạn ngực: Màng phổi trung thất (_mediastinal pleura_), dây thần kinh quặt ngược thanh quản (_recurrent laryngeal nerve_) đi trong rãnh khí - thực quản.
 ### 1.4.5 Mạch máu & Thần kinh (_Blood Supply & Innervation_)
+- **Động mạch (_Arteries_):** Nhánh khí quản xuất phát từ động mạch giáp dưới (_inferior thyroid artery_) ở đoạn cổ và động mạch phế quản (_bronchial arteries_) ở đoạn ngực.
+    
+- **Tĩnh mạch (_Veins_):** Đổ về đám rối tĩnh mạch giáp dưới (_inferior thyroid venous plexus_).
+    
+- **Thần kinh (_Innervation_):**
+    
+    - Chi phối giao cảm (_Sympathetic_): Từ chuỗi hạch giao cảm ngực (giúp giãn cơ trơn).
+        
+    - Chi phối đối giao cảm (_Parasympathetic_): Từ thần kinh lang thang X / thần kinh quặt ngược thanh quản (tăng tiết nhầy, co cơ trơn).
 
 ### 1.4.6 Chức năng (_Function_)
 - **Dẫn khí (_Air Conduction_):** Là đường truyền dẫn không khí đi từ thanh quản vào cây phế quản và ngược lại.
@@ -416,12 +436,45 @@ Khí quản được cấu tạo bởi **16–20 vòng sụn trong hình chữ D
     
 - **Phản xạ ho (_Cough Reflex_):** Khi bị kích thích (đặc biệt tại cựa khí quản _carina_), khí quản co lại kết hợp tăng áp lực đẩy dị vật ra ngoài.
 
-## 1.5 Phế Quản 
-### 1.5.1 Vị trí 
+## 1.5 Phế Quản (_Bronchi_)
+Phế quản là hệ thống ống dẫn khí nối tiếp từ điểm chia đôi của khí quản, đi vào hai bên phổi và tiếp tục phân nhánh nhỏ dần tạo thành **cây phế quản (_bronchial tree_)**.
+### 1.5.1 Vị trí (_Location_)
+- **Điểm bắt đầu:** Bắt đầu từ cựa khí quản (_carina_), ngang đốt sống ngực T4-T5 (ngang góc xương ức).
+    
+- **Đường đi:** Từ trung thất, hai phế quản chính chếch xuống dưới và sang hai bên để chui vào rốn phổi (_hilum of lung_) tương ứng.
+    
+- **Phân đoạn:**
+    - **Đoạn ngoài phổi (_Extrapulmonary part_):** Phế quản chính Tải và Phế quản chính Trái.
+    - **Đoạn trong phổi (_Intrapulmonary part_):** Phế quản thùy $\rightarrow$ Phế quản phân thùy $\rightarrow$ Tiểu phế quản.
+### 1.5.2 Hình thái & So sánh (_Morphology & Comparison_)
+Hai phế quản chính có sự khác biệt rõ rệt về mặt hình thái giải phẫu:
 
-### 1.5.2 Hình thể ngoài 
+| Đặc điểm         | Phế quản chính Phải (_Right main bronchus_)                 | Phế quản chính Trái (_Left main bronchus_)      |
+| ---------------- | ----------------------------------------------------------- | ----------------------------------------------- |
+| Hướng đi         | Dốc đứng hơn (thẳng đứng hơn)                               | Nằm ngang hơn, chếch hơn                        |
+| Chiều dài        | Ngắn hơn ($\approx 2.5\text{ cm}$)                          | Dài hơn ($\approx 5\text{ cm}$)                 |
+| Đường kính       | To hơn, rộng hơn                                            | Nhỏ hơn, hẹp hơn                                |
+| Ý nghĩa lâm sàng | Dị vật rơi vào đường thở **dễ chui vào phế quản phải** hơn. | Ít gặp dị vật hơn do góc tách ra dốc ngang hơn. |
+
 
 ### 1.5.3 Hình thể trong 
+Cấu tạo thay đổi dần từ phế quản chính lớn đến các tiểu phế quản nhỏ:
+
+1. **Vòng sụn (_Cartilaginous layer_):**
+    
+    - Ở phế quản chính: Các vòng sụn vẫn có hình chữ U giống khí quản.
+        
+    - Khi vào trong phổi: Các vòng sụn vỡ vụn thành các **mảnh sụn (_cartilage plates_)** hình dạng bất kỳ, và giảm dần rồi biến mất hoàn toàn ở tiểu phế quản (_bronchioles_).
+        
+2. **Lớp cơ trơn (_Smooth muscle layer - Cơ Reisseisen_):**
+    
+    - Nằm đan chéo giữa lớp sụn và lớp niêm mạc.
+        
+    - Càng đi sâu vào trong phổi, lớp sụn giảm dần thì lớp cơ trơn càng chiếm ưu thế (khi cơ này co thắt mạnh sẽ gây ra cơn hen phế quản).
+        
+3. **Lớp niêm mạc (_Mucosa_):**
+    
+    - Gồm biểu mô trụ giả tầng có lông chuyển và tế bào tiết nhầy, thảm lông chuyển chuyển động liên tục để đẩy chất bẩn lên phía trên.
 
 ### 1.5.4 Cấu tạo 
 

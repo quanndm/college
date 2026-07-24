@@ -613,8 +613,37 @@ dần lên cuối cùng mỗi bên phổi tạo thành 2 tĩnh mạch phổi đ�
 
 
 #### C. Cây phế quản (_Bronchial tree_)
+![[he_ho_hap_phoi_14.png]]
+![[he_ho_hap_phoi_15.png]]
+Khí quản (_Trachea_) đi xuống đến ngang mức **đốt sống ngực IV ($T_4$)** thì tách ra thành 2 **Phế quản chính / Phế quản gốc** (_Main / Primary bronchi_) đi vào hai bên rốn phổi:
 
-- Phế quản chính (_Main bronchus_) $\rightarrow$ Phế quản thùy (_Lobar bronchus_) $\rightarrow$ Phế quản phân thùy (_Segmental bronchus_) $\rightarrow$ Tiểu phế quản (_Bronchiole_) $\rightarrow$ Tận cùng tại **Tiểu phế quản hô hấp** (_Respiratory bronchiole_).
+##### 1. Phế quản chính phải (_Right main bronchus_)
+
+Ngoặc vào rốn phổi phải và chia thành **3 Phế quản thùy** (_Lobar / Secondary bronchi_):
+
+- **Phế quản thùy trên** (_Superior lobar bronchus_): Chia thành 3 phế quản phân thùy (S1, S2, S3) (_Segmental / Tertiary bronchi_).
+    
+- **Phế quản thùy giữa** (_Middle lobar bronchus_): Chia thành 2 phế quản phân thùy (S4, S5).
+    
+- **Phế quản thùy dưới** (_Inferior lobar bronchus_): Chia thành 5 phế quản phân thùy (S6, S7, S8, S9, S10).
+    
+
+##### 2. Phế quản chính trái (_Left main bronchus_)
+
+Đi vào rốn phổi trái và chia thành **2 Phế quản thùy** (_Lobar / Secondary bronchi_):
+
+- **Phế quản thùy trên** (_Superior lobar bronchus_): Chia thành 5 phế quản phân thùy (S1, S2, S3, S4, S5).
+    
+- **Phế quản thùy dưới** (_Inferior lobar bronchus_): Chia thành 5 phế quản phân thùy (S6, S7, S8, S9, S10).
+    
+
+##### 3. Sự phân nhánh tận cùng (_Terminal branching_)
+
+- Các phế quản phân thùy (_Segmental bronchi_) tiếp tục chia nhỏ thành các **Phế quản hạ phân thùy** (_Subsegmental bronchi_).
+    
+- Sau khoảng **4 – 6 lần phân chia** liên tiếp, cây phế quản tạo thành các **Tiểu phế quản tận** (_Terminal bronchioles_).
+    
+- Từ mỗi tiểu phế quản tận sẽ dẫn tiếp vào các **Tiểu phế quản hô hấp** (_Respiratory bronchioles_) $\rightarrow$ **Ống phế nang** (_Alveolar ducts_) $\rightarrow$ **Túi phế nang** (_Alveolar sacs_) và kết thúc tại các **Phế nang** (_Alveoli_) — nơi trực tiếp diễn ra quá trình trao đổi khí.
     
 
 
@@ -638,18 +667,59 @@ dần lên cuối cùng mỗi bên phổi tạo thành 2 tĩnh mạch phổi đ�
 |**Chức năng Hô hấp** (_Respiratory function_)|**Trao đổi khí:** Tiếp nhận $O_2$ từ không khí vào máu và thải $CO_2$ từ máu ra ngoài qua màng phế nang - mao mạch (_alveolar-capillary membrane_).|
 |**Chức năng Phi hô hấp** (_Non-respiratory functions_)|• **Cân bằng Bazo - Axit** (_Acid-base balance_): Điều hòa pH máu bằng cách tăng/giảm thông khí để điều chỉnh lượng $CO_2$.<br><br>  <br><br>• **Chuyển hóa** (_Metabolic function_): Chuyển hóa Angiotensin I thành Angiotensin II nhờ enzym ACE trên bề mặt tế bào nội mô phổi.<br><br>  <br><br>• **Bảo vệ** (_Protective function_): Lọc bụi bẩn, vi khuẩn nhờ hệ thống lông chuyển và đại thực bào phế nang (_alveolar macrophages_).|
 
-## 1.7 Màng Phổi 
-### 1.7.1 Vị trí 
+## 1.7 Màng Phổi (_Pleura_)
+![[he_ho_hap_mang_phoi_1.png]]
+![[he_ho_hap_mang_phoi_2.png]]
+![[he_ho_hap_mang_phoi_3.jpg]]
+### 1.7.1 Vị trí và Cấu tạo (_Location & Structure_)
 
-### 1.7.2 Hình thể ngoài 
+Màng phổi là một bao thanh mạc (_serous membrane_) kín, gồm 2 lá bao bọc lấy hai lá phổi:
 
-### 1.7.3 Hình thể trong 
+- **Màng phổi tạng (_Visceral pleura_):**
+    
+    - Dính chặt vào bề mặt nhu mô phổi, chui sâu vào các khe thùy phổi (_fissures_).
+        
+    - Không thể tách rời khỏi nhu mô phổi.
+        
+- **Màng phổi thành (_Parietal pleura_):**
+    
+    - Lót mặt trong lồng ngực, mặt trên cơ hoành và hai bên trung thất.
+        
+    - Được chia thành 4 phần theo vị trí: **Màng phổi sườn** (_Costal pleura_), **Màng phổi hoành** (_Diaphragmatic pleura_), **Màng phổi trung thất** (_Mediastinal pleura_) và **Đỉnh màng phổi** (_Pleural cupula / Cervical pleura_).
+        
+- **Nơi tiếp nối:** Tại **Rốn phổi** (_Hilum of the lung_), màng phổi tạng lộn ra liên tiếp với màng phổi thành, tạo nên **Dây chằng phổi** (_Pulmonary ligament_).
+    
 
-### 1.7.4 Cấu tạo 
+### 1.7.2 Ổ màng phổi và Ngách màng phổi (_Pleural Cavity & Recesses_)
 
-### 1.7.5 Liên quan 
+- **Ổ màng phổi (_Pleural cavity_):**
+    
+    - Là một **khoảng ảo** (_potential space_) nằm giữa màng phổi tạng và màng phổi thành.
+        
+    - Bình thường chứa khoảng 5–15 ml **dịch màng phổi** (_pleural fluid_) giúp hai lá trượt lên nhau dễ dàng, giảm ma sát khi hít thở.
+        
+    - Mỗi bên phổi có một ổ màng phổi riêng biệt, không thông với nhau.
+        
+- **Các ngách màng phổi (_Pleural recesses_):**
+    
+    - Là những nơi màng phổi thành gấp góc, tiếp giáp giữa các thành lồng ngực (là nơi thấp nhất của ổ màng phổi, dễ đọng dịch khi có bệnh lý).
+        
+    - **Ngách sườn - hoành (_Costodiaphragmatic recess_):** Ngách lớn nhất, nằm giữa màng sườn và màng hoành (thường là vị trí chọc dò hút dịch màng phổi).
+        
+    - **Ngách sườn - trung thất (_Costomediastinal recess_):** Nằm giữa màng sườn và màng trung thất ở phía trước.
+        
 
-### 1.7.6 Chức năng
+### 1.7.3 Chức năng (_Functions_)
+
+- **Giảm ma sát (_Lubrication_):** Dịch màng phổi giúp hai lá trượt lên nhau êm ái trong suốt chu kỳ hô hấp.
+    
+- **Tạo áp suất âm (_Negative pressure_):**
+    
+    - Ổ màng phổi luôn duy trì **áp suất âm** (thấp hơn áp suất khí quyển).
+        
+    - Giúp phổi luôn dính sát vào thành lồng ngực và co giãn theo sự chuyển động của lồng ngực khi hít vào - thở ra.
+        
+- **Bảo vệ (_Protection_):** Tạo không gian riêng biệt ngăn cách từng lá phổi, hạn chế sự lây lan của nhiễm trùng giữa hai bên lồng ngực.
 
 
 # 2. Sinh Lý

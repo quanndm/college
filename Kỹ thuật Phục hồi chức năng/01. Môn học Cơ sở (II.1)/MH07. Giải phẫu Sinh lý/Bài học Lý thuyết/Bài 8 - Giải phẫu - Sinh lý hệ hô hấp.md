@@ -581,33 +581,42 @@ Phổi có hình nửa khối nón xốp, đàn hồi, màu hồng nhạt (ở t
 
 ### 1.6.3 Hình thể trong & Phân thùy phế quản (_Internal Structure & Bronchopulmonary Segments_)
 Phổi được chia thành các đơn vị giải phẫu độc lập gọi là **Phân thùy phổi** (_Bronchopulmonary segments_), mỗi phân thùy có phế quản và động mạch phân thùy riêng.
-
 - **Phổi phải:** Gồm **10 phân thùy** (Thùy trên: 3, Thùy giữa: 2, Thùy dưới: 5).
-    
 - **Phổi trái:** Gồm **8 – 10 phân thùy** (Thùy trên: 4–5, Thùy dưới: 4–5).
+![[he_ho_hap_phoi_9.png]]
+![[he_ho_hap_phoi_10.png]]
+![[he_ho_hap_phoi_11.png]]
+
+![[he_ho_hap_phoi_12.png]]
+
+
 
 ### 1.6.4 Cấu tạo (_Structure_)
 
-Phổi được cấu tạo bởi **Cây phế quản** (_Bronchial tree_), **Phế nang** (_Alveoli_), **Mạch máu (Động/tĩnh mạch phổi, Động/tĩnh mạch phế quản), Thần kinh** và **Màng phổi**.
-#### A. Cây phế quản (_Bronchial tree_)
-
-- Phế quản chính (_Main bronchus_) $\rightarrow$ Phế quản thùy (_Lobar bronchus_) $\rightarrow$ Phế quản phân thùy (_Segmental bronchus_) $\rightarrow$ Tiểu phế quản (_Bronchiole_) $\rightarrow$ Tận cùng tại **Tiểu phế quản hô hấp** (_Respiratory bronchiole_).
-    
-
-#### B. Phế nang (_Alveoli_) — Đơn vị chức năng
+Phổi được cấu tạo bởi **Cây phế quản** (_Bronchial tree_), **Phế nang** (_Alveoli_), **Mạch máu (Động/tĩnh mạch phổi, Động/tĩnh mạch phế quản), Thần kinh**.
+#### A. Phế nang (_Alveoli_) — Đơn vị chức năng
 
 - Nơi diễn ra **sự trao đổi khí** (_gas exchange_).
     
 - Cấu tạo bởi tế bào phế nang Type I (trao đổi khí) và Type II (tiết chất **Surfactant** giúp giảm sức căng bề mặt, chống xẹp phế nang).
+
+#### B. Mạch máu
+![[he_ho_hap_phoi_13.png]]
+##### a. Động mạch phổi:
+- Xuất phát từ tâm thất phải đi chếch lên trên sang trái đến quai động mạch chủ thì tách
+ra động mạch phổi phải và động mạch phổi trái đi vào 2 phổi phân chia như cây phế quản
+cuối cùng tạo thành mao động mạch phổi bao xung quanh phế nang để trao đổi khí.
+
+##### b. Tĩnh mạch phổi
+- Thu máu ở phổi sau khi đã trao đổi khí, từ mao mạch đổ vào tĩnh mạch tiểu thuỳ sau đó lớn
+dần lên cuối cùng mỗi bên phổi tạo thành 2 tĩnh mạch phổi đổ máu về tâm nhĩ trái.
+
+
+#### C. Cây phế quản (_Bronchial tree_)
+
+- Phế quản chính (_Main bronchus_) $\rightarrow$ Phế quản thùy (_Lobar bronchus_) $\rightarrow$ Phế quản phân thùy (_Segmental bronchus_) $\rightarrow$ Tiểu phế quản (_Bronchiole_) $\rightarrow$ Tận cùng tại **Tiểu phế quản hô hấp** (_Respiratory bronchiole_).
     
 
-#### C. Màng phổi (_Pleura_)
-
-- **Màng phổi tạng** (_Visceral pleura_): Dính sát vào bề mặt mô phổi.
-    
-- **Màng phổi thành** (_Parietal pleura_): Lót mặt trong lồng ngực và cơ hoành.
-    
-- **Ổ màng phổi** (_Pleural cavity_): Khoảng ảo giữa 2 lá, chứa một ít dịch nhờn giúp giảm ma sát khi hít thở.
 
 ### 1.6.5 Liên quan  (_Anatomical Relations_)
 - **Mặt sườn:** Liên quan đến xương sườn, cơ liên sườn và dây thần kinh liên sườn.

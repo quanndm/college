@@ -436,8 +436,9 @@ Khí quản được cấu tạo bởi **16–20 vòng sụn trong hình chữ D
     
 - **Phản xạ ho (_Cough Reflex_):** Khi bị kích thích (đặc biệt tại cựa khí quản _carina_), khí quản co lại kết hợp tăng áp lực đẩy dị vật ra ngoài.
 
-## 1.5 Phế Quản (_Bronchi_) (Đang soạn)
+## 1.5 Phế Quản (_Bronchi_) 
 Phế quản là hệ thống ống dẫn khí nối tiếp từ điểm chia đôi của khí quản, đi vào hai bên phổi và tiếp tục phân nhánh nhỏ dần tạo thành **cây phế quản (_bronchial tree_)**.
+![[he_ho_hap_phe_quan_1.jpeg]]
 ### 1.5.1 Vị trí (_Location_)
 - **Điểm bắt đầu:** Bắt đầu từ cựa khí quản (_carina_), ngang đốt sống ngực T4-T5 (ngang góc xương ức).
     
@@ -462,9 +463,9 @@ Cấu tạo thay đổi dần từ phế quản chính lớn đến các tiểu 
 
 1. **Vòng sụn (_Cartilaginous layer_):**
     
-    - Ở phế quản chính: Các vòng sụn vẫn có hình chữ U giống khí quản.
+    - Ở phế quản chính: Các vòng sụn vẫn có hình chữ D giống khí quản.
         
-    - Khi vào trong phổi: Các vòng sụn vỡ vụn thành các **mảnh sụn (_cartilage plates_)** hình dạng bất kỳ, và giảm dần rồi biến mất hoàn toàn ở tiểu phế quản (_bronchioles_).
+    - Khi vào trong phổi: Các vòng sụn vỡ vụn thành các **mảnh sụn (_cartilage plates_)** hình dạng bất kỳ, và giảm dần rồi biến mất hoàn toàn ở **tiểu phế quản (_bronchioles_)**.
         
 2. **Lớp cơ trơn (_Smooth muscle layer - Cơ Reisseisen_):**
     
@@ -488,7 +489,9 @@ Khí quản chia thành:
         
     - Phổi Trái có **2 phế quản thùy** (thùy trên, thùy dưới).
         
-- **Phế quản phân thùy (_Segmental/Tertiary bronchi_):** Chia nhỏ đến các phân thùy phổi (mỗi bên phổi gồm 10 phân thùy).
+- **Phế quản phân thùy (_Segmental/Tertiary bronchi_):** Chia nhỏ đến các phân thùy phổi 
+	- Phổi phải: **10 phân thùy**.
+	- Phổi trái: **thường 8–10 phân thùy**,
     
 - **Tiểu phế quản (_Bronchioles_):** Đường kính $< 1\text{ mm}$, **không còn sụn**, chỉ còn cơ trơn.
     

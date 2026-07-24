@@ -529,18 +529,105 @@ Khí quản chia thành:
 2. **Làm sạch & Bảo vệ (_Cleansing & Defense_):** Hệ thống lông chuyển và lớp nhầy bẫy vi sinh vật, bụi bẩn đẩy ra ngoài.
     
 3. **Điều hòa lưu lượng khí (_Airway Resistance Regulation_):** Sự co/giãn của lớp cơ trơn (cơ Reisseisen) giúp điều chỉnh đường kính lòng ống, kiểm soát lượng khí vào phổi.
-## 1.6 Phổi  
-### 1.6.1 Vị trí 
+## 1.6 Phổi  (_Lungs_)
+Là bộ phận quan trọng nhất của bộ máy hô hấp, có 2 lá phổi phải và trái. Phổi phải nặng 700g, phổi trái nặng 600g.
+- Phổi nhìn trước
+![[he_ho_hap_phoi_1.png|645]]
+- Phổi nhìn sau
+![[he_ho_hap_phoi_2.png]]
+### 1.6.1 Vị trí (_Location_)
+- **Vị trí chung:** Nằm trong **lồng ngực** (_thoracic cavity_), ở hai bên **trung thất** (_mediastinum_), phía trên cơ hoành.
+    
+- **Giới hạn:**
+    - **Đỉnh phổi** (_Apex_): Vượt qua khỏi xương đòn (_clavicle_) khoảng 2–3 cm lên vùng cổ, tương ứng với đầu sau xương sườn I. 
+        
+    - **Đáy phổi** (_Base_): Tựa lên mặt trên của **cơ hoành** (_diaphragm_).
 
-### 1.6.2 Hình thể ngoài 
+### 1.6.2 Hình thể ngoài (_External Morphology_)
+Phổi có hình nửa khối nón xốp, đàn hồi, màu hồng nhạt (ở trẻ em) và chuyển xám đen (ở người lớn do bụi bẩn tích tụ). Mỗi lá phổi gồm: **1 đỉnh, 3 mặt và 3 bờ**.
+![[he_ho_hap_phoi_3.png]]
+![[he_ho_hap_phoi_4.png]]
+#### A. Các mặt (_Surfaces_)
+- **Mặt sườn** (_Costal surface_): Áp sát vào lồng ngực, có vết ấn của các xương sườn.
+    
+- **Mặt hoành** (_Diaphragmatic surface_): Mặt dưới úp lên cơ hoành.
+    
+- **Mặt trung thất / Mặt trong** (_Mediastinal surface_): Nằm quay vào giữa, chứa **Rốn phổi** (_Hilum of the lung_) — nơi các thành phần của **cuống phổi** (_root of the lung_ - ở phía trên) đi vào/ra (phế quản, động mạch, tĩnh mạch, thần kinh, mạch bạch huyết), phía dưới có khuyết tim. Khuvết bên trái sâu hơn khuyết bên phải.
+	![[he_ho_hap_phoi_5.png]]
+![[he_ho_hap_phoi_6.png]]
+![[he_ho_hap_phoi_7.png]]
+#### B. Các khe và thùy phổi (_Fissures & Lobes_)
+- **Phổi phải** (_Right lung_): Lớn hơn, ngắn hơn và rộng hơn. Có **2 khe** (khe chếch - _oblique fissure_ và khe ngang - _horizontal fissure_) chia phổi thành **3 thùy**:
+    
+    - Thùy trên (_Superior lobe_)
+        
+    - Thùy giữa (_Middle lobe_)
+        
+    - Thùy dưới (_Inferior lobe_)
+        
+- **Phổi trái** (_Left lung_): Hẹp hơn và dài hơn (do tim lệch trái). Chỉ có **1 khe chếch** chia thành **2 thùy**:
+    
+    - Thùy trên (_Superior lobe_) — có **khuyết tim** (_cardiac notch_) và **lưỡi phổi** (_lingula_)
+        
+    - Thùy dưới (_Inferior lobe_)
 
-### 1.6.3 Hình thể trong 
 
-### 1.6.4 Cấu tạo 
+#### C. Bờ: 
+- Bờ trước, bờ sau, bờ dưới.
 
-### 1.6.5 Liên quan 
+#### D. Đỉnh:
+- Là nơi cao nhất của phổi, tương ứng với đầu sau xương sườn I. (nhô qua lỗ trên lồng ngực khoảng 2–3cm)
+![[he_ho_hap_phoi_8.png]]
 
-### 1.6.6 Chức năng
+### 1.6.3 Hình thể trong & Phân thùy phế quản (_Internal Structure & Bronchopulmonary Segments_)
+Phổi được chia thành các đơn vị giải phẫu độc lập gọi là **Phân thùy phổi** (_Bronchopulmonary segments_), mỗi phân thùy có phế quản và động mạch phân thùy riêng.
+
+- **Phổi phải:** Gồm **10 phân thùy** (Thùy trên: 3, Thùy giữa: 2, Thùy dưới: 5).
+    
+- **Phổi trái:** Gồm **8 – 10 phân thùy** (Thùy trên: 4–5, Thùy dưới: 4–5).
+
+### 1.6.4 Cấu tạo (_Structure_)
+
+Phổi được cấu tạo bởi **Cây phế quản** (_Bronchial tree_), **Phế nang** (_Alveoli_), **Mạch máu (Động/tĩnh mạch phổi, Động/tĩnh mạch phế quản), Thần kinh** và **Màng phổi**.
+#### A. Cây phế quản (_Bronchial tree_)
+
+- Phế quản chính (_Main bronchus_) $\rightarrow$ Phế quản thùy (_Lobar bronchus_) $\rightarrow$ Phế quản phân thùy (_Segmental bronchus_) $\rightarrow$ Tiểu phế quản (_Bronchiole_) $\rightarrow$ Tận cùng tại **Tiểu phế quản hô hấp** (_Respiratory bronchiole_).
+    
+
+#### B. Phế nang (_Alveoli_) — Đơn vị chức năng
+
+- Nơi diễn ra **sự trao đổi khí** (_gas exchange_).
+    
+- Cấu tạo bởi tế bào phế nang Type I (trao đổi khí) và Type II (tiết chất **Surfactant** giúp giảm sức căng bề mặt, chống xẹp phế nang).
+    
+
+#### C. Màng phổi (_Pleura_)
+
+- **Màng phổi tạng** (_Visceral pleura_): Dính sát vào bề mặt mô phổi.
+    
+- **Màng phổi thành** (_Parietal pleura_): Lót mặt trong lồng ngực và cơ hoành.
+    
+- **Ổ màng phổi** (_Pleural cavity_): Khoảng ảo giữa 2 lá, chứa một ít dịch nhờn giúp giảm ma sát khi hít thở.
+
+### 1.6.5 Liên quan  (_Anatomical Relations_)
+- **Mặt sườn:** Liên quan đến xương sườn, cơ liên sườn và dây thần kinh liên sườn.
+    
+- **Mặt hoành:**
+    
+    - Phổi phải: Liên quan với gan (thùy phải) qua cơ hoành.
+        
+    - Phổi trái: Liên quan với đáy vị dạ dày, tỳ (lách) và gan (thùy trái).
+        
+- **Mặt trung thất:**
+    
+    - Phổi trái: Liên quan trực tiếp với **tim, cung động mạch chủ, động mạch chủ ngực**.
+        
+    - Phổi phải: Liên quan với **tĩnh mạch chủ trên, tĩnh mạch đơn, thực quản**.
+### 1.6.6 Chức năng (_Function_)
+|**Loại chức năng**|**Chi tiết**|
+|---|---|
+|**Chức năng Hô hấp** (_Respiratory function_)|**Trao đổi khí:** Tiếp nhận $O_2$ từ không khí vào máu và thải $CO_2$ từ máu ra ngoài qua màng phế nang - mao mạch (_alveolar-capillary membrane_).|
+|**Chức năng Phi hô hấp** (_Non-respiratory functions_)|• **Cân bằng Bazo - Axit** (_Acid-base balance_): Điều hòa pH máu bằng cách tăng/giảm thông khí để điều chỉnh lượng $CO_2$.<br><br>  <br><br>• **Chuyển hóa** (_Metabolic function_): Chuyển hóa Angiotensin I thành Angiotensin II nhờ enzym ACE trên bề mặt tế bào nội mô phổi.<br><br>  <br><br>• **Bảo vệ** (_Protective function_): Lọc bụi bẩn, vi khuẩn nhờ hệ thống lông chuyển và đại thực bào phế nang (_alveolar macrophages_).|
 
 ## 1.7 Màng Phổi 
 ### 1.7.1 Vị trí 

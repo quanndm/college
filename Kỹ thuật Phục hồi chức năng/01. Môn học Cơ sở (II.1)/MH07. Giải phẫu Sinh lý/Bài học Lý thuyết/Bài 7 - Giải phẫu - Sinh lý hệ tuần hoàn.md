@@ -453,13 +453,22 @@ $$\text{Tâm thất phải} \rightarrow \text{Động mạch phổi} \rightarrow
     
 - $\rightarrow$ **(2) Động mạch phổi** (_Pulmonary Artery_): Vận chuyển máu nghèo $\text{O}_2$ phân nhánh sang hai bên phổi.
     
-- $\rightarrow$ **(3) Phổi & Mao mạch phổi** (_Lungs & Pulmonary Capillaries_): Tại đây diễn ra quá trình trao đổi khí (nhả $\text{CO}_2$, nhận $\text{O}_2$). Máu trở thành máu dồi dào $\text{O}_2$ (máu đỏ tươi).
-	- Động mạch phổi dẫn máu lên phổi, vào phổi, đến tận phế nang, bao xung quanh phế nang => từ đó chuyển tiếp đến mao động mạch phổi
-	- thành mao - động mạch phổi (rất mỏng, mao biểu mô mỏng, cho phép chất khi đi qua - lại)
-	- Thành phế nang rất mỏng (là 1 lớp tế bào biểu mô, cho các chất khí đi qua - lại )
-	- Tại phế nang, do hoạt động hô hấp (hít không khí mới vào, nên chứa nhiều Oxy => phân áp Oxy cao ). Trong máu mao động mạch phổi (Phân áp Oxy thấp, Co2 cao )
-		- Theo quy luật khuếch tán thụ động (sự khuếch tán khí theo khuynh độ phân áp) => Oxy từ phế nang vào máu. Ngược lại Co2 có trong máu (từ mao - động mạch phổi) cao, Oxy thấp => Co2 đi từ mao - động mạch phổi về phế nang => thở ra và đẩy khí Co2 ra ngoài môi trường
-		- => Máu đã hấp thu nhiều Oxy từ phế nang => chuyển sang mao - tĩnh mạch phổi 
+- $\rightarrow$ **(3) Phổi & Mao mạch phổi** (_Lungs & Pulmonary Capillaries_): 
+	(
+		$\text{PCO}_2$ (_Partial Pressure of Carbon Dioxide_) — Phân áp Carbon Dioxide
+		$\text{PO}_2$ (_Partial Pressure of Oxygen_) — Phân áp Oxy:
+	)
+	- **Cấu trúc:** Động mạch phổi chia nhỏ dần thành các tiểu động mạch (_arterioles_) và tiếp nối với **lưới mao mạch phổi** (_pulmonary capillary network_) ôm trọn lấy các phế nang (_alveoli_). Thành phế nang và thành mao mạch đều gồm **1 lớp tế bào biểu mô siêu mỏng**, tạo thành **màng hô hấp** (_respiratory membrane_) giúp khí dễ dàng khuếch tán qua lại.
+    
+	- **Cơ chế trao đổi khí:** Nhờ thông khí phổi, không khí trong phế nang giàu $\text{O}_2$ (có **phân áp $\text{PO}_2$ cao**). Ngược lại, máu trong mao mạch phổi có **$\text{PO}_2$ thấp và phân áp $\text{PCO}_2$ cao**.
+	    
+	- **Chuyển hóa:** Theo **quy luật khuếch tán thụ động** (_passive diffusion_) dựa trên độ chênh lệch phân áp (_partial pressure gradient_):
+	    
+	    - $\text{O}_2$ khuếch tán từ phế nang $\rightarrow$ vào máu mao mạch.
+	        
+	    - $\text{CO}_2$ khuếch tán từ máu mao mạch $\rightarrow$ vào phế nang để đào thải ra ngoài khi thở ra.
+	        
+	- Máu sau khi nhận đủ $\text{O}_2$ trở thành **máu đỏ tươi (giàu $\text{O}_2$)** và đi vào các mao tĩnh mạch phổi.
     
 - $\rightarrow$ **Tĩnh mạch phổi** (_Pulmonary Veins_): Dẫn máu giàu $\text{O}_2$ từ phổi trở về tim.
     
@@ -481,19 +490,26 @@ $$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \
         
     - Nhánh dưới đi tới **(8) Mao mạch các cơ quan bụng và chi dưới** (_Capillaries of Abdominal Organs and Lower Limbs_).
         
-- $\rightarrow$ **Mao mạch cơ thể** (_Systemic Capillaries_): Máu nhường $\text{O}_2$ và dinh dưỡng cho tế bào, đồng thời nhận $\text{CO}_2$ cùng chất thải (chuyển thành máu nghèo $\text{O}_2$).      
-	- Chuyển sang các mao - động mạch chủ 
-		- => Bao quanh tế bào (thành của nó là 1 lớp tế bào biểu mô rất mỏng, có khả năng cho chất khí đi qua - lại)
-		- => Màng tế bào là 1 màng đặc biệt, có khả năng cho các chất đi qua - lại. 
-		- => Máu ở động mạch chủ giàu Oxy => Phân áp Oxy cao, phân áp Co2 thấp. 
-		- => Trong tế bào luôn tiêu thụ Oxy => Phân áp Oxy thấp, phân áp Co2 cao. 
-		- => Các chất khí luôn dịch chuyển theo nguyên tắc: Đi từ nơi có phân áp cao đến nơi có phân  áp thấp 
-			- => Oxy đi từ mao - động mạch chủ đi tới các tế bào để cung cấp cho các tế bào
-			- => Co2, được tế bào liên tục sinh ra => phân áp Co2 cao
-		- => Từ nguyên tắc trên, máu (mao động mạch chủ ) giàu Oxy, sẽ đi nuôi các tế bào của cơ thể (Oxy chuyển vào Tế bào ) , đồng thời từ tế bào sau khi nhận Oxy thì trả lại Co2 cho máu. Từ đó máu giàu Co2 chuyển tiếp vào mao tĩnh mạch chủ.   
+- $\rightarrow$ **Mao mạch cơ thể** (_Systemic Capillaries_):    
+	(
+		$\text{PCO}_2$ (_Partial Pressure of Carbon Dioxide_) — Phân áp Carbon Dioxide
+		$\text{PO}_2$ (_Partial Pressure of Oxygen_) — Phân áp Oxy:
+	)
+	- **Cấu trúc:** Động mạch chủ phân nhánh thành tiểu động mạch và tiếp nối với **lưới mao mạch hệ thống** bao quanh các tế bào/mô. Thành mao mạch chỉ gồm một lớp **tế bào nội mạc** (_endothelial cells_) mỏng, có các lỗ nhỏ giúp trao đổi chất và khí dễ dàng với **dịch kẽ** (_interstitial fluid_) bao quanh tế bào.
+    
+	- **Cơ chế trao đổi khí & dinh dưỡng:**	    
+	    - Máu động mạch mang $\text{PO}_2$ cao và $\text{PCO}_2$ thấp.
+	        
+	    - Tế bào liên tục chuyển hóa nên tiêu thụ $\text{O}_2$ (khiến $\text{PO}_2$ trong tế bào thấp) và thải ra $\text{CO}_2$ (khiến $\text{PCO}_2$ trong tế bào cao).
+	        
+	- **Chuyển hóa:** Theo **khuynh độ phân áp** (_gradient_):
+	    - $\text{O}_2$ và dinh dưỡng khuếch tán từ máu mao mạch $\rightarrow$ qua dịch kẽ $\rightarrow$ vào tế bào.
+	        
+	    - $\text{CO}_2$ cùng sản phẩm chuyển hóa (_metabolic waste_) từ tế bào $\rightarrow$ khuếch tán ngược vào máu.
+	        
+	- => Máu sẫm màu dần (trở thành **máu nghèo $\text{O}_2$, giàu $\text{CO}_2$**) và đi vào hệ mao tĩnh mạch hệ thống.
     
 - $\rightarrow$ **Tĩnh mạch chủ** (_Vena Cava_):
-    
     - Máu từ nửa trên cơ thể theo **(9) Tĩnh mạch chủ trên** (_Superior Vena Cava_).
         
     - Máu từ nửa dưới cơ thể theo **(10) Tĩnh mạch chủ dưới** (_Inferior Vena Cava_).

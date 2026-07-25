@@ -476,6 +476,8 @@ $$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \
     - Nhánh dưới đi tới **(8) Mao mạch các cơ quan bụng và chi dưới** (_Capillaries of Abdominal Organs and Lower Limbs_).
         
 - $\rightarrow$ **Mao mạch cơ thể** (_Systemic Capillaries_): Máu nhường $\text{O}_2$ và dinh dưỡng cho tế bào, đồng thời nhận $\text{CO}_2$ cùng chất thải (chuyển thành máu nghèo $\text{O}_2$).
+	- Chuyển sang các mao - động mạch chủ => bao quanh tế bào (thành của nó là 1 lớp tế bào biểu mô rất mỏng, có khả năng cho chất khí đi qua - lại)
+		- Màng tế bào là 1 màng đặc biệt 
     
 - $\rightarrow$ **Tĩnh mạch chủ** (_Vena Cava_):
     

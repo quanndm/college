@@ -451,9 +451,15 @@ $$\text{Tâm thất phải} \rightarrow \text{Động mạch phổi} \rightarrow
 
 - **(1) Tâm thất phải** (_Right Ventricle_): Co bóp đưa máu nghèo $\text{O}_2$, qua van động mạch phổi (_Pulmonary valve_).
     
-- $\rightarrow$ **(2) Động mạch phổi** (_Pulmonary Artery_): Vận chuyển máu nghèo $\text{O}_2$ phân nhánh sang hai bên.
+- $\rightarrow$ **(2) Động mạch phổi** (_Pulmonary Artery_): Vận chuyển máu nghèo $\text{O}_2$ phân nhánh sang hai bên phổi.
     
 - $\rightarrow$ **(3) Phổi & Mao mạch phổi** (_Lungs & Pulmonary Capillaries_): Tại đây diễn ra quá trình trao đổi khí (nhả $\text{CO}_2$, nhận $\text{O}_2$). Máu trở thành máu dồi dào $\text{O}_2$ (máu đỏ tươi).
+	- Động mạch phổi dẫn máu lên phổi, vào phổi, đến tận phế nang, bao xung quanh phế nang => từ đó chuyển tiếp đến mao động mạch phổi
+	- thành mao - động mạch phổi (rất mỏng, mao biểu mô mỏng, cho phép chất khi đi qua - lại)
+	- Thành phế nang rất mỏng (là 1 lớp tế bào biểu mô, cho các chất khí đi qua - lại )
+	- Tại phế nang, do hoạt động hô hấp (hít không khí mới vào, nên chứa nhiều Oxy => phân áp Oxy cao ). Trong máu mao động mạch phổi (Phân áp Oxy thấp, Co2 cao )
+		- Theo quy luật khuếch tán thụ động (sự khuếch tán khí theo khuynh độ phân áp) => Oxy từ phế nang vào máu. Ngược lại Co2 có trong máu (từ mao - động mạch phổi) cao, Oxy thấp => Co2 đi từ mao - động mạch phổi về phế nang => thở ra và đẩy khí Co2 ra ngoài môi trường
+		- => Máu đã hấp thu nhiều Oxy từ phế nang => chuyển sang mao - tĩnh mạch phổi 
     
 - $\rightarrow$ **Tĩnh mạch phổi** (_Pulmonary Veins_): Dẫn máu giàu $\text{O}_2$ từ phổi trở về tim.
     
@@ -475,15 +481,16 @@ $$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \
         
     - Nhánh dưới đi tới **(8) Mao mạch các cơ quan bụng và chi dưới** (_Capillaries of Abdominal Organs and Lower Limbs_).
         
-- $\rightarrow$ **Mao mạch cơ thể** (_Systemic Capillaries_): Máu nhường $\text{O}_2$ và dinh dưỡng cho tế bào, đồng thời nhận $\text{CO}_2$ cùng chất thải (chuyển thành máu nghèo $\text{O}_2$).
+- $\rightarrow$ **Mao mạch cơ thể** (_Systemic Capillaries_): Máu nhường $\text{O}_2$ và dinh dưỡng cho tế bào, đồng thời nhận $\text{CO}_2$ cùng chất thải (chuyển thành máu nghèo $\text{O}_2$).      
 	- Chuyển sang các mao - động mạch chủ 
 		- => Bao quanh tế bào (thành của nó là 1 lớp tế bào biểu mô rất mỏng, có khả năng cho chất khí đi qua - lại)
 		- => Màng tế bào là 1 màng đặc biệt, có khả năng cho các chất đi qua - lại. 
-		- => Máu ở động mạch chủ giàu Oxy => Phân áp Oxy cao. 
-		- => Trong tế bào luôn tiêu thụ Oxy => Phân áp Oxy thấp 
+		- => Máu ở động mạch chủ giàu Oxy => Phân áp Oxy cao, phân áp Co2 thấp. 
+		- => Trong tế bào luôn tiêu thụ Oxy => Phân áp Oxy thấp, phân áp Co2 cao. 
 		- => Các chất khí luôn dịch chuyển theo nguyên tắc: Đi từ nơi có phân áp cao đến nơi có phân  áp thấp 
 			- => Oxy đi từ mao - động mạch chủ đi tới các tế bào để cung cấp cho các tế bào
 			- => Co2, được tế bào liên tục sinh ra => phân áp Co2 cao
+		- => Từ nguyên tắc trên, máu (mao động mạch chủ ) giàu Oxy, sẽ đi nuôi các tế bào của cơ thể (Oxy chuyển vào Tế bào ) , đồng thời từ tế bào sau khi nhận Oxy thì trả lại Co2 cho máu. Từ đó máu giàu Co2 chuyển tiếp vào mao tĩnh mạch chủ.   
     
 - $\rightarrow$ **Tĩnh mạch chủ** (_Vena Cava_):
     

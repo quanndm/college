@@ -723,3 +723,56 @@ Màng phổi là một bao thanh mạc (_serous membrane_) kín, gồm 2 lá bao
 
 
 # 2. Sinh Lý
+## 2.1 Hiện tượng cơ học của hô hấp (Mechanics of Respiration)
+### 2.1.1 Khái niệm 
+
+
+### 2.1.2 Động tác hít vào (Inspiration)
+
+
+### 2.1.3 Động tác thở ra (Expiration)
+
+### 2.1.4 Nhịp thở và tần số thở (Respiratory Rate)
+
+
+### 2.1.5 Dung tích và thể tích phổi (Lung Volumes)
+
+
+
+### 2.1.6 
+
+## 2.2 Hiện tượng Lý - Hóa của hô hấp
+### 2.2.1 Thay đổi về Oxy và khí Carbonic
+
+### 2.2.2 Trao đổi khí giữa phổi và máu
+
+
+### 2.2.3 Trao đổi khí giữa máu và tế bào
+
+
+### 2.2.4 Vai trò của Hemoglobin (Hb)
+
+
+### 2.2.5 Biến đổi tính chất vật lý của không khí
+
+
+
+## 2.3 Điều hòa hô hấp
+
+### 2.3.1 Trung khu hô hấp
+
+
+### 2.3.2 Hoạt động của trung khu
+
+
+### 2.3.3 Cơ chế điều hòa hô hấp
+#### 2.3.3.1 Điều hòa hóa học
+
+
+#### 2.3.3.2 Điều hòa của vỏ não
+
+
+#### 2.3.3.3 Các phản xạ ngoại biên
+
+
+#### 2.3.3.4 Vai trò của dây thần kinh X (Vagus nerve)

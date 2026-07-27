@@ -725,54 +725,258 @@ Màng phổi là một bao thanh mạc (_serous membrane_) kín, gồm 2 lá bao
 # 2. Sinh Lý
 ## 2.1 Hiện tượng cơ học của hô hấp (Mechanics of Respiration)
 ### 2.1.1 Khái niệm 
+Hô hấp là quá trình đưa **O₂** từ ngoài vào và thải **CO₂** ra cơ thể. Quá trình này diễn ra nhờ sự co giãn của các **cơ hô hấp** (đặc biệt là cơ hoành) và **áp lực âm** khoang màng phổi, làm thay đổi **thể tích lồng ngực** cùng **áp suất trong phổi** để lưu thông không khí.
+Quá trình hô hấp gồm:
 
+- Động tác hít vào (_Inspiration_)
+- Động tác thở ra (_Expiration_)
+- Nhịp thở (_Respiratory cycle_)
+- Tần số thở (_Respiratory rate_)
+- Dung lượng phổi (_Lung volumes & capacities_)
 
 ### 2.1.2 Động tác hít vào (Inspiration)
+**Cơ chế:**
+- Cơ hô hấp co: 
+	- Cơ hoành co → hạ xuống. 
+	- Cơ liên sườn ngoài co → nâng xương sườn. 
+- Lồng ngực nở theo 3 chiều: 
+	- Trước – sau. 
+	- Ngang. 
+	- Dọc. 
+- Thể tích lồng ngực tăng → kéo phổi nở theo. 
+- Thể tích phổi tăng → áp suất trong phổi giảm thấp hơn áp suất khí quyển. 
+- Không khí đi từ môi trường ngoài vào phổi theo chênh lệch áp suất.
 
+**Kết quả:** Phổi chứa nhiều không khí hơn (giàu O₂).
 
 ### 2.1.3 Động tác thở ra (Expiration)
+**Cơ chế**
 
+- Cơ hô hấp giãn: 
+	- Cơ hoành giãn.
+	- Cơ liên sườn giãn.
+- Lồng ngực trở về vị trí ban đầu.
+- Thể tích phổi giảm.
+- Áp suất trong phổi tăng cao hơn áp suất khí quyển.
+- Không khí bị đẩy ra ngoài.
+
+**Lưu ý**
+- Thở ra bình thường là **quá trình thụ động**.
+- Thở ra gắng sức có thêm sự tham gia của cơ thành bụng và cơ liên sườn trong (**bổ sung ngoài giáo trình**).
 ### 2.1.4 Nhịp thở và tần số thở (Respiratory Rate)
+#### a. Nhịp thở
+Một nhịp thở (1 chu kỳ) gồm :
 
+- 1 lần hít vào.
+- 1 lần thở ra.
 
+Một nhịp thở ≈ 4 nhịp tim.
+
+#### b. Tần số thở bình thường
+- **Khái niệm**: Số nhịp thở trên 1 phút gọi là tần sổ thở
+
+|Đối tượng|Tần số|
+|---|---|
+|Người lớn|**16–20 lần/phút**|
+|Trẻ em|**25–30 lần/phút**|
+
+#### c. Dấu hiệu gợi ý viêm phổi ở trẻ
+
+|Tuổi|Nhịp thở|
+|---|---|
+|<2 tháng|>60 lần/phút|
+|2–12 tháng|>50 lần/phút|
+|1–5 tuổi|>40 lần/phút|
+
+#### d. Thay đổi sinh lý
+
+**Nhịp thở:**
+
+- Giảm khi ngủ.
+- Tăng khi lao động.
+- Tăng khi gắng sức.
+- Có thể nhanh, chậm hoặc rối loạn trong bệnh lý.
 ### 2.1.5 Dung tích và thể tích phổi (Lung Volumes)
 
+#### 2.1.5.1. Tổng dung lượng phổi
 
+Khoảng **4,5–5 L**.
 
-### 2.1.6 
+Gồm:
 
+- **Dung tích sống** (Vital Capacity – VC)
+- **Thể tích khí cặn** (Residual Volume – RV)
+
+#### 2.1.5.2. Dung tích sống (Vital Capacity – VC)
+Khoảng **3,5 L**
+
+Bao gồm:
+##### a. Thể tích khí lưu thông (Tidal Volume – TV)
+
+≈ **0,5 L**
+
+→ Lượng khí hít vào hoặc thở ra trong một lần thở bình thường.
+
+---
+
+##### b. Thể tích dự trữ hít vào (Inspiratory Reserve Volume – IRV)
+
+≈ **1,5 L**
+
+→ Lượng khí có thể hít thêm sau khi đã hít vào bình thường.
+
+---
+
+##### c. Thể tích dự trữ thở ra (Expiratory Reserve Volume – ERV)
+
+≈ **1,5 L**
+
+→ Lượng khí có thể thở thêm sau khi đã thở ra bình thường.
+
+---
+
+##### d. Dung tích sống thay đổi theo
+
+- Tuổi.  (tuổi càng cao thì càng giảm)
+- Giới tính. (nam > nữ ở cùng độ tuổi)
+	- Chiều cao.
+	- Cân nặng.
+- Sức khỏe.
+- Mức độ luyện tập.
+
+#### 2.1.5.2. Thể tích khí cặn (Residual Volume – RV)
+
+khoảng 1- 1,5 lít
+-  →  Là thể tích khí còn lại trong phổi sau khi đã thở ra hết sức: 
 ## 2.2 Hiện tượng Lý - Hóa của hô hấp
 ### 2.2.1 Thay đổi về Oxy và khí Carbonic
-
+- **Hiện tượng:** Không khí hít vào giàu O₂(oxy) và nghèo CO₂(carbonic), trong khi không khí thở ra ngược lại.
+- **Nguyên nhân:** Do quá trình **trao đổi khí** liên tục diễn ra giữa phổi - máu và giữa máu - tế bào.
+- **Cơ chế:** Quá trình này tuân theo **định luật khuếch tán**, các chất khí sẽ tự động di chuyển từ nơi có áp suất (phân áp) cao sang nơi có áp suất thấp.
+	- Khí luôn đi từ nơi có **phân áp cao** → nơi có **phân áp thấp**.
 ### 2.2.2 Trao đổi khí giữa phổi và máu
+#### a. Phế nang
 
+- PO₂ ≈ **100 mmHg**
+- PCO₂ ≈ **40 mmHg**
+
+#### b. Máu trong mao động mạch phổi:
+
+- PO₂ ≈ **40 mmHg**
+- PCO₂ ≈ **50 mmHg**
+
+#### d. Kết quả
+**Theo quy luật khuếch tán:**
+	
+O₂:
+
+> Phế nang → Máu
+
+CO₂:
+
+> Máu → Phế nang
+
+Máu trở thành máu giàu O₂ (máu đỏ tươi), được tim co bóp, bơ đi nuôi dưỡng các tế bào trong cơ thể.
 
 ### 2.2.3 Trao đổi khí giữa máu và tế bào
+![[he_ho_hap_sinh_ly_1.png]]
 
+### Máu động mạch
+
+- PO₂ ≈ **94 mmHg**
+- PCO₂ ≈ **40 mmHg**
+
+### Tế bào
+
+- PO₂ ≈ **30 mmHg**
+- PCO₂ ≈ **50 mmHg**
+
+### Kết quả
+**Theo quy luật khuếch tán:**
+O₂:
+
+> Máu → Tế bào
+
+CO₂:
+
+> Tế bào → Máu
+
+Máu (nhận nhiều CO₂ → trở thành máu đỏ sẫm) trở về tim rồi lên phổi để tiếp tục trao đổi khí, đào thải CO₂.
 
 ### 2.2.4 Vai trò của Hemoglobin (Hb)
+![[he_ho_hap_sinh_ly_2.png]]
+**Ở phổi**
 
+- HbCO₂ nhận từ tế bào sẽ phân ly để giải phóng khí CO₂: HbCO₂ → Hb + CO₂
+- Phổi cung cấp O₂ cho máu để kết hợp với Hb : \(Hb + O₂ → HbO₂\)
+- Máu vận chuyển HbO₂ từ phổi đến các mô và tế bào.
+
+---
+
+**Ở tế bào**
+
+- HbO₂ phân ly để giải phóng O₂: HbO₂ → Hb + O₂
+- Tế bào giữ lại O₂ để sử dụng cho các hoạt động sống.
+- Hb tự do kết hợp với CO₂ thải ra từ tế bào:  Hb + CO₂ →HbCO₂
+- Máu vận chuyển HbCO₂ về lại phổi để đào thải CO₂ ra ngoài.
 
 ### 2.2.5 Biến đổi tính chất vật lý của không khí
-
-
+Khi đi qua đường dẫn khí (từ mũi đến phổi), không khí được:
+- **Làm ấm đến 37°C**: Nhờ hệ thống mạch máu dày đặc.
+- **Làm ẩm bão hòa**: Nhờ các tuyến tiết dịch nhầy.
+- **Lọc bụi và diệt khuẩn**: Nhờ lông mũi, chất nhầy và hệ thống lông chuyển.
 
 ## 2.3 Điều hòa hô hấp
+Điều hòa hô hấp gồm:
 
-### 2.3.1 Trung khu hô hấp
+- **Phản xạ tự động của trung khu hô hấp.**
+- **Các cơ chế điều hòa thần kinh và hóa học.**
+### 2.3.1 Phản xạ tự động của trung khu hô hấp.
+#### 2.3.1.1 Trung khu hô hấp
+Nằm ở:
+- Hành não (_Medulla oblongata_)
+- Cầu não (_Pons_)
 
+Bao gồm:
+- Trung khu hít vào.
+- Trung khu thở ra.
+- Trung khu điều khiển ở cầu não.
+- Trung khu cảm nhận hóa học.
 
-### 2.3.2 Hoạt động của trung khu
+#### 2.3.1.2 Hoạt động của trung khu
+##### a. Trung khu hít vào
 
+- Phát xung động đều đặn liên tục suốt đời để duy trì nhịp thở cơ bản.
+- Kích thích cơ hô hấp co gây động tác hít vào; khi hết hưng phấn, cơ giãn gây động tác thở ra.
+
+=> Là trung khu duy trì nhịp thở cơ bản.
+##### b. Trung khu thở ra & điều khiển
+- Trung khu thở ra bình thường ít hoạt động, chỉ tham gia khi thở ra gắng sức.
+- Trung khu điều khiển có nhiệm vụ ức chế trung khu hít vào để ổn định nhịp thở.
+
+##### c. Trung khu cảm nhận hóa học
+Thường xuyên theo dõi:
+- CO₂.
+- H⁺ trong máu.
+
+Khi CO₂ tăng hoặc pH giảm:
+→ Kích thích tăng nhịp thở (tăng tần số hô hấp).
 
 ### 2.3.3 Cơ chế điều hòa hô hấp
 #### 2.3.3.1 Điều hòa hóa học
-
+- **Yếu tố cốt lõi**: Khí CO₂ trong máu chi phối nhịp thở rất linh hoạt.
+- **Cơ chế**: CO₂ tăng gây kích thích tăng nhịp và biên độ hô hấp; CO₂ giảm làm nhịp thở chậm lại; giảm quá mức có thể gây ngừng thở.
+- **Ứng dụng**: Người hôn mê thở oxy bằng hỗn hợp khí carbogen (95% O₂), (5% CO₂) để kích thích trung khu hô hấp.
 
 #### 2.3.3.2 Điều hòa của vỏ não
-
+- **Chủ động**: Con người có thể tự ý thay đổi hơi thở (nín thở, thở nhanh, chậm, sâu, nông, dài, ngắn).
+- **Tâm lý**: Cảm xúc mạnh (lo sợ, vui buồn, giận dữ, xúc động) tác động lên vỏ não làm thay đổi nhịp thở, đôi khi gây nghẹn thở.
 
 #### 2.3.3.3 Các phản xạ ngoại biên
-
+- **Phản xạ nuốt**: Ức chế trung khu hô hấp gây ngừng thở tạm thời giúp bảo vệ đường thở.
+- **Kích thích cảm giác (đau, nóng, lạnh)**: Làm tăng nhịp thở; nếu kích thích quá mạnh có thể gây ngừng thở (ứng dụng kích thích trẻ sơ sinh khóc).
+- **Kích thích khứu giác**: Mùi thơm gây thở nhanh; mùi thối gây ức chế thở; ngửi hơi độc hoặc thuốc mê mạnh (clorofoc) có thể gây ngừng thở đột ngột.
 
 #### 2.3.3.4 Vai trò của dây thần kinh X (Vagus nerve)
+- **Cơ chế**: Khi hít sâu/gắng sức, phế nang giãn đột ngột kích thích dây X truyền xung động ức chế trung khu hít vào, làm cơ hô hấp giãn ra để chuyển sang thì thở ra.
+- **Ý nghĩa**: Là phản xạ bảo vệ tự động giúp phổi không bị căng giãn quá mức.

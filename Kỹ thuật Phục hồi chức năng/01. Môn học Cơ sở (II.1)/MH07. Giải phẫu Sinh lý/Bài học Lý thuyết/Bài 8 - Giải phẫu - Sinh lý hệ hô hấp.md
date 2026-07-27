@@ -1,10 +1,10 @@
 # 1. Giải Phẫu 
 **Nhiệm vụ & Mục đích chính**
-- **Trao đổi khí:** Cung cấp \(O_{2}\) từ ngoài vào tế bào, đào thải \(CO_{2}\) từ tế bào ra ngoài.
-- **Vai trò tế bào:** \(O_{2}\) giúp chuyển hóa năng lượng để tế bào sống; \(CO_{2}\) là chất thải cần loại bỏ.
+- **Trao đổi khí:** Cung cấp O₂ từ ngoài vào tế bào, đào thải CO₂ từ tế bào ra ngoài.
+- **Vai trò tế bào:** O₂ giúp chuyển hóa năng lượng để tế bào sống; CO₂ là chất thải cần loại bỏ.
 **Cơ chế hoạt động**
 - Gồm hiện tượng cơ học và hóa học.
-- Diễn ra qua quá trình trao đổi khí: Phổi \(\leftrightarrow \) Máu \(\leftrightarrow \) Tế bào.
+- Diễn ra qua quá trình trao đổi khí: Phổi → Máu→ Tế bào.
 **Cấu tạo giải phẫu**
 - Đường dẫn khí & cơ quan hô hấp: Mũi, hầu, thanh quản, khí quản, phổi và màng phổi.
 ![[he_ho_hap_1.png]]

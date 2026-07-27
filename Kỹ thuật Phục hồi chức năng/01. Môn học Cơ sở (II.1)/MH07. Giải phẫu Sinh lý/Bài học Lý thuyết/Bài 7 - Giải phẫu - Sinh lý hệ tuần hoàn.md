@@ -480,7 +480,7 @@ Máu giàu $\text{O}_2$ được bơm từ tâm thất trái đi nuôi toàn b�
 
 $$\text{Tâm thất trái} \rightarrow \text{Động mạch chủ} \rightarrow \text{Mao mạch cơ quan} \rightarrow \text{Tĩnh mạch chủ} \rightarrow \text{Tâm nhĩ phải}$$
 
-- _(Chuyển tiếp: Máu từ **(4) Tâm nhĩ trái** qua van 2 lá / van hai lá (_Mitral valve_) đổ xuống **(5) Tâm thất trái**)_
+- *(Chuyển tiếp: Máu từ **(4) Tâm nhĩ trái** qua van 2 lá / van hai lá (Mitral valve) đổ xuống **(5) Tâm thất trái**)*
     
 - **(5) Tâm thất trái** (_Left Ventricle_): Co bóp đẩy máu giàu $\text{O}_2$ qua van động mạch chủ (_Aortic valve_).
     

@@ -32,7 +32,7 @@ Gồm:
 - Tụy (**Pancreas**)
 - Các tuyến nằm trong niêm mạc ống tiêu hóa (**Digestive mucosal glands**)
 
-## Quá trình tiêu hóa
+#### Quá trình tiêu hóa
 
 Sau khi thức ăn được nghiền nhỏ trong ống tiêu hóa và chịu tác động của các **enzyme tiêu hóa (Digestive enzymes)**, các chất dinh dưỡng phức tạp được phân giải thành các chất đơn giản để hấp thu vào máu, cung cấp năng lượng và nguyên liệu cho cơ thể.
 
@@ -542,17 +542,137 @@ Là các tuyến ngoại tiết (**Exocrine glands**) tiết **nước bọt (Sa
 - Có nhiều ống tiết nhỏ đổ trực tiếp vào khoang miệng.
 
 > **(Bổ sung)** Ngoài ba tuyến lớn còn có nhiều **tuyến nước bọt nhỏ (Minor salivary glands)** phân bố ở môi, má, khẩu cái và lưỡi.
-### 7.2. Gan
-- Vị trí
-- Hình thể
-- Cấu tạo
-- Chức năng
+### 7.2. Gan (Liver)
+Gan (**Liver**) là tuyến tiêu hóa lớn nhất của cơ thể, đồng thời là cơ quan chuyển hóa quan trọng.
+#### a. Vị trí _(Position)_
 
+- Nằm ở tầng trên ổ bụng.
+- Chủ yếu ở **hạ sườn phải (Right hypochondriac region)** và **vùng thượng vị (Epigastric region)**.
+- Phần nhỏ kéo sang hạ sườn trái.
+
+---
+
+#### b. Hình thể _(External morphology)_
+
+Gan có màu nâu đỏ (**Reddish-brown**), mềm, nặng khoảng **1,2–1,5 kg** ở người trưởng thành.  
+
+Gồm có 2 mặt, 2 bờ:
+- 2 mặt: mặt trên và mặt dưới
+	- Mặt trên - Mặt hoành (**Diaphragmatic surface**),  có mạc chằng vành chia gan làm 2 phần:
+		- Phần trước: có mạc chằng liềm treo gan vào cơ hoành, chia gan thành 2 thùy: **Thùy phải (Right lobe)** và **Thùy trái (Left lobe)**.
+		- Phần sau: đè vào cột sống, có khuyết của cột sống, ấn thực quản và rãnh của tĩnh mạch chủ dưới.
+	- Mặt dưới - Mặt tạng (**Visceral surface**), lồi lõm vì đè lên các tạng dạ dày, tá tràng, đại tràng góc gan và thận phải. Tại mặt dưới có túi mật.
+		- mặt sau có 2 thùy: **Thùy vuông (Quadrate lobe)** và **Thùy đuôi (Caudate lobe)**.
+
+- 2 Bờ: gồm: bờ trước và bờ sau
+	- Bờ trước: sắc, bên phải có đáy túi mật nhô ra bên trái có khuyết của dây trằng tròn.
+	- Bờ sau: tròn không rõ
+
+> **(Bổ sung)** Túi mật (**Gallbladder**) nằm ở mặt dưới gan, có nhiệm vụ dự trữ và cô đặc dịch mật.
+
+![[he_tieu_hoa_gan_1.png]]
+#### c. Cấu tạo _(Structure)_
+**Cấu tạo của gan** gồm bao gan và mô gan. Bao gan có 2 lớp: thanh mạc (ngoài) và bao xơ (trong), đi vào nhu mô gan qua cửa gan. Mô gan gồm các tiểu thùy gan và khoảng cửa.
+
+> **(Bổ sung)** Gan có khả năng tái tạo (**Liver regeneration**) sau khi bị tổn thương hoặc cắt bỏ một phần.
+##### 1. Tiểu thùy gan
+Đơn vị cấu tạo của gan là **tiểu thùy gan (Hepatic lobule)**.
+- Là các khối nhỏ cấu tạo nên gan, ranh giới không rõ rệt.
+- Trung tâm là tĩnh mạch trung tâm tiểu thùy.
+- Các bè Rê-mác (dây tế bào gan) tỏa ra xung quanh tĩnh mạch trung tâm.
+- Xen giữa các bè là tiểu quản mật và lưới mao mạch nan hoa.
+- Bào tương tế bào gan chứa không bào Glycogen, mỡ hoặc protein.
+
+Trong tiểu thùy có:
+- **Tế bào gan (Hepatocytes)**.
+- **Xoang gan (Hepatic sinusoids)**.
+- **Tĩnh mạch trung tâm (Central vein)**.
+##### 2. Khoảng cửa
+Là tổ chức liên kết giữa các tiểu thùy, gồm hai thành phần chính:
+
+- **Mạch máu**:
+    - Nhánh động mạch gan và nhánh tĩnh mạch cửa (mang sản phẩm tiêu hóa từ ruột) cùng đổ vào lưới mao mạch nan hoa.
+    - Máu trao đổi chất với tế bào gan, đổ về tĩnh mạch trung tâm tiểu thùy → tĩnh mạch trên gan (phải, trái, giữa) → tĩnh mạch chủ dưới → tâm nhĩ phải.
+- **Đường dẫn mật**:
+    - Mật do gan tiết ra đổ vào tiểu quản mật → ống dẫn mật trong khoảng cửa → đường mật ngoài gan (ống gan, ống mật chủ, ống túi mật) → tích tụ và cô đặc tại túi mật.
+![[he_tieu_hoa_gan_2.png]]	
+![[he_tieu_hoa_gan_3.png]]
+
+
+#### d. Chức năng _(Functions)_
+
+Gan có nhiều chức năng quan trọng:
+##### 1. Chức năng chuyển hóa (Metabolic function)
+
+- **Glucid (Carbohydrate metabolism)**:
+    - Tổng hợp glycogen từ glucose, galactose, fructose, lactose, maltose.
+    - Tân tạo đường (gluconeogenesis) từ acid amin, glycerol, acid béo, acid lactic.
+    - Phân giải glycogen thành glucose vào máu \(\rightarrow \) duy trì đường huyết hằng định **0,8 – 1,2g/lít**.
+- **Lipid (Lipid metabolism)**:
+    - Lượng lipid chiếm **3 - 4%** trọng lượng gan.
+    - Tổng hợp acid béo từ glucid và protid.
+    - Tổng hợp acid béo thành triglyceride, phospholipid, cholesterol ester, lipoprotein nhẹ để đưa vào máu.
+- **Protid (Protein metabolism)**:
+    - Khử amin (deamination), khử carboxyl (decarboxylation), chuyển amin (transamination) các acid amin từ tĩnh mạch cửa.
+    - Sản xuất gần **50%** tổng lượng protein cơ thể, gồm hầu hết albumin huyết tương.
+    - _Hệ quả_: Suy gan \(\rightarrow \) giảm protein máu, thiếu enzyme \(\rightarrow \) phù thiểu dưỡng (nutritional edema), rối loạn chuyển hóa.
+
+##### 2. Chức năng bài tiết mật (Biliary secretion function)
+
+- Tiết mật liên tục vào tiểu quản mật → ống gan → ống mật chủ → **đoạn II tá tràng (duodenum)**.
+- Dự trữ và cô đặc mật tại túi mật (gallbladder).
+
+##### 3. Chức năng chống độc (Detoxification function)
+
+- Giữ lại chất độc/chất lạ, biến đổi thành chất không độc hoặc ít độc hơn.
+- Đào thải qua thận (nước tiểu) hoặc đường mật (phân).
+- _Hệ quả_: Tổn thương gan có thể gây tử vong do nhiễm độc.
+
+##### 4. Các chức năng khác (Other functions)
+
+- **Chuyển hóa và dự trữ sắt (Iron metabolism and storage)**: Gan và lách dự trữ sắt; gan giữ **60%** muối sắt để cung cấp cho tủy xương tạo hồng cầu (erythrocytes).
+- **Đông máu (Coagulation / Blood clotting)**: Sản xuất **prothrombin** (Yếu tố II) và **fibrinogen** (Yếu tố I) giúp đông máu bình thường.
+- **Dự trữ Vitamin (Vitamin storage)**:
+    - Chuyển tiền vitamin A (carotenoid) thành vitamin A dự trữ.
+    - Tiết mật giúp hấp thu các vitamin tan trong dầu: **A, D, E, K**.
 ### 7.3. Tuyến tụy
-- Vị trí
-- Cấu tạo
-- Chức năng
+Tuyến tụy (**Pancreas**) là tuyến vừa **ngoại tiết (Exocrine gland)** vừa **nội tiết (Endocrine gland)**.
+Tiết ra men tiêu hoá đổ vào ruột non.
+#### a. Vị trí _(Position)_
 
+- Nằm trong ổ bụng, trong khung ta tràng, vắt ngang cột sống
+- Nằm sau dạ dày (**Posterior to the stomach**).
+- Kéo dài từ tá tràng đến lách (**Spleen**).
+- Là cơ quan **sau phúc mạc (Retroperitoneal organ)**.
+
+#### b. Cấu tạo _(Structure)_
+
+Tuyến tụy gồm bốn phần:
+
+- Đầu tụy (**Head**).
+- Cổ tụy (**Neck**).
+- Thân tụy (**Body**).
+- Đuôi tụy (**Tail**).
+
+- **Ống tụy**: gồm có ống tụy chính và ống tụy phụ.
+- **Nang tụy**: là những túi tiết ra dịch tụy.
+- **Tiểu đảo tụy** (đảo Langherhand): là những đám tế bào có chức năng nội tiết.
+
+> **(Bổ sung)** Ống tụy chính (**Main pancreatic duct/Wirsung duct**) thường hợp với **ống mật chủ (Common bile duct)** trước khi đổ vào tá tràng qua **nhú tá lớn (Major duodenal papilla)**.
+![[he_tieu_hoa_tuy_1.png]]
+#### c. Chức năng _(Functions)_
+
+##### Chức năng ngoại tiết _(Exocrine function)_
+
+- Tiết **dịch tụy (Pancreatic juice)** chứa các enzyme tiêu hóa vào tá tràng (ruột non).
+
+##### Chức năng nội tiết _(Endocrine function)_
+
+- Các **đảo tụy (Islets of Langerhans)** tiết hormon:
+    - **Insulin**.
+    - **Glucagon**.
+
+Hai hormon này tham gia điều hòa nồng độ glucose trong máu.
 # II. Sinh lý
 ## 1. Tiêu hóa ở miệng 
 - Hiện tượng cơ học

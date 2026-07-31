@@ -215,7 +215,38 @@ Các đốt sống cổ được chia thành:
 	- Diện khớp dưới hướng xuống dưới và ra trước.
 	- Giúp thực hiện các động tác gấp, duỗi, nghiêng và xoay cổ.
 
+###### 3. Các đốt sống cổ đặc biệt
+- **a. Đốt đội (C1)**
+	- **Đặc điểm**
+		- Không có thân đốt sống và không có mỏm gai.
+		- Gồm:
+		    - Cung trước.
+		    - Cung sau.
+		    - Hai khối bên.
 
+	- **Đặc điểm quan trọng**
+		- Mặt khớp trên lõm để khớp với lồi cầu xương chẩm tạo **khớp đội–chẩm**, giúp động tác gật đầu.
+		- Mặt khớp ở cung trước khớp với mỏm nha của C2.
+
+	![[xuong_dot_song_co_5.png]]
+	![[xuong_dot_song_co_6.png]]	 
+- ***Đốt trục (C2)***
+	- **Đặc điểm nổi bật**
+		- Có **mỏm nha (dens hoặc odontoid process)** nhô lên từ thân đốt sống.
+		- Mỏm nha là trục quay của C1.
+	- **Chức năng**
+			- Khớp đội–trục cho phép đầu quay sang trái và phải (động tác lắc đầu).
+			
+	![[xuong_dot_song_co_7.png]]	
+	![[xuong_dot_song_co_8.png]]	
+- ***c. Đốt lồi (C7)***
+	- **Đặc điểm**
+		- Có thân lớn hơn các đốt sống cổ khác.
+		- Mỏm gai dài, không chẻ đôi hoặc chẻ rất ít.
+		- Có thể sờ thấy rõ dưới da ở gốc cổ nên gọi là **đốt sống lồi**.
+		- Lỗ mỏm ngang nhỏ, thường chỉ có tĩnh mạch đi qua; động mạch đốt sống thường không đi qua C7.
+	![[xuong_dot_song_co_9.png]]	
+	![[xuong_dot_song_co_10.png]]		
 
 ##### 2.1.3.2 **Đốt sống ngực (Vertebrae thoracicae)
 

@@ -182,7 +182,7 @@ Các đốt sống cổ được chia thành:
 
 ![[xuong_dot_song_co_1.png]]
 ![[xuong_dot_song_co_2.png]]
-
+![[xuong_dot_song_co_11.png]]
 ######  2. Đặc điểm chung của đốt sống cổ điển hình (C3–C6)
 ![[xuong_dot_song_co_3.png]]
 ![[xuong_dot_song_co_4.png]]
@@ -247,6 +247,16 @@ Các đốt sống cổ được chia thành:
 		- Lỗ mỏm ngang nhỏ, thường chỉ có tĩnh mạch đi qua; động mạch đốt sống thường không đi qua C7.
 	![[xuong_dot_song_co_9.png]]	
 	![[xuong_dot_song_co_10.png]]		
+###### 4. Đặc điểm cần ghi nhớ
+
+- Có **7 đốt sống cổ (C1–C7)**.
+- **C3–C6** là đốt sống cổ điển hình.
+- **Lỗ mỏm ngang** là đặc điểm riêng của đốt sống cổ.
+- **Mỏm gai chẻ đôi** ở đa số các đốt sống cổ (trừ C1 và thường C7).
+- **C1 không có thân và mỏm gai.**
+- **C2 có mỏm nha.**
+- **C7 có mỏm gai dài, dễ sờ thấy.**
+- Lỗ đốt sống rộng, hình tam giác.
 
 ##### 2.1.3.2 **Đốt sống ngực (Vertebrae thoracicae)
 

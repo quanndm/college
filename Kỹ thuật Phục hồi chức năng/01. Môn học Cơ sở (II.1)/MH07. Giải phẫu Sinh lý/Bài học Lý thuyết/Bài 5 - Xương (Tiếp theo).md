@@ -259,12 +259,222 @@ Các đốt sống cổ được chia thành:
 - Lỗ đốt sống rộng, hình tam giác.
 
 ##### 2.1.3.2 **Đốt sống ngực (Vertebrae thoracicae)
+###### 1. Đại cương
+
+- Cột sống ngực gồm **12 đốt sống**, ký hiệu từ **T1 đến T12**.
+- Nằm giữa cột sống cổ và cột sống thắt lưng.
+- Có chức năng:
+    - Nâng đỡ thân mình.
+    - Bảo vệ tủy sống.
+    - Tham gia tạo nên **lồng ngực** cùng với xương sườn và xương ức.
+    - Là nơi khớp với các xương sườn, góp phần vào động tác hô hấp.
+
+Các đốt sống ngực có cấu tạo khá giống nhau, tuy nhiên **T1, T10, T11 và T12** có một số đặc điểm riêng liên quan đến diện khớp với xương sườn.
+![[xuong_cot_song_2.png]]
+###### 2. Đặc điểm chung của đốt sống ngực
+![[xuong_cot_song_3.png]]
+- **a. Thân đốt sống**
+	- Lớn hơn thân đốt sống cổ, có dạng gần hình tim.
+	- Hai bên thân có **hố sườn (diện khớp sườn)** để khớp với đầu xương sườn.
+	- Đa số các đốt sống ngực có **hai bán diện khớp** (trên và dưới), mỗi bán diện khớp với đầu của hai xương sườn kế cận.
+
+- **b. Cung đốt sống**
+	- Cuống và mảnh cung chắc.
+	- Lỗ đốt sống nhỏ hơn đốt sống cổ, gần hình tròn.
+
+- **c. Mỏm ngang**
+	- Dài, hướng ra ngoài và ra sau.
+	- Mặt trước đầu mỏm ngang (T1–T10) có **diện khớp ngang** để khớp với củ xương sườn.
+	- không có lỗ mỏm ngang 
+
+- **d. Mỏm gai**
+	- Dài, mảnh.
+	- Chếch xuống dưới và ra sau.
+	- Các mỏm gai xếp chồng lên nhau như mái ngói, hạn chế động tác duỗi của cột sống ngực.
+
+- **e. Mỏm khớp**
+	- Diện khớp gần như nằm trên mặt phẳng trán.
+	- Diện khớp trên hướng ra sau, diện khớp dưới hướng ra trước.
+	- Thuận lợi cho động tác xoay nhưng hạn chế gấp và duỗi.
+
+###### 3. Các đốt sống ngực đặc biệt
+- **a. Đốt sống ngực I (T1)**
+	- Có **một diện khớp hoàn chỉnh** cho xương sườn I.
+	- Có thêm **một bán diện khớp dưới** cho xương sườn II.
+
+
+- **b. Đốt sống ngực X (T10)**
+	- Thường chỉ có **một diện khớp hoàn chỉnh** cho xương sườn X.
+
+
+- **c. Đốt sống ngực XI (T11)**
+	- Chỉ có **một diện khớp hoàn chỉnh** trên thân đốt sống.
+	- **Không có diện khớp trên mỏm ngang** vì xương sườn XI không có củ sườn.
+
+
+- **d. Đốt sống ngực XII (T12)**
+	- Chỉ có **một diện khớp hoàn chỉnh** cho xương sườn XII.
+	- Không có diện khớp ở mỏm ngang.
+	- Có đặc điểm chuyển tiếp giữa đốt sống ngực và đốt sống thắt lưng.
+	![[xuong_cot_song_4.png]]	
+
+###### 4. Đặc điểm cần ghi nhớ 
+- Có **12 đốt sống ngực (T1–T12)**.
+- Thân đốt sống hình tim.
+- Lỗ đốt sống nhỏ, gần hình tròn.
+- Có **hố sườn trên thân** để khớp với đầu xương sườn.
+- **T1–T10** có diện khớp trên mỏm ngang để khớp với củ xương sườn.
+- **T11 và T12 không có diện khớp trên mỏm ngang.**
+- Mỏm gai dài, chếch xuống dưới.
+- Động tác của cột sống ngực bị hạn chế do liên kết với lồng ngực.
 
 ##### 2.1.3.3 **Đốt sống thắt lưng (Vertebrae lumbales)
+###### 1. Đại cương
+- Cột sống thắt lưng gồm **5 đốt sống**, ký hiệu từ **L1 đến L5**.
+- Là đoạn cột sống có kích thước lớn nhất do phải chịu phần lớn trọng lượng của cơ thể.
+- Có chức năng:
+    - Nâng đỡ thân mình.
+    - Truyền trọng lượng từ thân xuống khung chậu và hai chi dưới.
+    - Bảo vệ đoạn tủy sống (ở người trưởng thành, tủy sống thường kết thúc ngang mức L1–L2) và các rễ thần kinh trong ống sống.
+    - Cho phép các động tác gấp, duỗi và nghiêng thân mình.
+
+Các đốt sống thắt lưng có cấu tạo khá giống nhau, trong đó **L5** có một số đặc điểm thích nghi với việc khớp với xương cùng.
+![[xuong_cot_song_5.png]]
+
+###### 2. Đặc điểm chung của đốt sống thắt lưng
+![[xuong_cot_song_6.png]]
+![[xuong_cot_song_7.png]]
+- **a. Thân đốt sống**
+	- Rất lớn, dày và chắc, có dạng hình thận (hình hạt đậu).
+	- Kích thước tăng dần từ **L1 đến L5** để thích nghi với tải trọng ngày càng lớn.
+
+- **b. Cung đốt sống**
+	- Cuống và mảnh cung dày, khỏe.
+	- Lỗ đốt sống hình tam giác nhưng nhỏ hơn đốt sống cổ.
+
+- **c. Mỏm ngang**
+	- Dài, mảnh và hướng ra ngoài.
+	- Là nơi bám của các cơ và dây chằng.
+	- Không có lỗ mỏm ngang và không có diện khớp với xương sườn.
+
+- **d. Mỏm gai**
+	- To, dày, ngắn.
+	- Có dạng hình chữ nhật hoặc hình rìu.
+	- Hướng gần như nằm ngang ra sau.
+
+- **e. Mỏm khớp**
+	- Diện khớp chủ yếu nằm trên mặt phẳng dọc.
+	- Diện khớp trên hướng vào trong.
+	- Diện khớp dưới hướng ra ngoài.
+	- Cấu tạo này giúp **gấp và duỗi** dễ dàng nhưng **hạn chế động tác xoay**.
+
+- **f. Mỏm phụ và mỏm núm**
+	- **Mỏm phụ (Accessory process):** nằm ở mặt sau gốc mỏm ngang.
+	- **Mỏm núm (Mammillary process):** nằm trên mặt sau của mỏm khớp trên.
+	- Là nơi bám của các cơ sâu vùng lưng.
+
+###### 3. Đặc điểm của đốt sống thắt lưng V (L5)
+
+- Là đốt sống lớn nhất trong các đốt sống thắt lưng.
+- Thân đốt phía trước cao hơn phía sau, tạo góc với xương cùng, góp phần hình thành **góc nhô (góc thắt lưng – cùng)**.
+- Khớp với nền xương cùng, chịu tải trọng lớn nhất của cột sống.
+- Là vị trí dễ xảy ra **trượt đốt sống (spondylolisthesis)**, đặc biệt ở khớp **L5–S1**.
+
+###### 4. Đặc điểm cần ghi nhớ
+
+- Có **5 đốt sống thắt lưng (L1–L5)**.
+- Thân đốt rất lớn, hình thận.
+- Lỗ đốt sống hình tam giác.
+- Mỏm gai ngắn, to và nằm ngang.
+- Mỏm ngang dài nhưng **không có lỗ mỏm ngang** và **không có diện khớp sườn**.
+- Có **mỏm phụ** và **mỏm núm**, là đặc điểm khá đặc trưng của đốt sống thắt lưng.
+- Chủ yếu thực hiện động tác **gấp, duỗi và nghiêng**, xoay rất hạn chế.
 
 ##### 2.1.3.4 **Xương cùng (Os sacrum)
 
+###### 1. Đại cương 
+- Xương cùng là một xương hình tam giác, được tạo bởi **5 đốt sống cùng (S1–S5) dính lại với nhau** ở người trưởng thành.
+- Nằm giữa hai xương chậu, phía dưới đốt sống thắt lưng V và phía trên xương cụt.
+- Có chức năng:
+    - Truyền trọng lượng cơ thể từ cột sống xuống khung chậu và hai chi dưới.
+    - Tham gia tạo thành thành sau của khung chậu.
+    - Bảo vệ các rễ thần kinh cùng.
+![[xuong_cung_cut_1.png]]
+![[xuong_cung_cut_2.png]]
+![[xuong_cung_cut_3.png]]
+###### 2. Đặc điểm cấu tạo
+-  **a. Nền xương cùng (Base)**
+	- Hướng lên trên, khớp với đốt sống thắt lưng V.
+	- Có **mỏm nhô (promontory)** là bờ trước của thân đốt S1, là mốc giải phẫu quan trọng trong sản khoa.
+
+- **b. Đỉnh xương cùng (Apex)**
+	- Hướng xuống dưới.
+	- Khớp với xương cụt.
+
+- **c. Mặt chậu (mặt trước)**
+	- Lõm, nhẵn.
+	- Có **4 đường ngang** là dấu vết của sự dính nhau giữa các đốt sống cùng.
+	- Có **4 đôi lỗ cùng trước** cho các nhánh trước của thần kinh cùng đi qua.
+
+- **d. Mặt lưng (mặt sau)**
+	- Gồ ghề.
+	- Có **5 mào xương**:
+	    - Mào cùng giữa.
+	    - Hai mào cùng trung gian.
+	    - Hai mào cùng bên.
+	- Có **4 đôi lỗ cùng sau** cho các nhánh sau của thần kinh cùng đi qua.
+
+- **e. Mặt bên**
+	- Có **diện tai** để khớp với xương chậu tạo nên **khớp cùng – chậu**.
+	- Là vị trí truyền lực từ cột sống xuống chi dưới.
+
+- **f. Ống cùng**
+	- Là phần tiếp nối của ống sống.
+	- Đầu dưới mở ra ngoài qua **khe cùng (sacral hiatus)**.
+
+###### 3. Đặc điểm cần ghi nhớ
+
+- Gồm **5 đốt sống dính nhau**.
+- Hình tam giác.
+- Có **4 đôi lỗ cùng trước** và **4 đôi lỗ cùng sau**.
+- Có **diện tai** để khớp với xương chậu.
+- Có **mỏm nhô** ở nền xương cùng.
+- Có **khe cùng** ở phần dưới.
 ##### 2.1.3.5 **Xương cụt (Os coccygis)
+
+###### 1. Đại cương 
+- Xương cụt là phần tận cùng của cột sống.
+- Được tạo bởi **3–5 đốt sống cụt**, thường gặp nhất là **4 đốt**, dính lại với nhau ở người trưởng thành.
+- Nằm dưới xương cùng.
+- Có chức năng:
+    - Là nơi bám của cơ, dây chằng và các cấu trúc vùng đáy chậu.
+    - Góp phần nâng đỡ các tạng vùng chậu.
+    - Tham gia chịu lực khi ngồi, đặc biệt khi ngả người ra sau.
+
+> **Lưu ý:** Một số giáo trình cũ ghi **3–4 đốt**, trong khi nhiều tài liệu giải phẫu hiện đại ghi **3–5 đốt (thường là 4)**. Khi học và làm bài thi, nên ưu tiên theo giáo trình của trường.
+
+###### 2. Đặc điểm cấu tạo
+- **a. Nền xương cụt**
+	- Hướng lên trên.
+	- Khớp với đỉnh xương cùng qua **khớp cùng – cụt**.
+	- Có **hai sừng cụt** khớp với sừng cùng.
+
+- **b. Đỉnh xương cụt**
+	- Hướng xuống dưới.
+	- Là phần cuối của cột sống.
+
+- **c. Thân xương**
+	- Gồm các đốt sống cụt dính nhau.
+	- Kích thước nhỏ dần từ trên xuống dưới.
+	- Không còn cung đốt sống và ống sống hoàn chỉnh ở các đốt dưới.
+
+###### 3. Đặc điểm cần ghi nhớ
+
+- Gồm **3–5 đốt sống cụt**, thường là **4 đốt**.
+- Là đoạn cuối của cột sống.
+- Khớp với xương cùng.
+- Có **sừng cụt** ở nền.
+- Là nơi bám của nhiều cơ và dây chằng vùng đáy chậu.
 
 ### 2.2 Xương lồng ngực (Thoracic Cage / Rib Cage /Thorax)
 

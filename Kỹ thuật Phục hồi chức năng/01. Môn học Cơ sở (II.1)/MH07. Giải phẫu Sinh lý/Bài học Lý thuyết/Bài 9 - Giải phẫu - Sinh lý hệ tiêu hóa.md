@@ -674,28 +674,292 @@ Tuyến tụy gồm bốn phần:
 
 Hai hormon này tham gia điều hòa nồng độ glucose trong máu.
 # II. Sinh lý
-## 1. Tiêu hóa ở miệng 
-- Hiện tượng cơ học
-- Hiện tượng hóa học
-- Hấp thu
+## 1. Tiêu hóa ở miệng  (Digestion in the Mouth)
+Miệng (**Oral cavity**) là nơi đầu tiên diễn ra quá trình tiêu hóa. Tại đây, thức ăn được **nghiền nhỏ (Mechanical digestion)**, **trộn với nước bọt (Saliva)** và bắt đầu **tiêu hóa hóa học (Chemical digestion)** trước khi được nuốt xuống thực quản.
+### Hiện tượng cơ học _(Mechanical Digestion)_
 
-## 2. Tiêu hóa ở dạ dày 
-- Hiện tượng cơ học
-- Hiện tượng hóa học
-    - Cơ chế bài tiết dịch vị
-    - Thành phần và tác dụng của dịch vị
-- Hấp thu
+Tiêu hóa cơ học ở miệng gồm các hoạt động:
 
-## 3. Tiêu hóa ở ruột non 
-- Hiện tượng cơ học
-- Hiện tượng hóa học
-    - Dịch tụy
-    - Dịch mật
-    - Dịch ruột
-    - Kết quả tiêu hóa ở ruột non
-- Hấp thu
+- **Nhai (Mastication):** Răng cắt, xé và nghiền nhỏ thức ăn, giúp tăng diện tích tiếp xúc với enzyme.
+- **Lưỡi (Tongue):** Đảo trộn thức ăn với nước bọt, tạo thành **viên thức ăn (Food bolus)**.
+- **Nuốt (Swallowing/Deglutition):** Đưa viên thức ăn từ miệng qua hầu xuống thực quản. Đây là bước chuyển tiếp giữa miệng và thực quản.
 
-## 4. Tiêu hóa ở ruột già
-- Chức năng
-- Hấp thu nước và muối khoáng
-- Tạo và thải phân
+> **(Bổ sung)** Giai đoạn đầu của động tác nuốt là **tự ý (Voluntary phase)**, sau đó chuyển sang **phản xạ (Reflex phase)** khi viên thức ăn đi đến hầu.
+
+### Hiện tượng hóa học _(Chemical Digestion)_
+
+Nước bọt (**Saliva**) được tiết từ các tuyến nước bọt với lượng khoảng **1–1,5 L/ngày**.
+
+### Thành phần _(Composition)_
+
+- Nước (**Water**) chiếm khoảng **99%**.
+- Chất điện giải (**Electrolytes**).
+- Chất nhầy (**Mucus**).
+- Enzyme **Amylase nước bọt (Salivary amylase/Ptyalin)**.
+
+### Tác dụng _(Functions)_
+
+- Làm ẩm và bôi trơn thức ăn (**Lubrication**).
+- Hòa tan các chất để cảm nhận vị giác (**Taste perception**).
+- Làm sạch khoang miệng và hỗ trợ bảo vệ răng.
+- Enzyme **Salivary amylase** thủy phân **tinh bột chín (Cooked starch)** thành **Maltose** và **Dextrin**, hoạt động tốt nhất ở pH gần trung tính (**pH 6,6–7,0**).
+
+> **(Bổ sung)** Khi thức ăn xuống dạ dày, enzyme amylase sẽ nhanh chóng bị bất hoạt do môi trường acid của dịch vị.
+
+### Hấp thu _(Absorption)_
+
+Ở miệng, quá trình hấp thu diễn ra **rất ít**.
+
+Chỉ một số chất có thể hấp thu trực tiếp qua niêm mạc miệng (**Oral mucosa**), như:
+
+- Một số thuốc đặt dưới lưỡi (**Sublingual drugs**).
+- Một lượng rất nhỏ nước và rượu (**Alcohol**).
+
+> **(Bổ sung)** Đường dùng **ngậm dưới lưỡi (Sublingual administration)** giúp thuốc hấp thu nhanh vào máu và tránh chuyển hóa lần đầu tại gan (**First-pass metabolism**).
+
+## 2. Tiêu hóa ở dạ dày (Digestion in the Stomach)
+
+Dạ dày (**Stomach**) là nơi chứa tạm thời thức ăn, đồng thời thực hiện **tiêu hóa cơ học (Mechanical digestion)** và **tiêu hóa hóa học (Chemical digestion)**, đặc biệt đối với **protein (Proteins)**. Sau quá trình tiêu hóa, thức ăn được biến thành **dịch nhão (Chyme)** trước khi chuyển xuống tá tràng.
+### Hiện tượng cơ học _(Mechanical Digestion)_
+
+Dạ dày thực hiện các hoạt động:
+
+- **Chứa thức ăn (Storage):** Sau khi nuốt, dạ dày giãn ra để chứa thức ăn.
+- **Co bóp và nhào trộn (Mixing contractions):** Ba lớp cơ của dạ dày co bóp giúp nghiền nhỏ và trộn thức ăn với **dịch vị (Gastric juice)**.
+- **Tống thức ăn (Gastric emptying):** Thức ăn sau khi được tiêu hóa một phần sẽ đi qua **cơ thắt môn vị (Pyloric sphincter)** xuống tá tràng theo từng đợt nhỏ.
+
+> **(Bổ sung)** Thức ăn giàu glucid rời dạ dày nhanh hơn protein, còn lipid lưu lại lâu nhất vì làm chậm quá trình làm rỗng dạ dày.
+
+
+### Hiện tượng hóa học _(Chemical Digestion)_
+
+#### a. Cơ chế bài tiết dịch vị _(Regulation of Gastric Secretion)_
+
+Dịch vị (**Gastric juice**) được tiết bởi **các tuyến vị (Gastric glands)** dưới sự điều hòa của:
+
+- **Thần kinh (Neural regulation):** Chủ yếu là **dây thần kinh lang thang (Vagus nerve)**.
+- **Thể dịch (Hormonal regulation):** Chủ yếu là hormon **Gastrin** do tế bào G ở hang môn vị tiết ra.
+
+> **(Bổ sung)** Quá trình tiết dịch vị diễn ra qua ba giai đoạn:
+> 
+> - **Giai đoạn đầu (Cephalic phase):** kích thích bởi nhìn, ngửi, nếm hoặc nghĩ đến thức ăn.
+> - **Giai đoạn dạ dày (Gastric phase):** thức ăn vào dạ dày kích thích tiết dịch vị mạnh nhất.
+> - **Giai đoạn ruột (Intestinal phase):** khi thức ăn xuống ruột non, quá trình tiết dịch vị giảm dần.
+
+#### b. Thành phần và tác dụng của dịch vị _(Composition and Functions of Gastric Juice)_
+
+Dịch vị có **pH khoảng 1,5–3,5**, mỗi ngày tiết khoảng **1,5–2,5 L**.
+
+##### Thành phần _(Composition)_
+
+- **Acid hydrochloric (HCl)**.
+- **Pepsinogen** (được hoạt hóa thành **Pepsin**).
+- **Chất nhầy (Mucus)**.
+- **Yếu tố nội (Intrinsic factor)**.
+- Nước và chất điện giải (**Water and Electrolytes**).
+
+##### Tác dụng _(Functions)_
+
+###### Acid HCl
+
+- Hoạt hóa **Pepsinogen** thành **Pepsin**.
+- Tạo môi trường acid thích hợp cho enzyme hoạt động.
+- Diệt phần lớn vi khuẩn theo thức ăn vào dạ dày.
+
+###### Pepsin
+
+- Thủy phân **protein (Proteins)** thành các **peptid (Peptides)** ngắn hơn.
+
+###### Chất nhầy (Mucus)
+
+- Bao phủ niêm mạc, bảo vệ dạ dày khỏi tác dụng của HCl và Pepsin.
+
+###### Yếu tố nội (Intrinsic factor)
+
+- Cần thiết cho sự hấp thu **Vitamin B₁₂** ở hồi tràng.
+
+> **(Bổ sung)** Thiếu **Intrinsic factor** có thể gây **thiếu máu hồng cầu khổng lồ (Pernicious anemia)** do giảm hấp thu vitamin B₁₂.
+
+#### Kết quả tiêu hóa ở dạ dày _(Products of Digestion)_
+
+- **Protein:** được tiêu hóa một phần thành **Peptid**.
+- **Glucid:** Enzyme **Salivary amylase** tiếp tục hoạt động trong thời gian ngắn rồi bị bất hoạt bởi môi trường acid.
+- **Lipid:** Chỉ tiêu hóa rất ít nhờ **lipase dạ dày (Gastric lipase)**.
+### 2.3. Hấp thu _(Absorption)_
+
+Dạ dày hấp thu rất ít.
+
+Có thể hấp thu:
+
+- Một ít **nước (Water)**.
+- **Rượu (Alcohol)**.
+- Một số thuốc tan trong lipid như **Aspirin**.
+
+> **(Bổ sung)** Phần lớn chất dinh dưỡng **không hấp thu ở dạ dày**, mà sẽ được hấp thu tại **ruột non (Small intestine)**.
+
+## 3. Tiêu hóa ở ruột non (Digestion in the Small Intestine)
+
+Ruột non (**Small intestine**) là nơi diễn ra **phần lớn quá trình tiêu hóa và hấp thu chất dinh dưỡng** của cơ thể. Tại đây, thức ăn được trộn với **dịch tụy (Pancreatic juice)**, **dịch mật (Bile)** và **dịch ruột (Intestinal juice)** để hoàn tất quá trình tiêu hóa.
+
+### 3.1. Hiện tượng cơ học _(Mechanical Digestion)_
+
+Ruột non có các kiểu vận động chính:
+
+- **Co bóp phân đoạn (Segmentation):** Trộn đều thức ăn với các dịch tiêu hóa và tăng tiếp xúc với niêm mạc ruột.
+- **Nhu động (Peristalsis):** Đẩy dịch tiêu hóa (**Chyme**) từ tá tràng đến hồi tràng.
+- **Cử động lắc (Pendular movement):** Góp phần đảo trộn thức ăn trong lòng ruột.
+
+> **(Bổ sung)** Co bóp phân đoạn là hình thức vận động chủ yếu của ruột non, giúp tăng hiệu quả tiêu hóa và hấp thu.
+
+
+### 3.2. Hiện tượng hóa học _(Chemical Digestion)_
+
+Quá trình tiêu hóa hóa học ở ruột non nhờ sự phối hợp của **dịch mật**, **dịch tụy** và **dịch ruột**.
+
+
+| dịch                         | gluxit                                           | protit       | lipit              |
+| ---------------------------- | ------------------------------------------------ | ------------ | ------------------ |
+| Miệng (nước bọt)<br>         | amilase<br>                                      | không có men | không có men       |
+| Dạ dày (dịch vị)<br>         | Không có men<br>                                 | pepsin       | Lipase             |
+| Ruột tá (dịch tụy, dịch mật) | amilase                                          | trypsin      | lipase             |
+| Ruột non (dịch ruột)         | amilase,lactase, maltase, <br>lactase, sarcarase | erepsin      | lipase             |
+| Các chất đơn giản            | Glucose                                          | Acidamin     | Glyceroi, Acid béo |
+
+
+#### a. Dịch mật _(Bile)_
+
+Dịch mật được **gan (Liver)** tiết ra và dự trữ trong **túi mật (Gallbladder)** trước khi đổ vào tá tràng.
+
+##### Thành phần _(Composition)_
+
+- Muối mật (**Bile salts**).
+- Sắc tố mật (**Bile pigments**).
+- Cholesterol.
+- Phospholipid.
+- Nước và điện giải.
+
+##### Tác dụng _(Functions)_
+
+- **Không chứa enzyme tiêu hóa.**
+- Nhũ tương hóa lipid (**Emulsification of fats**), làm tăng diện tích tiếp xúc để **lipase tụy (Pancreatic lipase)** hoạt động hiệu quả.
+- Hỗ trợ hấp thu các vitamin tan trong dầu (**Vitamins A, D, E, K**).
+
+> **(Bổ sung)** Muối mật còn giúp tạo **micelle**, hỗ trợ hấp thu các acid béo và monoglycerid.
+
+
+#### b. Dịch tụy _(Pancreatic Juice)_
+
+Dịch tụy có môi trường **kiềm (pH khoảng 7,8–8,4)**, giúp trung hòa acid từ dạ dày.
+
+##### Các enzyme chính
+
+- **Pancreatic amylase:** Tiêu hóa tinh bột thành maltose.
+- **Trypsin, Chymotrypsin:** Tiêu hóa protein thành peptid.
+- **Pancreatic lipase:** Tiêu hóa triglycerid thành acid béo và monoglycerid.
+- **Nucleases:** Tiêu hóa acid nucleic.
+
+> **(Bổ sung)** Trypsin được hoạt hóa từ **Trypsinogen** nhờ enzym **Enteropeptidase (Enterokinase)** của niêm mạc tá tràng.
+
+
+#### c. Dịch ruột _(Intestinal Juice)_
+
+Dịch ruột do các tuyến ở niêm mạc ruột tiết ra.
+
+##### Enzyme chính
+
+- **Maltase:** Maltose → 2 Glucose.
+- **Sucrase:** Sucrose → Glucose + Fructose.
+- **Lactase:** Lactose → Glucose + Galactose.
+- **Peptidase:** Peptid → Acid amin.
+
+> **(Bổ sung)** Phần lớn các enzyme này nằm ở **bờ bàn chải (Brush border)** của tế bào biểu mô ruột, hoàn tất quá trình tiêu hóa trước khi hấp thu.
+
+#### Kết quả tiêu hóa _(End Products of Digestion)_
+
+Sau tiêu hóa, các chất dinh dưỡng được chuyển thành dạng đơn giản:
+
+- **Glucid (Carbohydrates)** → Monosaccharid (**Glucose, Fructose, Galactose**).
+- **Protid (Proteins)** → Acid amin (**Amino acids**).
+- **Lipid (Fats)** → Acid béo (**Fatty acids**) và Monoglycerid.
+- **Acid nucleic** → Base nitơ, đường pentose và phosphat.
+### 3.3. Hấp thu _(Absorption)_
+
+##### Cấu trúc giúp tăng hấp thu
+
+- **Nếp gấp vòng (Circular folds)**.
+- **Nhung mao ruột (Intestinal villi)**.
+- **Vi nhung mao (Microvilli/Brush border)**.
+
+Ba cấu trúc này làm tăng rất lớn diện tích hấp thu của ruột non.
+
+##### Cơ chế hấp thu
+
+- **Glucose và Galactose:** Đồng vận chuyển với Na⁺ (**Secondary active transport**).
+- **Fructose:** Khuếch tán hỗ trợ (**Facilitated diffusion**).
+- **Acid amin:** Chủ yếu vận chuyển tích cực (**Active transport**).
+- **Acid béo và Monoglycerid:** Khuếch tán vào tế bào ruột, tái tổng hợp thành triglycerid và được vận chuyển dưới dạng **Chylomicron** vào hệ bạch huyết (**Lymphatic system**).
+
+> **(Bổ sung)** Vitamin tan trong nước (B, C) hấp thu trực tiếp vào máu, còn vitamin tan trong dầu (A, D, E, K) cần có muối mật để hấp thu.
+
+
+## 4. Tiêu hóa ở ruột già - đại tràng _(Digestion in the Large Intestine)_
+
+Đại tràng (**Large intestine**) là đoạn cuối của ống tiêu hóa, có chức năng chủ yếu là **hấp thu nước và điện giải (Water and electrolyte absorption)**, đồng thời tạo khuôn phân (**Feces formation**) và tống phân ra ngoài (**Defecation**). Quá trình tiêu hóa hóa học tại đây rất ít, chủ yếu nhờ hệ vi khuẩn đường ruột (**Gut microbiota**).
+### 4.1. Hiện tượng cơ học _(Mechanical Digestion)_
+
+Đại tràng có các hoạt động vận động chính:
+
+- **Co bóp phân đoạn (Haustral contractions):** Giúp trộn đều chất chứa trong lòng đại tràng và tăng khả năng hấp thu nước.
+- **Nhu động (Peristalsis):** Đẩy phân di chuyển từ manh tràng đến trực tràng.
+- **Nhu động khối (Mass peristalsis/Mass movement):** Xảy ra vài lần trong ngày, đưa một lượng lớn phân xuống trực tràng để chuẩn bị đại tiện.
+
+> **(Bổ sung)** Nhu động khối thường xuất hiện sau bữa ăn do **phản xạ dạ dày – đại tràng (Gastrocolic reflex)**.
+
+
+### 4.2. Hiện tượng hóa học _(Chemical Digestion)_
+
+Đại tràng **hầu như không tiết enzyme tiêu hóa**.
+
+Quá trình phân giải thức ăn còn lại chủ yếu nhờ **hệ vi khuẩn đường ruột (Gut microbiota/Intestinal flora)**.
+
+### Vai trò của vi khuẩn đường ruột
+
+- Phân hủy một phần chất xơ (**Dietary fiber**) và các chất chưa được tiêu hóa ở ruột non.
+- Tổng hợp một số vitamin như:
+    - **Vitamin K**
+    - Một số vitamin nhóm **B** (đặc biệt Biotin và Folate).
+- Tạo các khí trong ruột (**Intestinal gases**) như CO₂, H₂, CH₄.
+
+> **(Bổ sung)** Quá trình lên men chất xơ còn tạo ra **acid béo chuỗi ngắn (Short-chain fatty acids – SCFAs)** như acetate, propionate và butyrate, là nguồn năng lượng cho tế bào niêm mạc đại tràng.
+
+
+### 4.3. Hấp thu _(Absorption)_
+
+Đại tràng tiếp tục hấp thu:
+
+- **Nước (Water)**.
+- **Điện giải (Electrolytes)**, chủ yếu là **Na⁺** và **Cl⁻**.
+- Một số vitamin do vi khuẩn đường ruột tổng hợp, đặc biệt là **Vitamin K** và một số **vitamin nhóm B**.
+
+> **(Bổ sung)** Bình thường mỗi ngày có khoảng **1–2 L** dịch đi vào đại tràng, trong đó phần lớn được hấp thu; chỉ còn khoảng **100–200 mL** nước được thải theo phân.
+
+### 4.4. Tạo phân và đại tiện _(Defecation)_
+
+Sau khi nước được hấp thu, chất chứa trong đại tràng trở nên đặc dần và tạo thành **phân (Feces)**.
+
+Thành phần của phân gồm:
+
+- Nước.
+- Chất xơ không tiêu hóa.
+- Vi khuẩn.
+- Tế bào biểu mô bong ra.
+- Muối khoáng và sắc tố mật chuyển hóa.
+
+Khi phân xuống **trực tràng (Rectum)** sẽ kích thích **phản xạ đại tiện (Defecation reflex)**.
+
+Quá trình đại tiện có sự phối hợp giữa:
+
+- **Cơ thắt hậu môn trong (Internal anal sphincter)** – cơ trơn, hoạt động **không theo ý muốn (Involuntary)**.
+- **Cơ thắt hậu môn ngoài (External anal sphincter)** – cơ vân, hoạt động **theo ý muốn (Voluntary)**.
+
+> **(Bổ sung)** Phản xạ đại tiện được điều hòa chủ yếu bởi **thần kinh tạng chậu (Pelvic splanchnic nerves – S2–S4)**.

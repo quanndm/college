@@ -167,6 +167,55 @@
 
 ![[xuong_cot_song1.png]]
 ##### 2.1.3.1 Đốt sống cổ  (Vertebrae cervicales)
+###### 1. Đại cương
+
+- Cột sống cổ gồm **7 đốt sống**, ký hiệu từ **C1 đến C7**.
+- Là đoạn linh hoạt nhất của cột sống, có chức năng:
+    - Nâng đỡ đầu.
+    - Bảo vệ tủy sống cổ.
+    - Cho phép đầu và cổ thực hiện nhiều động tác như gấp, duỗi, nghiêng và xoay.
+
+Các đốt sống cổ được chia thành:
+
+- **Đốt sống cổ điển hình:** C3 – C6.
+- **Đốt sống cổ không điển hình:** C1 (đốt đội), C2 (đốt trục), C7 (đốt lồi).
+
+![[xuong_dot_song_co_1.png]]
+![[xuong_dot_song_co_2.png]]
+
+######  2. Đặc điểm chung của đốt sống cổ điển hình (C3–C6)
+![[xuong_dot_song_co_3.png]]
+![[xuong_dot_song_co_4.png]]
+
+- ***a. Thân đốt sống***
+
+	- Nhỏ, thấp và hình bầu dục.
+	- Bờ trên có **mỏm móc (uncinate process)**, khớp với thân đốt sống phía trên tạo thành **khớp mỏm móc (khớp Luschka)**.
+
+- ***b. Cung đốt sống***
+
+	- Cuống và mảnh cung mỏng.
+	- Lỗ đốt sống rộng, hình tam giác để chứa đoạn tủy cổ.
+
+- ***c. Mỏm ngang***
+
+	- Có **lỗ mỏm ngang (foramen transversarium)**, đặc điểm riêng của đốt sống cổ.
+	- Lỗ này cho động mạch đốt sống (thường từ C6 đến C1), tĩnh mạch đốt sống và đám rối thần kinh giao cảm đi qua.
+	- Mỗi mỏm ngang có:
+	    - Củ trước.
+	    - Củ sau.
+	    - Rãnh thần kinh sống giữa hai củ.
+
+- ***d. Mỏm gai***
+	- Ngắn, thường **chẻ đôi (hai chẽ)**.
+
+- ***e. Mỏm khớp***
+
+	- Diện khớp trên hướng lên trên và ra sau.
+	- Diện khớp dưới hướng xuống dưới và ra trước.
+	- Giúp thực hiện các động tác gấp, duỗi, nghiêng và xoay cổ.
+
+
 
 ##### 2.1.3.2 **Đốt sống ngực (Vertebrae thoracicae)
 

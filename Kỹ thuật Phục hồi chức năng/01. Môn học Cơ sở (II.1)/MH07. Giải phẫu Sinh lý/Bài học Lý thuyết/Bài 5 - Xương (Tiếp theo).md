@@ -477,7 +477,75 @@ Các đốt sống thắt lưng có cấu tạo khá giống nhau, trong đó **
 - Là nơi bám của nhiều cơ và dây chằng vùng đáy chậu.
 
 ### 2.2 Xương lồng ngực (Thoracic Cage / Rib Cage /Thorax)
+#### 1. Đại cương 
+Xương lồng ngực là khung xương của vùng ngực, có dạng **hình nón cụt**, hẹp ở phía trên và rộng ở phía dưới. Lồng ngực được tạo bởi **12 đốt sống ngực, 12 đôi xương sườn và xương ức**, liên kết với nhau bởi các khớp và sụn sườn.
 
+**Lồng ngực có chức năng:**
+
+- Bảo vệ các cơ quan quan trọng trong lồng ngực như tim, phổi và các mạch máu lớn.
+- Tham gia vào động tác hô hấp nhờ sự di động của xương sườn và xương ức.
+- Là nơi bám của nhiều cơ vùng ngực, lưng, cổ và vai.
+- Góp phần nâng đỡ phần trên của cơ thể.
+![[xuong_suon_1.png]]
+![[xuong_suon_2.png]]
+#### 2. Thành phần cấu tạo 
+Lồng ngực gồm ba thành phần chính:
+- Đốt sống ngực
+- Xương sườn
+- Xương ức
+##### a. Đốt sống ngực (**Vertebrae thoracicae**)
+- Gồm **12 đốt sống ngực (T1–T12)**.
+- Tạo nên thành sau của lồng ngực.
+- Khớp với các xương sườn.
+
+##### b. Xương sườn (**Costae**)
+- Gồm **12 đôi xương sườn**.
+- Tạo thành hai thành bên của lồng ngực.
+- Mỗi xương sườn khớp phía sau với đốt sống ngực, phía trước nối với xương ức hoặc sụn sườn.
+![[xuong_suon_6.png]]
+![[xuong_suon_5.png]]
+##### Xương ức (**Sternum**)
+- Là một xương dẹt nằm ở đường giữa phía trước lồng ngực.
+- Gồm ba phần:
+    - Cán ức.
+    - Thân ức.
+    - Mỏm mũi kiếm.
+- Là nơi bám của sụn sườn và nhiều cơ vùng ngực.
+![[xuong_suon_3.png]]
+![[xuong_suon_4.png]]
+
+#### 3. Phân loại xương sườn
+Dựa vào sự liên kết với xương ức, xương sườn được chia thành ba nhóm:
+- **Sườn thật (I–VII):**
+    - Có sụn sườn nối trực tiếp với xương ức.
+- **Sườn giả (VIII–X):**
+    - Sụn sườn nối với sụn của xương sườn phía trên rồi mới đến xương ức.
+- **Sườn cụt hay sườn tự do (XI–XII):**
+    - Không nối với xương ức.
+    - Đầu trước tự do trong thành bụng.
+![[xuong_suon_1.png]]
+![[xuong_suon_2.png]]
+
+#### 4. Các lỗ của lồng ngực 
+##### a. Lỗ ngực trên
+- Nhỏ hơn.
+- Thông giữa cổ và lồng ngực.
+- Là nơi đi qua của khí quản, thực quản, mạch máu và thần kinh lớn.
+
+##### b. Lỗ ngực dưới
+- Rộng hơn.
+- Được giới hạn bởi xương sườn XII, bờ sườn, mỏm mũi kiếm và đốt sống ngực XII.
+- Được cơ hoành bịt kín, ngăn cách lồng ngực với ổ bụng.
+
+#### 5. Đặc điểm cần ghi nhớ 
+- Lồng ngực gồm:
+    - **12 đốt sống ngực.**
+    - **12 đôi xương sườn.**
+    - **1 xương ức.**
+- Có dạng hình nón cụt.
+- Có một lỗ ngực trên và một lỗ ngực dưới.
+- Bảo vệ tim, phổi và các cơ quan trong trung thất.
+- Tham gia quan trọng trong động tác hô hấp.
 
 
 ## 3. Xương chi (Appendicular skeleton)

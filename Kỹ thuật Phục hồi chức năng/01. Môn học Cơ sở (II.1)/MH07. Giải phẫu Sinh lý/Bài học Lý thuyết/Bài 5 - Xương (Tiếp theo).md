@@ -550,7 +550,89 @@ Dựa vào sự liên kết với xương ức, xương sườn được chia th
 
 ## 3. Xương chi (Appendicular skeleton)
 ### 3.1 Xương chi trên (Ossa membri superioris)
+Xương chi trên (**Bones of the upper limb**) gồm **đai vai (Shoulder/Pectoral girdle)** và **xương chi trên tự do (Free upper limb)**. Chúng có chức năng nâng đỡ chi trên, tạo các khớp linh hoạt và là nơi bám của nhiều cơ giúp thực hiện các động tác tinh tế của bàn tay.
 #### 3.1.1 Đai vai (Pectoral girdle)
+Đai vai (**Shoulder girdle**) nối **chi trên tự do (Free upper limb)** với **bộ xương trục (Axial skeleton)**. Đai vai gồm **hai xương**:
+- **Xương đòn (Clavicle)**
+- **Xương vai (Scapula)**
+
+> **(Bổ sung)** Đai vai là phần duy nhất nối chi trên với thân mình thông qua **khớp ức – đòn (Sternoclavicular joint)**.
+
+![[xuong_dai_vai_1.png]]
+![[xuong_dai_vai_2.png]]
+##### 1. Xương đòn (Clavicle)
+Xương đòn (**Clavicle**) là một **xương dài (Long bone)** có hình chữ **S**, nằm ngang ở phía trước vai, nối **xương ức (Sternum)** với **xương vai (Scapula)**.
+![[xuong_dai_vai_xuong_don_1.png]]
+![[xuong_dai_vai_xuong_don_2.png]]
+###### Đặc điểm
+- Dài khoảng **15 cm**.
+- Là xương nằm nông dưới da nên dễ sờ thấy.
+- Là xương đầu tiên bắt đầu cốt hóa (**Ossification**) và cũng là xương thường bị gãy nhất của chi trên.
+
+###### Hai đầu _(Extremities)_
+- **Đầu ức (Sternal end):**
+    - To, hình khối.
+    - Tiếp khớp với **cán xương ức (Manubrium of sternum)** tạo **khớp ức – đòn (Sternoclavicular joint)**.
+- **Đầu cùng vai (Acromial end):**
+    - Dẹt.
+    - Tiếp khớp với **mỏm cùng vai (Acromion)** tạo **khớp cùng vai – đòn (Acromioclavicular joint)**.
+
+###### Thân xương _(Shaft)_
+- Có hai mặt:
+    - **Mặt trên (Superior surface):** nhẵn.
+    - **Mặt dưới (Inferior surface):** gồ ghề, là nơi bám của dây chằng và cơ.
+
+> **(Bổ sung)** Xương đòn có vai trò truyền lực từ chi trên đến thân mình, đồng thời giữ vai ở vị trí thích hợp để cánh tay vận động linh hoạt.
+
+
+##### 2. Xương vai _(Scapula)_
+Xương vai (**Scapula**) là một **xương dẹt (Flat bone)** hình tam giác, nằm ở mặt sau lồng ngực, khoảng từ **xương sườn II đến VII (2nd–7th ribs)**.
+
+###### Đặc điểm
+Xương vai gồm:
+- **Hai mặt (Two surfaces)**
+- **Ba bờ (Three borders)**
+- **Ba góc (Three angles)**
+- **Ba mỏm (Three processes)**
+
+###### Hai mặt _(Surfaces)_
+- ***Mặt sườn (Costal surface / Anterior surface)***
+	- Hướng về thành ngực.
+	- Có **hố dưới vai (Subscapular fossa)** là nơi bám của **cơ dưới vai (Subscapularis muscle)**.
+
+- ***Mặt sau (Posterior surface)***
+	Có **gai vai (Spine of scapula)** chia mặt sau thành:
+	- **Hố trên gai (Supraspinous fossa)**
+	- **Hố dưới gai (Infraspinous fossa)**
+	
+	Là nơi bám của các cơ vùng vai.
+
+###### Ba bờ _(Borders)_
+- **Bờ trên (Superior border)**
+- **Bờ trong/Bờ sống (Medial/Vertebral border)**
+- **Bờ ngoài/Bờ nách (Lateral/Axillary border)**
+
+###### Ba góc _(Angles)_
+- **Góc trên (Superior angle)**
+- **Góc dưới (Inferior angle)**
+- **Góc ngoài (Lateral angle)**
+	Góc ngoài có:
+	- **Ổ chảo (Glenoid cavity)** tiếp khớp với **chỏm xương cánh tay (Head of humerus)** tạo **khớp vai (Glenohumeral joint)**.
+
+###### Ba mỏm _(Processes)_
+- ***Gai vai (Spine of scapula)***
+	- Chạy ngang mặt sau xương vai.
+	- Kéo dài ra ngoài tạo **mỏm cùng vai (Acromion)**.
+
+- ***Mỏm cùng vai (Acromion)***
+	- Tiếp khớp với đầu cùng vai của xương đòn.
+	- Tạo **khớp cùng vai – đòn (Acromioclavicular joint)**.
+
+- ***Mỏm quạ (Coracoid process)***
+	- Là mỏm xương hình móc ở mặt trước trên.
+	- Là nơi bám của nhiều cơ và dây chằng.
+
+> **(Bổ sung)** Mỏm quạ là điểm bám của **cơ ngực bé (Pectoralis minor)**, **đầu ngắn cơ nhị đầu cánh tay (Short head of biceps brachii)** và **cơ quạ cánh tay (Coracobrachialis)**.
 
 
 #### 3.1.2 Xương cánh  tay (Humerus)

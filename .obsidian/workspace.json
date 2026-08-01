@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3491df604b47d347",
+        "id": "e4b8324dab5ebe19",
         "type": "tabs",
         "children": [
           {
-            "id": "44c4067e975e703b",
+            "id": "05ef2b1e92e2ab7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/1 - Phân loại khớp và mô tả cấu trúc của một khớp động.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1 - Phân loại khớp và mô tả cấu trúc của một khớp động"
             }
           }
         ]
@@ -181,8 +181,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44c4067e975e703b",
+  "active": "05ef2b1e92e2ab7f",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/00. MỤC LỤC & ĐỀ CƯƠNG.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/10 - Trình bày hoạt động cơ bản của hệ thần kinh.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/9 - Mô tả về giải phẫu của buồng trúc và nêu chức năng nội tiết của buồng trứng.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/8 - Trình bày chức năng của thận.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/7 - Trình bày hiện tượng hấp thu trong tiêu hóa.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/6 - Mô tả vị trí và hình thể ngoài của dạ dày.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/4 - Trình bày về hiện tượng cơ học của hô hấp.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/3 - Trình bày các nguyên tắc truyền máu. Vẽ sơ đồ.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/2 - Mô tả vị trí và hình thể ngoài của tim.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/1 - Phân loại khớp và mô tả cấu trúc của một khớp động.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/5 - Trình bày về hiện tượng lý hóa trong hô hấp.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Baigiang GPSLcaodang.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/GIAI-PHAU-SINH-LY.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết",
+    "README.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Xương (Tiếp theo).md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/xuong_suon_5.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/xuong_suon_6.png",
@@ -199,16 +216,11 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 7 - Giải phẫu - Sinh lý hệ tuần hoàn.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 9 - Giải phẫu - Sinh lý hệ tiêu hóa.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 8 - Giải phẫu - Sinh lý hệ hô hấp.md",
-    "README.md",
     "Chưa đặt tên.canvas",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/Atlas Giai phau nguoi Netter Tieng Viet_hinhanhykhoa.com.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Chưa đặt tên.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/1. Glucid.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Baigiang GPSLcaodang.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/GIAI-PHAU-SINH-LY.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/TỔNG ÔN VI SINH CÙNG DANH.xlsx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/TỔNG ÔN VI SINH CÙNG DANH.xlsx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
@@ -216,18 +228,7 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Đề cương /2. LIPID.docx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Đề cương /9. Hemoglobin.docx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Đề cương /8. Enzym, Năng lượng sinh học.docx",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Đề cương /7. Cân bằng acid base.docx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/00. MỤC LỤC & ĐỀ CƯƠNG.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 2 - Tế bào.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 3 - Ngoại môi - Nội môi.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 4 - Mô.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Ghi chú tổng quan/timeline demo.md",
-    "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
-    "Ghi chú tổng quan/Lộ trình.md",
-    "Ghi chú tổng quan/Lộ trình 2.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/01. TÀI LIỆU & LINK THAM KHẢO.md"
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 2 - Tế bào.md"
   ]
 }

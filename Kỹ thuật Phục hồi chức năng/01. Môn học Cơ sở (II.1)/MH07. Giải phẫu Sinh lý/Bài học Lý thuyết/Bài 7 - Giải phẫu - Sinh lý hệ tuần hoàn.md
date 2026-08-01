@@ -4,13 +4,14 @@
 - Là cơ quan chính của hệ tuần hoàn, làm nhiẹm vụ bơm máu vào các động mạch và hút máu từ các tĩnh mạch trở về tim
 ### 1.1.1 Vị trí và hình dáng
 #### a. Vị trí 
-- Nằm trong khoang lồng ngực, thuộc trung thất trước(giữa), giữa 2 lá phổi 
-- Sau tim là khí quản, thực quản
+- Nằm trong khoang lồng ngực, thuộc trung thất giữa (Middle Mediastinum), giữa 2 lá phổi 
+- Sau tim: thực quản và động mạch chủ ngực xuống.
+- Phía trên tim: khí quản chia đôi thành hai phế quản gốc.
 - Trước tim là xương ức và các sụn xườn
 - Lệch về bên trái 
 #### b. Hình dáng 
 - Khối cơ rỗng, hình tháp, màu hồng 
-- Nặng khoảng 250 - 270g
+- Nặng khoảng 250 - 270g (Nam ≈ **300 g** , Nữ ≈ **250 g**)
 - To cỡ khoảng nắm tay của người trưởng thành (tùy vào kích thước nắm tay của mỗi người)
 
 ![[kich_thuoc_tim1.png]]
@@ -49,7 +50,8 @@
 
 
 ##### b. Mặt Phổi (mặt trái)
-- Áp sát vào phổi và màng phổi
+- Áp sát phổi trái.
+- Chủ yếu do **tâm thất trái** tạo thành.
 ##### c. Mặt hoành (Mặt dưới)
 ![[tim_mat_hoanh_1.png]]
 ![[tim_mat_hoanh_2.png]]
@@ -70,15 +72,16 @@
 		- **Hướng đi và điểm tận cùng:** Chạy dọc từ vùng chữ thập của tim hướng thẳng về phía đỉnh tim và nối tiếp với rãnh gian thất trước tại khuyết đỉnh tim.
 #### 1.1.2.2 Đỉnh tim (Mỏm tim)
 - Nằm chếch sang trái, quay xuống dưới, ngay sau lồng ngực
-- Ở khoang liên (gian) sườn V (có thể là IV) trên đường giữa đòn bên trái
+- Khoang liên sườn V trái trên đường trung đòn trái.
 ![[dinh_tim.png]]
 #### 1.1.2.3 Nền (Đáy tim)
 ![[day_tim_nhin_sau.png]]
 ![[tim_mat_hoanh_nhin_sau_duoi.png]]
 %% **thân cánh tay đầu => động mạch cảnh cánh tay đầu**  %%
-- hướng lên trên, ra sau, và sang phải là 2 mặt sau của tâm nhĩ 
-- Giữa 2 tâm nhĩ có rãnh dọc gọi là rãnh gian nhĩ 
- là mặt sau của 2 tâm nhĩ phải và trái 
+- hướng lên trên, ra sau, và sang phải là 2 mặt sau của tâm nhĩ (phải và trái)
+- Giữa 2 tâm nhĩ có rãnh dọc gọi là rãnh gian nhĩ là mặt sau của 2 tâm nhĩ phải và trái 
+- Chủ yếu do **tâm nhĩ trái** tạo nên.
+- Là nơi **các mạch máu lớn ra vào tim**
 ### 1.1.3 Hình thể trong 
 ![[tim_mat_cat_trong.png]]
 #### 1.1.3.1 Vách tim

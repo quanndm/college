@@ -192,7 +192,7 @@ Dạ dày (**Stomach**) là đoạn phình to nhất của **ống tiêu hóa (A
 - Nối với:
     - **Thực quản (Esophagus)** qua **tâm vị (Cardia)**.
     - **Tá tràng (Duodenum)** qua **môn vị (Pylorus)**.
-- Dài 25 - 30cm, rộng 10- 15cm chứa được khoảng 1 -2 lít thức ăn
+- Dài 25 - 30cm, rộng 10 - 15cm chứa được khoảng 1 - 2 lít thức ăn
 ### 4.2 Hình thể ngoài 
 Dạ dày có hình chữ **J**, gồm:
 
@@ -217,8 +217,9 @@ Dạ dày có hình chữ **J**, gồm:
 - **Tâm vị (Cardia)**
 - **Đáy vị (Fundus)**
 - **Thân vị (Body)**
-- **Hang môn vị (Pyloric antrum)**
-- **Ống môn vị (Pyloric canal)** dẫn đến môn vị (**Pylorus**).
+- **Môn vị (Pyloric):**
+	- **Hang môn vị (Pyloric antrum)**
+	- **Ống môn vị (Pyloric canal)** dẫn đến môn vị (**Pylorus**).
 
 > **(Bổ sung)** Môn vị có **cơ thắt môn vị (Pyloric sphincter)** giúp điều hòa lượng thức ăn xuống tá tràng.
 
@@ -236,11 +237,11 @@ Liên quan với:
 
 Tạo nên **giường dạ dày (Stomach bed)**, liên quan với:
 
-- Tuyến tụy (**Pancreas**)
+- Cơ hoành (**Diaphragm**)
 - Lách (**Spleen**)
+- Tuyến tụy (**Pancreas**)
 - Thận trái (**Left kidney**)
 - Tuyến thượng thận trái (**Left suprarenal gland**)
-- Cơ hoành (**Diaphragm**)
 - Đại tràng ngang (**Transverse colon**) và mạc treo đại tràng ngang (**Transverse mesocolon**)
 
 > **(Bổ sung)** Tuyến tụy nằm ngay phía sau dạ dày, vì vậy loét mặt sau dạ dày có thể lan đến tụy.

@@ -726,6 +726,8 @@ Màng phổi là một bao thanh mạc (_serous membrane_) kín, gồm 2 lá bao
 ## 2.1 Hiện tượng cơ học của hô hấp (Mechanics of Respiration)
 ### 2.1.1 Khái niệm 
 Hô hấp là quá trình đưa **O₂** từ ngoài vào và thải **CO₂** ra cơ thể. Quá trình này diễn ra nhờ sự co giãn của các **cơ hô hấp** (đặc biệt là cơ hoành) và **áp lực âm** khoang màng phổi, làm thay đổi **thể tích lồng ngực** cùng **áp suất trong phổi** để lưu thông không khí.
+(Là quá trình thay đổi thể tích lồng ngực và áp suất trong phổi làm không khí ra vào phổi.)
+
 Quá trình hô hấp gồm:
 
 - Động tác hít vào (_Inspiration_)
@@ -742,9 +744,10 @@ Quá trình hô hấp gồm:
 - Lồng ngực nở theo 3 chiều: 
 	- Trước – sau. 
 	- Ngang. 
-	- Dọc. 
+    - Trên – dưới (chiều dọc).
 - Thể tích lồng ngực tăng → kéo phổi nở theo. 
 - Thể tích phổi tăng → áp suất trong phổi giảm thấp hơn áp suất khí quyển. 
+- Áp lực âm trong khoang màng phổi tăng (áp suất giảm hơn nữa) giúp phổi nở theo lồng ngực.
 - Không khí đi từ môi trường ngoài vào phổi theo chênh lệch áp suất.
 
 **Kết quả:** Phổi chứa nhiều không khí hơn (giàu O₂).
@@ -761,7 +764,7 @@ Quá trình hô hấp gồm:
 - Không khí bị đẩy ra ngoài.
 
 **Lưu ý**
-- Thở ra bình thường là **quá trình thụ động**.
+- Thở ra bình thường là **quá trình thụ động** (chủ yếu do tính đàn hồi của phổi và lồng ngực.).
 - Thở ra gắng sức có thêm sự tham gia của cơ thành bụng và cơ liên sườn trong (**bổ sung ngoài giáo trình**).
 ### 2.1.4 Nhịp thở và tần số thở (Respiratory Rate)
 #### a. Nhịp thở
@@ -809,6 +812,7 @@ Gồm:
 
 #### 2.1.5.2. Dung tích sống (Vital Capacity – VC)
 Khoảng **3,5 L**
+- Là lượng khí tối đa có thể thở ra sau khi đã hít vào tối đa.
 
 Bao gồm:
 ##### a. Thể tích khí lưu thông (Tidal Volume – TV)
@@ -847,7 +851,9 @@ Bao gồm:
 #### 2.1.5.2. Thể tích khí cặn (Residual Volume – RV)
 
 khoảng 1- 1,5 lít
--  →  Là thể tích khí còn lại trong phổi sau khi đã thở ra hết sức: 
+-  →  Là thể tích khí còn lại trong phổi sau khi đã thở ra hết sức
+	- giữ cho phế nang không xẹp;
+	- duy trì trao đổi khí liên tục.
 ## 2.2 Hiện tượng Lý - Hóa của hô hấp
 ### 2.2.1 Thay đổi về Oxy và khí Carbonic
 - **Hiện tượng:** Không khí hít vào giàu O₂(oxy) và nghèo CO₂(carbonic), trong khi không khí thở ra ngược lại.
@@ -860,7 +866,7 @@ khoảng 1- 1,5 lít
 - PO₂ ≈ **100 mmHg**
 - PCO₂ ≈ **40 mmHg**
 
-#### b. Máu trong mao động mạch phổi:
+#### b. Máu tĩnh mạch trong mao mạch phổi:
 
 - PO₂ ≈ **40 mmHg**
 - PCO₂ ≈ **50 mmHg**
@@ -878,6 +884,11 @@ CO₂:
 
 Máu trở thành máu giàu O₂ (máu đỏ tươi), được tim co bóp, bơ đi nuôi dưỡng các tế bào trong cơ thể.
 
+|Thành phần|Hít vào|Thở ra|
+|---|---|---|
+|O₂|≈21%|≈16%|
+|CO₂|≈0,03–0,04%|≈4%|
+
 ### 2.2.3 Trao đổi khí giữa máu và tế bào
 ![[he_ho_hap_sinh_ly_1.png]]
 
@@ -889,7 +900,7 @@ Máu trở thành máu giàu O₂ (máu đỏ tươi), được tim co bóp, bơ
 ### Tế bào
 
 - PO₂ ≈ **30 mmHg**
-- PCO₂ ≈ **50 mmHg**
+- PCO₂ ≈ **50 mmHg** (thực tế 45–46 mmHg)
 
 ### Kết quả
 **Theo quy luật khuếch tán:**
@@ -920,6 +931,12 @@ Máu (nhận nhiều CO₂ → trở thành máu đỏ sẫm) trở về tim r�
 - Hb tự do kết hợp với CO₂ thải ra từ tế bào:  Hb + CO₂ →HbCO₂
 - Máu vận chuyển HbCO₂ về lại phổi để đào thải CO₂ ra ngoài.
 
+- Khoảng 98–99% O₂ được vận chuyển dưới dạng HbO₂.
+- Chỉ khoảng 20–30% CO₂ gắn với Hb (HbCO₂), phần lớn CO₂ được vận chuyển dưới dạng HCO₃⁻ (bicarbonat).
+
+***Kết luận*** 
+- **Ở phổi:** máu tĩnh mạch → máu động mạch.
+- **Ở mô:** máu động mạch → máu tĩnh mạch.
 ### 2.2.5 Biến đổi tính chất vật lý của không khí
 Khi đi qua đường dẫn khí (từ mũi đến phổi), không khí được:
 - **Làm ấm đến 37°C**: Nhờ hệ thống mạch máu dày đặc.

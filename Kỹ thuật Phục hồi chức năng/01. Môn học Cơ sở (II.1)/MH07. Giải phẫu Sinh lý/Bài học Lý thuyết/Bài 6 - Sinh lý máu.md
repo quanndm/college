@@ -84,7 +84,8 @@
 | AB       | A và B                 | Không có              |
 ### 4.2 Nguyên tắc truyền máu  (Blood transfusion rules)
 - **_Cơ bản:_** Truyền cùng nhóm máu, không để kháng nguyên người cho gặp kháng thể đối kháng của người nhận.
-- **_Tối thiểu (khi truyền khác nhóm):_** Không để huyết tương người nhận chứa kháng thể chống lại kháng nguyên hồng cầu người cho (Sơ đồ: O truyền được cho tất cả; AB nhận được từ tất cả).
+- **_Tối thiểu (khi truyền khác nhóm):_** **Không để kháng nguyên trên hồng cầu người cho gặp kháng thể tương ứng trong huyết tương người nhận**, nếu không sẽ gây ngưng kết và tan máu.
+- (Sơ đồ: O truyền được cho tất cả; AB nhận được từ tất cả; Đây chỉ đúng khi xét riêng hệ ABO và khi truyền khối hồng cầu).
 - _Lưu ý khác nhóm:_ Không truyền quá $250\text{ ml}$, truyền thật chậm, chú ý hệ Rh (Rhesus factor).
 ![[So_do_truyen_mau.png]]
 

@@ -587,6 +587,8 @@ Xương đòn (**Clavicle**) là một **xương dài (Long bone)** có hình ch
 
 ##### 2. Xương vai _(Scapula)_
 Xương vai (**Scapula**) là một **xương dẹt (Flat bone)** hình tam giác, nằm ở mặt sau lồng ngực, khoảng từ **xương sườn II đến VII (2nd–7th ribs)**.
+![[xuong_dai_vai_3.png]]
+![[xuong_dai_vai_4.png]]
 
 ###### Đặc điểm
 Xương vai gồm:

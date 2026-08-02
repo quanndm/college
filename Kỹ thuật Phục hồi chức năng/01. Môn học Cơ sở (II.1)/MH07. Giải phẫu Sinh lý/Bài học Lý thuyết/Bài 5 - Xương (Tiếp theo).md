@@ -1,4 +1,4 @@
-# Hệ xương 
+  # Hệ xương 
 **Cấu trúc và số lượng**
 - **Số lượng**: 206 đến 208 xương (ở người trưởng thành).
 - **Liên kết**: Tiếp khớp với nhau tạo thành khung xương vững chắc.
@@ -637,9 +637,101 @@ Xương vai gồm:
 > **(Bổ sung)** Mỏm quạ là điểm bám của **cơ ngực bé (Pectoralis minor)**, **đầu ngắn cơ nhị đầu cánh tay (Short head of biceps brachii)** và **cơ quạ cánh tay (Coracobrachialis)**.
 
 
-#### 3.1.2 Xương cánh  tay (Humerus)
+#### 3.1.2 Xương cánh tay (Humerus)
+Xương cánh tay (**Humerus**) là **xương dài (Long bone)** duy nhất của cánh tay (**Arm**), nối **đai vai (Shoulder girdle)** với **xương cẳng tay (Forearm bones)**. Xương cánh tay tham gia tạo **khớp vai (Glenohumeral joint)** ở đầu trên và **khớp khuỷu (Elbow joint)** ở đầu dưới.
+- ***Đặc điểm***
+	Xương cánh tay gồm **ba phần**:
+	
+	- **Đầu trên (Proximal extremity)**
+	- **Thân xương (Shaft/Body)**
+	- **Đầu dưới (Distal extremity)**
+
+##### 1. Đầu trên (Proximal extremity)
+Đầu trên là phần tham gia tạo **khớp vai (Glenohumeral joint)**, gồm các cấu trúc sau:
+
+###### Chỏm xương cánh tay _(Head of humerus)_
+
+- Có dạng gần hình cầu.
+- Hướng **lên trên (Superiorly)**, **vào trong (Medially)** và **ra sau (Posteriorly)**.
+- Tiếp khớp với **ổ chảo xương vai (Glenoid cavity)** tạo **khớp vai (Glenohumeral joint)**.
+
+###### Cổ giải phẫu _(Anatomical neck)_
+
+- Là rãnh hẹp bao quanh chỏm xương.
+- Là vị trí bám của **bao khớp vai (Articular capsule)**.
+
+###### Củ lớn _(Greater tubercle)_
+
+- Nằm ở phía ngoài chỏm xương.
+- Là nơi bám của các cơ thuộc **chóp xoay (Rotator cuff muscles)**:
+    - **Cơ trên gai (Supraspinatus)**
+    - **Cơ dưới gai (Infraspinatus)**
+    - **Cơ tròn bé (Teres minor)**
+
+###### Củ bé _(Lesser tubercle)_
+
+- Nằm phía trước đầu trên.
+- Là nơi bám của **cơ dưới vai (Subscapularis muscle)**.
+
+###### Rãnh gian củ _(Intertubercular groove/Bicipital groove)_
+
+- Nằm giữa củ lớn và củ bé.
+- Chứa **gân đầu dài cơ nhị đầu cánh tay (Tendon of the long head of biceps brachii)**.
+
+###### Cổ phẫu thuật _(Surgical neck)_
+
+- Nằm ngay dưới củ lớn và củ bé.
+- Là vị trí **thường gãy nhất của đầu trên xương cánh tay**.
+
+> **(Bổ sung)** Gãy cổ phẫu thuật có thể làm tổn thương **thần kinh nách (Axillary nerve)** và **động mạch mũ cánh tay sau (Posterior circumflex humeral artery)**.
+
+##### 2. Thân xương (Shaft/Body)
+Thân xương có dạng hình trụ ở phía trên và dần trở thành hình lăng trụ ở phía dưới.
+Có các đặc điểm sau:
+
+###### Lồi củ delta _(Deltoid tuberosity)_
+
+- Nằm ở mặt ngoài thân xương.
+- Là nơi bám của **cơ delta (Deltoid muscle)**.
+
+###### Rãnh thần kinh quay _(Radial groove/Spiral groove)_
+
+- Chạy chếch ở mặt sau thân xương.
+- Chứa:
+    - **Thần kinh quay (Radial nerve)**
+    - **Động mạch cánh tay sâu (Deep brachial artery)**
+
+> **(Bổ sung)** Gãy thân xương cánh tay có thể gây tổn thương thần kinh quay, dẫn đến **bàn tay rủ (Wrist drop)** do liệt các cơ duỗi cổ tay và ngón tay.
 
 
+
+##### 3. Đầu dưới (Distal extremity)
+Đầu dưới dẹt và bè ngang, tham gia tạo **khớp khuỷu (Elbow joint)**.
+###### Diện khớp _(Articular surfaces)_
+-  ***Ròng rọc (Trochlea)***
+	- Nằm phía trong.
+	- Tiếp khớp với **xương trụ (Ulna)**.
+
+- ***Chỏm con (Capitulum)***
+	- Nằm phía ngoài.
+	- Tiếp khớp với **chỏm xương quay (Head of radius)**.
+
+###### Mỏm trên lồi cầu _(Epicondyles)_
+- ***Mỏm trên lồi cầu trong (Medial epicondyle)***
+	- Là nơi bám của các cơ gấp cẳng tay.
+	- Phía sau có **rãnh thần kinh trụ (Ulnar groove)**, nơi **thần kinh trụ (Ulnar nerve)** đi qua.
+	=> **(Bổ sung)** Khi va vào vùng này sẽ tạo cảm giác **tê lan xuống ngón út và ngón áp út**, thường gọi là "đụng dây thần kinh trụ".
+
+- ***Mỏm trên lồi cầu ngoài (Lateral epicondyle)***
+	- Là nơi bám của các cơ duỗi cẳng tay.
+
+###### Các hố _(Fossae)_
+- ***Phía trước***
+	- **Hố quay (Radial fossa):** tiếp nhận chỏm xương quay khi gấp khuỷu.
+	- **Hố vẹt (Coronoid fossa):** tiếp nhận mỏm vẹt của xương trụ.
+
+- **Phía sau**
+	- **Hố mỏm khuỷu (Olecranon fossa):** tiếp nhận mỏm khuỷu của xương trụ khi duỗi khuỷu.
 
 #### 3.1.3 Xương cẳng tay (Skeleton of forearm)
 

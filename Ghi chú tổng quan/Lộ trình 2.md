@@ -22,3 +22,13 @@ Học Master nếu muốn phát triển tiếp
 2. **Giấy phép hành nghề**
 3. **Bằng đại học**
 4. **CME**
+---
+Đại học tư
+1. **IU International University (IU Internationale Hochschule)** (ưu tiên 3, an toàn, cân bằng)
+2. Hamburger Fern-Hochschule (HFH)
+3. **Hochschule Fresenius** : được thì vào đây (ưu tiên 1, phí cao)
+4. DIPLOMA Hochschule
+---
+Đại học công
+1. Alice Salomon Hochschule Berlin (ASH Berlin)
+2. **Hochschule für Gesundheit Bochum (HS Gesundheit)** (ưu tiên 2, phí thấp, cần C1)

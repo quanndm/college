@@ -733,8 +733,106 @@ Có các đặc điểm sau:
 - **Phía sau**
 	- **Hố mỏm khuỷu (Olecranon fossa):** tiếp nhận mỏm khuỷu của xương trụ khi duỗi khuỷu.
 
-#### 3.1.3 Xương cẳng tay (Skeleton of forearm)
+#### 3.1.3 Xương cẳng tay (Forearms Bone)
+Cẳng tay (**Forearm/Antebrachium**) gồm **hai xương dài (Long bones)**:
 
+- **Xương quay (Radius)** – nằm **phía ngoài (Lateral side)**, cùng phía với ngón cái.
+- **Xương trụ (Ulna)** – nằm **phía trong (Medial side)**, cùng phía với ngón út.
+
+Hai xương nối với nhau bởi **màng gian cốt (Interosseous membrane)** và tham gia tạo **khớp khuỷu (Elbow joint)**, **khớp quay–trụ trên (Proximal radioulnar joint)**, **khớp quay–trụ dưới (Distal radioulnar joint)** và **khớp cổ tay (Wrist joint)**.
+
+> **(Bổ sung)** Xương quay là xương chủ yếu tham gia **khớp cổ tay**, trong khi xương trụ chủ yếu tham gia **khớp khuỷu**.
+
+##### 1. Xương trụ _(Ulna)_
+Xương trụ (**Ulna**) nằm ở **phía trong cẳng tay (Medial side)** và là xương lớn hơn ở đầu gần.
+
+Xương trụ gồm:
+
+- **Đầu trên (Proximal extremity)**
+- **Thân xương (Shaft)**
+- **Đầu dưới (Distal extremity)**
+###### Đầu trên _(Proximal Extremity)_
+
+- ***Mỏm khuỷu (Olecranon)***
+	- Là mỏm lớn ở phía trên sau.
+	- Tạo phần nhô của khuỷu tay (**Tip of the elbow**).
+	- Là nơi bám của **gân cơ tam đầu cánh tay (Triceps brachii tendon)**.
+- ***Mỏm vẹt (Coronoid process)***
+	- Nằm phía trước.
+	- Khi gấp khuỷu sẽ đi vào **hố vẹt (Coronoid fossa)** của xương cánh tay.
+- ***Khuyết ròng rọc (Trochlear notch)***
+	- Nằm giữa mỏm khuỷu và mỏm vẹt.
+	- Tiếp khớp với **ròng rọc xương cánh tay (Trochlea of humerus)** tạo **khớp khuỷu (Elbow joint)**.
+
+- ***Khuyết quay (Radial notch)***
+	- Nằm ở mặt ngoài.
+	- Tiếp khớp với **chỏm xương quay (Head of radius)** tạo **khớp quay–trụ trên (Proximal radioulnar joint)**.
+- ***Thân xương (Shaft)***
+	- Có ba mặt và ba bờ.
+	- **Bờ gian cốt (Interosseous border)** là nơi bám của **màng gian cốt (Interosseous membrane)**.
+
+###### Đầu dưới _(Distal Extremity)_
+- ***Chỏm xương trụ (Head of ulna)***
+	- Tiếp khớp với **khuyết trụ của xương quay (Ulnar notch of radius)**.
+- ***Mỏm trâm trụ (Styloid process of ulna)***
+	- Nằm phía trong cổ tay.
+	- Là nơi bám của các dây chằng cổ tay.
+
+	=> **(Bổ sung)** Đầu dưới xương trụ **không trực tiếp tiếp khớp với các xương cổ tay**, mà được ngăn cách bởi **đĩa khớp (Articular disc/TFCC)**.
+
+##### 2. Xương quay _(Radius)_
+Xương quay (**Radius**) nằm ở **phía ngoài cẳng tay (Lateral side)**, cùng phía với ngón cái.
+
+Khác với xương trụ, xương quay có **đầu dưới phát triển lớn hơn**, vì tham gia chủ yếu vào khớp cổ tay.
+
+###### Đầu trên _(Proximal Extremity)_
+- ***Chỏm xương quay (Head of radius)***
+	
+	- Có dạng hình trụ.
+	- Mặt trên lõm (**Fovea**) tiếp khớp với **chỏm con xương cánh tay (Capitulum of humerus)**.
+	- Chu vi chỏm tiếp khớp với **khuyết quay của xương trụ**.
+
+- ***Cổ xương quay (Neck of radius)***
+	- Nằm ngay dưới chỏm.
+
+- ***Lồi củ quay (Radial tuberosity)***
+	- Nằm dưới cổ xương quay.
+	- Là nơi bám của **gân cơ nhị đầu cánh tay (Biceps brachii tendon)**.
+
+###### Thân xương _(Shaft)_
+- Có ba mặt và ba bờ.
+- **Bờ gian cốt (Interosseous border)** bám với **màng gian cốt**.
+
+
+###### Đầu dưới _(Distal Extremity)_
+Đầu dưới lớn hơn đầu trên.
+
+- ***Diện khớp cổ tay (Carpal articular surface)***
+	- Tiếp khớp với:
+	    - **Xương thuyền (Scaphoid)**
+	    - **Xương nguyệt (Lunate)**
+
+	Tạo nên **khớp quay–cổ tay (Radiocarpal joint)**.
+
+- ***Khuyết trụ (Ulnar notch)***
+	- Tiếp khớp với **chỏm xương trụ** tạo **khớp quay–trụ dưới (Distal radioulnar joint)**.
+
+- ***Mỏm trâm quay (Styloid process of radius)***
+	- Nằm phía ngoài cổ tay.
+	- Dài hơn mỏm trâm trụ.
+
+##### 3. Chức năng của hai xương cẳng tay _(Functions)_
+Hai xương quay và trụ phối hợp giúp thực hiện các động tác:
+
+- **Sấp (Pronation):** Lòng bàn tay hướng xuống.
+- **Ngửa (Supination):** Lòng bàn tay hướng lên.
+
+Trong các động tác này:
+
+- **Xương trụ** gần như cố định.
+- **Xương quay** quay quanh xương trụ tại các khớp quay–trụ trên và dưới.
+
+> **(Bổ sung)** Đây là đặc điểm giải phẫu quan trọng giúp chi trên có khả năng xoay linh hoạt mà chi dưới không có.
 
 #### 3.1.4 Xương cổ tay  (Carpal bones)
 

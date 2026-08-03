@@ -32,3 +32,9 @@ Học Master nếu muốn phát triển tiếp
 Đại học công
 1. Alice Salomon Hochschule Berlin (ASH Berlin)
 2. **Hochschule für Gesundheit Bochum (HS Gesundheit)** (ưu tiên 2, phí thấp, cần C1)
+
+---
+1. clevermann.vn
+2. https://www.facebook.com/bla.com.vn  (# BLA Group - Học tiếng Đức Trực Tuyến)
+	1. https://tiengduc.bla.vn/sasprograms/543
+3. https://www.facebook.com/tiengducnhadevis (# Tiếng Đức Nhà Devis)

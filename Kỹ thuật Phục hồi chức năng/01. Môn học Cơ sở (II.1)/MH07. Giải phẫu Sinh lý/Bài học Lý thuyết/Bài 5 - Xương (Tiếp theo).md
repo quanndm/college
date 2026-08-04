@@ -835,16 +835,227 @@ Trong các động tác này:
 > **(Bổ sung)** Đây là đặc điểm giải phẫu quan trọng giúp chi trên có khả năng xoay linh hoạt mà chi dưới không có.
 
 #### 3.1.4 Xương cổ tay  (Carpal bones)
+Xương cổ tay (**Carpal bones**) gồm **8 xương ngắn (Short bones)**, sắp xếp thành **hai hàng (Two rows)**, mỗi hàng có **4 xương**. Các xương cổ tay nối giữa **xương cẳng tay (Forearm bones)** và **xương bàn tay (Metacarpal bones)**, tạo nên **cổ tay (Wrist)** có tính linh hoạt cao.
 
+> **(Bổ sung)** Các xương cổ tay được liên kết với nhau bởi nhiều **dây chằng (Ligaments)**, tạo thành một khối vững chắc nhưng vẫn cho phép thực hiện nhiều động tác của bàn tay.
+
+##### 1. Hàng gần _(Proximal Row)_
+Hàng gần được sắp xếp **từ ngoài vào trong (Lateral → Medial)** gồm:
+###### a. Xương thuyền _(Scaphoid)_
+
+- Là xương lớn nhất của hàng gần.
+- Tiếp khớp với **đầu dưới xương quay (Distal radius)**.
+- Tham gia tạo **khớp cổ tay (Radiocarpal joint)**.
+
+> **(Bổ sung)** Xương thuyền là **xương cổ tay bị gãy nhiều nhất**. Do nguồn cấp máu đi từ đầu xa đến đầu gần nên gãy có thể gây **hoại tử vô mạch (Avascular necrosis)** ở đầu gần.
+
+###### b. Xương nguyệt _(Lunate)_
+- Nằm giữa xương thuyền và xương tháp.
+- Tiếp khớp với xương quay.
+- Góp phần tạo khớp cổ tay.
+
+> **(Bổ sung)** Xương nguyệt là xương **hay bị trật nhất (Most commonly dislocated carpal bone)**.
+
+###### c. Xương tháp _(Triquetrum)_
+
+- Nằm phía trong xương nguyệt.
+- Tiếp khớp với xương đậu ở mặt trước.
+
+###### d. Xương đậu _(Pisiform)_
+- Là xương nhỏ, hình hạt đậu.
+- Nằm ở mặt gan tay của xương tháp.
+
+> **(Bổ sung)** Xương đậu là **xương vừng (Sesamoid bone)** nằm trong gân **cơ gấp cổ tay trụ (Flexor carpi ulnaris muscle)**.
+
+##### 2. Hàng xa _(Distal Row)_
+Hàng xa cũng được sắp xếp **từ ngoài vào trong (Lateral → Medial)** gồm:
+###### 1. Xương thang _(Trapezium)_
+
+- Tiếp khớp với **xương bàn I (First metacarpal)**.
+- Tham gia tạo **khớp ngón cái (Carpometacarpal joint of thumb)**, giúp ngón cái có khả năng **đối chiếu (Opposition)**.
+
+###### 2. Xương thê _(Trapezoid)_
+
+- Là xương nhỏ nhất của hàng xa.
+- Nằm giữa xương thang và xương cả.
+
+###### c. Xương cả _(Capitate)_
+
+- Là **xương lớn nhất trong 8 xương cổ tay**.
+- Nằm ở trung tâm cổ tay.
+- Là trục chuyển động của nhiều động tác cổ tay.
+
+###### d. Xương móc _(Hamate)_
+- Có **mỏm móc (Hook of hamate)** ở mặt gan tay.
+- Là nơi bám của dây chằng và cơ.
+
+> **(Bổ sung)** Mỏm móc xương móc góp phần tạo nên **ống Guyon (Guyon's canal)**, nơi **thần kinh trụ (Ulnar nerve)** và **động mạch trụ (Ulnar artery)** đi qua.
+
+##### Liên quan giải phẫu _(Anatomical Correlation)_
+###### Khớp cổ tay _(Radiocarpal Joint)_
+Được tạo bởi:
+
+- **Đầu dưới xương quay (Distal radius)**.
+- **Xương thuyền (Scaphoid)**.
+- **Xương nguyệt (Lunate)**.
+- Một phần **xương tháp (Triquetrum)** khi cổ tay dạng.
+
+> **(Bổ sung)** Xương trụ **không trực tiếp tham gia khớp cổ tay**, mà được ngăn cách bởi **đĩa khớp (Articular disc/TFCC)**.
+
+###### Ống cổ tay _(Carpal Tunnel)_
+Các xương cổ tay lõm về phía gan tay tạo thành **rãnh cổ tay (Carpal groove)**.
+
+Rãnh này cùng với **mạc giữ gân gấp (Flexor retinaculum/Transverse carpal ligament)** tạo nên **ống cổ tay (Carpal tunnel)**.
+
+Trong ống cổ tay có:
+
+- **Thần kinh giữa (Median nerve)**.
+- Các gân gấp của ngón tay.
+
+> **(Bổ sung)** Hội chứng **ống cổ tay (Carpal tunnel syndrome)** xảy ra khi **thần kinh giữa** bị chèn ép, gây tê và yếu ở ngón cái, ngón trỏ, ngón giữa và một nửa ngoài ngón nhẫn.
 
 #### 3.1.5 Xương bàn tay và ngón tay (Metacarpal & Phalanges)
+Bộ xương bàn tay (**Bones of the hand**) gồm **27 xương**, chia thành:
+
+- **8 xương cổ tay (Carpal bones)**
+- **5 xương bàn tay (Metacarpal bones)**
+- **14 xương đốt ngón tay (Phalanges)**
+
+Trong đó, **xương bàn tay và xương ngón tay** tạo nên khung xương của lòng bàn tay và các ngón, giúp bàn tay thực hiện các động tác cầm nắm, kẹp và thao tác tinh vi.
+##### 1. Xương bàn tay _(Metacarpal Bones)_
+Xương bàn tay (**Metacarpal bones**) gồm **5 xương dài (Long bones)**, được đánh số từ **I đến V**, tính từ **ngón cái (Thumb)** đến **ngón út (Little finger)**.
+
+Mỗi xương bàn tay gồm ba phần:
+
+- **Nền (Base)**
+- **Thân (Shaft/Body)**
+- **Chỏm (Head)**
+
+###### Nền xương _(Base)_
+
+- Nằm ở đầu gần (**Proximal end**).
+- Tiếp khớp với **các xương cổ tay (Carpal bones)** tạo **khớp cổ tay – bàn tay (Carpometacarpal joints)**.
+
+> **(Bổ sung)** Nền **xương bàn I** tiếp khớp với **xương thang (Trapezium)** tạo **khớp yên (Saddle joint)**, giúp ngón cái thực hiện động tác **đối chiếu (Opposition)**.
 
 
+###### Thân xương _(Shaft)_
 
+- Có dạng hơi cong.
+- Mặt gan tay lõm nhẹ.
+- Là nơi bám của các cơ gian cốt (**Interossei muscles**) và cơ giun (**Lumbrical muscles**)
+
+###### Chỏm xương _(Head)_
+
+- Có dạng hình cầu.
+- Tiếp khớp với **đốt gần ngón tay (Proximal phalanx)** tạo **khớp bàn – ngón tay (Metacarpophalangeal joints – MCP joints)**.
+
+
+##### 2. Xương ngón tay _(Phalanges)_
+Các ngón tay gồm **14 đốt xương (14 Phalanges)**.
+###### a. Ngón cái _(Thumb/Pollex)_
+Gồm **2 đốt**:
+
+- **Đốt gần (Proximal phalanx)**
+- **Đốt xa (Distal phalanx)**
+
+###### b. Bốn ngón còn lại
+
+Mỗi ngón gồm **3 đốt**:
+
+- **Đốt gần (Proximal phalanx)**
+- **Đốt giữa (Middle phalanx)**
+- **Đốt xa (Distal phalanx)**
+
+Tổng cộng:
+
+- 4 ngón × 3 đốt = **12 đốt**
+- Ngón cái = **2 đốt**
+
+→ **Toàn bộ bàn tay có 14 đốt ngón.**
+
+###### c. Đặc điểm của mỗi đốt _(Structure of a Phalanx)_
+
+Mỗi đốt xương gồm:
+
+- **Nền (Base)**
+- **Thân (Body/Shaft)**
+- **Chỏm (Head)**
+
+Các đốt tiếp khớp với nhau tạo nên:
+
+- **Khớp gian đốt gần (Proximal interphalangeal joint – PIP)**.
+- **Khớp gian đốt xa (Distal interphalangeal joint – DIP)**.
+
+Riêng **ngón cái** chỉ có:
+
+- **Khớp gian đốt (Interphalangeal joint – IP)**.
+
+##### 3. Chức năng _(Functions)_
+
+Hệ thống xương bàn tay và ngón tay giúp:
+
+- Nâng đỡ bàn tay.
+- Tạo nơi bám cho cơ và dây chằng.
+- Thực hiện các động tác:
+    - **Gấp (Flexion)**
+    - **Duỗi (Extension)**
+    - **Dạng (Abduction)**
+    - **Khép (Adduction)**
+    - **Đối chiếu ngón cái (Opposition)**
+
+> **(Bổ sung)** Động tác **đối chiếu (Opposition)** là đặc điểm giải phẫu quan trọng nhất của bàn tay người, cho phép ngón cái chạm vào đầu các ngón khác để cầm nắm và thao tác chính xác.
+
+##### 4. Liên quan lâm sàng _(Clinical Correlation)_
+
+- **Gãy xương bàn V (Boxer's fracture):** thường xảy ra ở **cổ xương bàn V (Neck of the fifth metacarpal)** do đấm vào vật cứng.
+- **Viêm khớp bàn – ngón cái (First carpometacarpal osteoarthritis):** thường gặp ở người lớn tuổi, gây đau khi cầm nắm.
+- **Ngón tay cò súng (Trigger finger):** do viêm hoặc dày bao gân gấp, làm ngón tay gập rồi bật thẳng đột ngột.
 ### 3.2 Xương chi dưới (Ossa membri inferioris)
+Xương chi dưới (**Bones of the lower limb**) gồm **đai hông (Pelvic girdle)** và **xương chi dưới tự do (Free lower limb)**. Chức năng chính là **nâng đỡ trọng lượng cơ thể (Weight bearing)**, duy trì tư thế đứng, đồng thời tham gia vào các động tác đi, chạy và nhảy.
 #### 3.2.1 Đai hông / Xương chậu (Pelvic girdle / Coxal bone)
+Đai hông (**Pelvic girdle**) gồm **hai xương hông (Hip bones/Coxal bones)**: phải và trái.
 
+Mỗi **xương hông (Hip bone/Coxal bone)** được tạo thành từ **ba xương** hợp nhất với nhau tại **ổ cối (Acetabulum)**:
 
+- **Xương cánh chậu (Ilium)**
+- **Xương ngồi (Ischium)**
+- **Xương mu (Pubis)**
+
+> **(Bổ sung)** Ở trẻ em, ba xương này được nối với nhau bằng **sụn chữ Y (Triradiate cartilage)**. Khi trưởng thành, chúng cốt hóa và hợp nhất thành một xương hông duy nhất.
+##### 1. Cấu tạo của xương hông _(Structure of the Hip Bone)_
+###### a. Xương cánh chậu _(Ilium)_
+Xương cánh chậu (**Ilium**) là phần **lớn nhất và ở phía trên** của xương hông.
+
+- ***Mào chậu (Iliac crest)***
+
+	- Là bờ trên của xương cánh chậu.
+	- Có thể sờ thấy dễ dàng dưới da.
+	- Là nơi bám của nhiều cơ bụng và cơ lưng.
+
+	=> **(Bổ sung)** Mào chậu là mốc giải phẫu thường dùng để xác định vị trí **chọc dò tủy sống (Lumbar puncture)** tại khoảng gian đốt **L3–L4 hoặc L4–L5**.
+
+- ***Gai chậu trước trên (Anterior superior iliac spine – ASIS)***
+	
+	- Là mốc xương nổi rõ ở phía trước.
+	- Là nơi bám của:
+	    - **Dây chằng bẹn (Inguinal ligament)**.
+	    - **Cơ may (Sartorius muscle)**.\
+
+- ***Gai chậu trước dưới (Anterior inferior iliac spine – AIIS)***
+
+	- Nằm dưới ASIS.
+	- Là nơi bám của **cơ thẳng đùi (Rectus femoris muscle)**.
+
+- ***Gai chậu sau trên (Posterior superior iliac spine – PSIS)***
+
+	- Nằm ở phía sau.
+	- Tương ứng với hai hõm nhỏ ở vùng thắt lưng dưới.
+
+- ***Hố chậu (Iliac fossa)***
+
+	- Là hố lõm lớn ở mặt trong xương cánh chậu.
+	- Là nơi bám của **cơ chậu (Iliacus muscle)**.
 #### 3.2.2 Xương đùi (Femur)
 
 

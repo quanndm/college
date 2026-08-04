@@ -1,4 +1,4 @@
-  # Hệ xương 
+# Hệ xương 
 **Cấu trúc và số lượng**
 - **Số lượng**: 206 đến 208 xương (ở người trưởng thành).
 - **Liên kết**: Tiếp khớp với nhau tạo thành khung xương vững chắc.
@@ -1056,6 +1056,72 @@ Xương cánh chậu (**Ilium**) là phần **lớn nhất và ở phía trên**
 
 	- Là hố lõm lớn ở mặt trong xương cánh chậu.
 	- Là nơi bám của **cơ chậu (Iliacus muscle)**.
+
+###### b. Xương ngồi _(Ischium)_
+Xương ngồi (**Ischium**) tạo nên phần **sau dưới** của xương hông.
+
+-  ***Ụ ngồi (Ischial tuberosity)***
+	
+	- Là phần chịu lực khi ngồi.
+	- Là nơi bám của nhóm **cơ gân kheo (Hamstring muscles)**.
+
+	**(Bổ sung)** Có thể dễ dàng sờ thấy ụ ngồi khi ngồi trên mặt cứng.
+
+- ***Gai ngồi (Ischial spine)***
+
+	- Nằm giữa hai khuyết ngồi.
+	- Là mốc giải phẫu quan trọng trong sản khoa và gây tê thần kinh.
+
+###### c. Xương mu _(Pubis)_
+
+Xương mu (**Pubis**) tạo nên phần **trước dưới** của xương hông.
+
+Gồm:
+- **Ngành trên xương mu (Superior ramus of pubis)**.
+- **Ngành dưới xương mu (Inferior ramus of pubis)**.
+- **Thân xương mu (Body of pubis)**.
+
+
+- **Mào mu _(Pubic crest)_**
+	- Là gờ xương ở mặt trước.
+
+- **Củ mu _(Pubic tubercle)_**
+	- Là nơi bám của **dây chằng bẹn (Inguinal ligament)**.
+
+- ***Khớp mu (Pubic symphysis)***
+
+	- Là khớp sụn giữa hai xương mu.
+	- Có **đĩa sụn sợi (Fibrocartilaginous disc)** nối hai bên.
+
+	**(Bổ sung)** Ở phụ nữ mang thai, hormon **Relaxin** làm khớp mu giãn nhẹ để thuận lợi cho quá trình sinh con.
+
+##### 2. Các cấu trúc quan trọng của xương hông _(Important Structures)_
+###### a. Ổ cối _(Acetabulum)_
+
+- Là hốc khớp lớn nằm ở mặt ngoài xương hông.
+- Được tạo bởi cả **ba xương: cánh chậu, ngồi và mu**.
+- Tiếp khớp với **chỏm xương đùi (Head of femur)** tạo **khớp háng (Hip joint)**.
+###### b. Lỗ bịt _(Obturator foramen)_
+
+- Là lỗ lớn nằm giữa xương mu và xương ngồi.
+- Được bịt gần kín bởi **màng bịt (Obturator membrane)**.
+
+> **(Bổ sung)** Lỗ bịt giúp giảm trọng lượng xương và là nơi thần kinh, mạch máu bịt đi qua thông qua **ống bịt (Obturator canal)**.
+
+##### 3. Chức năng _(Functions)_
+Đai hông có các chức năng:
+
+- Nâng đỡ và truyền trọng lượng từ thân mình xuống chi dưới.
+- Bảo vệ các tạng trong **tiểu khung (Pelvic cavity)** như bàng quang, trực tràng và cơ quan sinh dục.
+- Là nơi bám của nhiều cơ vùng bụng, lưng, mông và đùi.
+- Tham gia tạo **khớp háng (Hip joint)**.
+
+
+##### 4. Liên quan lâm sàng _(Clinical Correlation)_
+
+- **Gãy cổ xương đùi (Femoral neck fracture)** thường ảnh hưởng đến khớp háng và vùng ổ cối.
+- **Gãy khung chậu (Pelvic fracture)** thường do chấn thương mạnh và có nguy cơ tổn thương các tạng trong tiểu khung.
+- **Viêm khớp mu (Osteitis pubis)** thường gặp ở vận động viên hoặc phụ nữ sau sinh.
 #### 3.2.2 Xương đùi (Femur)
 
 

@@ -1023,6 +1023,13 @@ Mỗi **xương hông (Hip bone/Coxal bone)** được tạo thành từ **ba x�
 - **Xương mu (Pubis)**
 
 > **(Bổ sung)** Ở trẻ em, ba xương này được nối với nhau bằng **sụn chữ Y (Triradiate cartilage)**. Khi trưởng thành, chúng cốt hóa và hợp nhất thành một xương hông duy nhất.
+
+
+> [!NOTE] Lưu ý
+>**Xương hông (Hip bone/Coxal bone)** = một xương của đai hông, gồm cánh chậu, ngồi và mu. 
+ **Đai hông (Pelvic girdle)** = hai xương hông.
+**Khung chậu (Bony pelvis)** = hai xương hông + xương cùng + xương cụt.
+
 ##### 1. Cấu tạo của xương hông _(Structure of the Hip Bone)_
 ###### a. Xương cánh chậu _(Ilium)_
 Xương cánh chậu (**Ilium**) là phần **lớn nhất và ở phía trên** của xương hông.
@@ -1123,13 +1130,288 @@ Gồm:
 - **Gãy khung chậu (Pelvic fracture)** thường do chấn thương mạnh và có nguy cơ tổn thương các tạng trong tiểu khung.
 - **Viêm khớp mu (Osteitis pubis)** thường gặp ở vận động viên hoặc phụ nữ sau sinh.
 #### 3.2.2 Xương đùi (Femur)
+Xương đùi (**Femur**) là **xương dài (Long bone)** và **xương lớn, khỏe nhất cơ thể người**. Xương đùi nằm ở vùng đùi (**Thigh**), nối **xương hông (Hip bone)** với **xương chày (Tibia)**, tham gia tạo **khớp háng (Hip joint)** và **khớp gối (Knee joint)**.
+
+> **(Bổ sung)** Xương đùi chịu phần lớn trọng lượng cơ thể khi đứng, đi và chạy, đồng thời là nơi bám của nhiều nhóm cơ lớn như cơ mông, cơ đùi và cơ khép.
+
+- ***Đặc điểm***: Xương đùi gồm **ba phần**:
+	- **Đầu trên (Proximal extremity)**
+	- **Thân xương (Shaft/Body)**
+	- **Đầu dưới (Distal extremity)**
+
+##### 1. Đầu trên _(Proximal Extremity)_
+Đầu trên của xương đùi tham gia tạo **khớp háng (Hip joint)**.
+
+###### Chỏm xương đùi _(Head of femur)_
+
+- Có dạng gần hình cầu.
+- Tiếp khớp với **ổ cối (Acetabulum)** của xương hông tạo **khớp háng**.
+- Trên chỏm có **hố chỏm xương đùi (Fovea capitis)**, là nơi bám của **dây chằng chỏm xương đùi (Ligament of head of femur)**.
+
+> **(Bổ sung)** Dây chằng này mang theo một nhánh động mạch nuôi chỏm xương đùi, đặc biệt quan trọng ở trẻ em.
+
+###### Cổ xương đùi _(Neck of femur)_
+
+- Nối chỏm với thân xương.
+- Hướng **lên trên (Superiorly)**, **vào trong (Medially)** và **ra trước (Anteriorly)**.
+
+> **(Bổ sung)** Góc giữa cổ và thân xương đùi (**Angle of inclination**) ở người trưởng thành khoảng **125°**. Góc này giúp phân bố lực và duy trì tư thế đứng vững.
+###### Mấu chuyển lớn _(Greater trochanter)_
+
+- Nằm ở phía ngoài đầu trên xương đùi.
+- Là nơi bám của nhiều cơ vùng mông như:
+    - **Cơ mông nhỡ (Gluteus medius)**
+    - **Cơ mông bé (Gluteus minimus)**
+    - **Cơ hình lê (Piriformis)**
+###### Mấu chuyển bé _(Lesser trochanter)_
+
+- Nằm ở mặt sau trong.
+- Là nơi bám của **cơ thắt lưng – chậu (Iliopsoas muscle)**.
+
+###### Đường gian mấu _(Intertrochanteric line)_
+
+- Nằm ở mặt trước.
+- Nối mấu chuyển lớn với mấu chuyển bé.
+
+###### Mào gian mấu _(Intertrochanteric crest)_
+
+- Nằm ở mặt sau.
+- Nối hai mấu chuyển.
 
 
+##### 2. Thân xương _(Shaft)_
+Thân xương đùi hơi cong ra trước, có dạng hình trụ ở trên và hình lăng trụ ở dưới.
+
+###### Đường ráp _(Linea aspera)_
+
+- Là gờ xương nổi rõ ở mặt sau thân xương.
+- Là nơi bám của nhiều cơ đùi như:
+    - **Cơ khép lớn (Adductor magnus)**
+    - **Cơ khép dài (Adductor longus)**
+    - **Cơ rộng trong (Vastus medialis)**
+    - **Cơ rộng ngoài (Vastus lateralis)**
+
+> **(Bổ sung)** Đường ráp là mốc giải phẫu đặc trưng nhất của thân xương đùi.
+
+##### 3. Đầu dưới _(Distal Extremity)_
+Đầu dưới của xương đùi bè rộng, tham gia tạo **khớp gối (Knee joint)**.
+###### Lồi cầu trong _(Medial condyle)_
+- Tiếp khớp với **lồi cầu trong của xương chày (Medial condyle of tibia)**.
+
+###### Lồi cầu ngoài _(Lateral condyle)_
+- Tiếp khớp với **lồi cầu ngoài của xương chày (Lateral condyle of tibia)**.
+
+
+**Giữa hai lồi cầu ở mặt sau là:**
+###### Hố gian lồi cầu _(Intercondylar fossa)_
+
+- Là nơi bám của các **dây chằng chéo (Cruciate ligaments)** của khớp gối.
+
+---
+###### Diện bánh chè _(Patellar surface)_
+
+- Nằm ở mặt trước đầu dưới.
+- Tiếp khớp với **xương bánh chè (Patella)**.
+
+###### Mỏm trên lồi cầu _(Epicondyles)_
+
+Đầu dưới có:
+
+- **Mỏm trên lồi cầu trong (Medial epicondyle)**
+- **Mỏm trên lồi cầu ngoài (Lateral epicondyle)**
+
+Là nơi bám của các dây chằng và cơ quanh khớp gối.
+##### 4. Chức năng _(Functions)_
+Xương đùi có các chức năng:
+
+- Chịu và truyền trọng lượng cơ thể từ khung chậu xuống cẳng chân.
+- Tham gia tạo **khớp háng** và **khớp gối**.
+- Là nơi bám của nhiều cơ lớn vùng mông và đùi.
+- Giúp thực hiện các động tác đứng, đi, chạy và nhảy.
+##### 5. Liên quan lâm sàng _(Clinical Correlation)_
+- **Gãy cổ xương đùi (Femoral neck fracture):** thường gặp ở người cao tuổi bị loãng xương; có nguy cơ làm giảm nguồn máu nuôi chỏm xương đùi và gây **hoại tử vô mạch (Avascular necrosis)**.
+- **Gãy thân xương đùi (Femoral shaft fracture):** thường do chấn thương mạnh, có thể gây mất máu nhiều vì xương đùi được cấp máu rất phong phú.
+- **Gãy liên mấu chuyển (Intertrochanteric fracture):** thường gặp ở người lớn tuổi và tiên lượng tốt hơn gãy cổ xương đùi do nguồn cấp máu vẫn được bảo tồn.
 
 #### 3.2.3 Xương bánh chè (Patella)
+Xương bánh chè (**Patella**) là **xương vừng (Sesamoid bone)** lớn nhất cơ thể người, nằm ở phía trước **khớp gối (Knee joint)** và được bao bọc trong **gân cơ tứ đầu đùi (Quadriceps femoris tendon)**.
 
+Xương bánh chè có vai trò bảo vệ khớp gối, tăng hiệu quả hoạt động của cơ tứ đầu đùi và hỗ trợ các động tác duỗi cẳng chân.
+
+> **(Bổ sung)** Xương bánh chè được hình thành trong gân cơ tứ đầu đùi, vì vậy được xếp vào nhóm **xương vừng (Sesamoid bones)**. Đây là đặc điểm khác với hầu hết các xương khác của cơ thể.
+-  ***Đặc điểm***
+	Xương bánh chè có dạng **hình tam giác (Triangular bone)** với:
+	
+	- **Đáy (Base)** ở phía trên.
+	- **Đỉnh (Apex)** ở phía dưới.
+	- **Mặt trước (Anterior surface)**.
+	- **Mặt sau (Posterior/Articular surface)**.
+
+##### 1. Đáy _(Base)_
+- Là bờ trên của xương bánh chè.
+- Dày và rộng.
+- Là nơi bám của **gân cơ tứ đầu đùi (Quadriceps femoris tendon)**.
+
+##### 2. Đỉnh _(Apex)_
+- Hướng xuống dưới.
+- Là nơi tiếp nối với **dây chằng bánh chè (Patellar ligament)**.
+
+> **(Bổ sung)** Dây chằng bánh chè thực chất là phần tiếp tục của gân cơ tứ đầu đùi, bám vào **lồi củ xương chày (Tibial tuberosity)**.
+
+##### 3. Mặt trước _(Anterior Surface)_
+- Hơi lồi.
+- Gồ ghề.
+- Là nơi bám của các sợi gân cơ tứ đầu đùi.
+
+##### 4. Mặt sau _(Posterior/Articular Surface)_
+- Nhẵn và được phủ **sụn khớp (Articular cartilage)** rất dày.
+- Chia thành:
+    - **Diện khớp trong (Medial articular facet)**.
+    - **Diện khớp ngoài (Lateral articular facet)**.
+
+Hai diện này tiếp khớp với **diện bánh chè (Patellar surface)** của **xương đùi (Femur)**.
+
+> **(Bổ sung)** Sụn khớp ở mặt sau xương bánh chè là **một trong những lớp sụn dày nhất của cơ thể**, giúp giảm ma sát và chịu lực lớn trong quá trình đi, chạy và leo cầu thang.
+
+##### Chức năng _(Functions)_
+Xương bánh chè có các chức năng:
+
+- Bảo vệ mặt trước của **khớp gối (Knee joint)**.
+- Làm tăng cánh tay đòn (**Lever arm**) của cơ tứ đầu đùi, giúp động tác **duỗi gối (Knee extension)** hiệu quả hơn.
+- Giảm ma sát giữa gân cơ tứ đầu đùi và đầu dưới xương đùi.
+- Phân bố và truyền lực từ cơ tứ đầu đùi đến xương chày thông qua **dây chằng bánh chè (Patellar ligament)**.
+
+> **(Bổ sung)** Nếu không có xương bánh chè, lực duỗi của cơ tứ đầu đùi sẽ giảm đáng kể, làm giảm hiệu quả của động tác đứng dậy, leo cầu thang hoặc đá chân.
+
+##### Liên quan giải phẫu _(Anatomical Correlation)_
+Xương bánh chè tham gia tạo **khớp đùi – bánh chè (Patellofemoral joint)** với **xương đùi (Femur)**.
+
+Khi gấp và duỗi gối, xương bánh chè sẽ trượt lên xuống trong **rãnh bánh chè (Trochlear groove/Femoral trochlea)** của đầu dưới xương đùi.
+
+##### Liên quan lâm sàng _(Clinical Correlation)_
+###### Gãy xương bánh chè _(Patellar fracture)_
+- Thường do ngã đập trực tiếp vào đầu gối hoặc co cơ tứ đầu đùi quá mạnh.
+- Có thể làm mất khả năng **duỗi chủ động khớp gối**.
+###### Trật xương bánh chè _(Patellar dislocation)_
+- Thường trật ra **phía ngoài (Lateral dislocation)**.
+- Hay gặp ở người trẻ hoặc vận động viên.
+###### Hội chứng đau bánh chè – đùi _(Patellofemoral pain syndrome)_
+- Gây đau vùng trước gối.
+- Đau tăng khi:
+    - Leo cầu thang.
+    - Ngồi lâu.
+    - Chạy bộ.
+    - Ngồi xổm.
 #### 3.2.4 Xương cẳng chân (Skeleton of leg)
+Cẳng chân (**Leg**) gồm **hai xương dài (Long bones)**:
 
+- **Xương chày (Tibia)** – nằm **phía trong (Medial side)**, cùng phía với ngón cái.
+- **Xương mác (Fibula)** – nằm **phía ngoài (Lateral side)**, cùng phía với ngón út.
+
+Hai xương được nối với nhau bằng **màng gian cốt (Interosseous membrane)** và tham gia tạo **khớp gối (Knee joint)**, **khớp chày – mác trên (Proximal tibiofibular joint)**, **khớp chày – mác dưới (Distal tibiofibular joint)** và **khớp cổ chân (Ankle joint)**.
+
+> **(Bổ sung)** Khác với cẳng tay, hai xương cẳng chân **không xoay quanh nhau**. **Xương chày** chịu gần như toàn bộ trọng lượng cơ thể, còn **xương mác** chủ yếu giúp ổn định cổ chân và là nơi bám của cơ.
+
+##### 1. Xương chày _(Tibia)_
+Xương chày (**Tibia**) là xương lớn và khỏe nhất của cẳng chân, nằm ở **phía trong**.
+
+Xương gồm:
+
+- **Đầu trên (Proximal extremity)**
+- **Thân xương (Shaft/Body)**
+- **Đầu dưới (Distal extremity)**
+
+###### Đầu trên _(Proximal Extremity)_
+- ***Lồi cầu trong (Medial condyle)***
+
+	- Tiếp khớp với **lồi cầu trong xương đùi (Medial condyle of femur)**.
+	- Góp phần tạo **khớp gối (Knee joint)**.
+
+- ***Lồi cầu ngoài (Lateral condyle)***
+	
+	- Tiếp khớp với **lồi cầu ngoài xương đùi (Lateral condyle of femur)**.
+	- Mặt ngoài tiếp khớp với **chỏm xương mác (Head of fibula)** tạo **khớp chày – mác trên (Proximal tibiofibular joint)**.
+
+-  ***Mâm chày (Tibial plateau)***
+
+	- Gồm hai lồi cầu trên.
+	- Là mặt chịu lực chính từ xương đùi xuống cẳng chân.
+
+	**(Bổ sung)** Giữa hai lồi cầu là **gai gian lồi cầu (Intercondylar eminence)** – nơi bám của **dây chằng chéo trước (ACL)**, **dây chằng chéo sau (PCL)** và **hai sụn chêm (Menisci)**.
+
+- ***Lồi củ chày (Tibial tuberosity)***
+
+	- Nằm ở mặt trước đầu trên xương chày.
+	- Là nơi bám của **dây chằng bánh chè (Patellar ligament)**.
+	
+ 	**(Bổ sung)** Lồi củ chày có thể nổi rõ ở thanh thiếu niên và là vị trí thường gặp của **bệnh Osgood–Schlatter**, do viêm điểm bám của dây chằng bánh chè.
+
+######  **Thân xương (Shaft/Body)**
+Thân xương chày có dạng hình lăng trụ tam giác.
+- ***Mào chày (Anterior border / Tibial crest)***
+	- Là bờ trước sắc và dễ sờ thấy ngay dưới da.
+	- Thường được gọi là **"ống quyển" (Shin)**.
+
+- ***Bờ gian cốt (Interosseous border)***
+	- Nằm ở mặt ngoài.
+	- Là nơi bám của **màng gian cốt (Interosseous membrane)**.
+
+###### **Đầu dưới (Distal extremity)**
+- ***Mắt cá trong (Medial malleolus)***
+	- Là mỏm xương ở phía trong cổ chân.
+	- Tham gia tạo **khớp cổ chân (Talocrural joint)**.
+
+- ***Khuyết mác (Fibular notch)***
+	- Nằm ở mặt ngoài đầu dưới xương chày.
+	- Tiếp khớp với đầu dưới xương mác tạo **khớp chày – mác dưới (Distal tibiofibular joint)**.
+
+##### 2. Xương mác _(Fibula)_
+Xương mác (**Fibula**) là xương dài, mảnh và nằm ở **phía ngoài cẳng chân**.
+
+> **(Bổ sung)** Xương mác **không chịu nhiều trọng lượng cơ thể**, nhưng rất quan trọng trong việc ổn định khớp cổ chân và là nơi bám của nhiều cơ cẳng chân.
+
+Xương gồm:
+
+- **Đầu trên (Proximal extremity)**
+- **Thân xương (Shaft)**
+- **Đầu dưới (Distal extremity)**
+
+###### **Đầu trên (Proximal extremity)**
+- ***Chỏm xương mác (Head of fibula)***
+	- Tiếp khớp với lồi cầu ngoài của xương chày.
+
+- ***Cổ xương mác (Neck of fibula)***
+	- Nằm ngay dưới chỏm.
+
+	**(Bổ sung)** **Thần kinh mác chung (Common fibular nerve)** vòng quanh cổ xương mác, vì vậy gãy cổ xương mác có thể gây **bàn chân rủ (Foot drop)** do liệt các cơ gấp mu bàn chân.
+
+###### **Thân xương (Shaft)**
+- Dài và mảnh.
+- Là nơi bám của nhiều cơ cẳng chân trước, ngoài và sau.
+
+
+###### **Đầu dưới (Distal extremity)**
+- ***Mắt cá ngoài (Lateral malleolus)***
+
+	- Nằm thấp hơn mắt cá trong.
+	- Là mốc xương nổi rõ ở phía ngoài cổ chân.
+	- Tham gia tạo **khớp cổ chân (Ankle joint)**.
+
+	**(Bổ sung)** Mắt cá ngoài xuống thấp và ra sau hơn mắt cá trong, giúp tăng độ vững chắc của khớp cổ chân.
+
+##### 3. Chức năng _(Functions)_
+Hai xương cẳng chân có chức năng:
+
+- Chịu và truyền trọng lượng từ đùi xuống bàn chân (chủ yếu qua xương chày).
+- Tham gia tạo **khớp gối** và **khớp cổ chân**.
+- Là nơi bám của các cơ cẳng chân.
+
+
+##### Liên quan lâm sàng _(Clinical Correlation)_
+- **Gãy thân xương chày (Tibial shaft fracture):** thường gặp do tai nạn giao thông hoặc chấn thương thể thao; vì mặt trước xương nằm ngay dưới da nên dễ gãy hở.
+- **Gãy mắt cá ngoài (Lateral malleolus fracture):** là một trong những chấn thương cổ chân thường gặp.
+- **Tổn thương thần kinh mác chung (Common fibular nerve injury):** thường xảy ra ở vùng cổ xương mác, gây **bàn chân rủ (Foot drop)** và mất cảm giác vùng mu bàn chân.
+- **Gãy hai xương cẳng chân (Both-bone leg fracture):** thường do chấn thương mạnh, ảnh hưởng nghiêm trọng đến khả năng chịu lực.
 
 #### 3.2.5 Xương cổ chân (Tarsal bones)
 

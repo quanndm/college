@@ -7,14 +7,14 @@
     - Xương thân mình (cột sống, xương sườn, xương ức).
     - Xương chi (chi trên, chi dưới, đai vai, đai chậu).
 
-**Chức năng cơ học**
-- **Nâng đỡ**: Làm trụ cột cơ học, định hình phom dáng cơ thể.
-- **Bảo vệ**: Tạo các khoang chứa cơ quan nội tạng, các hốc bảo vệ giác quan.
-- **Vận động**: Phối hợp hệ cơ và hệ thần kinh giúp cơ thể di chuyển.
+- **Chức năng cơ học**
+	- **Nâng đỡ**: Làm trụ cột cơ học, định hình phom dáng cơ thể.
+	- **Bảo vệ**: Tạo các khoang chứa cơ quan nội tạng, các hốc bảo vệ giác quan.
+	- **Vận động**: Phối hợp hệ cơ và hệ thần kinh giúp cơ thể di chuyển.
 
-**Chức năng sinh lý (Bổ sung mới)**
-- **Tạo máu**: Tủy đỏ trong xương sản sinh hồng cầu, bạch cầu, tiểu cầu.
-- **Dự trữ**: Lưu trữ, điều hòa các khoáng chất thiết yếu (Canxi, Phốt pho).
+- **Chức năng sinh lý (Bổ sung mới)**
+	- **Tạo máu**: Tủy đỏ trong xương sản sinh hồng cầu, bạch cầu, tiểu cầu.
+	- **Dự trữ**: Lưu trữ, điều hòa các khoáng chất thiết yếu (Canxi, Phốt pho).
 
 ## 1. Xương đầu mặt (Skeleton of head)
 - Gồm 22 xương chia làm hai phần là sọ và mặt.
@@ -1414,8 +1414,284 @@ Hai xương cẳng chân có chức năng:
 - **Gãy hai xương cẳng chân (Both-bone leg fracture):** thường do chấn thương mạnh, ảnh hưởng nghiêm trọng đến khả năng chịu lực.
 
 #### 3.2.5 Xương cổ chân (Tarsal bones)
+Xương cổ chân (**Tarsal bones**) gồm **7 xương ngắn (Short bones)**, nằm giữa **xương cẳng chân (Leg bones)** và **xương bàn chân (Metatarsal bones)**.
 
+Các xương cổ chân tạo nên phần sau và giữa của bàn chân, có chức năng **chịu trọng lượng cơ thể (Weight bearing)**, hấp thu lực và duy trì **các vòm bàn chân (Arches of the foot)**.
 
+> **(Bổ sung)** Khác với xương cổ tay có tính linh hoạt cao, xương cổ chân được liên kết rất chắc bằng các dây chằng để tạo nền vững cho việc đứng và di chuyển.
+
+##### Thành phần của xương cổ chân _(Tarsal Bones)_
+Xương cổ chân gồm **7 xương**:
+
+1. **Xương sên (Talus)**
+2. **Xương gót (Calcaneus)**
+3. **Xương ghe (Navicular)**
+4. **Xương hộp (Cuboid)**
+5. **Xương chêm trong (Medial cuneiform)**
+6. **Xương chêm giữa (Intermediate cuneiform)**
+7. **Xương chêm ngoài (Lateral cuneiform)**
+
+##### 1. Xương sên _(Talus)_
+Xương sên là xương nằm ở vị trí cao nhất của bàn chân.
+
+###### Đặc điểm
+
+- Tiếp khớp với:
+    - **Xương chày (Tibia)**.
+    - **Xương mác (Fibula)**.
+    - **Xương gót (Calcaneus)**.
+    - **Xương ghe (Navicular)**.
+- Là xương tạo nên phần chính của **khớp cổ chân (Talocrural joint)**.
+
+> **(Bổ sung)** Xương sên là **xương duy nhất của bàn chân không có chỗ bám cơ**, toàn bộ bề mặt được bao quanh bởi diện khớp và dây chằng.
+
+###### Ròng rọc xương sên _(Trochlea of talus)_
+
+- Nằm ở mặt trên.
+- Tiếp khớp với đầu dưới xương chày và hai mắt cá.
+##### 2. Xương gót _(Calcaneus)_
+Xương gót là **xương lớn nhất của bàn chân**.
+
+###### Đặc điểm
+
+- Nằm dưới xương sên.
+- Chịu phần lớn trọng lượng cơ thể khi đứng.
+
+###### Củ gót _(Calcaneal tuberosity)_
+
+- Là phần sau dưới của xương gót.
+- Là nơi tỳ của gót chân khi đứng.
+
+###### Mỏm sau xương gót
+
+Là nơi bám của:
+
+- **Gân gót (Calcaneal tendon/Achilles tendon)**.
+
+> **(Bổ sung)** Gân Achilles là **gân lớn và khỏe nhất cơ thể**, nối cơ bụng chân với xương gót.
+##### 3. Xương ghe _(Navicular)_
+- Nằm phía trước xương sên.
+- Tiếp khớp với:
+    - Xương sên.
+    - Ba xương chêm.
+
+###### Lồi củ xương ghe _(Navicular tuberosity)_
+- Là nơi bám của **gân cơ chày sau (Tibialis posterior tendon)**.
+
+> **(Bổ sung)** Xương ghe có vai trò quan trọng trong việc duy trì **vòm dọc trong của bàn chân (Medial longitudinal arch)**.
+
+##### 4. Xương hộp _(Cuboid)_
+- Nằm ở phía ngoài bàn chân.
+- Tiếp khớp với:
+    - Xương gót.
+    - Hai xương bàn IV và V.
+    - Xương chêm ngoài.
+
+> **(Bổ sung)** Mặt dưới xương hộp có **rãnh gân cơ mác dài (Groove for fibularis longus tendon)**.
+
+##### 5. Ba xương chêm _(Cuneiform Bones)_
+Gồm:
+
+- **Xương chêm trong (Medial cuneiform)**
+- **Xương chêm giữa (Intermediate cuneiform)**
+- **Xương chêm ngoài (Lateral cuneiform)**
+
+Các xương chêm nằm giữa:
+
+- Xương ghe.
+- Các xương bàn I, II và III.
+
+Chức năng chính:
+
+- Phân bố lực.
+- Duy trì **vòm ngang (Transverse arch)** và **vòm dọc trong** của bàn chân.
+
+##### 6. Liên quan giải phẫu _(Anatomical Correlation)_
+###### Khớp cổ chân _(Talocrural Joint)_
+
+Được tạo bởi:
+
+- **Đầu dưới xương chày (Distal tibia)**.
+- **Mắt cá trong (Medial malleolus)**.
+- **Mắt cá ngoài (Lateral malleolus)**.
+- **Ròng rọc xương sên (Trochlea of talus)**.
+
+Khớp này chủ yếu thực hiện:
+
+- **Gấp mu bàn chân (Dorsiflexion)**.
+- **Gấp gan bàn chân (Plantar flexion)**.
+
+###### Khớp dưới sên _(Subtalar Joint)_
+
+Được tạo bởi:
+
+- **Xương sên (Talus)**.
+- **Xương gót (Calcaneus)**.
+
+Cho phép các động tác:
+
+- **Nghiêng trong (Inversion)**.
+- **Nghiêng ngoài (Eversion)** của bàn chân.
+
+##### 7. Chức năng _(Functions)_
+Các xương cổ chân có chức năng:
+
+- Chịu và phân bố trọng lượng cơ thể.
+- Hấp thu lực khi đi và chạy.
+- Tạo sự vững chắc cho cổ chân.
+- Duy trì các **vòm bàn chân**.
+- Tham gia các động tác của bàn chân.
+
+##### Liên quan lâm sàng _(Clinical Correlation)_
+- **Gãy xương gót (Calcaneal fracture):** thường do ngã từ trên cao xuống.
+- **Gãy cổ xương sên (Fracture of the neck of talus):** có nguy cơ gây **hoại tử vô mạch (Avascular necrosis)** do nguồn cấp máu hạn chế.
+- **Viêm gân Achilles (Achilles tendinitis)** hoặc **đứt gân Achilles (Achilles tendon rupture):** gây khó khăn khi kiễng chân hoặc chạy.
 
 #### 3.2.6 Xương bàn chân và ngón chân (Metatarsal & Phalanges)
+Bộ xương bàn chân (**Bones of the foot**) gồm **26 xương**, bao gồm:
 
+- **7 xương cổ chân (Tarsal bones)**
+- **5 xương bàn chân (Metatarsal bones)**
+- **14 xương đốt ngón chân (Phalanges)**
+
+Trong đó, **xương bàn chân và xương ngón chân** tạo nên phần trước của bàn chân (**Forefoot**), có chức năng nâng đỡ cơ thể, giữ thăng bằng và tham gia vào quá trình đi, chạy và nhảy.
+
+> **(Bổ sung)** Khác với bàn tay, các xương bàn chân có cấu trúc chắc khỏe hơn, ít linh hoạt hơn để thích nghi với chức năng **chịu lực (Weight bearing)**.
+
+##### 1. Xương bàn chân _(Metatarsal Bones)_
+Xương bàn chân (**Metatarsal bones**) gồm **5 xương dài (Long bones)**, được đánh số từ **I đến V**, tính từ **ngón cái (Great toe/Hallux)** đến **ngón út (Little toe)**.
+
+Mỗi xương bàn chân gồm:
+
+- **Nền (Base)**
+- **Thân (Shaft/Body)**
+- **Chỏm (Head)**
+
+###### Nền xương _(Base)_
+- Nằm ở đầu gần (**Proximal end**).
+- Tiếp khớp với các **xương cổ chân (Tarsal bones)** tạo **khớp cổ chân – bàn chân (Tarsometatarsal joints)**.
+
+> **(Bổ sung)** Nền **xương bàn V** có **lồi củ xương bàn V (Tuberosity of fifth metatarsal)**, là nơi bám của **gân cơ mác ngắn (Fibularis brevis tendon)** và là vị trí thường gặp của các loại gãy như **gãy nền xương bàn V (Avulsion fracture)** hoặc **gãy Jones (Jones fracture)**.
+
+###### Thân xương _(Shaft)_
+
+- Có dạng hơi cong.
+- Phân bố lực từ cổ chân xuống các ngón.
+- Góp phần tạo nên **vòm dọc (Longitudinal arch)** và **vòm ngang (Transverse arch)** của bàn chân.
+###### Chỏm xương _(Head)_
+
+- Có dạng hình cầu.
+- Tiếp khớp với **đốt gần ngón chân (Proximal phalanx)** tạo **khớp bàn – ngón chân (Metatarsophalangeal joints – MTP joints)**.
+
+##### 2. Xương ngón chân _(Phalanges of the Foot)_
+Các ngón chân gồm **14 đốt xương (14 Phalanges)**.
+
+###### Ngón cái _(Great toe / Hallux)_
+Gồm **2 đốt**:
+
+- **Đốt gần (Proximal phalanx)**
+- **Đốt xa (Distal phalanx)**
+
+###### Bốn ngón còn lại
+
+Mỗi ngón gồm **3 đốt**:
+
+- **Đốt gần (Proximal phalanx)**
+- **Đốt giữa (Middle phalanx)**
+- **Đốt xa (Distal phalanx)**
+
+Tổng cộng:
+
+- 4 ngón × 3 đốt = **12 đốt**
+- Ngón cái = **2 đốt**
+
+→ **Toàn bộ bàn chân có 14 đốt ngón.**
+
+###### Đặc điểm của mỗi đốt _(Structure of a Phalanx)_
+Mỗi đốt gồm:
+
+- **Nền (Base)**
+- **Thân (Body/Shaft)**
+- **Chỏm (Head)**
+
+Các đốt tiếp khớp với nhau tạo:
+
+- **Khớp gian đốt gần (Proximal interphalangeal joint – PIP)**.
+- **Khớp gian đốt xa (Distal interphalangeal joint – DIP)**.
+
+Riêng **ngón cái** chỉ có:
+
+- **Khớp gian đốt (Interphalangeal joint – IP)**.
+##### 3. Vòm bàn chân _(Arches of the Foot)_
+Các xương bàn chân và cổ chân phối hợp tạo nên **ba vòm bàn chân**, giúp bàn chân vừa vững chắc vừa có khả năng đàn hồi.
+###### 1. Vòm dọc trong _(Medial longitudinal arch)_
+
+- Là vòm cao nhất.
+- Gồm:
+    - Xương gót.
+    - Xương sên.
+    - Xương ghe.
+    - Ba xương chêm.
+    - Xương bàn I–III.
+
+Chức năng:
+
+- Chịu và phân tán lực.
+- Hấp thu chấn động khi đi và chạy.
+###### 2. Vòm dọc ngoài _(Lateral longitudinal arch)_
+
+- Thấp hơn vòm dọc trong.
+- Gồm:
+    - Xương gót.
+    - Xương hộp.
+    - Xương bàn IV và V.
+
+Chức năng:
+
+- Tăng sự ổn định của bàn chân.
+
+###### 3. Vòm ngang _(Transverse arch)_
+
+Được tạo bởi:
+
+- Ba xương chêm.
+- Xương hộp.
+- Nền các xương bàn chân.
+
+Chức năng:
+
+- Phân bố trọng lượng đều lên toàn bộ bàn chân.
+- Giúp bàn chân thích nghi với các bề mặt khác nhau.
+
+##### 4. Chức năng _(Functions)_
+
+Hệ thống xương bàn chân và ngón chân có chức năng:
+
+- Chịu và truyền trọng lượng cơ thể xuống mặt đất.
+- Duy trì các vòm bàn chân.
+- Giữ thăng bằng khi đứng.
+- Hỗ trợ các động tác đi, chạy, nhảy.
+- Tạo lực đẩy cơ thể về phía trước trong giai đoạn cuối của bước đi (**Toe-off phase**).
+
+##### 5. Liên quan lâm sàng _(Clinical Correlation)_
+###### Gãy xương bàn V _(Fifth metatarsal fracture)_
+
+- Là loại gãy xương bàn chân thường gặp nhất.
+- Bao gồm:
+    - **Gãy nền (Avulsion fracture)**.
+    - **Gãy Jones (Jones fracture)**.
+
+###### Bàn chân bẹt _(Pes planus / Flat foot)_
+
+- Do giảm hoặc mất **vòm dọc trong**.
+- Có thể gây đau và nhanh mỏi khi đi lại.
+
+###### Bàn chân vòm cao _(Pes cavus)_
+
+- Vòm dọc trong cao bất thường.
+- Làm tăng áp lực lên gót và đầu xương bàn chân.
+
+###### Hallux valgus _(Vẹo ngón cái)_
+
+- Ngón cái lệch ra ngoài.
+- Thường kèm lồi xương ở khớp bàn – ngón I (**Bunion**).

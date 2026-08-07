@@ -270,17 +270,16 @@ Về mặt hình thái, các đốt sống cổ được chia thành hai nhóm c
 ##### 2.1.3.2 **Đốt sống ngực (Vertebrae thoracicae)
 ###### 1. Đại cương
 
-- Cột sống ngực gồm **12 đốt sống**, ký hiệu từ **T1 đến T12**.
-- Nằm giữa cột sống cổ và cột sống thắt lưng.
-- 12 Đốt sống ngực tương ứng với 12 đôi xương sườn (12 đốt gắn kết với 12 đôi xương sườn) 
-	- Trừ xương sườn 11, 12 tự do, 1 đầu gắn với đốt sống ngực, đầu còn lại gắn với xương ức => tạo khuôn xương xương sườn 
-- Có chức năng:
-    - Nâng đỡ thân mình.
-    - Bảo vệ tủy sống.
-    - Tham gia tạo nên **lồng ngực** cùng với xương sườn và xương ức.
-    - Là nơi khớp với các xương sườn, góp phần vào động tác hô hấp.
-
-Các đốt sống ngực có cấu tạo khá giống nhau, tuy nhiên **T1, T10, T11 và T12** có một số đặc điểm riêng liên quan đến diện khớp với xương sườn.
+- **Số lượng và vị trí:**
+    - Gồm **12 đốt sống**, ký hiệu từ **T1 đến T12** (hoặc D1 đến D12), nằm chuyển tiếp giữa cột sống cổ và cột sống thắt lưng.
+    - Cột sống ngực có **độ cong sinh lý ra sau** (gù sinh lý).
+- **Liên kết giải phẫu với xương sườn:**
+    - 12 đốt sống ngực khớp với **12 đôi xương sườn** tương ứng ở phía sau.
+    - **Sự khác biệt của xương sườn 11, 12 (Xương sườn cụt):** Chỉ có một đầu gắn với đốt sống ngực (T11, T12), đầu còn lại **tự do tiêu biến trong cơ thành bụng, KHÔNG gắn với xương ức**.
+- **Chức năng cốt lõi:**
+    - **Bảo vệ:** Kết hợp với xương sườn và xương ức tạo thành **lồng ngực** vững chắc để bảo vệ tim, phổi và tủy sống bên trong.
+    - **Vận động:** Là điểm tựa đòn bẩy cho các xương sườn di động, phục vụ trực tiếp cho động tác **hô hấp** (hít vào, thở ra).
+    - **Nâng đỡ:** Chịu lực và nâng đỡ phần trên của thân mình.
 ![[xuong_cot_song_2.png]]
 ###### 2. Đặc điểm chung của đốt sống ngực
 ![[xuong_cot_song_3.png]]
@@ -352,7 +351,7 @@ Các đốt sống ngực có cấu tạo khá giống nhau, tuy nhiên **T1, T1
 Các đốt sống thắt lưng có cấu tạo khá giống nhau, trong đó **L5** có một số đặc điểm thích nghi với việc khớp với xương cùng.
 ![[xuong_cot_song_5.png]]
 
-###### 2. Đặc điểm chung của đốt sống thắt lưng
+###### 2. Đặc điểm chung của đốt sống thắt lưng (L1 - L4)
 ![[xuong_cot_song_6.png]]
 ![[xuong_cot_song_7.png]]
 - **a. Thân đốt sống**

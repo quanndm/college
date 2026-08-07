@@ -736,7 +736,7 @@ Hai xương nối với nhau bởi **màng gian cốt (Interosseous membrane)** 
 Xương trụ (**Ulna**) nằm ở **phía trong cẳng tay (Medial side)** và là xương lớn hơn ở đầu gần.
 
 Xương trụ gồm:
-
+![[xuong_cang_tay_4.png]]
 - **Đầu trên (Proximal extremity)**
 - **Thân xương (Shaft)**
 - **Đầu dưới (Distal extremity)**
@@ -828,6 +828,10 @@ Xương cổ tay (**Carpal bones**) gồm **8 xương ngắn (Short bones)**, s�
 
 > **(Bổ sung)** Các xương cổ tay được liên kết với nhau bởi nhiều **dây chằng (Ligaments)**, tạo thành một khối vững chắc nhưng vẫn cho phép thực hiện nhiều động tác của bàn tay.
 
+![[xuong_co_tay_1.png]]
+![[xuong_co_tay_2.png]]
+- xương cổ tay (mặt gan)
+![[xuong_co_tay_3.png]]
 ##### 1. Hàng gần _(Proximal Row)_
 Hàng gần được sắp xếp **từ ngoài vào trong (Lateral → Medial)** gồm:
 ###### a. Xương thuyền _(Scaphoid)_
@@ -911,6 +915,9 @@ Bộ xương bàn tay (**Bones of the hand**) gồm **27 xương**, chia thành:
 - **14 xương đốt ngón tay (Phalanges)**
 
 Trong đó, **xương bàn tay và xương ngón tay** tạo nên khung xương của lòng bàn tay và các ngón, giúp bàn tay thực hiện các động tác cầm nắm, kẹp và thao tác tinh vi.
+![[xuong_ban_tay_1.png]]
+![[xuong_ban_tay_2.png]]
+
 ##### 1. Xương bàn tay _(Metacarpal Bones)_
 Xương bàn tay (**Metacarpal bones**) gồm **5 xương dài (Long bones)**, được đánh số từ **I đến V**, tính từ **ngón cái (Thumb)** đến **ngón út (Little finger)**.
 

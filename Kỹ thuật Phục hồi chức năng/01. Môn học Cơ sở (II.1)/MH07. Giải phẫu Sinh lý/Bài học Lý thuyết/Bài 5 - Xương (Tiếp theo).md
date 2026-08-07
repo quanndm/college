@@ -601,52 +601,24 @@ Xương vai (**Scapula**) là một **xương dẹt (Flat bone)** hình tam giá
 ![[xuong_dai_vai_3.png]]
 ![[xuong_dai_vai_4.png]]
 
-###### Đặc điểm
-Xương vai gồm:
-- **Hai mặt (Two surfaces)**
-- **Ba bờ (Three borders)**
-- **Ba góc (Three angles)**
-- **Ba mỏm (Three processes)**
+###### a. Định thể học (Hình thái học bề mặt)
 
-###### Hai mặt _(Surfaces)_
-- ***Mặt sườn (Costal surface / Anterior surface)***
-	- Hướng về thành ngực.
-	- Có **hố dưới vai (Subscapular fossa)** là nơi bám của **cơ dưới vai (Subscapularis muscle)**.
+Theo danh pháp giải phẫu, xương vai gồm có: **2 mặt, 3 bờ, 3 góc và 2 mỏm lớn** (gai vai kéo dài thành mỏm cùng vai nên thường tính chung là 1 mỏm lớn, mỏm quạ là mỏm thứ 2).
+###### b. Đặc điểm cấu tạo chi tiết
 
-- ***Mặt sau (Posterior surface)***
-	Có **gai vai (Spine of scapula)** chia mặt sau thành:
-	- **Hố trên gai (Supraspinous fossa)**
-	- **Hố dưới gai (Infraspinous fossa)**
-	
-	Là nơi bám của các cơ vùng vai.
-
-###### Ba bờ _(Borders)_
-- **Bờ trên (Superior border)**
-- **Bờ trong/Bờ sống (Medial/Vertebral border)**
-- **Bờ ngoài/Bờ nách (Lateral/Axillary border)**
-
-###### Ba góc _(Angles)_
-- **Góc trên (Superior angle)**
-- **Góc dưới (Inferior angle)**
-- **Góc ngoài (Lateral angle)**
-	Góc ngoài có:
-	- **Ổ chảo (Glenoid cavity)** tiếp khớp với **chỏm xương cánh tay (Head of humerus)** tạo **khớp vai (Glenohumeral joint)**.
-
-###### Ba mỏm _(Processes)_
-- ***Gai vai (Spine of scapula)***
-	- Chạy ngang mặt sau xương vai.
-	- Kéo dài ra ngoài tạo **mỏm cùng vai (Acromion)**.
-
-- ***Mỏm cùng vai (Acromion)***
-	- Tiếp khớp với đầu cùng vai của xương đòn.
-	- Tạo **khớp cùng vai – đòn (Acromioclavicular joint)**.
-
-- ***Mỏm quạ (Coracoid process)***
-	- Là mỏm xương hình móc ở mặt trước trên.
-	- Là nơi bám của nhiều cơ và dây chằng.
-
-> **(Bổ sung)** Mỏm quạ là điểm bám của **cơ ngực bé (Pectoralis minor)**, **đầu ngắn cơ nhị đầu cánh tay (Short head of biceps brachii)** và **cơ quạ cánh tay (Coracobrachialis)**.
-
+- **Hai mặt (Surfaces):**
+    - **Mặt sườn / Mặt trước (Costal surface):** Bề mặt lõm hướng về thành ngực, tạo thành một hố lớn duy nhất gọi là **Hố dưới vai (Subscapular fossa)** – nơi bám của **cơ dưới vai**. _(Sửa lỗi: Tuyệt đối không có "hố trên vai" hay "gờ nhỏ ngăn cách" ở mặt này)_.
+    - **Mặt sau (Posterior surface):** Có **Gai vai (Spine of scapula)** chạy chếch ra sau và lên trên, chia mặt sau thành 2 hố rõ rệt: **Hố trên gai (Supraspinous fossa)** và **Hố dưới gai (Infraspinous fossa)**.
+- **Ba bờ (Borders):**
+    - **Bờ trên (Superior border):** Mỏng, có **khuyết quạ (khuyết vai)** để dây thần kinh trên vai đi qua.
+    - **Bờ trong / Bờ sống (Medial border):** Mỏng, chạy song song với cột sống, là nơi bám của các cơ trám, cơ nâng vai.
+    - **Bờ ngoài / Bờ nách (Lateral border):** Dày để chịu lực cơ học, chạy hướng về phía hố nách.
+- **Ba góc (Angles):**
+    - **Góc trên & Góc dưới:** Dễ sờ thấy dưới da, góc dưới là mốc quan trọng để đánh giá sự di động của xương vai.
+    - **Góc ngoài (Lateral angle):** Phần dày nhất, chứa **Ổ chảo (Glenoid cavity)** để tiếp khớp với chỏm xương cánh tay tạo thành **Khớp vai (Glenohumeral joint)**. Ngay phía trên và dưới ổ chảo có củ trên ổ chảo (bám đầu dài cơ nhị đầu) và củ dưới ổ chảo (bám đầu dài cơ tam đầu).
+- **Các mỏm xương (Processes):**
+    - **Gai vai & Mỏm cùng vai (Acromion):** Gai vai chạy ra ngoài, dẹt lại tạo thành mỏm cùng vai – mốc xương cao nhất của vai, khớp với xương đòn tạo **Khớp cùng vai - đòn**.
+    - **Mỏm quạ (Coracoid process):** Nhô ra ở bờ trên, hướng ra trước và xuống dưới giống mỏ quạ. Là điểm bám của 3 cơ quan trọng: _Cơ ngực bé (Pectoralis minor)_, _Đầu ngắn cơ nhị đầu cánh tay (Short head of biceps brachii)_, và _Cơ quạ - cánh tay (Coracobrachialis)_.
 
 #### 3.1.2 Xương cánh tay (Humerus)
 Xương cánh tay (**Humerus**) là **xương dài (Long bone)** duy nhất của cánh tay (**Arm**), nối **đai vai (Shoulder girdle)** với **xương cẳng tay (Forearm bones)**. Xương cánh tay tham gia tạo **khớp vai (Glenohumeral joint)** ở đầu trên và **khớp khuỷu (Elbow joint)** ở đầu dưới.
@@ -656,7 +628,7 @@ Xương cánh tay (**Humerus**) là **xương dài (Long bone)** duy nhất củ
 	- **Đầu trên (Proximal extremity)**
 	- **Thân xương (Shaft/Body)**
 	- **Đầu dưới (Distal extremity)**
-
+![[xuong_canh_tay_1.png]]
 ##### 1. Đầu trên (Proximal extremity)
 Đầu trên là phần tham gia tạo **khớp vai (Glenohumeral joint)**, gồm các cấu trúc sau:
 
@@ -718,6 +690,7 @@ Có các đặc điểm sau:
 
 ##### 3. Đầu dưới (Distal extremity)
 Đầu dưới dẹt và bè ngang, tham gia tạo **khớp khuỷu (Elbow joint)**.
+![[xuong_canh_tay_2.png]]
 ###### Diện khớp _(Articular surfaces)_
 -  ***Ròng rọc (Trochlea)***
 	- Nằm phía trong.
@@ -744,7 +717,7 @@ Có các đặc điểm sau:
 - **Phía sau**
 	- **Hố mỏm khuỷu (Olecranon fossa):** tiếp nhận mỏm khuỷu của xương trụ khi duỗi khuỷu.
 
-#### 3.1.3 Xương cẳng tay (Forearms Bone)
+#### 3.1.3 Xương cẳng tay (Bones of forearm)
 Cẳng tay (**Forearm/Antebrachium**) gồm **hai xương dài (Long bones)**:
 
 - **Xương quay (Radius)** – nằm **phía ngoài (Lateral side)**, cùng phía với ngón cái.
@@ -753,6 +726,11 @@ Cẳng tay (**Forearm/Antebrachium**) gồm **hai xương dài (Long bones)**:
 Hai xương nối với nhau bởi **màng gian cốt (Interosseous membrane)** và tham gia tạo **khớp khuỷu (Elbow joint)**, **khớp quay–trụ trên (Proximal radioulnar joint)**, **khớp quay–trụ dưới (Distal radioulnar joint)** và **khớp cổ tay (Wrist joint)**.
 
 > **(Bổ sung)** Xương quay là xương chủ yếu tham gia **khớp cổ tay**, trong khi xương trụ chủ yếu tham gia **khớp khuỷu**.
+
+
+![[xuong_cang_tay_3.png]]
+
+![[xuong_cang_tay_2.png]]
 
 ##### 1. Xương trụ _(Ulna)_
 Xương trụ (**Ulna**) nằm ở **phía trong cẳng tay (Medial side)** và là xương lớn hơn ở đầu gần.
@@ -817,7 +795,7 @@ Khác với xương trụ, xương quay có **đầu dưới phát triển lớn
 
 ###### Đầu dưới _(Distal Extremity)_
 Đầu dưới lớn hơn đầu trên.
-
+![[xuong_cang_tay_1.png]]
 - ***Diện khớp cổ tay (Carpal articular surface)***
 	- Tiếp khớp với:
 	    - **Xương thuyền (Scaphoid)**
@@ -925,7 +903,7 @@ Trong ống cổ tay có:
 
 > **(Bổ sung)** Hội chứng **ống cổ tay (Carpal tunnel syndrome)** xảy ra khi **thần kinh giữa** bị chèn ép, gây tê và yếu ở ngón cái, ngón trỏ, ngón giữa và một nửa ngoài ngón nhẫn.
 
-#### 3.1.5 Xương bàn tay và ngón tay (Metacarpal & Phalanges)
+#### 3.1.5 Xương bàn tay và ngón tay (Metacarpal & Phalanges bones)
 Bộ xương bàn tay (**Bones of the hand**) gồm **27 xương**, chia thành:
 
 - **8 xương cổ tay (Carpal bones)**

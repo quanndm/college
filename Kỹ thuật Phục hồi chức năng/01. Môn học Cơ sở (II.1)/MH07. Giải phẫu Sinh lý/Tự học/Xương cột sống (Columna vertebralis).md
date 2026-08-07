@@ -1,7 +1,6 @@
 
 > [!NOTE] Học thêm
-> https://www.youtube.com/watch?v=Mq0UG1kb6io&list=PLj6V-4rYBXCoKCi4S1bXHIZsomvu3Sby-&index=4
-> 
+> https://youtu.be/Mq0UG1kb6io?si=-uNqVIVPydo6twas 
 
 
 # 1. Đặc điểm

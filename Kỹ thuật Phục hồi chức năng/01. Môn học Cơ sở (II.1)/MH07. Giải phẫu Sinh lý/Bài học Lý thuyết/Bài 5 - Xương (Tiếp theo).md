@@ -150,9 +150,11 @@
 	- **Tạo thành Lỗ gian đốt sống (Lỗ liên hợp)**
 		- **Mô tả:** Các khuyết sống trên và khuyết sống dưới của các cuống cung đốt sống kế cận ghép lại tạo thành các **Lỗ liên hợp** ở hai bên.
 		- **Chức năng:** Là lối thoát để các **rễ dây thần kinh tủy** đi ra ngoài ống sống nhằm chi phối cho các cơ quan và chi.
-	- **Đĩa đệm gian đốt sống (Discus intervertebralis)**
+	- **Đĩa đệm gian đốt sống/ đĩa đệm (Discus intervertebralis)**
 		- **Mô tả:** Là tấm sụn - sợi nằm đệm giữa hai mặt thân đốt sống kế cận.
+		- **Cấu tạo:** Gồm nhân tủy và các vòng sợi xung quanh
 		- **Chức năng:** Giảm chấn động, chịu lực phân phối đều và giúp cột sống có thể chuyển động cúi, ưỡn, nghiêng, xoay linh hoạt.
+		![[xuong_dot_song_co_12.png|363]]
 	- **Khớp giữa các đốt sống (Khớp mỏm khớp)**
 		- **Mô tả:** Các mỏm khớp trên của đốt sống dưới liên kết chặt chẽ với mỏm khớp dưới của đốt sống ngay trên nó.
 		- **Chức năng:** Giúp cố định trục cột sống, giới hạn biên độ chuyển động quá mức để bảo vệ tủy sống tránh bị trượt hoặc chấn thương.
@@ -257,7 +259,14 @@ Các đốt sống cổ được chia thành:
 - **C2 có mỏm nha.**
 - **C7 có mỏm gai dài, dễ sờ thấy.**
 - Lỗ đốt sống rộng, hình tam giác.
+---
+Cột sống cổ ở người bao gồm **7 đốt sống**, ký hiệu từ **C1 đến C7**, sở hữu cấu trúc lỗ đốt sống rộng và có hình tam giác để phù hợp với kích thước của đoạn phình tủy cổ. Đặc điểm định danh riêng biệt, giúp nhận dạng bất kỳ đốt sống cổ nào, là sự hiện diện của **lỗ mỏm ngang** – hành lang bảo vệ cho động mạch đốt sống đi lên nuôi não.
 
+Về mặt hình thái, các đốt sống cổ được chia thành hai nhóm chính:
+
+- **Nhóm điển hình (C3 đến C6):** Mang đầy đủ tính chất tiêu chuẩn với thân đốt sống nhỏ và **mỏm gai chẻ đôi** ở đỉnh để tăng diện bám cho các cơ vùng gáy.
+- **Nhóm đặc biệt (C1, C2 và C7):** Đóng vai trò chuyển tiếp và vận động chuyên biệt. Trong đó, **đốt đội (C1)** là đốt duy nhất hoàn toàn **không có thân đốt sống và không có mỏm gai** để nhường chỗ cho khối khớp sọ. Ngay phía dưới là **đốt trục (C2)**, nổi bật với **mỏm nha** nhô cao hướng thẳng lên trên, làm trục quay giúp đầu thực hiện động tác lắc phẳng linh hoạt. Cuối cùng, nằm ở ranh giới vùng cổ-ngực là **đốt sống lồi (C7)**; đốt này sở hữu một **mỏm gai rất dài, đỉnh không chẻ đôi** và nhô cao rõ rệt, tạo thành mốc giải phẫu cốt lõi dễ dàng sờ thấy dưới da gáy để định vị và đếm các đốt sống trên lâm sàng.
+---
 ##### 2.1.3.2 **Đốt sống ngực (Vertebrae thoracicae)
 ###### 1. Đại cương
 
@@ -396,6 +405,7 @@ Các đốt sống thắt lưng có cấu tạo khá giống nhau, trong đó **
 
 ###### 1. Đại cương 
 - Xương cùng là một xương hình tam giác, được tạo bởi **5 đốt sống cùng (S1–S5) dính lại với nhau** ở người trưởng thành.
+- Giữa xương cùng và đốt sống cuối cùng của cột sống lưng cũng có đĩa đệm
 - Nằm giữa hai xương chậu, phía dưới đốt sống thắt lưng V và phía trên xương cụt.
 - Có chức năng:
     - Truyền trọng lượng cơ thể từ cột sống xuống khung chậu và hai chi dưới.

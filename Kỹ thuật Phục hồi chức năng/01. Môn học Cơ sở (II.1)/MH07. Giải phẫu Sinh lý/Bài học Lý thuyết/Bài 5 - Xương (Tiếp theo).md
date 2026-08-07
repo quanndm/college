@@ -263,6 +263,8 @@ Các đốt sống cổ được chia thành:
 
 - Cột sống ngực gồm **12 đốt sống**, ký hiệu từ **T1 đến T12**.
 - Nằm giữa cột sống cổ và cột sống thắt lưng.
+- 12 Đốt sống ngực tương ứng với 12 đôi xương sườn (12 đốt gắn kết với 12 đôi xương sườn) 
+	- Trừ xương sườn 11, 12 tự do, 1 đầu gắn với đốt sống ngực, đầu còn lại gắn với xương ức => tạo khuôn xương xương sườn 
 - Có chức năng:
     - Nâng đỡ thân mình.
     - Bảo vệ tủy sống.
@@ -327,7 +329,7 @@ Các đốt sống ngực có cấu tạo khá giống nhau, tuy nhiên **T1, T1
 - **T11 và T12 không có diện khớp trên mỏm ngang.**
 - Mỏm gai dài, chếch xuống dưới.
 - Động tác của cột sống ngực bị hạn chế do liên kết với lồng ngực.
-
+ 
 ##### 2.1.3.3 **Đốt sống thắt lưng (Vertebrae lumbales)
 ###### 1. Đại cương
 - Cột sống thắt lưng gồm **5 đốt sống**, ký hiệu từ **L1 đến L5**.

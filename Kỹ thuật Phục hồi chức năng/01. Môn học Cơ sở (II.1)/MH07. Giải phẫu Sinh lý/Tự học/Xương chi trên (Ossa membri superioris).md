@@ -189,6 +189,8 @@ Hai xương nối với nhau bởi **màng gian cốt (Interosseous membrane)** 
 > **(Bổ sung)** Xương quay là xương chủ yếu tham gia **khớp cổ tay**, trong khi xương trụ chủ yếu tham gia **khớp khuỷu**.
 
 ![[xuong_cang_tay_2.png]]
+- Các hướng nhìn của xương cẳng tay
+![[xuong_cang_tay_3.png]]
 
 ## 4.2 Xương trụ (Ulna)  – *Trục định vị tĩnh của khuỷu*
 ### a. Đầu trên (Proximal extremity)

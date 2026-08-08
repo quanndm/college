@@ -1021,9 +1021,16 @@ Mỗi **xương hông (Hip bone/Coxal bone)** được tạo thành từ **ba x�
 > **(Bổ sung)** Ở trẻ em, ba xương này được nối với nhau bằng **sụn chữ Y (Triradiate cartilage)**. Khi trưởng thành, chúng cốt hóa và hợp nhất thành một xương hông duy nhất.
 
 
+![[xuong_chau_1.png]]
+![[xuong_chau_2.png]]
+![[xuong_chau_3.png]]
+![[xuong_chau_4.png]]
+![[xuong_chau_5.png]]
+
+
 > [!NOTE] Lưu ý
->**Xương hông (Hip bone/Coxal bone)** = một xương của đai hông, gồm cánh chậu, ngồi và mu. 
- **Đai hông (Pelvic girdle)** = hai xương hông.
+>**Xương hông (Hip bone/Coxal bone)** = một xương của đai hông, gồm xương cánh chậu, xương ngồi và xương mu. 
+**Đai hông (Pelvic girdle)** = hai xương hông.
 **Khung chậu (Bony pelvis)** = hai xương hông + xương cùng + xương cụt.
 
 ##### 1. Cấu tạo của xương hông _(Structure of the Hip Bone)_
@@ -1134,9 +1141,15 @@ Xương đùi (**Femur**) là **xương dài (Long bone)** và **xương lớn, 
 	- **Đầu trên (Proximal extremity)**
 	- **Thân xương (Shaft/Body)**
 	- **Đầu dưới (Distal extremity)**
+![[xuong_dui_1.png]]
+![[xuong_dui_2.png]]
 
 ##### 1. Đầu trên _(Proximal Extremity)_
 Đầu trên của xương đùi tham gia tạo **khớp háng (Hip joint)**.
+- ảnh xương đùi đầu trên nhìn trước và nhìn trong  
+![[xuong_dui_3.png]]
+- xương đùi nhìn sau và nhìn ngoài 
+![[xuong_dui_4.png]]
 
 ###### Chỏm xương đùi _(Head of femur)_
 

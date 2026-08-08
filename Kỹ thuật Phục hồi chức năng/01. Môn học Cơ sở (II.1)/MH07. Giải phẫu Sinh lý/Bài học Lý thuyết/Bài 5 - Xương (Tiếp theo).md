@@ -624,7 +624,6 @@ Theo danh pháp giải phẫu, xương vai gồm có: **2 mặt, 3 bờ, 3 góc 
 Xương cánh tay (**Humerus**) là **xương dài (Long bone)** duy nhất của cánh tay (**Arm**), nối **đai vai (Shoulder girdle)** với **xương cẳng tay (Forearm bones)**. Xương cánh tay tham gia tạo **khớp vai (Glenohumeral joint)** ở đầu trên và **khớp khuỷu (Elbow joint)** ở đầu dưới.
 - ***Đặc điểm***
 	Xương cánh tay gồm **ba phần**:
-	
 	- **Đầu trên (Proximal extremity)**
 	- **Thân xương (Shaft/Body)**
 	- **Đầu dưới (Distal extremity)**
@@ -796,6 +795,7 @@ Khác với xương trụ, xương quay có **đầu dưới phát triển lớn
 ###### Đầu dưới _(Distal Extremity)_
 Đầu dưới lớn hơn đầu trên.
 ![[xuong_cang_tay_1.png]]
+![[xuong_cang_tay_5.png]]
 - ***Diện khớp cổ tay (Carpal articular surface)***
 	- Tiếp khớp với:
 	    - **Xương thuyền (Scaphoid)**

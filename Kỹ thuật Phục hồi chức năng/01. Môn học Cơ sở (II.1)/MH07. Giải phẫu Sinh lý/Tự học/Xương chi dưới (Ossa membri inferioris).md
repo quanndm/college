@@ -153,7 +153,55 @@ Bè rộng sang hai bên tạo thành một khối lồi cầu lớn tham gia c�
 - Gãy cổ xương đùi nguy cơ cao hoại tử vô mạch do tổn thương nguồn mạch máu ngược dòng nuôi chỏm.
 
 # 4. Xương bánh chè (Patella)
+## 4.1 Đại cương 
+Xương bánh chè (**Patella**) là **xương vừng (Sesamoid bone)** lớn nhất cơ thể người, nằm ở phía trước **khớp gối (Knee joint)** và được bao bọc trong **gân cơ tứ đầu đùi (Quadriceps femoris tendon)**.
 
+Xương bánh chè có vai trò bảo vệ khớp gối, tăng hiệu quả hoạt động của cơ tứ đầu đùi và hỗ trợ các động tác duỗi cẳng chân.
+
+> **(Bổ sung)** Xương bánh chè được hình thành trong gân cơ tứ đầu đùi, vì vậy được xếp vào nhóm **xương vừng (Sesamoid bones)**. Đây là đặc điểm khác với hầu hết các xương khác của cơ thể.
+-  ***Đặc điểm***
+	Xương bánh chè có dạng **hình tam giác (Triangular bone)** với:
+	
+	- **Đáy (Base)** ở phía trên.
+	- **Đỉnh (Apex)** ở phía dưới.
+	- **Mặt trước (Anterior surface)**.
+	- **Mặt sau (Posterior/Articular surface)**.
+![[xuong_banh_che_3.png]]
+![[xuong_banh_che_1.png]]
+![[xuong_banh_che_2.png]]
+## 4.2 Đặc điểm giải phẫu phối hợp 
+Khi nhìn vào mặt trước khớp gối trong Atlas, xương bánh chè được định vị bởi một "mạng lưới" phần mềm phức tạp bao quanh:
+
+- **Bờ trên (Đáy - Base):** Nơi bám của gân chung **cơ tứ đầu đùi** (gồm cơ thẳng đùi, rộng trong, rộng ngoài, rộng giữa).
+- **Bờ dưới (Đỉnh - Apex):** Điểm xuất phát của **Dây chằng bánh chè (Patellar ligament)** để chạy xuống bám tận vào **lồi củ xương chày**.
+- **Hai bờ bên (Bờ trong và Bờ ngoài):** Là nơi bám của **Mạc giữ bánh chè trong (Medial patellar retinaculum)** và **Mạc giữ bánh chè ngoài (Lateral patellar retinaculum)**. Các mạc giữ này giống như hai chiếc dây đai ghì chặt hai bên, giữ cho xương bánh chè luôn trượt thẳng trục ở trung tâm mà không bị lệch sang bên.
+
+Ngoài ra còn 2 mặt trước sau:
+- **Mặt trước (Anterior surface):** Gồ ghề, có nhiều khía rãnh dọc do các sợi gân cơ tứ đầu đùi chạy phủ qua. Nằm ngay sát dưới da, được che chở bởi **Bao hoạt dịch trước bánh chè (Prepatellar bursa)** giúp giảm ma sát khi quỳ gối.
+- **Mặt sau / Mặt khớp (Posterior / Articular surface):**
+    - Được phủ một lớp sụn khớp dày nhất cơ thể (lên tới 4-5mm trên thiết đồ cắt dọc).
+    - Một gờ dọc chia mặt sau thành **Diện khớp ngoài (rộng hơn và sâu hơn)** và **Diện khớp trong (hẹp hơn, phẳng hơn)**. Sự bất đối xứng này khớp hoàn toàn với độ nhô cao của lồi cầu ngoài xương đùi.
+
+
+## Lưu ý sinh cơ học
+1. **Cơ chế ròng rọc và Cánh tay đòn (Lever Arm):**
+    - Thiết đồ cắt dọc của Netter chỉ ra rằng xương bánh chè đẩy gân cơ tứ đầu đùi ra xa khỏi trục xoay của khớp gối một khoảng cách \(d\).
+    - Theo công thức mô-men lực (M = F x d), việc tăng khoảng cách **d** này giúp **tăng lực cơ duỗi gối lên tới 30-50%** mà cơ tứ đầu không cần phải phì đại thêm. Nếu bệnh nhân bị cắt bỏ xương bánh chè do chấn thương nát xương, họ sẽ bị mất lực duỗi gối nghiêm trọng, không thể thực hiện các động tác nâng chân thẳng (SLR) hay leo cầu thang.
+2. **Lý do vì sao trật bánh chè luôn hướng ra NGOÀI (Lateral Dislocation):**
+    - Do xương đùi có xu hướng chếch vào trong (góc Q-angle sinh lý), khi cơ tứ đầu đùi co, nó sẽ tạo ra một véc-tơ lực kéo xương bánh chè chếch ra phía ngoài.
+    - Để chống lại xu hướng trật ngoài này, tạo hóa đã thiết kế: (1) **Lồi cầu ngoài xương đùi nhô cao hơn ra trước** ở diện bánh chè để chặn lại (thấy rõ trên ảnh đầu dưới xương đùi); (2) Các sợi dưới cùng của **cơ rộng trong (VMO - Vastus Medialis Oblique)** bám vào bờ trong bánh chè để kéo nó vào trong. Trong PHCN, bài tập kích hoạt cơ VMO là bài tập bắt buộc cho bệnh nhân trật bánh chè hoặc đau bánh chè đùi.
+3. **Ý nghĩa của bao hoạt dịch trong bệnh lý "Gối người chùi sàn" (Housemaid's knee):**
+    - Vì mặt trước xương bánh chè nằm sát da, việc quỳ gối liên tục (như thợ lát gạch, người lau nhà) sẽ làm viêm cấp tính **Bao hoạt dịch trước bánh chè**, gây ra một khối sưng to, lùng bùng ngay trước gối. Đây là một tổn thương phần mềm phổ biến cần chẩn đoán phân biệt với viêm nội khớp.
+
+
+## Đặc điểm ghi nhớ tổng kết
+- Là **xương vừng lớn nhất cơ thể**, nằm trọn trong hệ thống gân duỗi gối.
+- Hình tam giác ngược: **Đáy ở trên** (bám gân tứ đầu đùi), **Đỉnh ở dưới** (bám dây chằng bánh chè).
+- Hai bờ bên bám **Mạc giữ bánh chè trong/ngoài** giúp định vị hướng trượt.
+- Mặt sau có sụn khớp dày kỷ lục, diện khớp ngoài rộng hơn diện khớp trong.
+- Chức năng cốt lõi: **Tăng cánh tay đòn cơ học cho cơ tứ đầu đùi**, giúp động tác duỗi gối tiết kiệm sức cơ nhất.
+- Xu hướng cơ học luôn muốn **trật ra ngoài**, được bảo vệ bởi vách lồi cầu ngoài và cơ rộng trong (VMO).
+- Hội chứng đau bánh chè - đùi (PFPS) đặc trưng bởi cơn đau tăng thốc khi **đi xuống cầu thang hoặc ngồi xổm** (lúc áp lực ép bánh chè vào xương đùi lớn nhất).
 
 # 5. Xương cẳng chân (Skeleton of leg)
 

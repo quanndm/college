@@ -1255,6 +1255,9 @@ Xương bánh chè có vai trò bảo vệ khớp gối, tăng hiệu quả ho�
 	- **Đỉnh (Apex)** ở phía dưới.
 	- **Mặt trước (Anterior surface)**.
 	- **Mặt sau (Posterior/Articular surface)**.
+![[xuong_banh_che_1.png]]
+![[xuong_banh_che_2.png]]
+![[xuong_banh_che_3.png]]
 
 ##### 1. Đáy _(Base)_
 - Là bờ trên của xương bánh chè.
@@ -1354,7 +1357,7 @@ Xương gồm:
 	- Là nơi bám của **dây chằng bánh chè (Patellar ligament)**.
 	
  	**(Bổ sung)** Lồi củ chày có thể nổi rõ ở thanh thiếu niên và là vị trí thường gặp của **bệnh Osgood–Schlatter**, do viêm điểm bám của dây chằng bánh chè.
-
+- Nhìn từ mặt sau, còn có diện khớp mác trên 
 ######  **Thân xương (Shaft/Body)**
 Thân xương chày có dạng hình lăng trụ tam giác.
 - ***Mào chày (Anterior border / Tibial crest)***
@@ -1372,10 +1375,11 @@ Thân xương chày có dạng hình lăng trụ tam giác.
 
 - ***Khuyết mác (Fibular notch)***
 	- Nằm ở mặt ngoài đầu dưới xương chày.
-	- Tiếp khớp với đầu dưới xương mác tạo **khớp chày – mác dưới (Distal tibiofibular joint)**.
+	- Tiếp khớp với đầu dưới xương mác tạo **diện khớp chày – mác dưới (Distal tibiofibular joint)**.
 
 ##### 2. Xương mác _(Fibula)_
 Xương mác (**Fibula**) là xương dài, mảnh và nằm ở **phía ngoài cẳng chân**.
+- Xương mác là xương chi dưới không có lồi cầu (trong - ngoài)
 
 > **(Bổ sung)** Xương mác **không chịu nhiều trọng lượng cơ thể**, nhưng rất quan trọng trong việc ổn định khớp cổ chân và là nơi bám của nhiều cơ cẳng chân.
 

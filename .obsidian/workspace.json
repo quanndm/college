@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d8511059bfd85cb",
+        "id": "4d54a16c39ecec30",
         "type": "tabs",
         "children": [
           {
-            "id": "1f24c14a510bcbdc",
+            "id": "5a038b7b78bf5855",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/1 - Glucid.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1 - Glucid"
+              "title": "Tab mới"
             }
           }
         ]
@@ -181,8 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f24c14a510bcbdc",
+  "active": "5a038b7b78bf5855",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/3 - Protid.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/2 - Lipid.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/1 - Glucid.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_glucid_13.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_glucid_12.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_glucid_11.png",
@@ -193,9 +192,6 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_glucid_6.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_glucid_5.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_glucid_4.png",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_glucid_3.png",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/Chưa đặt tên.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/1 - Glucid.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Chưa đặt tên.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Xương chi trên (Ossa membri superioris).md",

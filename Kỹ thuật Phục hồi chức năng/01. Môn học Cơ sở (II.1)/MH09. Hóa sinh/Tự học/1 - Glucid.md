@@ -232,3 +232,49 @@
 		- Heparin xúc tác, ngặn chặn quá trình biến đổi, không có thrombin nên fibrinogen không chuyển được thành sợi fibrin, giúp máu không bị đông
 
 # 2. Chuyển hóa Glucid
+## 2.1 Sự tiêu hóa và hấp thu Glucid
+- **Khoang miệng**
+    - **pH = 6,8 - 7.**
+    - **Tinh bột (PS)** bị **thủy phân** thành **Oligosaccharid**.
+    - Dưới xúc tác của **Amylase**.
+- **Dạ dày**
+    - pH = 1,5 - 2,5.
+    - Các Enzym tiêu hóa khác, thuận lợi cho việc thủy phân OS thành các **MS**.
+- **Ruột non**
+    - pH = 8.
+    - Các chất **chỉ được hấp thu** qua ruột dưới dạng **đường đơn (MS)**.
+- **Quá trình hấp thu từ ruột non tới gan** 
+	- **Ruột non**: Giải phóng ra các **Đường đơn**.
+	- **Niêm mạc ruột**:
+	    - **Quá trình tích cực** cần **năng lượng**.
+	    - Diễn ra nhờ **Protein tải** và cơ chế **đồng vận chuyển với $Na^{+}$**.
+	- **Máu & Tĩnh mạch (TM) cửa**: Đường đơn được hấp thu vào máu, theo tĩnh mạch cửa đi thẳng về Gan.
+	- **Gan**: Trạm trung chuyển lớn với 3 nhiệm vụ chính:
+	    1. **Tổng hợp Glycogen** (dạng đường dự trữ chính của cơ thể).
+	    2. **Đốt cháy (thoái hóa)** nhằm giải phóng và cung cấp năng lượng.
+	    3. **Tổng hợp Lipid, Protein** từ các sản phẩm trung gian của đường
+- **Điểm đến cuối cùng**: Tại ti thể tế bào, các monosaccharide (đường đơn) bị oxy hóa hoàn toàn dưới sự xúc tác của hệ thống enzym.
+- **Sản phẩm tạo ra**:
+    - Khí $(CO_{2})$ và Nước $(H_{2}O)$.
+    - Các **hợp chất cao năng** (ví dụ: ATP) cung cấp năng lượng cho cơ thể.
+    - Các **sinh chất trung gian** tham gia vào các quá trình hóa sinh khác.
+- **Các con đường chuyển hóa chính**:
+    - Chuyển hóa kỵ khí (không có oxy) và hiếu khí (có oxy).
+    - Chuyển hóa hexose diphosphat (con đường đường phân chính).
+    - Chuyển hóa hexose monophosphat (còn gọi là con đường pentose phosphat hay chu trình pentose).
+## 2.2 Đường phân: Hexose diphosphat
+
+
+## 2.3 Chuyển hóa Hexose monophosphat
+
+
+## 2.4 Sự tổng hợp Glucose
+
+
+## 2.5 Sự tổng hợp Glycogen
+
+
+## 2.6 Điều hòa đường huyết
+
+
+## 2.7 Bệnh đái tháo đường 

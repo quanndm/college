@@ -1,3 +1,8 @@
+> [!NOTE] Học thêm
+> https://youtu.be/nwqYETO8PI8?si=JaSAmSAzVMk23TUw
+> https://youtu.be/bLyXFixmVps?si=jopdqtxtiy466hrL
+> https://youtu.be/L-QT_tARIFs?si=DlWIVCHPwvOsgkPP
+
 # 1. Đại cương 
 Hệ xương chi dưới bao gồm tổng cộng **62 xương** (mỗi bên 31 xương), được chia làm hai phần chính kết nối từ gốc chi đến ngọn chi: 
 

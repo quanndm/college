@@ -265,7 +265,7 @@
 
 ---
 ## 2.2 Đường phân: Hexose diphosphat 
-## 2.1.1 Chuyển hóa kị khí 
+### 2.1.1 Chuyển hóa kị khí 
 #### 2.1.1.1 Đại cương 
 - **Khái niệm**
     - Đường phân (glycolysis, **Embden–Meyerhof pathway**) là quá trình phân giải **1 glucose (6C) → 2 pyruvate (3C)**.

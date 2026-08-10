@@ -1417,9 +1417,144 @@ GLUCOSE
 
 **_Cori = lactate; Glucose–Alanine = alanine + vận chuyển nitơ + chu trình ure._**
 ## 2.5 Sự tổng hợp Glycogen
+### 2.5.1 Ý nghĩa 
+**Glycogen** là dạng dự trữ glucose của cơ thể:
 
+- **Gan:** dự trữ glucose và có thể giải phóng glucose vào máu để duy trì đường huyết.
+- **Cơ:** dự trữ glucose chủ yếu để **cung cấp năng lượng cho chính cơ**.
+
+Quá trình tổng hợp glycogen xảy ra khi **glucose trong tế bào dư thừa**, đặc biệt sau ăn.
+
+### 2.5.2 Nguyên liệu
+
+#### 1. Ở gan
+
+Glucose có thể được sử dụng trực tiếp; ngoài ra các **monosaccharide khác** có thể được chuyển hóa thành các chất trung gian rồi đi vào con đường tổng hợp glycogen.
+
+#### 2. Ở cơ
+
+Theo slide: **chủ yếu từ glucose**.
+
+👉 Điểm cần nhớ:
+
+> **Glucose → Glycogen** khi cơ thể đang ở trạng thái dư thừa glucose.
+
+### 2.5.3 Quá trình tổng hợp glycogen gồm 2 giai đoạn chính
+
+Slide đầu tiên tóm tắt rất đúng:
+
+#### Giai đoạn 1
+
+**Tổng hợp UDP-Glucose**
+
+#### Giai đoạn 2
+
+**Tạo mạch glycogen và tạo nhánh**
+
+Có thể nhớ bằng sơ đồ lớn:
+
+**Glucose → Glucose-6-P → Glucose-1-P → UDP-Glucose → Glycogen**
 
 ## 2.6 Điều hòa đường huyết
+### 1. Đại cương 
+- **Đường huyết là:**
+	- **Đường khử** có trong máu
+	- Chủ yếu là Glucose máu
+- **Nguồn gốc** 
+	- Ngoại sinh : Từ **glucid** **thức ăn** hoặc **tiêm truyền**.
+	- Nội sinh: 
+		- Phân cắt glycogen ở gan / cơ
+		- Tân tạp đường
+- **Các cơ chế điều hòa:**
+	- Gan 
+	- Hormon 
+	- Thận 
+### 2. Gan 
+- **Glucose** máu **bình thường**:
+	- **Gan** là nơi **cung cấp Glucose cho máu** 
+- **Glucose** máu **cao $\uparrow$  > 1,2g/l**:
+	- **Giảm giải phóng Glucose** vào máu 
+	- **Tăng sử dụng Glucose** để **tổng hợp Glycoge**n => (↓G/Má)
+- **Glucose** máu **thấp $\downarrow$ < 0,8g/l**: 
+	- Tăng **phân cắt Glycogen**, **tạo Glucose** cho máu  ($\uparrow$ G/Máu).
 
+### 3. Hormon 
+#### a. điều hòa đường huyết
+**Cơ quan chính:** tuyến tụy (đảo Langerhans) tiết 3 hormon quan trọng:
 
+| Tế bào    | Hormon       | Tác dụng chính                  |
+| --------- | ------------ | ------------------------------- |
+| α (alpha) | Glucagon     | ↑ đường huyết                   |
+| β (beta)  | Insulin      | ↓ đường huyết                   |
+| δ (delta) | Somatostatin | Ức chế tiết insulin và glucagon |
+
+#### b. Khi đường huyết tăng
+**Glucose máu ↑**  
+→ kích thích **tế bào β**  
+→ tiết **insulin**  
+→ tăng đưa glucose vào tế bào  
+→ tăng chuyển glucose thành **glycogen** ở gan và cơ  
+→ tăng sử dụng glucose để tạo năng lượng  
+→ **đường huyết ↓ về mức bình thường**.
+
+👉 **Insulin = làm giảm đường huyết.**
+
+- **Cơ chế hạ đường huyết của insulin** 
+	- Tăng nhập Glucose vào tế bào→ chuyển hóa → ATP
+	- Tăng sử dụng Glucose (ở gan) để tổng hợp Glycogen
+	- Ức chế các Enzym tân tạo đường ,giảm tạo đường
+#### c. Khi đường huyết giảm 
+**Glucose máu ↓**  
+→ kích thích **tế bào α**  
+→ tiết **glucagon**  
+→ kích thích gan **phân giải glycogen thành glucose**  
+→ kích thích tạo glucose mới ở gan  
+→ glucose được đưa vào máu  
+→ **đường huyết ↑ về mức bình thường**.
+
+👉 **Glucagon = làm tăng đường huyết.**
+
+- **cơ chế tăng đường huyết của Glucagon**
+	- Giảm nhập Glucose vào tế bào
+	- Giảm sử dụng Glucose (ở gan) để tổng hợp Glycogen, tăng phân cắt Glycogen tạo Glucose
+	- Kích thích các Enzym tân tạo đường
+- **Hormon làm tăng đường huyết**
+	- Adrenalin (tuỷ thượng thận), và glucagon (và  ACTH, TSH, STH)→ hoạt hóa hệ thống cAMP (cAMP – cyclic AMP - AMPv) → hoạt hóa glycogen phosphorylase → tăng phân giải glycogen → tăng glucose máu; các bước truyền tín hiệu tạo hiệu ứng khuếch đại theo kiểu “hình bậc thang”.
+#### d. Vai trò của tế bào δ – Somatostatin
+**Tế bào δ** tiết **somatostatin**.
+
+Somatostatin có tác dụng **ức chế/“hãm”** hoạt động của tuyến tụy:
+
+- ↓ tiết **insulin** từ tế bào β.
+- ↓ tiết **glucagon** từ tế bào α.
+- Làm giảm một số hoạt động của hệ tiêu hóa.
+
+👉 **Somatostatin = hormon “phanh”, giúp kiểm soát sự tiết insulin và glucagon.**
+
+### 4. Thận
+- **Ống lượn gần:** tái hấp thu glucose.
+- Khi **đường máu < 9,5 mmol/L**:
+    - → **Tái hấp thu 100% glucose**.
+    - → **Không có glucose trong nước tiểu**.
+- Khi **đường máu > 9,5 mmol/L**:
+    - → Khả năng tái hấp thu glucose **bị vượt quá**.
+    - → **Glucose xuất hiện trong nước tiểu** (glucose niệu).
+
+👉 **Mốc cần nhớ: 9,5 mmol/L = ngưỡng đường huyết.**
 ## 2.7 Bệnh đái tháo đường 
+### 1. Khái niệm
+- **Khái niệm:** Bệnh đặc trưng bởi **tăng đường huyết**.
+- **Nguyên nhân chính:** thiếu **insulin**:
+    - **Typ 1:** thiếu insulin **tuyệt đối**.
+    - **Typ 2:** thiếu insulin **tương đối** / không đủ so với nhu cầu.
+- **Hậu quả:** gây rối loạn chuyển hóa:
+    - 🍚 **Đường**
+    - 🥩 **Đạm**
+    - 🥑 **Mỡ**
+    - 🧂 **Các chất khoáng**
+
+👉 **Mẹo nhớ:**  
+**ĐTĐ = ↑ đường huyết → thiếu insulin → rối loạn chuyển hóa đường + đạm + mỡ + khoáng.**
+
+
+### 2. 

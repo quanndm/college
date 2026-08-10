@@ -1555,6 +1555,185 @@ Somatostatin có tác dụng **ức chế/“hãm”** hoạt động của tuy�
 
 👉 **Mẹo nhớ:**  
 **ĐTĐ = ↑ đường huyết → thiếu insulin → rối loạn chuyển hóa đường + đạm + mỡ + khoáng.**
+### 2. Sự Khác Biệt Giữa Cơ Thể Khỏe Mạnh, Tiểu Đường Type 1 Và Type 2
+![[hoa_sinh_glucid_18.png]]
+- **Cơ thể khỏe mạnh (Bình thường):**
+    - Tuyến tụy tiết ra lượng Insulin đầy đủ.
+    - Insulin gắn vào **Tế bào nhận insulin** (thụ thể).
+    - Sự gắn kết này kích hoạt kênh **GLUT4** mở ra, giúp **Glucose** dễ dàng đi từ bên ngoài vào bên trong tế bào.
+
+- **Tiểu đường type 1:**
+    - Tuyến tụy gặp sự cố, **không có hoặc rất ít insulin** được tạo ra.
+    - Do thiếu Insulin, tế bào nhận insulin không được kích hoạt.
+    - Kênh **GLUT4** không mở, làm cho **Glucose không thể đi vào tế bào** và bị tích tụ lại ở bên ngoài (trong máu).
+
+- **Tiểu đường type 2:**
+    - Tuyến tụy vẫn tiết ra lượng Insulin đầy đủ.
+    - Tuy nhiên, Insulin **không thể gắn/kích hoạt tế bào nhận insulin** (hiện tượng kháng insulin).
+    - Kênh **GLUT4** không thể kích hoạt để mở (dấu X đỏ ở kênh GLUT4), khiến **Glucose không đi vào được tế bào** và bị dư thừa ở ngoài tế bào.
+- **Bảng so sánh tổng hợp **
+
+| Tiêu chí                             | Cơ thể khỏe mạnh                                     | Tiểu đường Type 1                                 | Tiểu đường Type 2                                      |
+| ------------------------------------ | ---------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------ |
+| Khả năng tiết Insulin (từ tuyến tụy) | Tiết bình thường, đầy đủ.                            | Không có hoặc rất ít insulin.                     | Tiết bình thường, đầy đủ.                              |
+| Tương tác với tế bào nhận Insulin    | Insulin gắn tốt vào tế bào nhận.                     | Không có insulin để gắn vào tế bào nhận.          | Tế bào không nhận insulin (kháng insulin).             |
+| Trạng thái cổng GLUT4                | Kênh GLUT4 mở ra để vận chuyển Glucose.              | Kênh GLUT4 không mở.                              | Kênh GLUT4 không mở.                                   |
+| Sự di chuyển của Glucose             | Glucose đi từ ngoài vào bên trong tế bào thành công. | Glucose không vào được tế bào, tích tụ bên ngoài. | Glucose không vào được tế bào, tích tụ bên ngoài.      |
+| Bản chất nguyên nhân (dựa trên ảnh)  | Hoạt động sinh lý bình thường.                       | Thiếu hụt nguồn sản xuất Insulin.                 | Kháng Insulin (tế bào đích không đáp ứng với Insulin). |
+- **Bảng so sánh 2 loại đái tháo đường theo 1 số đặc điểm phổ biến**
+
+| Đặc điểm              | ĐTĐ tuýp 1                                  | ĐTĐ tuýp 2                                                                  |
+| --------------------- | ------------------------------------------- | --------------------------------------------------------------------------- |
+| Tuổi                  | Trẻ, thanh thiếu niên                       | Tuổi trưởng thành                                                           |
+| Khởi phát             | Triệu chứng nhiều, rõ rệt                   | Không rõ rệt                                                                |
+| Biểu hiện lâm<br>sàng | Sụt cân, tiểu nhiều, uống<br>nhiều          | Béo phì, thừa cân, dấu<br>gai đen,Đa nang buồng trứng                       |
+| Nhiễm ceton           | Dương tính                                  | Không rõ ràng                                                               |
+| C-peptid              | Thấp, không đo được                         | Bình thuờng hoặc tăng                                                       |
+| Điều trị              | Bắt buộc dùng Insulin (triêm)               | Thay đổi lối sống<br>Thuốc đường uống hoặc<br>Insulin (tiêm)                |
+| Chỉ dấu tự<br>miễn    | Có                                          | Hiếm                                                                        |
+| Nguyên nhân           | Cơ thể có rất ít hoặc không tiết<br>insulin | Cơ thể có tiết insulin, đôi khi tiết đủ,<br>nhưng tế bào không nhận insulin |
+### 3. Bảng tiêu chuẩn chẩn đoán đường huyết
+| **Tên xét nghiệm**               | **Đường huyết bình thường**                                 | **Giai đoạn tiền tiểu đường**                               | **Chẩn đoán bệnh tiểu đường**                                                                    |
+| -------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Đường huyết ngẫu nhiên**       | $< 7{,}8 \text{ mmol/L}$ ($< 140 \text{ mg/dL}$)            | $7{,}8 - 11{,}1 \text{ mmol/L}$ ($140 - 200 \text{ mg/dL}$) | $\ge 11{,}1 \text{ mmol/L}$ ($\ge 200 \text{ mg/dL}$)<br><br>  <br><br>_(Ít nhất qua 2 lần thử)_ |
+| **Đường huyết lúc đói**          | $< 4{,}0 - 5{,}6 \text{ mmol/L}$ ($72 - 100 \text{ mg/dL}$) | $5{,}6 - 6{,}9 \text{ mmol/L}$ ($101 - 125 \text{ mg/dL}$)  | $\ge 7 \text{ mmol/L}$ ($\ge 126 \text{ mg/dL}$)<br><br>  <br><br>_(Ít nhất qua 2 lần thử)_      |
+| **Nghiệm pháp dung nạp Glucose** | $< 7{,}8 \text{ mmol/L}$ ($< 140 \text{ mg/dL}$)            | $7{,}8 - 11{,}1 \text{ mmol/L}$ ($140 - 200 \text{ mg/dL}$) | $\ge 11{,}1 \text{ mmol/L}$ ($\ge 200 \text{ mg/dL}$)                                            |
+| **HbA1c**                        | $< 5{,}7\%$                                                 | $5{,}7 - 6{,}4\%$                                           | $\ge 6{,}5\%$                                                                                    |
+#### Bản chất và Ý nghĩa của Chỉ số HbA1c
+- **Khái niệm:** HbA1c (Hemoglobin glycated) hình thành khi đường Glucose trong máu gắn trực tiếp vào các phân tử Hemoglobin (Hb) trên tế bào hồng cầu.
+    
+- **Hình ảnh minh họa:**
+	![[hoa_sinh_glucid_19.png]]
+    - **HbA1c thấp:** Số lượng đường Glucose gắn quanh tế bào hồng cầu ít.
+        
+    - **HbA1c cao:** Số lượng đường Glucose bám dày đặc xung quanh tế bào hồng cầu.
+        
+- **Giá trị chẩn đoán:** Do tế bào hồng cầu có đời sống trung bình từ **2 - 3 tháng**, chỉ số HbA1c phản ánh mức độ kiểm soát đường huyết trung bình của cơ thể trong khoảng **3 tháng** gần nhất.
+    
+
+### 4. Biến Động Insulin Và Đường Huyết Trong Đái Tháo Đường Thai Kỳ
+#### 4.1. Nhu cầu Insulin trong thai kỳ 
+![[hoa_sinh_glucid_20.png]]
+
+- **Thai kỳ bình thường (Nét đứt):** Nhu cầu insulin giảm nhẹ trong 12 tuần đầu, sau đó tăng nhanh từ tuần 20 và đạt đỉnh **gấp 3 lần** vào tuần 36 để đáp ứng sự phát triển của thai nhi. Nhu cầu này giảm mạnh ngay sau khi sinh.
+    
+- **Đái tháo đường thai kỳ (Nét liền):** Tuyến tụy không đáp ứng đủ nhu cầu tăng vọt, lượng sản xuất insulin thấp hơn đáng kể so với mức bình thường từ tuần 20 trở đi.
+
+#### 4.2. Biến động đường huyết và mục tiêu kiểm soát
+![[hoa_sinh_glucid_21.png]]
+- **Kiểm soát kém (Đường màu đỏ):**
+    
+    - Đường huyết **tăng vọt** sau ăn do thiếu hụt insulin kịp thời $\rightarrow$ dẫn đến thai to, tăng cân ở mẹ.
+        
+    - Phản ứng **tiết insulin muộn** sau đó lại gây **hạ đường huyết nghiêm trọng**, đe dọa an toàn cho cả mẹ và thai nhi.
+        
+- **Kiểm soát tốt (Đường màu xanh lá):** Nhờ tiết chế hiệu quả, đường huyết dao động êm ả trong **khoảng biến động lý tưởng** (mục tiêu kiểm soát đường huyết), đảm bảo an toàn cho thai phụ và thai nhi.
+
+### 5. Sơ Đồ Cơ Chế Bệnh Sinh Của Nhiễm Toan Ceton Do Thiếu Hụt Insulin
+Sơ đồ trình bày chuỗi phản ứng sinh học xảy ra khi cơ thể rơi vào trạng thái **thiếu hụt insulin tuyệt đối** (thường gặp trong đái tháo đường type 1), dẫn đến hai hệ quả nghiêm trọng: **Rối loạn chuyển hóa Glucid/Lipid (Nhiễm toan Ceton)** và **Rối loạn nước - điện giải**.
+![[hoa_sinh_glucid_22.png]]
+#### a. Cơ chế Rối loạn Chuyển hóa & Nhiễm Toan Ceton
+- **Khởi nguồn:** Thiếu hụt insulin tuyệt đối làm **giảm tỷ lệ Insulin/Glucagon**.
+    
+- **Rối loạn Glucose:** Tăng tổng hợp Glucose và giảm giáng hóa Glucose $\rightarrow$ **Tăng đường huyết**.
+    
+- **Rối loạn Lipid & Tạo Ceton:**
+    
+    - Tăng giáng hóa lipid làm **tăng acid béo tự do ở gan**, kéo theo **tăng lipid huyết**.
+        
+    - Quá trình này đẩy mạnh **tổng hợp Ceton**.
+        
+    - Khi thể tích máu giảm làm **giảm máu qua thận** và **giảm thải trừ keton qua nước tiểu (giảm keton niệu)**, lượng Ceton tích tụ mạnh trong máu gây ra **Nhiễm toan Ceton**.
+
+#### b. Cơ chế Rối loạn Nước, Điện giải & Vòng Lặp Bệnh Lý
+- **Lợi tiểu thẩm thấu & Mất nước:**
+    
+    - Đường huyết tăng cao vượt ngưỡng thận gây **lợi tiểu thẩm thấu**, làm **tăng mất nước và điện giải**, dẫn đến **giảm thể tích máu**.
+        
+- **Phản ứng bù trừ & Vòng lặp xoắn bối:**
+    
+    - Giảm thể tích máu kích hoạt **Hệ RAA (Renin-Angiotensin-Aldosterone)** hoạt động, kết hợp với các phản ứng sinh học khác gây **Mất $K^+$ (Kali)**.
+        
+    - Giảm thể tích máu làm giảm dòng máu đến thận (giảm đường niệu).
+        
+    - Kích thích tuyến thượng thận **tăng tiết Cortisol và Catecholamin** (các hormone đối kháng insulin) $\rightarrow$ quay lại tiếp tục làm **tăng đường huyết** trầm trọng hơn.
+
+### 6. Sơ Đồ Cơ Chế Bệnh Sinh Và Tiến Triển Của Biến Chứng Võng Mạc Đái Tháo Đường
+Sơ đồ mô tả con đường phân tử từ tình trạng **tăng đường huyết** dẫn đến tổn thương mạch máu mắt, các giai đoạn diễn tiến lâm sàng và hậu quả cuối cùng là **giảm thị lực**.
+![[hoa_sinh_glucid_23.png]]
+#### 6.1 Cơ chế phân tử & Bệnh sinh (Nhánh bên trái)
+- **Khởi nguồn:** **Tăng đường huyết** mạn tính kích hoạt 5 con đường sinh học bất thường:
+    
+    1. Mất cân bằng oxi hóa
+        
+    2. Viêm
+        
+    3. Kích hoạt hóa PKC (Protein Kinase C)
+        
+    4. AGEs (Sản phẩm glycat hóa bền vững)
+        
+    5. Chuyển hóa Polyol
+        
+- **Hệ quả phân tử:**
+    
+    - Kích thích **hoạt hóa các Cytokine và các yếu tố tăng trưởng**.
+        
+    - Gây **rối loạn chức năng tế bào thần kinh và tế bào máu**.
+        
+- **Chuỗi tổn thương cấu trúc:**
+    
+    - Rối loạn chức năng thần kinh & **Thấm mạch máu** (tăng tính thấm thành mạch).
+        
+    - Dẫn đến **thiếu oxy võng mạc**, từ đó kích hoạt **tân sinh mạch** (hình thành các mạch máu mới bất thường).
+        
+    - Các yếu tố này (rối loạn thần kinh, thấm mạch, thiếu oxy, tân sinh mạch) trực tiếp hoặc gián tiếp dẫn đến **Giảm Thị Lực**.
+
+#### 6.2 Tiến triển lâm sàng & Triệu chứng của Võng mạc đái tháo đường (Nhánh bên phải)
+Bệnh tiến triển theo quy trình từng giai đoạn kèm các triệu chứng lâm sàng tương ứng:
+
+| **Quy trình tiến triển**                 | **Triệu chứng lâm sàng tương ứng**                                                       |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **1. Tăng sinh nhẹ**                     | Phình mao mạch.                                                                          |
+| **2. Tăng sinh vừa**                     | Phình mao mạch, tổn thương vi mạch.                                                      |
+| **3. Tăng sinh nặng**                    | Xuất huyết nội võng mạc, tĩnh mạch dạng chuỗi, màng đáy dày, rối loạn chức năng vi mạch. |
+| **4. Võng mạc đái tháo đường tăng sinh** | Hình thành tân mạch, bong võng mạc.                                                      |
+| **5. Phù hoàng điểm**                    | Hình thành tân mạch, bong võng mạc $\rightarrow$ Dẫn đến **Giảm thị lực** nghiêm trọng.  |
+
+### 7. Cơ Chế Bệnh Sinh Dẫn Đến Bàn Chân Đái Tháo Đường (Loét Bàn Chân)
+Sơ đồ mô tả ba con đường chính xuất phát từ **Đái tháo đường** phối hợp với các chấn thương ngoại cảnh để gây nên biến chứng **Loét bàn chân** (bàn chân đái tháo đường).
+![[hoa_sinh_glucid_24.png]]
+
+####  7.1 Nhánh Bệnh lý Thần kinh Ngoại vi (BL Thần kinh ngoại vi)
+- **Thần kinh Cảm giác - Vận động:**
+    
+    - **Giảm cảm giác:** Kết hợp với **Chấn thương (CT)** từ bên ngoài tạo thành **Chấn thương không đau (CT không đau)** $\rightarrow$ Dẫn trực tiếp đến **Loét bàn chân**.
+        
+    - **Yếu cơ bàn chân (BC):** Dẫn đến **Sập vòm bàn chân** $\rightarrow$ Tạo ra các **Điểm tì đè mới** $\rightarrow$ Dẫn đến **Loét bàn chân**.
+        
+- **Thần kinh Tự động:**
+    
+    - **Tăng dòng máu & Tăng tiêu xương:** Dẫn đến **Tổn thương (TT) Khớp** $\rightarrow$ **Biến dạng chân** $\rightarrow$ Tạo ra các **Điểm tì đè mới** $\rightarrow$ Dẫn đến **Loét bàn chân**.
+        
+    - **Giảm mồ hôi & Nứt da:** Làm tổn thương hàng rào bảo vệ da $\rightarrow$ Dễ bị **Nhiễm trùng** $\rightarrow$ Dẫn đến **Loét bàn chân**.
 
 
-### 2. 
+#### 7.2 Nhánh Bệnh lý Mạch máu Ngoại vi (BL Mạch máu ngoại vi)
+
+- **Thiếu máu:**
+    
+    - Dẫn đến **Rối loạn dinh dưỡng (RLDD)** $\rightarrow$ Làm vết thương trở thành **Vết thương (VT) lâu lành** $\rightarrow$ Tăng nguy cơ **Nhiễm trùng** $\rightarrow$ Dẫn đến **Loét bàn chân**.
+        
+- **Xơ vữa (XV) mạch:**
+    
+    - Dẫn đến **Tắc mạch** $\rightarrow$ **Hoại tử** $\rightarrow$ Dẫn trực tiếp đến **Loét bàn chân**.
+#### 7.3 Tóm tắt các yếu tố nguy cơ cốt lõi gây Loét Bàn Chân
+
+Từ sơ đồ, 4 yếu tố trực tiếp hình thành nên **Loét bàn chân** gồm:
+
+1. **Chấn thương không đau** (do mất cảm giác bảo vệ).
+    
+2. **Điểm tì đè mới** (do sập vòm bàn chân và biến dạng chân).
+    
+3. **Nhiễm trùng** (do nứt da và vết thương lâu lành/thiếu máu nuôi).
+    
+4. **Hoại tử** (do tắc mạch máu).

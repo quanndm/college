@@ -838,19 +838,584 @@ Tổng:
     - O₂ → **H₂O**
     - Năng lượng → **ATP**
 
-### Câu chốt để nhớ
-
 > **Hiếu khí = Pyruvate → Acetyl-CoA → Krebs tạo NADH/FADH₂ → chuỗi hô hấp dùng O₂ → H₂O + nhiều ATP.**
 
 Và nếu cần nhớ **3 giai đoạn** thì chỉ cần thuộc:
 
 > **Pyruvate oxidation → Krebs → Electron transport/oxidative phosphorylation.**
 ## 2.3 Chuyển hóa Hexose monophosphat
+### 2.3.1 Đại cương 
+**Khái niệm**
+- Là con đường chuyển hóa **glucose-6-phosphate (G6P)** theo một hướng khác với đường phân.
+- Còn gọi là:
+    - **Pentose phosphate pathway (PPP)**
+    - **Hexose monophosphate pathway/shunt (HMP shunt)**
+    - **Con đường pentose phosphate**
+- Xảy ra chủ yếu ở **bào tương**.
+- Không nhằm mục đích chính là tạo ATP.
+- Hai sản phẩm quan trọng nhất:
+    - **NADPH** → cung cấp sức khử.
+    - **Ribose-5-phosphate (R5P)** → nguyên liệu tổng hợp nucleotide/DNA/RNA
 
+### 2.3.2 Vai trò chính của con đường Hexose monophosphat
+Có thể nhớ bằng **2 sản phẩm → 2 chức năng**:
+
+#### **NADPH → khử + chống oxy hóa**
+
+- NADPH cung cấp electron cho các phản ứng **sinh tổng hợp**:
+    - **Tổng hợp acid béo.**
+    - **Tổng hợp cholesterol.**
+    - **Tổng hợp steroid/hormone steroid.**
+    - **Một số phản ứng sinh tổng hợp khác.**
+- NADPH cũng rất quan trọng trong **bảo vệ tế bào khỏi stress oxy hóa**.
+
+#### **Ribose-5-phosphate → nucleotide**
+
+- Ribose-5-phosphate là nguyên liệu để tổng hợp:
+    - **Nucleotide.**
+    - **DNA.**
+    - **RNA.**
+- Vì vậy PPP đặc biệt quan trọng ở các tế bào **tăng sinh nhanh**, nơi nhu cầu tổng hợp DNA/RNA cao.
+
+> **Câu chốt:**  
+> **PPP = NADPH + Ribose-5-P.**
+
+### 2.3.3 Hai giai đoạn của Pentose Phosphate 
+Con đường gồm **2 giai đoạn**:
+
+```
+Glucose-6-phosphate
+        │
+        ↓
+┌────────────────────────────┐
+│  Giai đoạn 1: OXY HÓA      │
+│  → NADPH + CO₂             │
+│  → Ribulose-5-P            │
+└────────────────────────────┘
+        │
+        ↓
+┌────────────────────────────┐
+│  Giai đoạn 2: KHÔNG OXY HÓA│
+│  → Ribose-5-P              │
+│  → F6P + G3P               │
+└────────────────────────────┘
+```
+
+- **Giai đoạn oxy hóa:** không thuận nghịch.
+- **Giai đoạn không oxy hóa:** chủ yếu là các phản ứng **thuận nghịch**, cho phép các đường phosphate 3C–7C chuyển đổi lẫn nhau.****
+
+### 2.3.4 Giai đoạn 1 – Giai đoạn oxy hóa
+
+
+### 2.3.5 Tổng kết giai đoạn oxy hóa 
+
+
+### 2.3.6 Giai đoạn 2 – Giai đoạn không oxy hóa
+
+
+### 2.3.7  Hai enzyme quan trọng của giai đoạn không oxy hóa
+
+
+
+### 2.3.8 Sản phẩm cuối của giai đoạn không oxy hóa
+
+
+### 2.3.9 Điều đặc biệt: PPP có thể “điều chỉnh” theo nhu cầu tế bào
+
+
+
+
+### 2.3.10 Vai trò của NADPH trong chống oxy hóa
+
+
+### 2.3.11 G6PD và bệnh thiếu G6PD
+
+
+### 2.3.12 Những mô/tế bào hoạt động PPP mạnh
+
+
+### 2.3.13 So sánh PPP với đường phân
+| |**Đường phân**|**Hexose monophosphat / PPP**|
+|---|---|---|
+|Chất đầu|Glucose → G6P|G6P|
+|Vị trí|Bào tương|Bào tương|
+|Mục tiêu chính|Tạo ATP + pyruvate|Tạo NADPH + pentose|
+|ATP|**Có**|**Không tạo ATP trực tiếp**|
+|NADH|Có|Không phải sản phẩm chính|
+|NADPH|Không|**Có**|
+|Ribose-5-P|Không phải sản phẩm chính|**Có**|
+|CO₂|Không|**Có**, ở giai đoạn oxy hóa|
+|Có liên quan đường phân?|—|**Có**, qua F6P và G3P|
+|Vai trò nổi bật|Năng lượng|Sinh tổng hợp + nucleotide + chống oxy hóa|
+### 2.3.14 Sơ đồ tổng quát
+```
+                     GLUCOSE
+                        ↓
+                 Glucose-6-P
+                        │
+              ┌─────────┴─────────┐
+              │                   │
+              ↓                   ↓
+          ĐƯỜNG PHÂN             PPP
+              │                   │
+              ↓          ┌────────┴────────┐
+           Pyruvate      ↓                 ↓
+                     Giai đoạn         Giai đoạn
+                      OXY HÓA        KHÔNG OXY HÓA
+                          │                │
+                          ↓                ↓
+                    2 NADPH + CO₂    Pentose phosphate
+                          │                │
+                          ↓                ↓
+                  Ribulose-5-P       Ribose-5-P
+                                           │
+                                           ↓
+                                  Nucleotide → DNA/RNA
+
+                          ↕
+                    Transketolase
+                    Transaldolase
+                          ↕
+                     F6P + G3P
+                          │
+                          ↓
+                     Đường phân
+```
+
+### 2.3.15 Ghi nhớ tổng kết 
+- **Hexose monophosphat = Pentose phosphate pathway = HMP shunt.**
+- Xảy ra ở **bào tương**.
+- Chất đầu: **Glucose-6-phosphate**.
+- Gồm:
+    - **Giai đoạn oxy hóa**
+    - **Giai đoạn không oxy hóa**
+- **Giai đoạn oxy hóa:**
+    - Tạo **2 NADPH**
+    - Tạo **CO₂**
+    - Tạo **Ribulose-5-P**
+- Enzyme quan trọng nhất:
+    - **Glucose-6-phosphate dehydrogenase (G6PD)**.
+- G6PD xúc tác bước đầu tiên của PPP và là điểm kiểm soát quan trọng.
+- **NADPH**:
+    - Tổng hợp acid béo.
+    - Tổng hợp cholesterol/steroid.
+    - Chống stress oxy hóa.
+- **Ribose-5-P**:
+    - Tổng hợp nucleotide.
+    - DNA/RNA.
+- Giai đoạn không oxy hóa sử dụng:
+    - **Transketolase**
+    - **Transaldolase**
+- Giai đoạn không oxy hóa tạo/trao đổi:
+    - **F6P**
+    - **G3P**
+    - → liên thông với đường phân.
+- **Không tạo ATP trực tiếp.**
+- Hồng cầu phụ thuộc mạnh vào PPP để tạo **NADPH chống oxy hóa**.
+- **Thiếu G6PD → ↓NADPH → ↓GSH → tăng tổn thương oxy hóa → dễ tan máu.**
+
+**Ghi nhớ**
+> **Hexose monophosphat không nhằm tạo ATP; nó lấy Glucose-6-P để tạo NADPH phục vụ sinh tổng hợp và chống oxy hóa, đồng thời tạo Ribose-5-P phục vụ tổng hợp nucleotide.**
+
+Nếu cần nhớ theo **3 từ khóa**:
+
+> **PPP = NADPH + Ribose-5-P + chống oxy hóa.**
+
+Và nếu đề hỏi **“G6PD quan trọng vì sao?”**:
+
+> **G6PD → NADPH → tái sinh GSH → khử ROS → bảo vệ tế bào, đặc biệt là hồng cầu.**
 
 ## 2.4 Sự tổng hợp Glucose
+### 2.4.1 Đại cương 
+- **Khái niệm**
+    - Cơ thể có khả năng **tự tổng hợp glucose** từ các chất không phải carbohydrate khi nguồn glucose từ thức ăn không đủ.
+    - Quá trình này gọi là **tân tạo đường (gluconeogenesis)**.
+    - Có vai trò duy trì **đường huyết**, đặc biệt trong lúc đói.
+- **Đối tượng phụ thuộc nhiều vào glucose**
+    - **Não:** sử dụng glucose là nguồn năng lượng quan trọng, đặc biệt trong điều kiện bình thường.
+    - **Hồng cầu:** phụ thuộc vào glucose vì không có ty thể → tạo ATP chủ yếu nhờ **đường phân kị khí**.
+    - Tuy nhiên, **não và hồng cầu không phải là cơ quan chính tổng hợp glucose**.
+- **Khi nào cơ thể tăng tổng hợp glucose?**
+    - Khi:
+        - **Đói**
+        - Nhịn ăn kéo dài
+        - Cạn dần nguồn năng lượng dự trữ
+    - Mục tiêu: **duy trì nồng độ glucose máu** để cung cấp glucose cho các mô cần thiết.
+- **Cơ quan tổng hợp glucose chủ yếu**
+    - **Gan:** là cơ quan chính thực hiện tân tạo đường và giúp duy trì glucose máu.
+    - **Thận:** cũng có khả năng tân tạo đường, đóng góp đáng kể khi nhịn đói kéo dài.
+    - **Ruột:** có thể tham gia nhưng đóng góp nhỏ hơn; slide ghi khoảng **10% glucose** được tạo tại ruột và vỏ thận.
+
+- **Sơ đồ ghi nhớ nhanh** 
+```
+Đói / thiếu glucose
+        ↓
+Cạn dần glycogen
+        ↓
+Tăng tân tạo đường
+        ↓
+Gan + thận (+ ruột)
+        ↓
+Glucose
+        ↓
+Duy trì đường huyết
+        ↓
+Cung cấp cho não + hồng cầu + các mô cần glucose
+```
+
+- **Điểm cần nhớ**
+	- **Tân tạo đường ≠ đường phân đảo ngược hoàn toàn** → có những bước của đường phân không thể đảo ngược trực tiếp và phải dùng các enzyme khác để “vượt qua”.
+	- **Gan là cơ quan chủ yếu** duy trì glucose máu bằng tân tạo đường.
+	- **Thận** tăng vai trò khi đói kéo dài.
+	- **Hồng cầu không tổng hợp glucose**, mà **sử dụng glucose** để tạo ATP.
+	- **Não sử dụng glucose nhưng không phải cơ quan chính tạo glucose.**
+	- Mục tiêu quan trọng nhất của tân tạo đường: **duy trì glucose máu khi cơ thể thiếu nguồn glucose từ bên ngoài.**
+
+> **Câu chốt:**  
+> **Khi đói → nguồn glucose dự trữ giảm → gan (chủ yếu) và thận tăng tân tạo đường → duy trì glucose máu cho các mô phụ thuộc glucose.**
+### 2.4.2 Chu trình Cori 
+#### 2.4.2.1. Khái niệm 
+- **Chu trình Cori (Cori cycle)** là quá trình trao đổi **lactate ↔ glucose giữa cơ và gan**.
+- Giúp cơ tiếp tục tạo ATP bằng **đường phân kị khí** khi nhu cầu năng lượng cao.
+- Gan thu nhận lactate từ máu → chuyển lactate trở lại thành glucose → glucose được đưa về máu và sử dụng lại ở cơ.
+- Vì vậy, chu trình Cori tạo một **vòng tuần hoàn carbon giữa cơ – máu – gan**.
+![[hoa_sinh_glucid_16.png]]
+#### 2.4.2.2. Khi cơ hoạt động mạnh
+
+- Khi vận động cường độ cao:
+    - Nhu cầu ATP của cơ tăng rất nhanh.
+    - Tốc độ cung cấp O₂ có thể không đáp ứng đủ nhu cầu chuyển hóa.
+    - Cơ tăng cường **đường phân kị khí** để tạo ATP nhanh.
+
+```
+Glucose
+   ↓ đường phân
+2 Pyruvate
+   ↓ Lactate dehydrogenase
+2 Lactate
+```
+
+- Phản ứng pyruvate → lactate có vai trò quan trọng:
+    - **NADH → NAD⁺**
+    - Tái sinh NAD⁺ để đường phân tiếp tục.
+    - Nhờ đó cơ vẫn có thể tạo **2 ATP/glucose** nhanh chóng.
+
+##### Phản ứng
+
+```
+Pyruvate + NADH + H⁺ ⇌ Lactate + NAD⁺
+```
+
+- Enzyme:
+    - **Lactate dehydrogenase (LDH)**.
+
+> **Điểm mấu chốt:**  
+> **Cơ tạo lactate để tái sinh NAD⁺ → duy trì đường phân → tiếp tục tạo ATP.**
+
+#### 2.4.2.3. Lactate từ cơ → máu → gan
+- Lactate được tạo ra trong cơ:
+    - Đi vào **máu**.
+    - Được vận chuyển đến **gan**.
+- Gan thu nhận lactate và chuyển nó trở lại thành pyruvate.
+
+```
+CƠ
+Glucose
+   ↓
+Pyruvate
+   ↓
+Lactate
+   ↓
+Máu
+   ↓
+GAN
+```
+
+#### 2.4.2.4. Gan chuyển lactate → glucose
+Tại gan:
+
+```
+2 Lactate
+   ↓ lactate dehydrogenase.
+2 Pyruvate
+   ↓ tân tạo đường
+Glucose
+```
+
+- Lactate → pyruvate:
+    - Thông qua **lactate dehydrogenase**.
+    - Đồng thời tạo NADH.
+- Pyruvate tiếp tục đi qua **tân tạo đường (gluconeogenesis)**.
+- Cuối cùng tạo **glucose**.
+
+Glucose được gan giải phóng vào máu → quay trở lại cơ.
+
+```
+                 MÁU
+              ↗       ↘
+             /         \
+          CƠ             GAN
+           │              │
+       Glucose          Glucose
+           ↓              ↑
+       Pyruvate       Pyruvate
+           ↓              ↑
+        Lactate  ────→ Lactate
+```
+
+→ Đây chính là **chu trình Cori**.
+#### 2.4.2.5. Vai trò của chu trình Cori
+##### A. Duy trì đường phân ở cơ
+
+- Cơ chuyển:
+
+```
+Pyruvate → Lactate
+```
+
+- Đồng thời:
+
+```
+NADH → NAD⁺
+```
+
+- NAD⁺ được tái sử dụng trong đường phân.
+- → Giúp cơ tiếp tục tạo ATP nhanh trong điều kiện O₂ hạn chế.
+
+---
+
+##### B. Gan tái chế lactate thành glucose
+
+- Gan chuyển:
+
+```
+Lactate → Pyruvate → Glucose
+```
+
+- Glucose được đưa trở lại máu.
+- Cơ có thể sử dụng glucose này để tiếp tục đường phân.
+
+→ Vì vậy, **lactate không đơn giản là sản phẩm cuối cùng bị thải bỏ**.
+
+---
+
+##### C. Giúp vận chuyển carbon từ cơ về gan
+
+Có thể hiểu đơn giản:
+
+> **Cơ biến glucose thành lactate → gan lấy lactate → tái tạo glucose → glucose quay về cơ.**
+
+Nhờ đó, carbon của glucose được **tái tuần hoàn** giữa cơ và gan.
+
+#### 2.4.2.6 Chi phí năng lượng của chu trình Cori
+Đây là điểm rất hay được hỏi.
+
+##### Ở cơ
+
+1 glucose:
+
+```
+Glucose → 2 Lactate
+```
+
+→ **thu được 2 ATP**.
+
+##### Ở gan
+
+Gan sử dụng tân tạo đường:
+
+```
+2 Lactate → Glucose
+```
+
+→ tiêu tốn **6 ATP tương đương**:
+
+- 4 ATP
+- 2 GTP
+
+##### Toàn bộ chu trình
+
+```
+Cơ:       +2 ATP
+Gan:      −6 ATP
+----------------
+Toàn cơ thể: −4 ATP
+```
+
+→ Chu trình Cori **không tạo thêm năng lượng cho toàn cơ thể**; ngược lại, cơ thể phải tiêu tốn thêm năng lượng ở gan.
+
+##### Vậy tại sao cơ thể vẫn sử dụng?
+
+Vì mục tiêu của chu trình **không phải tối đa hóa ATP**, mà là:
+
+- Cho phép cơ tạo ATP **nhanh** bằng đường phân.
+- Tái sinh NAD⁺ ở cơ.
+- Đưa lactate về gan để xử lý.
+- Tái tạo glucose và duy trì nguồn glucose cho cơ.
+
+> **Cơ “kiếm” được ATP nhanh, còn gan “trả” giá năng lượng để tái tạo glucose.**
 
 
+#### 2.4.2.7 Liên hệ với vận động mạnh
+Khi chạy nước rút, tập gym cường độ cao, vận động gắng sức:
+
+```
+Nhu cầu ATP ↑
+      ↓
+Đường phân ↑
+      ↓
+Pyruvate ↑
+      ↓
+Lactate ↑
+      ↓
+Lactate → máu → gan
+      ↓
+Tân tạo đường
+      ↓
+Glucose
+      ↓
+Máu → cơ
+```
+
+- Đây là một cơ chế giúp cơ **duy trì cung cấp năng lượng trong thời gian ngắn** khi tốc độ đường phân cao.
+
+#### 2.4.2.8 Lưu ý về sự mỏi cơ 
+- Lactate **không phải nguyên nhân chính gây đau cơ xuất hiện sau vận động (DOMS)**.
+- Lactate được vận chuyển và chuyển hóa khá nhanh.
+- Cảm giác **đau cơ xuất hiện muộn** sau tập luyện chủ yếu liên quan đến tổn thương vi mô, phản ứng viêm và các quá trình sửa chữa cơ.
+- Trong lúc vận động cường độ cao, sự thay đổi chuyển hóa và tăng H⁺/acid hóa cùng nhiều yếu tố khác có thể góp phần vào cảm giác **bỏng/rát và mỏi cơ cấp tính**, nhưng không nên quy tất cả cho “lactate tích tụ”.
+
+→ **Để học theo slide:** nhớ lactate tăng khi vận động mạnh.  
+→ **Để hiểu sinh lý hiện đại:** không ghi “lactate tích tụ → gây đau cơ” như một quan hệ nhân quả đơn giản.
+
+#### 2.4.2.9 Ghi nhớ tổng kết 
+- **Chu trình Cori = cơ ↔ máu ↔ gan ↔ máu ↔ cơ.**
+- Cơ:
+    - Glucose → pyruvate → **lactate**.
+    - Enzyme: **LDH**.
+    - Tạo **2 ATP/glucose**.
+    - Tái sinh **NAD⁺** để duy trì đường phân.
+- Lactate:
+    - Từ cơ → máu → gan.
+- Gan:
+    - Lactate → pyruvate → **glucose** bằng **tân tạo đường**.
+    - Glucose → máu → quay lại cơ.
+- Cơ nhận **2 ATP**, gan tiêu tốn **6 ATP tương đương**.
+- Toàn chu trình có **chi phí ròng 4 ATP**.
+- Ý nghĩa chính:
+    - Duy trì ATP nhanh cho cơ.
+    - Tái sinh NAD⁺.
+    - Tái chế lactate thành glucose.
+    - Duy trì cung cấp glucose khi vận động mạnh.
+
+---
+
+> **Cơ: Glucose → Lactate + 2 ATP → Lactate vào máu → Gan: Lactate → Glucose (tốn 6 ATP) → Glucose về máu → cơ.**
+
+Hoặc ngắn gọn:
+
+> **Cori = Cơ tạo Lactate → Gan tái tạo Glucose → Cơ.**
+
+
+### 2.4.3 Chu trình Glucose–Alanine
+#### 1. Khái niệm
+- **Chu trình Glucose–Alanine** là cơ chế vận chuyển **carbon và nitơ từ cơ về gan**, đồng thời giúp gan **tái tạo glucose**.
+
+![[hoa_sinh_glucid_17.png]]
+#### 2. Tại cơ
+
+- Glucose → **đường phân** → Pyruvate.
+- Pyruvate nhận nhóm amin từ glutamate → tạo **alanine**.
+- Enzyme xúc tác: **alanine aminotransferase (ALT)**.
+
+```
+Pyruvate + Glutamate
+        ⇌ ALT
+Alanine + α-Ketoglutarate
+```
+
+- Alanine được đưa vào **máu → vận chuyển đến gan**.
+
+#### 3. Tại gan
+
+- Alanine được chuyển ngược thành **pyruvate** nhờ ALT:
+
+```
+Alanine + α-Ketoglutarate
+        ⇌ ALT
+Pyruvate + Glutamate
+```
+
+- Glutamate có thể giải phóng **NH₄⁺** → đi vào **chu trình ure** → tạo **ure** để thải nitơ.
+- Pyruvate → **tân tạo đường (gluconeogenesis)** → glucose.
+- Glucose được giải phóng vào máu → quay trở lại cung cấp cho cơ.
+
+#### 4. Sơ đồ tổng quát
+
+```
+                 MÁU
+              ↗       ↘
+             /         \
+           CƠ            GAN
+           │              │
+       Glucose          Alanine
+           ↓              ↓
+       Pyruvate        Pyruvate
+           ↓              ↓
+       Alanine       Tân tạo đường
+           │              ↓
+           └──────→     Glucose
+                         ↓
+                        MÁU
+                         ↓
+                         CƠ
+```
+
+Đồng thời:
+
+```
+Cơ:    Pyruvate + NH₂ → Alanine
+                         ↓ máu
+Gan:   Alanine → Pyruvate + NH₄⁺
+                         ↓
+                      Ure → thải
+```
+
+
+#### 5. Ghi nhớ tổng kết 
+- **Vận chuyển nitơ an toàn từ cơ → gan** dưới dạng alanine.
+- Đưa **pyruvate/carbon từ cơ → gan** để gan dùng cho **tân tạo glucose**.
+- Gan xử lý NH₄⁺ thông qua **chu trình ure**.
+- Glucose được tạo ra ở gan → máu → quay lại cung cấp cho cơ.
+- Enzyme quan trọng: **ALT (alanine aminotransferase)**.
+
+> **Câu chốt:**  
+> **Cơ: Pyruvate + NH₂ → Alanine → máu → Gan: Alanine → Pyruvate + NH₄⁺ → Pyruvate → Glucose; NH₄⁺ → Ure.**
+
+
+##### 🔑 Phân biệt nhanh với chu trình Cori
+| Chu trình Cori                        | Chu trình Glucose–Alanine                  |
+| ------------------------------------- | ------------------------------------------ |
+| Cơ tạo **lactate**                    | Cơ tạo **alanine**                         |
+| Lactate → gan                         | Alanine → gan                              |
+| Gan → pyruvate → glucose              | Gan → pyruvate → glucose                   |
+| Chủ yếu liên quan **tái chế lactate** | Vừa tái chế carbon vừa **vận chuyển nitơ** |
+| Không trực tiếp xử lý NH₄⁺            | NH₄⁺ → **chu trình ure**                   |
+**→ Như vậy, phần “Tổng hợp glucose” của bạn có thể chốt bằng 2 chu trình quan trọng:**
+
+```
+GLUCOSE
+   │
+   ├── Chu trình Cori:
+   │   Cơ → Lactate → Gan → Glucose → Cơ
+   │
+   └── Chu trình Glucose–Alanine:
+       Cơ → Alanine → Gan → Glucose
+                         ↓
+                        Ure
+```
+
+**_Cori = lactate; Glucose–Alanine = alanine + vận chuyển nitơ + chu trình ure._**
 ## 2.5 Sự tổng hợp Glycogen
 
 

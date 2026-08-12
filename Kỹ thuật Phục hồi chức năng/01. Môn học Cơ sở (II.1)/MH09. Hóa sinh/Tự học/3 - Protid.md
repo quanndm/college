@@ -204,8 +204,8 @@ _(Ghi chú bổ sung: MW = Molecular Weight / Khối lượng phân tử; $pK_a$
         - Histidine $\xrightarrow{-CO_2}$ **Histamine** (chất trung gian gây dị ứng, giãn mạch).
         - Glutamic acid $\xrightarrow{-CO_2}$ **GABA** ($\gamma$-aminobutyric acid - chất ức chế truyền dẫn thần kinh).
 ## 1.3 Peptid
-### 1. Đại cương 
-**Thành phần & Liên kết**
+### 1.3.1. Đại cương 
+#### 1. Thành phần & Liên kết
 
 - **Cấu tạo:** Từ 2 đến **hàng chục** gốc acid amin (a.a).
     
@@ -222,7 +222,7 @@ _(Ghi chú bổ sung: MW = Molecular Weight / Khối lượng phân tử; $pK_a$
     - **Polypeptid:** Chuỗi gồm $10 - 50$ gốc a.a.
     - Khi phân tử lượng $> 6000$ (hoặc $> 50$ gốc a.a), chuỗi polypeptid bắt đầu tạo cấu trúc không gian và được gọi là Protein.
 
-### 2. Tính chất Hóa - Lý của Peptid
+#### 2. Tính chất Hóa - Lý của Peptid
 **Tính chất điện tích & Thủy phân**
 
 - **Tính lưỡng tính:** Tương tự acid amin (do vẫn còn nhóm $-NH_2$ tự do ở đầu N và nhóm $-COOH$ tự do ở đầu C).
@@ -249,7 +249,7 @@ _(Ghi chú bổ sung: MW = Molecular Weight / Khối lượng phân tử; $pK_a$
 - **Phản ứng Ninhydrin:** Cho kết quả dương tính tương tự acid amin (nhờ nhóm $-NH_2$ tự do ở đầu N).
 
 
-### 3. Các Peptid có Hoạt tính Sinh học Quan trọng
+#### 3. Các Peptid có Hoạt tính Sinh học Quan trọng
 **Nội tiết tố (Hormone) dạng Peptid**
 - **Vasopressin (ADH - Antidiuretic Hormone):**
     - **Cấu trúc:** 9 a.a.
@@ -284,6 +284,163 @@ _(Ghi chú bổ sung: MW = Molecular Weight / Khối lượng phân tử; $pK_a$
         
     - **Chức năng:** Giãn mạch, tăng tính thấm thành mạch, gây phù, tham gia vào phản ứng viêm và truyền cảm giác đau.
 
+### 1.3.2 Gluthation (GSH)
+#### a. Định nghĩa & Cấu trúc Phân tử
+
+- **Bản chất:** Tripeptide ($\gamma$-glutamyl-cysteyl-glycine).
+    
+- **Thành phần:** 3 acid amin cấu thành gồm **Glutamic acid**, **Cysteine**, **Glycine**.
+    
+- **Trung tâm hoạt động:** Nhóm Thiol ($-SH$) nằm trên gốc Cysteine.
+    
+- **Ký hiệu viết tắt:** G-SH (diễn tả dạng khử mang nhóm $-SH$ hoạt động).
+    
+- **Bổ sung đặc điểm liên kết:** Liên kết peptid giữa Glutamic acid và Cysteine hình thành từ nhóm $\gamma$-carboxyl (chuỗi nhánh) thay vì nhóm $\alpha$-carboxyl thông thường, giúp Glutathion chống lại sự thủy phân của đa số enzyme peptidase thông thường.
+![[hoa_sinh_protid_10.png]]
+
+#### b. Phân bố & Nguồn gốc
+
+- **Đặc tính phân bố:** Peptid nội bào phổ biến.
+    
+- **Cơ quan tập trung mật độ cao:** Gan, thận, lách, tim, phổi, tế bào hồng cầu.
+    
+- **So sánh độ bền:** Glutathion nội sinh hoạt động tốt hơn; nguồn ngoại sinh kém bền.
+
+
+
+#### c. Vai trò Sinh học & Hệ thống Oxy hóa - Khử
+
+- **Chức năng chính:** Hệ thống oxy hóa - khử sinh học (vận chuyển hydrogen).
+    
+- **Sơ đồ chuyển hóa thuận nghịch:**
+    $$2\text{GSH} \xrightleftharpoons[+2H]{-2H} \text{G-S-S-G}$$
+		![[hoa_sinh_protid_11.png]]
+
+    - **$\text{GSH}$ (Dạng khử):** Nhường $H^+$ và electron để trung hòa các chất oxy hóa.
+        
+    - **$\text{G-S-S-G}$ (Dạng oxy hóa):** Hai phân tử GSH liên kết với nhau qua cầu nối Disulfide ($-S-S-$).
+        
+- **Bổ sung vai trò giải độc & bảo vệ tế bào:**
+    
+    - **Chống oxy hóa:** Dọn dẹp các gốc tự do, peroxide ($\text{H}_2\text{O}_2$) để bảo vệ màng tế bào (đặc biệt là màng hồng cầu tránh bị tan máu).
+        
+    - **Giải độc tại gan:** Liên hợp với các chất độc nội sinh và ngoại sinh (như hóa chất, chuyển hóa của Paracetamol, kim loại nặng) để đào thải ra ngoài qua enzyme Glutathione S-transferase (GST).
+        
+    - **Bảo vệ nhóm $-SH$ của protein/enzyme:** Giữ các enzyme nội bào và Hemoglobin luôn ở trạng thái khử hoạt động.
+
+
+
+
+
+### 1.3.3 Insulin
+#### a. Cấu tạo 
+**Cấu tạo Chuỗi Polypeptid**
+- **Tổng số acid amin:** 53 a.a.
+- **Chuỗi A:** 21 a.a.
+- **Chuỗi B:** 32 a.a.
+    
+
+**Hệ thống Cầu nối Disulfide ($-S-S-$)**
+- **Liên kết liên chuỗi (Inter-chain):** 2 cầu disulfide nối giữa chuỗi A và chuỗi B.
+- **Liên kết nội chuỗi (Intra-chain):** 1 cầu disulfide nằm trong chuỗi A giữa gốc a.a thứ 6 và thứ 11 ($Cys_6 - Cys_{11}$).
+![[hoa_sinh_protid_12.png]]
+#### b. **Nơi Sinh tổng hợp & Quá trình Biến đổi**
+
+- **Nơi sản xuất:** Tế bào $\beta$ của đảo Langerhans ở tuyến tụy.
+    
+- **Quá trình tạo thành:** Preproinsulin $\rightarrow$ Proinsulin $\rightarrow$ **Insulin hoàn chỉnh + C-peptide**.
+    
+- **Ý nghĩa C-peptide:** Xét nghiệm C-peptide trong máu giúp đánh giá chính xác khả năng tự tiết insulin nội sinh của tuyến tụy.
+
+#### c. **Chức năng Sinh học & Ý nghĩa Lâm sàng**
+
+- **Tác dụng chính:** Hormone duy nhất trong cơ thể có vai trò **hạ đường huyết**.
+    
+- **Cơ chế:** Kích thích vận chuyển glucose vào tế bào cơ và mỡ; tăng tổng hợp glycogen, lipid, protein; ức chế tân tạo đường và phân giải glycogen.
+    
+- **Bệnh lý liên quan:**
+    
+    - Thiếu hụt Insulin tuyệt đối $\rightarrow$ Đái tháo đường tuýp 1.
+        
+    - Đề kháng Insulin $\rightarrow$ Đái tháo đường tuýp 2.
+
 ## 1.4 Protein
 
+### 1.4.1 Đại cương 
+- Protein gồm **1 hoặc nhiều chuỗi polypeptid**
+- Có phân tử lượng **> 6000**
+### 1.4.2 Phân loại
+#### a. Cấu trúc bậc 1
+- **Định nghĩa:** Trình tự sắp xếp tuyến tính của các gốc amino acid trong chuỗi polypeptide.
+    
+- **Liên kết duy trì:** Liên kết peptide (bản chất liên kết cộng hóa trị bền vững).
+    
+- **Bản chất di truyền:** Là bản dịch mã / phiên bản trực tiếp từ thông tin di truyền (DNA $\rightarrow$ mRNA $\rightarrow$ Cấu trúc bậc I).
+    
+- **Ví dụ slide:** Cấu trúc bậc I của enzyme Ribonuclease ở bò.
+    
+- **Bổ sung quan trọng:**
+    
+    - Cấu trúc bậc I quyết định toàn bộ cách gập cuộn và hình thành cấu trúc bậc cao hơn (II, III, IV) cũng như chức năng của protein.
+        
+    - Đột biến thay đổi dù chỉ 1 amino acid trên cấu trúc bậc I có thể làm hỏng chức năng protein (ví dụ: Bệnh hồng cầu hình liềm do vị trí số 6 chuỗi $\beta$-globin bị thay đổi từ Glutamic acid $\rightarrow$ Valine).
+![[hoa_sinh_protid_13.png]]
+#### b. Cấu trúc bậc 2 
+- **Định nghĩa:** Tương tác không gian tuần hoàn giữa các gốc amino acid ở gần nhau trong cùng một mạch polypeptide.
+    
+- **2 Dạng cấu trúc cơ bản:**
+    
+    - **Xoắn $\alpha$ (Alpha helix):** Chuỗi polypeptide cuộn dạng xoắn trôn ốc.
+        
+    - **Gấp nếp $\beta$ (Beta sheet):** Các đoạn chuỗi chạy song song hoặc đối song xếp thành dải phẳng gấp nếp.
+        
+- **Liên kết duy trì:** Liên kết hydrogen (hình thành giữa nhóm $-C=O$ của liên kết peptide này với nhóm $-NH-$ của liên kết peptide khác ở gần kề).
+    
+- **Bổ sung quan trọng:**
+    
+    - **Đặc điểm xoắn $\alpha$:** Xoắn theo chiều tay phải, trung bình mỗi vòng xoắn chứa 3.6 gốc amino acid.
+        
+    - Nhóm Proline thường làm gãy khúc xoắn $\alpha$ do cấu trúc vòng imino cứng nhắc.
+![[hoa_sinh_protid_14.png]]
+#### c. Cấu trúc bậc 3 
+- **Định nghĩa:** Sự xoắn và cuộn khúc không gian 3 chiều của toàn bộ chuỗi polypeptide thành khối hoàn chỉnh.
+    
+- **Tương tác hình thành:** Tương tác không gian giữa các gốc amino acid ở xa nhau trong cùng chuỗi.
+    
+- **Đặc trưng:** Tạo dạng khối không gian (đặc trưng cho các protein hình cầu - Globular protein).
+    
+- **Các liên kết duy trì:**
+    
+    - **Liên kết Disulfide ($-S-S-$):** Nối các gốc Cysteine (Cys) ở xa nhau (liên kết cộng hóa trị duy trì bậc III).
+        
+    - **Tương tác kỵ nước (Van der Waals):** Đưa các gốc R kỵ nước giấu vào bên trong khối.
+        
+    - **Liên kết Hydrogen:** Giữa các chuỗi nhánh R cực.
+        
+    - **Liên kết tĩnh điện (cầu muối):** Giữa các nhóm R mang điện tích trái dấu (ví dụ: $-NH_3^+$ của Lys/Arg với $-COO^-$ của Asp/Glu).
+        
+- **Ví dụ slide:** Myoglobin (protein vận chuyển oxy trong cơ).
+    
+- **Bổ sung quan trọng:**
+    
+    - Cấu trúc bậc III giúp tạo thành trung tâm hoạt động (Active site) của enzyme/protein.
+        
+    - Khi bị biến tính (mất cấu trúc bậc III/II), protein mất hoàn toàn chức năng sinh học
+
+
+#### d. Cấu trúc bậc 4 
+- **Định nghĩa:** Sự tổ hợp/kết hợp của nhiều chuỗi polypeptide (mỗi chuỗi đã có cấu trúc bậc III hoàn chỉnh, gọi là các tiểu đơn vị - subunit) trong một phân tử protein.
+    
+- **Liên kết duy trì:** Chủ yếu là các tương tác phi cộng hóa trị (kỵ nước, tĩnh điện, liên kết hydrogen) hoặc cầu nối disulfide giữa các chuỗi.
+    
+- **Ví dụ slide:**
+    
+    - **Myoglobin:** Chỉ có cấu trúc bậc III (đơn chuỗi).
+        
+    - **Hemoglobin:** Có cấu trúc bậc IV (gồm 4 tiểu đơn vị: 2 chuỗi $\alpha$ + 2 chuỗi $\beta$).
+        
+- **Bổ sung quan trọng:**
+    
+    - Cấu trúc bậc IV tạo ra **hiệu ứng hợp tác** (cooperativity) giữa các tiểu đơn vị (ví dụ: Việc 1 phân tử $O_2$ gắn vào 1 tiểu đơn vị của Hemoglobin sẽ làm tăng khả năng gắn $O_2$ của các tiểu đơn vị còn lại).
+![[hoa_sinh_protid_15.png]]
 # 2. Phân giải Protein

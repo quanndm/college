@@ -369,7 +369,7 @@ _(Ghi chú bổ sung: MW = Molecular Weight / Khối lượng phân tử; $pK_a$
 ### 1.4.1 Đại cương 
 - Protein gồm **1 hoặc nhiều chuỗi polypeptid**
 - Có phân tử lượng **> 6000**
-### 1.4.2 Phân loại
+### 1.4.2 Các Bậc Cấu Trúc của Protein
 #### a. Cấu trúc bậc 1
 - **Định nghĩa:** Trình tự sắp xếp tuyến tính của các gốc amino acid trong chuỗi polypeptide.
     
@@ -443,4 +443,225 @@ _(Ghi chú bổ sung: MW = Molecular Weight / Khối lượng phân tử; $pK_a$
     
     - Cấu trúc bậc IV tạo ra **hiệu ứng hợp tác** (cooperativity) giữa các tiểu đơn vị (ví dụ: Việc 1 phân tử $O_2$ gắn vào 1 tiểu đơn vị của Hemoglobin sẽ làm tăng khả năng gắn $O_2$ của các tiểu đơn vị còn lại).
 ![[hoa_sinh_protid_15.png]]
+### 1.4.3 Tính chất lý hóa
+#### a. Tính chất Trong Dung dịch & Lý học
+
+- **Tính tan:**
+    - Thay đổi tùy loại protein và dung môi.
+    - **Albumin:** Tan trong nước tự do.
+    - **Globulin:** Tan trong dung dịch muối trung tính loãng (ví dụ: $\text{NaCl}$).
+    - **Prolamin:** Tan trong dung dịch cồn/ethanol ($70 - 80\%$).
+    - **Bổ sung:** **Glutelin** tan trong dung dịch acid hoặc kiềm loãng.
+        
+- **Tính ngậm nước & Dung dịch keo:**
+    - Khả năng liên kết phân tử nước $\rightarrow$ Trương nở $\rightarrow$ Tạo hệ dung dịch keo.
+    - Lớp áo nước (Hydration shell) bao quanh phân tử: Duy trì sự bền vững cấu trúc, ngăn các phân tử liên kết dính nhau gây kết tủa.
+        
+- **Độ nhớt:**
+    - Mỗi loại dung dịch protein có độ nhớt riêng biệt.
+    - Tỷ lệ thuận với khối lượng phân tử **(Khối lượng phân tử càng lớn $\rightarrow$ Độ nhớt càng cao).**
+    - **Bổ sung:** Độ nhớt phụ thuộc cả vào hình dạng phân tử (Protein hình sợi có độ nhớt cao hơn protein hình cầu).
+        
+- **Khả năng quang học:**
+    - Có khả năng hấp thụ bức xạ ánh sáng.
+    - **Bổ sung:** Hấp thụ mạnh nhất ở vùng tử ngoại (UV) bước sóng $\lambda = 280\text{ nm}$ do sự có mặt của các acid amin nhân thơm (Tryptophan, Tyrosine, Phenylalanine).
+
+#### b. Tính chất Điện li & Điện tích
+- **Tính chất điện li lưỡng tính:**
+    - Phân tử protein mang cả nhóm $-COOH$ tự do (đầu C hoặc chuỗi nhánh) và nhóm $-NH_2$ tự do (đầu N hoặc chuỗi nhánh).
+    - Tùy thuộc pH môi trường, protein mang điện tích âm, dương hoặc trung hòa.
+        
+- **Bổ sung khái niệm Điểm đẳng điện (pI):**
+    - Giá trị pH mà tại đó tổng điện tích dương và âm của phân tử protein bằng $0$.
+    - Tại $\text{pH} = \text{pI}$, protein kém bền vững nhất, độ tan giảm tối đa và dễ bị kết tủa nhất.
+
+#### c. Hiện tượng Kết tủa Protein
+**Sự giảm Hằng số Điện môi & Tác động của Dung môi Hữu cơ**
+- **Tác nhân:** Dung môi hữu cơ trung tính (Ethanol, Acetone).
+- **Cơ chế:** Làm giảm hằng số điện môi của môi trường + Giành lấy lớp áo nước (khử nước). (protein trong nước)
+- **Kết quả:** Giảm độ tan của protein $\rightarrow$ Gây kết tủa.
+    
+**Sự Kết tủa bằng Muối Trung tính (Phương pháp Diêm / Salting out)**
+- **Cơ chế:** Ion muối trung tính cạnh tranh lớp áo nước với protein + Trung hòa điện tích phân tử protein.
+- **Đặc điểm phân loại theo nồng độ muối:**
+    - **Nồng độ $(NH_4)_2SO_4$ $50\%$ bão hòa:** Kết tủa nhóm Globulin.
+    - **Nồng độ $(NH_4)_2SO_4$ bão hòa $100\%$:** Kết tủa nhóm Albumin từ huyết thanh.
+
+**Phân loại Kết tủa:**
+- **1. Kết tủa Thuận nghịch (Reversible Precipitation):**
+    - **Đặc điểm:** Protein giữ nguyên mọi tính chất tự nhiên (kể cả tính chất sinh học/hoạt tính enzym). Có thể hòa tan trở lại trạng thái ban đầu khi loại bỏ tác nhân kết tủa.
+    - **Tác nhân gây ra:** Dung dịch muối trung tính ($(NH_4)_2SO_4$, $\text{NaCl}$), alcohol/acetone ở nhiệt độ thấp.
+    - **Ứng dụng:** Thu nhận, chiết tách, tinh chế và bảo quản chế phẩm protein/enzyme.
+        
+- **2. Kết tủa Không thuận nghịch (Irreversible Precipitation):**
+    - **Đặc điểm:** Protein bị biến tính (mất cấu trúc không gian bậc II, III, IV), không thể khôi phục lại trạng thái ban đầu.
+    - **Tác nhân gây ra:** Nhiệt độ cao (đun sôi), acid mạnh, base mạnh, muối kim loại nặng ($\text{Hg}^{2+}$, $\text{Pb}^{2+}$, $\text{Cu}^{2+}$).
+    - **Ứng dụng:** Loại bỏ hoàn toàn protein ra khỏi dung dịch xét nghiệm, dừng/ngưng phản ứng enzyme, khử trùng/diệt khuẩn.
+
+
+### 1.4.4 Chức năng sinh học
+#### a. Cấu trúc, Vận động & Bảo vệ
+**1. Chức năng Tạo hình (Cấu trúc)**
+- **Màng & Vỏ tế bào:** Thành phần cấu tạo màng sinh chất, vỏ capsid của virus.
+- **Mô liên kết & Khung xương:**
+    - **Collagen:** Cấu tạo da, gân, xương, sụn _(chiếm 25-30% tổng lượng protein cơ thể)_.
+    - **Elastin:** Tạo tính đàn hồi cho mô liên kết, thành mạch máu, phổi.
+        
+- **Sợi protein tự nhiên:** Fibroin trong tơ tằm, tơ nhện.
+- **Bổ sung:** **Keratin** (cấu tạo móng, tóc, sừng, lông).
+    
+
+**2. Chức năng Vận động & Co bóp**
+- **Sợi cơ:** Actin và Myosin cấu tạo tế bào cơ, chịu trách nhiệm cho sự co/dãn cơ.
+- **Bổ sung:** **Tubulin** (cấu tạo thoi phân bào, vi ống, lông và roi tế bào giúp di chuyển).
+
+**3. Chức năng Bảo vệ & Tự vệ**
+- **Hệ thống miễn dịch:** Kháng thể (Immunoglobulin - Ig), bổ thể, cytokine.
+- **Hệ thống đông máu:** Fibrinogen, Thrombin tham gia phản ứng cầm máu.
+- **Độc tố tự vệ:** Enzyme nọc rắn, lectin, ngoại độc tố vi khuẩn.
+
+#### b. Xúc tác, Điều hòa & Dẫn truyền
+**4. Chức năng Xúc tác**
+- **Bản chất:** Hầu hết enzyme có bản chất là protein.    
+- **Vai trò:** Xúc tác các phản ứng chuyển hóa sinh học trong tế bào _(làm tăng tốc độ phản ứng lên hàng triệu lần)_.
+- **Bổ sung:** Ngoại lệ duy nhất không phải protein là Ribozyme (phân tử RNA có tính xúc tác).
+
+**5. Chức năng Điều hòa**
+- **Cơ chế:** Thông qua hệ thống hormone tuyến nội tiết.
+- **Ví dụ:** Insulin, Glucagon (điều hòa đường huyết), GH (điều hòa tăng trưởng).
+
+**6. Chức năng Dẫn truyền Tín hiệu & Thụ thể**
+- **Thị giác:** Sắc tố Rhodopsin ở màng lưới mắt cảm nhận ánh sáng $\rightarrow$ Dẫn truyền xung thần kinh.
+- **Bổ sung:** Các thụ thể (Receptor) trên màng tế bào tiếp nhận tín hiệu từ chất dẫn truyền thần kinh (ví dụ: Thụ thể Acetylcholine).
+
+#### c. Vận chuyển, Dự trữ & Dinh dưỡng
+**7. Chức năng Vận chuyển**
+- **Khí hô hấp ($\text{O}_2, \text{CO}_2, \text{H}^+$):** Hemoglobin (trong hồng cầu), Myoglobin (trong cơ), Hemocyanin (ở động vật thân mềm).
+- **Lipid:** Lipoprotein (HDL, LDL, VLDL) vận chuyển chất béo trong máu.
+- **Kim loại:** Ceruloplasmin (vận chuyển Copper/Đồng trong máu).
+- **Bổ sung:** **Transferrin** (vận chuyển Sắt), **Albumin** (vận chuyển acid béo tự do, bilirubin, thuốc và duy trì áp suất keo của máu).
+
+**8. Chức năng Dự trữ**
+- **Chất dinh dưỡng phôi:** Casein (sữa), Ovalbumin (lòng trắng trứng).
+- **Dự trữ kim loại:** Ferritin ở lách, gan, tủy xương (dự trữ Sắt/Fe).
+    
+**9. Chức năng Dinh dưỡng & Năng lượng**
+- **Vai trò:** Cung cấp acid amin cho tổng hợp tế bào mới.
+- **Năng lượng:** Cung cấp năng lượng khi cơ thể thiếu hụt Carbohydrate và Lipid.
+- **Giá trị năng lượng:** $1\text{ g protein} \approx 4\text{ kcal}$ ($17\text{ kJ}$).
+
+### 1.4.5 Phân loại
+#### a. Phân loại theo hình dạng 
+- **Protein dạng cầu (Globular protein):**
+    
+    - **Đặc điểm:** Không bền vững bằng protein sợi; Đa số tan trong nước; Dễ khuếch tán trong dung dịch.
+        
+    - **Đại diện:** Hầu hết enzyme, hormone, protein vận chuyển.
+        
+- **Protein dạng sợi (Fibrous protein) :**
+    
+    - **Đặc điểm:** Bền vững về mặt cơ học; Dạng chuỗi dài xếp song song; Không tan trong nước và dung dịch muối loãng.
+        
+    - **Đại diện:** Collagen, Elastin, Keratin, Fibroin.
+        
+- **Protein dạng trung gian (Intermediate protein):**
+    
+    - **Đặc điểm:** Mang đặc tính trung gian giữa dạng cầu và dạng sợi.
+        
+    - **Đại diện:**
+        
+        - **Myosin (trong cơ):** Cấu trúc dạng que dài (như protein sợi) nhưng có khả năng tan trong dung dịch muối loãng (như protein cầu).
+            
+        - **Fibrinogen:** Cấu trúc hình dải dài, là tiền chất tan của Fibrin trong quá trình đông máu.
+
+#### b. Phân loại theo thành phần hóa học
+**1. Protein đơn giản (Simple protein)**
+
+- **Thành phần:** Chỉ chứa các gốc amino acid (thủy phân hoàn toàn chỉ cho ra các amino acid).
+    
+- **Phân loại chi tiết:**
+    
+    - **Albumin:** Tan trong nước; Kết tủa bởi dung dịch $(NH_4)_2SO_4$ bão hòa ($70 - 100\%$). _(Ví dụ: Ovalbumin trong trứng, Serum albumin trong máu)_.
+        
+    - **Globulin:** Không tan/ít tan trong nước; Tan trong dung dịch muối loãng ($NaCl, KCl,...$); Kết tủa bởi dung dịch $(NH_4)_2SO_4$ bán bão hòa ($50\%$). _(Ví dụ: Immunoglobulin/kháng thể)_.
+        
+    - **Prolamin:** Không tan trong nước hoặc dung dịch muối loãng; Tan trong dung dịch cồn (Ethanol, Isopropanol $70 - 80\%$). _(Ví dụ: Gliadin trong lúa mì, Zein trong ngô)_.
+        
+    - **Glutelin:** Không tan trong nước, muối trung tính hay cồn; Tan trong dung dịch acid hoặc kiềm loãng. _(Ví dụ: Glutenin trong lúa mì)_.
+        
+    - **Histone & Protamine:** Protein có tính kiềm mạnh (giàu Lysine, Arginine), tan trong nước, liên kết với DNA.
+        
+    - **Scleroprotein (Albuminoid) :** Protein sợi hoàn toàn không tan trong các dung môi thông thường. _(Ví dụ: Keratin, Collagen)_.
+        
+
+**2. Protein phức tạp (Conjugated protein)**
+
+- **Thành phần:** Gồm chuỗi polypeptide (phần apoprotein) liên kết với thành phần phi-protein (gọi là Nhóm ngoại / Prosthetic group).
+    
+- **Phân loại chi tiết:**
+    - **Lipoprotein:** Nhóm ngoại là Lipid. _(Chức năng: Vận chuyển chất béo trong hệ tuần hoàn như HDL, LDL, VLDL)_.
+        
+    - **Nucleoprotein:** Nhóm ngoại là Acid nucleic (DNA hoặc RNA). _(Ví dụ: Chromatin trong nhân tế bào, Ribosome)_.
+        
+    - **Glucoprotein (Glycoprotein):** Nhóm ngoại là Carbohydrate (đường). _(Ví dụ: Chất nhầy Mucin, Kháng thể, các thụ thể màng)_.
+        
+    - **Phosphoprotein:** Nhóm ngoại là gốc Phosphate gắn vào gốc amino acid. _(Ví dụ: Casein của sữa, Vitellin của lòng đỏ trứng)_.
+        
+    - **Chromoprotein:** Nhóm ngoại là hợp chất có màu.
+        - _Sắc tố đỏ:_ Hemoglobin, Myoglobin (nhóm ngoại là nhân Heme chứa $Fe^{2+}$).
+        - _Sắc tố vàng:_ Flavoprotein (nhóm ngoại là FMN hoặc FAD).
+            
+    - **Metalloprotein :** Nhóm ngoại là các ion kim loại ($Fe, Cu, Zn, Mg,...$). _(Ví dụ: Ferritin dự trữ sắt, Ceruloplasmin vận chuyển đồng)_.
+
+### 1.4.6 Tính chất 
+#### a. Nhóm Protein Đơn giản Thường gặp (Simple Proteins)
+- **Protamine (Protamin):**
+    - **Đặc điểm:** Protein nhỏ nhất, đơn giản nhất, tính kiềm rất cao (giàu Arginine).
+    - **Phân bố:** Nhân tế bào (đặc biệt liên kết với DNA trong tinh trùng).
+        
+- **Histone _(Bổ sung)_:**
+    - **Đặc điểm:** Protein tính kiềm (giàu Lysine, Arginine).
+    - **Phân bố:** Nhân tế bào (liên kết với DNA tạo cấu trúc Nucleosome/Chromatin ở tế bào sinh dưỡng).
+        
+- **Albumin:**
+    - **Đặc điểm:** Phân tử lượng nhỏ hơn Globulin, tan trong nước, tủa ở $(NH_4)_2SO_4$ bão hòa $100\%$.
+    - **Phân bố:** Lòng trắng trứng (Ovalbumin), huyết thanh (Serum albumin), sữa (Lactalbumin).
+    - **Bổ sung vai trò:** Duy trì áp suất keo của máu, vận chuyển acid béo, thuốc, hormone.
+        
+- **Globulin:**
+    - **Đặc điểm:** Phân tử lượng lớn, không/ít tan trong nước, tan trong dung dịch muối loãng, tủa ở $(NH_4)_2SO_4$ bán bão hòa $50\%$.
+    - **Phân bố:** Huyết thanh ($\alpha-, \beta-, \gamma-$globulin), trứng (Ovoglobulin), sữa (Lactoglobulin), hạt cây họ Đậu.
+    - **Bổ sung vai trò:** Kháng thể ($\gamma$-globulin / Immunoglobulin) bảo vệ cơ thể, vận chuyển vi chất.
+        
+- **Scleroprotein / Protein sợi _(Bổ sung)_:**
+    - **Đặc điểm:** Hoàn toàn không tan trong nước và dung môi thông thường, tính bền cơ học cao.
+    - **Phân bố/Đại diện:** Collagen (xương, gân, da), Keratin (tóc, móng, sừng), Elastin (thành mạch).
+        
+- **Prolamin & Glutelin :**
+    - **Đặc điểm:** Protein dự trữ thực vật.
+    - **Phân bố/Đại diện:** Gliadin và Glutenin (trong lúa mì), Zein (trong ngô), Oryzenin (trong gạo).
+
+
+#### b. Nhóm Protein Phức tạp Thường gặp (Conjugated Proteins)
+- **Glucoprotein (Glycoprotein):**
+    - **Cấu tạo:** Chuỗi Polypeptide + Nhóm ngoại là Carbohydrate.
+    - **Phân bố/Đại diện:** Mucin (chất nhầy đường tiêu hóa, hô hấp), Kháng thể, Thụ thể màng tế bào, Antigen nhóm máu A/B/O.
+        
+- **Lipoprotein:**
+    - **Cấu tạo:** Chuỗi Polypeptide + Nhóm ngoại là Lipid (Cholesterol, Triglyceride, Phospholipid).
+    - **Phân bố/Đại diện:** Màng tế bào, các phức hợp vận chuyển trong máu: HDL, LDL, VLDL, Chylomicron.
+    - **Bổ sung vai trò:** Vận chuyển lipid kỵ nước trong môi trường máu dạng dung dịch nước.
+        
+- **Phosphoprotein:**
+    - **Cấu tạo:** Chuỗi Polypeptide + Nhóm ngoại là Acid phosphoric ($H_3PO_4$) gắn vào gốc Serine/Threonine.
+    - **Phân bố/Đại diện:** Casein (sữa), Vitellin (lòng đỏ trứng).
+    - **Bổ sung vai trò:** Dự trữ dinh dưỡng, cung cấp Phosphate và Calcium cho phát triển xương của con non/phôi.
+        
+- **Chromoprotein _(Bổ sung)_:**
+    - **Cấu tạo:** Chuỗi Polypeptide + Nhóm ngoại chứa sắc tố có màu.
+    - **Phân bố/Đại diện:** Hemoglobin, Myoglobin (chứa nhân Heme màu đỏ vận chuyển $O_2$); Flavoprotein (chứa FAD/FMN màu vàng xúc tác oxy hóa - khử).
+        
+- **Nucleoprotein _(Bổ sung)_:**
+    - **Cấu tạo:** Protein (Histone/Protamine) + Acid nucleic (DNA/RNA).
+    - **Phân bố/Đại diện:** Chromatin/Nhiễm sắc thể (nhân tế bào), Ribosome (nguyên sinh chất), Capsid virus.
 # 2. Phân giải Protein

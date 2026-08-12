@@ -665,3 +665,58 @@ _(Ghi chú bổ sung: MW = Molecular Weight / Khối lượng phân tử; $pK_a$
     - **Cấu tạo:** Protein (Histone/Protamine) + Acid nucleic (DNA/RNA).
     - **Phân bố/Đại diện:** Chromatin/Nhiễm sắc thể (nhân tế bào), Ribosome (nguyên sinh chất), Capsid virus.
 # 2. Phân giải Protein
+## 2.1 Sơ đồ tổng quan chuyển hóa và thoái hóa Protid trong cơ thể
+![[hoa_sinh_protid_16.png]]
+### a. Giai đoạn Tiêu hóa & Hấp thu (Tại Ống Tiêu Hóa)
+
+- **Quá trình:** Protid (thức ăn) $\rightarrow$ Thủy phân thành các Acid amin tự do nhờ enzyme tiêu hóa.
+    
+- **Đường đi:** Acid amin hấp thu qua niêm mạc ruột $\rightarrow$ Theo tĩnh mạch cửa về Gan và máu ngoại vi đến Các Mô.
+
+### b. Giai đoạn Chuyển hóa & Phân giải (Tại Gan)
+
+- **Phản ứng trung tâm:** Sự khử gốc amin (loại bỏ nhóm $-NH_2$).
+    
+- **Sản phẩm 1 - Phần chứa Nitơ ($\text{NH}_3$):**
+    
+    - $\text{NH}_3$ độc $\rightarrow$ Gan tổng hợp thành Urê (không độc).
+        
+    - Urê đưa vào máu $\rightarrow$ Đến **Thận** $\rightarrow$ Bài tiết ra ngoài qua nước tiểu.
+        
+- **Sản phẩm 2 - Khung Carbon (Cặn không có nitơ / $\alpha$-keto acid):**
+    
+    - Tái tổng hợp thành Glucose, Glycogen (tân tạo đường / tích trữ năng lượng).
+
+
+### c. Giai đoạn Chuyển hóa & Phân giải (Tại Các Mô)
+
+- **Quá trình đồng hóa/dị hóa:** Acid amin $\leftrightarrow$ Protid của mô (tổng hợp protein cơ thể hoặc phân giải khi cần).
+    
+- **Phân giải tạo năng lượng:** Khung carbon của acid amin $\rightarrow$ Chuyển hóa thành Glycogen hoặc đốt cháy thành $\text{CO}_2 + \text{H}_2\text{O}$ + Năng lượng (ATP).
+    
+- **Vận chuyển:** Các gốc amin / sản phẩm thừa từ mô $\rightarrow$ Đưa về Gan để tiếp tục xử lý.
+
+### d. Thông tin thêm 
+- **Chu trình Urê (Urea cycle):** Xảy ra chủ yếu tại **tế bào gan** (kết hợp giữa ty thể và tế bào chất). Đây là con đường giải độc $\text{NH}_3$ quan trọng nhất của cơ thể.
+    
+- **Mối liên quan với Chu trình Krebs:** Cặn không chứa nitơ ($\alpha$-keto acid) biến đổi thành các chất trung gian (Acetyl-CoA, Pyruvate, $\alpha$-ketoglutarate, Oxaloacetate,...) đi vào chu trình Krebs để sinh năng lượng $\text{CO}_2, \text{H}_2\text{O}$ và ATP.
+## 2.2 Phân giải Protein ngoại sinh
+
+
+# 3. Chuyển hóa các acid amin 
+
+## 3.1 Phản ứng chuyển amin
+
+
+
+## 3.2 Phản ứng khử amin
+
+
+## 3.3 Phản ứng khử carboxyl
+
+
+# 4. Tổng hợp protid 
+## 4.1 Tổng hợp acid amin
+
+
+## 4.2 Tổng hợp Protid

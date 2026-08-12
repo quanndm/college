@@ -204,8 +204,85 @@ _(Ghi chú bổ sung: MW = Molecular Weight / Khối lượng phân tử; $pK_a$
         - Histidine $\xrightarrow{-CO_2}$ **Histamine** (chất trung gian gây dị ứng, giãn mạch).
         - Glutamic acid $\xrightarrow{-CO_2}$ **GABA** ($\gamma$-aminobutyric acid - chất ức chế truyền dẫn thần kinh).
 ## 1.3 Peptid
+### 1. Đại cương 
+**Thành phần & Liên kết**
+
+- **Cấu tạo:** Từ 2 đến **hàng chục** gốc acid amin (a.a).
+    
+- **Liên kết hình thành:** **Liên kết Peptid** (liên kết amide $-CO-NH-$ hình thành do sự ngưng tụ loại $1\text{ H}_2\text{O}$ giữa nhóm $-COOH$ của acid amin trước và nhóm $-NH_2$ của acid amin sau).
+    
+- **Phân tử lượng (MW):** **< 6000**.
+
+![[hoa_sinh_protid_9.png]]
+
+- **Công thức liên quan:**
+    $$\text{Số liên kết peptid} = \text{Số gốc a.a} - 1$$
+- **Bổ sung:**
+    - **Oligopeptid:** Chuỗi gồm $2 - 10$ gốc a.a (Dipeptid, Tripeptid,...).
+    - **Polypeptid:** Chuỗi gồm $10 - 50$ gốc a.a.
+    - Khi phân tử lượng $> 6000$ (hoặc $> 50$ gốc a.a), chuỗi polypeptid bắt đầu tạo cấu trúc không gian và được gọi là Protein.
+
+### 2. Tính chất Hóa - Lý của Peptid
+**Tính chất điện tích & Thủy phân**
+
+- **Tính lưỡng tính:** Tương tự acid amin (do vẫn còn nhóm $-NH_2$ tự do ở đầu N và nhóm $-COOH$ tự do ở đầu C).
+    
+- **Phản ứng thủy phân:**
+    
+    - **Tác nhân:** Đun sôi với acid mạnh, base mạnh, hoặc xúc tác bởi enzyme peptidase.
+        
+    - **Sản phẩm:** Các acid amin tự do cấu thành.
+        
+
+**Phản ứng Màu nhận biết**
+
+- **Phản ứng Biure:**
+    
+    - **Điều kiện:** Chuỗi peptid có $\ge 3$ liên kết peptid (tương ứng $\ge 4$ gốc a.a / tetrapeptid trở lên).
+        
+    - **Thuốc thử:** $\text{CuSO}_4$ trong môi trường kiềm.
+        
+    - **Hiện tượng:** Phức chất tạo thành có màu tím đỏ (độ hấp thụ cực đại ở bước sóng $\lambda = 540\text{ nm}$).
+        
+    - **Ứng dụng:** Xác định số liên kết peptid, định lượng nồng độ Protein trong huyết thanh.
+        
+- **Phản ứng Ninhydrin:** Cho kết quả dương tính tương tự acid amin (nhờ nhóm $-NH_2$ tự do ở đầu N).
 
 
+### 3. Các Peptid có Hoạt tính Sinh học Quan trọng
+**Nội tiết tố (Hormone) dạng Peptid**
+- **Vasopressin (ADH - Antidiuretic Hormone):**
+    - **Cấu trúc:** 9 a.a.
+        
+    - **Chức năng:** Tăng tái hấp thu nước tại ống thận $\rightarrow$ Tăng thể tích tuần hoàn $\rightarrow$ Tăng huyết áp.
+        
+- **Oxytocin:**
+    - **Cấu trúc:** 9 a.a.
+        
+    - **Chức năng:** Co thắt cơ trơn tử cung (khi chuyển dạ), kích thích bài tiết sữa.
+        
+- **Insulin:**
+    - **Cấu trúc:** 2 chuỗi polypeptid (Chuỗi A có 21 a.a, Chuỗi B có 30 a.a, nối với nhau bằng cầu nối Disulfide).
+        
+    - **Chức năng:** Hạ đường huyết (kích thích tế bào tăng thu nhận và sử dụng glucose).
+        
+- **Glucagon:**
+    - **Cấu trúc:** 29 a.a.
+        
+    - **Chức năng:** Tăng đường huyết (kích thích phân giải glycogen tại gan thành glucose).
+        
+- **Hormone tăng trưởng (GH - Growth Hormone):**
+    
+    - **Cấu trúc:** 191 a.a.
+        
+    - **Chức năng:** Kích thích sự phát triển mô, xương, tăng tổng hợp protein toàn cơ thể.
+        
+
+**Chất trung gian sinh học**
+- **Bradykinin:**
+    - **Cấu trúc:** 9 a.a.
+        
+    - **Chức năng:** Giãn mạch, tăng tính thấm thành mạch, gây phù, tham gia vào phản ứng viêm và truyền cảm giác đau.
 
 ## 1.4 Protein
 

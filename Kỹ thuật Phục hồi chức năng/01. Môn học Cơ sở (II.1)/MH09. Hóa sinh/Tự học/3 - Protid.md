@@ -701,18 +701,430 @@ _(Ghi chú bổ sung: MW = Molecular Weight / Khối lượng phân tử; $pK_a$
     
 - **Mối liên quan với Chu trình Krebs:** Cặn không chứa nitơ ($\alpha$-keto acid) biến đổi thành các chất trung gian (Acetyl-CoA, Pyruvate, $\alpha$-ketoglutarate, Oxaloacetate,...) đi vào chu trình Krebs để sinh năng lượng $\text{CO}_2, \text{H}_2\text{O}$ và ATP.
 ## 2.2 Phân giải Protein ngoại sinh
+![[hoa_sinh_protid_17.png]]
+### a. Giai đoạn Tiêu hóa tại Dạ dày
+- **Môi trường:** Acid mạnh ($\text{pH} = 1 - 2$) do dịch vị dạ dày tiết $\text{HCl}$.
+- **Cơ chế hoạt hóa Enzyme:**
+    $$\text{Pepsinogen (dạng tiền enzyme)} \xrightarrow{\text{HCl}} \text{Pepsin (dạng hoạt động)}$$
+- **Tác dụng của Pepsin:** Thủy phân các liên kết peptide nội chuỗi (hoạt tính Endopeptidase) $\rightarrow$ Cắt phân tử protein lớn thành các chuỗi peptid ngắn hơn.
+    
+- **Lưu ý Lâm sàng & Chế độ ăn:**
+    - Khẩu phần ăn giàu protein (thịt bò) $\rightarrow$ Kích thích dạ dày tiết nhiều $\text{HCl}$ và Pepsinogen.
+    - Sau khi thức ăn được tiêu hóa hết, lượng $\text{HCl}$ dư thừa dễ gây tổn thương niêm mạc $\rightarrow$ Gây đau/viêm loét dạ dày.
+    - Bệnh nhân đau dạ dày: Ưu tiên đồ ăn mềm, chia nhỏ bữa ăn trong ngày, kiểm soát lượng protein nhập vào.
 
+### b. Giai đoạn Tiêu hóa tại Ruột non
+- **Môi trường:** Kiềm ($\text{pH} \approx 7.5 - 8.0$ do ion $\text{HCO}_3^-$ từ dịch tụy trung hòa acid).
+- **Biến đổi Pepsin:** Pepsin bị bất hoạt hoàn toàn trong môi trường kiềm.
+- **Sự tiết tiền enzyme (Zymogen):** Tuyến tụy và ruột tiết các tiền enzyme chưa hoạt động (Trypsinogen, Chymotrypsinogen, Procarboxypeptidase, Aminopeptidase) đổ vào ruột non.
+    
+- **Cơ chế hoạt hóa chuỗi enzyme tụy _(Bổ sung)_:**
+    - Enzyme **Enteropeptidase** (do tế bào niêm mạc ruột tiết) cắt hoạt hóa:
+        $$\text{Trypsinogen} \rightarrow \text{Trypsin}$$
+    - **Trypsin** tiếp tục tự hoạt hóa và kích hoạt các zymogen còn lại:
+        - $\text{Chymotrypsinogen} \xrightarrow{\text{Trypsin}} \text{Chymotrypsin}$
+            
+        - $\text{Procarboxypeptidase} \xrightarrow{\text{Trypsin}} \text{Carboxypeptidase}$
+
+### c. Phân loại & Vai trò Đặc hiệu của các Enzyme Tiêu hóa
+**Nhóm Endopeptidase (Cắt liên kết peptide bên trong chuỗi peptid)**
+- **Trypsin:** Cắt ưu tiên liên kết peptide có sự tham gia của nhóm $-COOH$ từ các **Acid amin kiềm** (Lysine, Arginine).
+- **Chymotrypsin:** Cắt ưu tiên liên kết peptide có sự tham gia của nhóm $-COOH$ từ các **Acid amin trung tính / nhân thơm** (Phenylalanine, Tyrosine, Tryptophan).
+- **Elastase _(Bổ sung)_:** Cắt liên kết peptide của các acid amin kích thước nhỏ (Alanine, Glycine, Serine).
+    
+**Nhóm Exopeptidase (Cắt liên kết peptide từ hai đầu chuỗi peptid)**
+- **Aminopeptidase:** Cắt cắt từng gốc acid amin tự do từ **đầu N tận** (đầu chứa nhóm $-NH_2$ tự do).
+- **Carboxypeptidase:** Cắt cắt từng gốc acid amin tự do từ **đầu C tận** (đầu chứa nhóm $-COOH$ tự do).
+
+**Sản phẩm cuối cùng của quá trình phân giải:**
+- Sản phẩm tạo thành gồm các **Acid amin tự do** (cùng một lượng nhỏ dipeptid, tripeptid).
+- Các acid amin được vận chuyển chủ động qua tế bào niêm mạc ruột non $\rightarrow$ Theo tĩnh mạch cửa đi về Gan và các tế bào mô ngoại vi.
+
+
+## 2.3 Phân giải Protein nội sinh 
+### a. Đặc điểm Cân bằng & Luân chuyển (Protein Turnover)
+- **Trạng thái cân bằng:** Tỷ lệ **thoái hóa** và **tổng hợp mới** protein nội sinh luôn giữ mức **hằng định** (cân bằng động).
+    
+- **Tốc độ đổi mới:** Lượng protein nội sinh thoái hóa chiếm **1 - 2%** tổng lượng protein toàn phần của cơ thể mỗi ngày.
+    
+- **Mối quan hệ:** $\text{Protein nội sinh} \rightleftharpoons \text{Acid amin tự do}$.
+### b. Con đường Hấp thu & Vận chuyển Acid Amin
+- **Cơ chế vận chuyển:** Vận chuyển tích cực qua màng tế bào, tiêu tốn năng lượng (ATP) và phụ thuộc hệ đồng vận chuyển với ion $\text{Na}^+$.
+- **Sơ đồ đường đi:**
+    $$\text{Acid amin (Ngoại sinh + Nội sinh)} \xrightarrow{\text{Vận chuyển tích cực}} \text{Niêm mạc ruột non} \rightarrow \text{Tĩnh mạch cửa} \rightarrow \text{Gan} \rightarrow \text{Máu} \rightarrow \text{Tế bào \& Các mô}$$
+
+![[hoa_sinh_protid_18.png]]
+#### c. Các Hệ thống Phân giải Protein Nội sinh trong Tế bào
+**Hệ thống Lysosome (Phân giải không phụ thuộc ATP)**
+- **Đối tượng:** Protein ngoại bào đưa vào theo đường nhập bào, protein màng, các bào quan cũ/hỏng (tự thực bào - Autophagy).
+- **Cơ chế:** Phân giải bởi các enzyme proteases thủy phân acid (đặc biệt là nhóm **Cathepsin**) trong môi trường acid của lysosome ($\text{pH} \approx 5$).
+    
+**Hệ thống Ubiquitin - Proteasome (Phân giải phụ thuộc ATP)**
+- **Đối tượng:** Protein nội bào lỗi, gấp cuộn sai, protein điều hòa chu kỳ tế bào hoặc bị biến tính.
+- **Cơ chế:**
+    1. Protein lỗi được gắn "nhãn" bởi chuỗi polypeptide nhỏ gọi là **Ubiquitin**.
+    2. Phức hợp **Proteasome 26S** nhận diện nhãn Ubiquitin, tiêu tốn ATP để cắt phân giải protein lỗi thành các peptid ngắn và acid amin.
+        
+**Khái niệm Quỹ Acid Amin (Amino Acid Pool)**
+- **Khái niệm:** Tổng lượng acid amin tự do có sẵn trong máu và dịch kẽ toàn cơ thể (khoảng $100\text{ g}$ ở người trưởng thành).
+- **Cân bằng đầu vào - đầu ra:**
+    - **Nguồn nạp vào:** Thức ăn (ngoại sinh) + Thoái hóa mô (nội sinh) + Tổng hợp nội sinh từ các chất trung gian.
+    - **Nguồn tiêu thụ:** Tổng hợp protein mới + Tổng hợp chất sinh học có N (heme, purine, hormone) + Phân giải sinh năng lượng / Tạo Urê.
 
 # 3. Chuyển hóa các acid amin 
 
 ## 3.1 Phản ứng chuyển amin
+#### a. Bản chất & Đặc điểm Chung Phản ứng
 
+- **Cơ chế:** Trao đổi nhóm $-NH_2$ giữa 1 amino acid (chất cho amin) và 1 ceto acid (chất nhận amin).
+    
+- **Kết quả kép:** Vừa phân giải 1 amino acid thành ceto acid tương ứng, vừa tổng hợp 1 amino acid mới từ ceto acid nhận.
+    
+- **Sơ đồ tổng quát:**
+    
+    $$R_1\text{-CH(NH}_2\text{)-COOH} + R_2\text{-CO-COOH} \xrightleftharpoons{\text{Aminotransferase / Transaminase}} R_1\text{-CO-COOH} + R_2\text{-CH(NH}_2\text{)-COOH}$$
+    
+- **Ngoại lệ:** Threonine và Lysine không tham gia phản ứng chuyển amin (bắt buộc phải nạp từ thức ăn, cơ thể không tự tổng hợp qua chuyển amin).
+    
+- **Bổ sung Coenzyme bắt buộc:** Pyridoxal phosphate (PLP - dẫn xuất Vitamin B6) đóng vai trò trung gian gắn và vận chuyển nhóm $-NH_2$.
+![[hoa_sinh_protid_19.png]]
+#### b. Các Enzyme Chuyển Amin Quan trọng (Transaminase)
 
+**GPT (Glutamate Pyruvate Transaminase) / ALT (Alanine Aminotransferase)**
 
+- **Phương trình phản ứng:**
+    ![[hoa_sinh_protid_21.png]]
+    $$\text{Alanine} + \alpha\text{-Ketoglutarate (Oxoglutarate)} \xrightleftharpoons{\text{GPT / ALT}} \text{Pyruvate} + \text{Glutamate}$$
+    
+- **Phân bố cơ quan:** Tập trung chủ yếu ở tế bào bào tương của **Gan**.
+    ![[hoa_sinh_protid_23.png]]
+- **Bổ sung ý nghĩa lâm sàng:** Chỉ số xét nghiệm đặc hiệu đánh giá tình trạng hủy hoại tế bào gan (viêm gan cấp/mạn, xơ gan, ngộ độc gan).
+    
+
+**GOT (Glutamate Oxaloacetate Transaminase) / AST (Aspartate Aminotransferase)**
+
+- **Phương trình phản ứng:**
+    ![[hoa_sinh_protid_20.png]]
+    $$\text{Aspartate} + \alpha\text{-Ketoglutarate (Oxoglutarate)} \xrightleftharpoons{\text{GOT / AST}} \text{Oxaloacetate} + \text{Glutamate}$$
+
+- **Phân bố cơ quan:** Ti thể và bào tương ở **Cơ tim, Gan, Cơ xương, Thận**.
+    ![[hoa_sinh_protid_23.png]]
+- **Bổ sung ý nghĩa lâm sàng:** Chỉ số đánh giá tổn thương cơ tim (nhồi máu cơ tim) và tổn thương gan mức độ sâu/diện rộng.
+	
+### c. Mối liên quan giữa Ceto Acid của Acid Amin với Chu trình Krebs
+![[hoa_sinh_protid_22.png]]
+Cặn ceto acid (khung carbon) sau khi bị loại nhóm $-NH_2$ sẽ biến đổi nhập vào các vị trí trung gian của chu trình Krebs (Citrate cycle) để sinh năng lượng hoặc tân tạo đường/lipid.
+
+- **Điểm vào Pyruvate:** Ala, Cys, Gly, Hyp (Hydroxyproline), Ser, Thr.
+    
+- **Điểm vào Acetyl-CoA & Acetoacetyl-CoA:** Ile, Leu, Trp, Lys, Phe, Tyr.
+    
+- **Điểm vào $\alpha$-Ketoglutarate:** Glutamate, Arg, His, Gln, Pro.
+    
+- **Điểm vào Succinyl-CoA:** Ile, Met, Val.
+    
+- **Điểm vào Fumarate:** Tyr, Phe.
+    
+- **Điểm vào Oxaloacetate:** Aspartate, Asn (Asparagine).
+    
+
+**Bổ sung phân loại chuyển hóa:**
+
+- **Nhóm sinh đường (Glucogenic):** Nhập qua Pyruvate, $\alpha$-Ketoglutarate, Succinyl-CoA, Fumarate, Oxaloacetate $\rightarrow$ Tổng hợp Glucose.
+    
+- **Nhóm sinh ceton (Ketogenic):** Nhập qua Acetyl-CoA / Acetoacetyl-CoA (Leu, Lys) $\rightarrow$ Tổng hợp thể Ceton.
+    
+- **Nhóm vừa sinh đường vừa sinh ceton:** Ile, Phe, Thr, Trp, Tyr.
 ## 3.2 Phản ứng khử amin
+### 1. Đại cương 
+#### a. Bản chất & Các Kiểu Phản ứng Khử Amin
+
+- **Bản chất:** Quá trình loại bỏ nhóm $-NH_2$ ra khỏi phân tử amino acid dưới dạng $\text{NH}_3$ tự do và tạo thành acid tương ứng.
+    
+- **3 Kiểu phản ứng khử amin chính (theo Slide):**
+    
+    1. **Khử amin kiểu khử (Reductive Deamination):**
+        
+        $$R\text{-CH(NH}_2\text{)-COOH} + \text{NADH} + H^+ \xrightarrow{\text{Dehydrogenase}} R\text{-CH}_2\text{-COOH} + \text{NH}_3 + \text{NAD}^+$$
+        
+        - _Sản phẩm:_ Saturated fatty acid (Acid béo no) + $\text{NH}_3$.
+            
+    2. **Khử amin kiểu oxy hóa (Oxidative Deamination):**
+        
+        $$R\text{-CH(NH}_2\text{)-COOH} + O_2 \xrightarrow{\text{Oxydase}} R\text{-CO-COOH} + \text{NH}_3$$
+        
+        - _Sản phẩm:_ $\alpha$-Ceto acid + $\text{NH}_3$.
+            
+    3. **Khử amin kiểu thủy phân (Hydrolytic Deamination):**
+        
+        $$R\text{-CH(NH}_2\text{)-COOH} + H_2O \xrightarrow{\text{Hydrolase}} R\text{-CHOH-COOH} + \text{NH}_3$$
+        
+        - _Sản phẩm:_ $\alpha$-Hydroxy acid + $\text{NH}_3$.
+            
+- **Bổ sung hình thức quan trọng nhất ở động vật:**
+    
+    - **Khử amin trực tiếp:** Enzyme **L-glutamate dehydrogenase (GDH)** xúc tác cho phản ứng khử amin oxy hóa Glutamate (phản ứng xảy ra chủ yếu tại ty thể tế bào gan, sử dụng coenzyme $\text{NAD}^+$ hoặc $\text{NADP}^+$).
+        
+    - **Khử amin gián tiếp:** Kết hợp phản ứng chuyển amin (với $\alpha$-ketoglutarate) và phản ứng khử amin oxy hóa L-glutamate.
+
+
+#### b. Số phận Chuyển hóa của Khung Carbon (Acid Hữu cơ)
+
+- **Con đường chuyển hóa:** Tiếp tục biến đổi tương tự quá trình phân giải acid béo.
+    
+- **Đích đến:** Đốt cháy tạo **Acetyl-CoA** $\rightarrow$ Đi vào **Chu trình Krebs** để oxy hóa hoàn toàn thành $\text{CO}_2, H_2O$ và sinh năng lượng (ATP).
+    
+- **Các hướng sử dụng khác:** Tân tạo Glucose/Glycogen (đối với các amino acid sinh đường) hoặc tổng hợp acid béo/thể ceton.
+
+
+#### c. Số phận Chuyển hóa & Giải độc Amoniac ($\text{NH}_3$)
+
+- **Đặc tính $\text{NH}_3$:** Chất độc đối với cơ thể (đặc biệt là hệ thần kinh trung ương), cần được xử lý ngay.
+    
+- **Các con đường biến đổi & Đào thải:**
+    
+    - **Đồng hóa / Tái sử dụng:** Làm nguyên liệu tái tổng hợp lại amino acid mới thông qua phản ứng amine hóa (gắn $-NH_2$ vào ceto acid) hoặc amide hóa.
+        
+    - **Vận chuyển an toàn trong máu:** Biến đổi thành **Glutamin** (nhờ enzyme Glutamine synthetase) để vận chuyển an toàn từ các mô ngoại vi về gan và thận mà không gây độc cho máu.
+        
+    - **Đào thải chính ở động vật:** Chuyển thành **Urê** tại Gan (qua Chu trình Urê) $\rightarrow$ Đưa vào máu $\rightarrow$ Đào thải ra ngoài qua nước tiểu ở Thận.
+
+### 2. Chu trình Urê:
+#### a. Vị trí Xảy ra & Ý nghĩa Sinh học
+
+- **Cơ quan thực hiện:** Xảy ra duy nhất tại **tế bào gan**.
+    
+- **Phân bố trong tế bào:** Phối hợp giữa **Ty thể (Mitochondrial matrix)** và **Bào tương (Cytosol)**.
+    
+- **Vai trò:** Con đường giải độc $\text{NH}_3$ chính của cơ thể, biến $\text{NH}_3$ tự do độc hại thành Urê $\text{CO(NH}_2)_2$ không độc để đào thải qua nước tiểu ở Thận.
+
+
+#### b. Chi tiết 5 Giai đoạn của Chu trình Urê
+![[hoa_sinh_protid_24.png]]
+**Giai đoạn 1: Tạo Carbamoyl phosphate (Xảy ra tại Ty thể)**
+
+- **Phương trình:**
+    
+    $$\text{NH}_3 + \text{CO}_2 + 2\text{ATP} + \text{H}_2\text{O} \xrightarrow{\text{CPS-I}} \text{Carbamoyl phosphate} + 2\text{ADP} + \text{P}_i$$
+    
+- **Enzyme xúc tác:** Carbamoyl phosphate synthetase I (CPS-I).
+    
+- **Đặc điểm:** Tốn 2 phân tử ATP; enzyme CPS-I cần chất hoạt hóa bắt buộc là N-acetylglutamate (NAG).
+    
+
+**Giai đoạn 2: Tạo Citrulline (Xảy ra tại Ty thể)**
+
+- **Phương trình:**
+    
+    $$\text{Carbamoyl phosphate} + \text{Ornithine} \xrightarrow{\text{OTC}} \text{Citrulline} + \text{P}_i$$
+    
+- **Enzyme xúc tác:** Ornithine transcarbamoylase (OTC).
+    
+- **Sự vận chuyển:** Citrulline tạo thành được vận chuyển từ ty thể ra ngoài bào tương.
+    
+
+**Giai đoạn 3: Tạo Argininosuccinate (Xảy ra tại Bào tương)**
+
+- **Phương trình:**
+    
+    $$\text{Citrulline} + \text{Aspartate} + \text{ATP} \xrightarrow{\text{Argininosuccinate synthetase}} \text{Argininosuccinate} + \text{AMP} + \text{PP}_i$$
+    
+- **Enzyme xúc tác:** Argininosuccinate synthetase (Arginino-succinic-synthetase).
+    
+- **Đặc điểm:** Tiêu tốn 1 ATP (thủy phân thành $\text{AMP} + \text{PP}_i$, tương đương tốn 2 liên kết cao năng ATP). Giai đoạn này nạp nhóm $-NH_2$ thứ hai cho Urê từ Aspartate.
+    
+
+**Giai đoạn 4: Phân ly Argininosuccinate (Xảy ra tại Bào tương)**
+
+- **Phương trình:**
+    
+    $$\text{Argininosuccinate} \xrightarrow{\text{Argininosuccinate lyase}} \text{Arginine} + \text{Fumarate}$$
+    
+- **Enzyme xúc tác:** Argininosuccinate lyase (Arginino-succinate-ligase/lyase).
+    
+- **Sản phẩm:** Giải phóng Arginine và Fumarate.
+    
+
+**Giai đoạn 5: Thủy phân Arginine tái tạo Ornithine & Giải phóng Urê (Xảy ra tại Bào tương)**
+
+- **Phương trình:**
+    
+    $$\text{Arginine} + \text{H}_2\text{O} \xrightarrow{\text{Arginase}} \text{Urê} + \text{Ornithine}$$
+    
+- **Enzyme xúc tác:** Arginase.
+    
+- **Số phận sản phẩm:**
+    
+    - **Urê:** Theo máu đến **Thận** và bài tiết ra ngoài qua nước tiểu.
+        
+    - **Ornithine:** Vận chuyển từ bào tương tái nhập vào ty thể để tiếp tục vòng chu trình mới.
+
+
+
+#### c. Mối liên quan với Chu trình Krebs (Thoi Aspartate - Argininosuccinate)
+
+- **Sự kết nối kép (Bicycle of Krebs):** Fumarate tạo ra ở Giai đoạn 4 giúp nối liền Chu trình Urê với Chu trình Krebs.
+    
+- **Sơ đồ liên kết:**
+    
+    $$\text{Fumarate (từ Chu trình Urê)} \rightarrow \text{Malate} \xrightarrow[\text{Chu trình Krebs}]{\text{Ty thể}} \text{Oxaloacetate} \xrightarrow{\text{Chuyển amin từ Glu}} \text{Aspartate} \rightarrow \text{Đi vào Chu trình Urê}$$
+    
+- **Bù đắp năng lượng:** Phản ứng biến đổi Malate $\rightarrow$ Oxaloacetate trong ty thể tạo ra $1\text{ NADH}$ ($\approx 2.5\text{ ATP}$), giúp bù đắp năng lượng tiêu tốn cho việc tổng hợp Urê.
+
+![[hoa_sinh_protid_25.png]]
+
+#### d. Nguồn gốc Nguyên tử & Cân bằng Năng lượng
+
+- **Nguồn gốc các nguyên tử trong phân tử Urê $\text{O=C(NH}_2)_2$:**
+    
+    - **1 Nguyên tử Carbon ($C$):** Lấy từ $\text{CO}_2$ ($\text{HCO}_3^-$).
+        
+    - **1 Nhóm Nitrogen ($N$ thứ nhất):** Lấy từ $\text{NH}_3$ tự do (từ phản ứng khử amin).
+        
+    - **1 Nhóm Nitrogen ($N$ thứ hai):** Lấy từ **Aspartate** (từ phản ứng chuyển amin).
+        
+- **Cân bằng năng lượng toàn chu trình:**
+    
+    - Tiêu tốn tổng cộng **4 liên kết phosphate cao năng** (2 ATP ở Giai đoạn 1 + 1 ATP thành AMP ở Giai đoạn 3 tương đương 2 ATP).
+        
+- **Ứng dụng Lâm sàng:**
+    
+    - **Suy gan:** Suy giảm chức năng tổng hợp Urê $\rightarrow$ Bệnh lý tăng $\text{NH}_3$ máu (Hyperammonemia) $\rightarrow$ Ngộ độc thần kinh, hôn mê gan (bệnh não do gan).
+        
+    - **Xét nghiệm BUN / Urea máu:** Chỉ số quan trọng đánh giá chức năng lọc của thận và mức độ thoái hóa protein trong cơ thể.
+
+### 3. Sự chuyên chở NH<sub>3</sub>
+#### a. Nguy cơ của $\text{NH}_3$ & Yêu cầu Chuyên chở An toàn
+
+- **Độc tính $\text{NH}_3$:** Độc cao với tế bào, đặc biệt là hệ thần kinh trung ương (não bộ).
+    
+- **Cơ chế gây độc:**
+    
+    - Làm biến đổi pH môi trường nội bào.
+        
+    - Gắn với $\alpha$-ketoglutarate $\rightarrow$ Cạn kiệt cơ chất của Chu trình Krebs $\rightarrow$ Thất thoát năng lượng ATP của tế bào.
+        
+- **Yêu cầu bắt buộc:** $\text{NH}_3$ giải phóng từ các mô không được lưu thông tự do trong máu. Phải chuyển hóa thành dạng kết hợp trung tính, không độc trước khi vào hệ tuần hoàn để đến Gan hoặc Thận.
+
+
+#### b. Glutamin - Dạng Chuyên chở $\text{NH}_3$ Chủ yếu
+
+**Tính chất của Glutamin**
+
+- Chất trung tính, không độc, dễ dàng đi qua màng tế bào vào máu.
+    
+
+![[hoa_sinh_protid_26.png]]
+**Phản ứng Tạo Glutamin (Xảy ra tại các mô ngoại vi: Cơ, Não, Tụy,...)**
+
+- **Xúc tác:** Enzyme **Glutamine Synthetase**.
+    
+- **Tiêu tốn năng lượng:** $1\text{ ATP}$.
+    
+- **Phương trình:**
+    
+    $$\text{Glutamate} + \text{NH}_3 + \text{ATP} \xrightarrow{\text{Glutamine Synthetase}} \text{Glutamine} + \text{ADP} + \text{P}_i$$
+    
+
+**Phản ứng Giải phóng $\text{NH}_3$ từ Glutamin (Xảy ra tại Gan và Thận)**
+
+- **Xúc tác:** Enzyme **Glutaminase**.
+    
+- **Phương trình:**
+    
+    $$\text{Glutamine} + \text{H}_2\text{O} \xrightarrow{\text{Glutaminase}} \text{Glutamate} + \text{NH}_3$$
+
+
+
+#### c. Con đường Đào thải $\text{NH}_3$ tại Gan và Thận
+
+![[hoa_sinh_protid_27.png]]
+**Sơ đồ Vận chuyển Tổng quát:**
+
+$$\text{Glutamic acid} + \text{NH}_3 \rightarrow \text{Glutamin} \xrightarrow{\text{Vận chuyển qua Máu}} \begin{cases} \text{Gan} \\ \text{Thận} \end{cases}$$
+
+**1. Hướng xử lý tại Gan:**
+
+- Glutamin $\xrightarrow{\text{Glutaminase}}$ Glutamic acid + $\text{NH}_3$.
+    
+- $\text{NH}_3$ giải phóng $\rightarrow$ Đi vào **Chu trình Urê** $\rightarrow$ Tạo **Urê** không độc.
+    
+- Urê vào máu $\rightarrow$ Đến Thận $\rightarrow$ Đào thải ra ngoài qua nước tiểu.
+    
+
+**2. Hướng xử lý tại Thận:**
+
+- Glutamin $\xrightarrow{\text{Glutaminase}}$ Glutamic acid + $\text{NH}_3$.
+    
+- $\text{NH}_3$ kết hợp $H^+$ nội bào $\rightarrow$ Tạo ion Ammonium ($\text{NH}_4^+$).
+    
+- $\text{NH}_4^+$ bài tiết trực tiếp ra nước tiểu.
+
+
+#### d. Các Con đường & Ý nghĩa Sinh học Liên quan
+
+- **Chu trình Glucose - Alanine (Con đường chuyên chở $\text{NH}_3$ riêng của Cơ xương):**
+    
+    - Tại Cơ: $\text{NH}_3$ + Pyruvate $\xrightarrow{\text{Chuyển amin}}$ **Alanine**.
+        
+    - Alanine theo máu về **Gan** $\xrightarrow{\text{Chuyển amin ngược}}$ Giải phóng Pyruvate (dùng tân tạo Glucose) và $\text{NH}_3$ (dùng tổng hợp Urê).
+        
+- **Ý nghĩa điều hòa Acid - Base tại Thận:**
+    
+    - Sự tạo $\text{NH}_4^+$ tại tế bào ống thận giúp trung hòa các acid vô cơ, loại bỏ bớt ion $H^+$ tự do $\rightarrow$ Đóng vai trò then chốt trong việc duy trì thăng bằng acid - base của cơ thể (chống toan máu).
+
 
 
 ## 3.3 Phản ứng khử carboxyl
+### a. Cơ chế & Phản ứng Khử Carboxyl Trực tiếp
+
+- **Bản chất:** Loại bỏ nhóm carboxyl ($-COOH$) ra khỏi phân tử acid amin dưới dạng $\text{CO}_2$ tự do.
+    
+- **Enzyme xúc tác:** **Decarboxylase**.
+    
+- **Phương trình hóa học:**
+    ![[hoa_sinh_protid_28.png]]
+    $$R\text{-CH(NH}_2\text{)-COOH} \xrightarrow{\text{Decarboxylase}} R\text{-CH}_2\text{-NH}_2 + \text{CO}_2\uparrow$$
+    
+- **Sản phẩm chính:** Amine tương ứng + Khí Carbon dioxide ($\text{CO}_2$).
+    
+- **Bổ sung Coenzyme bắt buộc:** Pyridoxal phosphate (PLP - dẫn xuất của Vitamin B6).
+
+### b. Con đường Chuyển hóa Tiếp theo của các Amine
+
+Sau khi được tạo thành, các amine tiếp tục bị oxy hóa biến đổi thành các acid tương ứng, sau đó chuyển hóa tiếp như các acid hữu cơ khác:
+
+![[hoa_sinh_protid_29.png]]
+- **Giai đoạn 1 (Oxy hóa tạo Imine):**
+    
+    $$R\text{-CH}_2\text{-NH}_2 + O_2 \rightarrow R\text{-CH=NH} + H_2O$$
+    
+- **Giai đoạn 2 (Thủy phân tạo Aldehyde & giải phóng $\text{NH}_3$):**
+    
+    $$R\text{-CH=NH} + H_2O \rightarrow R\text{-CHO} + \text{NH}_3$$
+    
+    _(Enzyme xúc tác: **Monoamine oxidase - MAO** hoặc **Diamine oxidase - DAO**)_.
+    
+- **Giai đoạn 3 (Oxy hóa Aldehyde thành Carboxylic acid):**
+    
+    $$R\text{-CHO} + O_2 \rightarrow R\text{-COOH}$$
+
+
+
+### c. Các Amine Sinh học Quan trọng Tạo thành từ Phản ứng này
+
+Phản ứng khử carboxyl đóng vai trò cực kỳ quan trọng trong việc tạo ra các chất trung gian thần kinh và hoạt chất sinh học (Amine sinh học - Biogenic amines):
+
+- **Histidine $\xrightarrow{-\text{CO}_2}$ Histamine:** Chất trung gian gây giãn mạch, tăng tính thấm thành mạch, tham gia phản ứng dị ứng và kích thích dạ dày tiết $\text{HCl}$.
+    
+- **Glutamic acid $\xrightarrow{-\text{CO}_2}$ GABA ($\gamma$-aminobutyric acid):** Chất dẫn truyền thần kinh ức chế chính ở não bộ, giúp làm dịu căng thẳng, chống co giật.
+    
+- **Tryptophan $\rightarrow$ 5-Hydroxytryptophan $\xrightarrow{-\text{CO}_2}$ Serotonin (5-HT):** Chất dẫn truyền thần kinh điều hòa tâm trạng, giấc ngủ, cảm xúc và sự thèm ăn.
+    
+- **Tyrosine $\rightarrow$ DOPA $\xrightarrow{-\text{CO}_2}$ Dopamine:** Chất dẫn truyền thần kinh tham gia hệ thống phần thưởng, cảm giác hưng phấn và điều hòa vận động.
+    
+- **Lysine $\xrightarrow{-\text{CO}_2}$ Cadaverine & Ornithine $\xrightarrow{-\text{CO}_2}$ Putrescine:** Các polyamine tạo mùi hôi thối đặc trưng khi đạm bị phân hủy/thối rữa.
+
 
 
 # 4. Tổng hợp protid 

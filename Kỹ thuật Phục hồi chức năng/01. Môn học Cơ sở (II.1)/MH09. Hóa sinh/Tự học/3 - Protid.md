@@ -995,47 +995,27 @@ Cặn ceto acid (khung carbon) sau khi bị loại nhóm $-NH_2$ sẽ biến đ�
 
 ### 3. Sự chuyên chở NH<sub>3</sub>
 #### a. Nguy cơ của $\text{NH}_3$ & Yêu cầu Chuyên chở An toàn
-
 - **Độc tính $\text{NH}_3$:** Độc cao với tế bào, đặc biệt là hệ thần kinh trung ương (não bộ).
-    
 - **Cơ chế gây độc:**
-    
     - Làm biến đổi pH môi trường nội bào.
-        
     - Gắn với $\alpha$-ketoglutarate $\rightarrow$ Cạn kiệt cơ chất của Chu trình Krebs $\rightarrow$ Thất thoát năng lượng ATP của tế bào.
         
 - **Yêu cầu bắt buộc:** $\text{NH}_3$ giải phóng từ các mô không được lưu thông tự do trong máu. Phải chuyển hóa thành dạng kết hợp trung tính, không độc trước khi vào hệ tuần hoàn để đến Gan hoặc Thận.
 
-
 #### b. Glutamin - Dạng Chuyên chở $\text{NH}_3$ Chủ yếu
-
 **Tính chất của Glutamin**
-
 - Chất trung tính, không độc, dễ dàng đi qua màng tế bào vào máu.
-    
 
 ![[hoa_sinh_protid_26.png]]
 **Phản ứng Tạo Glutamin (Xảy ra tại các mô ngoại vi: Cơ, Não, Tụy,...)**
-
 - **Xúc tác:** Enzyme **Glutamine Synthetase**.
-    
 - **Tiêu tốn năng lượng:** $1\text{ ATP}$.
-    
 - **Phương trình:**
-    
     $$\text{Glutamate} + \text{NH}_3 + \text{ATP} \xrightarrow{\text{Glutamine Synthetase}} \text{Glutamine} + \text{ADP} + \text{P}_i$$
-    
-
 **Phản ứng Giải phóng $\text{NH}_3$ từ Glutamin (Xảy ra tại Gan và Thận)**
-
 - **Xúc tác:** Enzyme **Glutaminase**.
-    
 - **Phương trình:**
-    
     $$\text{Glutamine} + \text{H}_2\text{O} \xrightarrow{\text{Glutaminase}} \text{Glutamate} + \text{NH}_3$$
-
-
-
 #### c. Con đường Đào thải $\text{NH}_3$ tại Gan và Thận
 
 ![[hoa_sinh_protid_27.png]]
@@ -1046,12 +1026,11 @@ $$\text{Glutamic acid} + \text{NH}_3 \rightarrow \text{Glutamin} \xrightarrow{\t
 **1. Hướng xử lý tại Gan:**
 
 - Glutamin $\xrightarrow{\text{Glutaminase}}$ Glutamic acid + $\text{NH}_3$.
-    
+
 - $\text{NH}_3$ giải phóng $\rightarrow$ Đi vào **Chu trình Urê** $\rightarrow$ Tạo **Urê** không độc.
     
 - Urê vào máu $\rightarrow$ Đến Thận $\rightarrow$ Đào thải ra ngoài qua nước tiểu.
     
-
 **2. Hướng xử lý tại Thận:**
 
 - Glutamin $\xrightarrow{\text{Glutaminase}}$ Glutamic acid + $\text{NH}_3$.
@@ -1060,9 +1039,7 @@ $$\text{Glutamic acid} + \text{NH}_3 \rightarrow \text{Glutamin} \xrightarrow{\t
     
 - $\text{NH}_4^+$ bài tiết trực tiếp ra nước tiểu.
 
-
 #### d. Các Con đường & Ý nghĩa Sinh học Liên quan
-
 - **Chu trình Glucose - Alanine (Con đường chuyên chở $\text{NH}_3$ riêng của Cơ xương):**
     
     - Tại Cơ: $\text{NH}_3$ + Pyruvate $\xrightarrow{\text{Chuyển amin}}$ **Alanine**.
@@ -1070,49 +1047,32 @@ $$\text{Glutamic acid} + \text{NH}_3 \rightarrow \text{Glutamin} \xrightarrow{\t
     - Alanine theo máu về **Gan** $\xrightarrow{\text{Chuyển amin ngược}}$ Giải phóng Pyruvate (dùng tân tạo Glucose) và $\text{NH}_3$ (dùng tổng hợp Urê).
         
 - **Ý nghĩa điều hòa Acid - Base tại Thận:**
-    
     - Sự tạo $\text{NH}_4^+$ tại tế bào ống thận giúp trung hòa các acid vô cơ, loại bỏ bớt ion $H^+$ tự do $\rightarrow$ Đóng vai trò then chốt trong việc duy trì thăng bằng acid - base của cơ thể (chống toan máu).
-
-
 
 ## 3.3 Phản ứng khử carboxyl
 ### a. Cơ chế & Phản ứng Khử Carboxyl Trực tiếp
-
 - **Bản chất:** Loại bỏ nhóm carboxyl ($-COOH$) ra khỏi phân tử acid amin dưới dạng $\text{CO}_2$ tự do.
-    
 - **Enzyme xúc tác:** **Decarboxylase**.
-    
 - **Phương trình hóa học:**
     ![[hoa_sinh_protid_28.png]]
     $$R\text{-CH(NH}_2\text{)-COOH} \xrightarrow{\text{Decarboxylase}} R\text{-CH}_2\text{-NH}_2 + \text{CO}_2\uparrow$$
     
 - **Sản phẩm chính:** Amine tương ứng + Khí Carbon dioxide ($\text{CO}_2$).
-    
 - **Bổ sung Coenzyme bắt buộc:** Pyridoxal phosphate (PLP - dẫn xuất của Vitamin B6).
 
 ### b. Con đường Chuyển hóa Tiếp theo của các Amine
-
 Sau khi được tạo thành, các amine tiếp tục bị oxy hóa biến đổi thành các acid tương ứng, sau đó chuyển hóa tiếp như các acid hữu cơ khác:
 
 ![[hoa_sinh_protid_29.png]]
 - **Giai đoạn 1 (Oxy hóa tạo Imine):**
-    
     $$R\text{-CH}_2\text{-NH}_2 + O_2 \rightarrow R\text{-CH=NH} + H_2O$$
     
 - **Giai đoạn 2 (Thủy phân tạo Aldehyde & giải phóng $\text{NH}_3$):**
-    
     $$R\text{-CH=NH} + H_2O \rightarrow R\text{-CHO} + \text{NH}_3$$
     
     _(Enzyme xúc tác: **Monoamine oxidase - MAO** hoặc **Diamine oxidase - DAO**)_.
-    
-- **Giai đoạn 3 (Oxy hóa Aldehyde thành Carboxylic acid):**
-    
-    $$R\text{-CHO} + O_2 \rightarrow R\text{-COOH}$$
-
-
-
+- **Giai đoạn 3 (Oxy hóa Aldehyde thành Carboxylic acid):**    $$R\text{-CHO} + O_2 \rightarrow R\text{-COOH}$$
 ### c. Các Amine Sinh học Quan trọng Tạo thành từ Phản ứng này
-
 Phản ứng khử carboxyl đóng vai trò cực kỳ quan trọng trong việc tạo ra các chất trung gian thần kinh và hoạt chất sinh học (Amine sinh học - Biogenic amines):
 
 - **Histidine $\xrightarrow{-\text{CO}_2}$ Histamine:** Chất trung gian gây giãn mạch, tăng tính thấm thành mạch, tham gia phản ứng dị ứng và kích thích dạ dày tiết $\text{HCl}$.
@@ -1125,10 +1085,102 @@ Phản ứng khử carboxyl đóng vai trò cực kỳ quan trọng trong việc
     
 - **Lysine $\xrightarrow{-\text{CO}_2}$ Cadaverine & Ornithine $\xrightarrow{-\text{CO}_2}$ Putrescine:** Các polyamine tạo mùi hôi thối đặc trưng khi đạm bị phân hủy/thối rữa.
 
-
-
 # 4. Tổng hợp protid 
 ## 4.1 Tổng hợp acid amin
+### a. Khả năng Tổng hợp & Nguồn gốc Nitơ
+- **Khả năng tổng hợp ở cơ thể người:**
+    - Cơ thể chỉ tự tổng hợp được **10 – 12 acid amin** (nhóm acid amin không cần thiết) từ các sản phẩm trung gian của chuyển hóa glucid và lipid.
+    - Các acid amin còn lại (**acid amin cần thiết**) bắt buộc phải thu nhận từ thức ăn (nguồn gốc do vi sinh vật và thực vật tổng hợp).
+        
+- **Acid amin bán cần thiết:** **Arginine (Arg)** và **Histidine (His)** là hai acid amin cơ thể trẻ em không tự tổng hợp đủ nhu cầu phát triển nhanh, nên bắt buộc phải bổ sung thêm từ khẩu phần ăn.
+    
+- **Quá trình cố định Nitơ tự nhiên:** Chuyển hóa $\text{N}_2$, nitrit ($\text{NO}_2^-$) và nitrat ($\text{NO}_3^-$) thành ion $\text{NH}_4^+$ **chỉ có ở vi sinh vật và thực vật**.
+    
+    - **Phương trình cố định nitơ sinh học:**
+        $$\text{N}_2 + 10\text{H}^+ + 8e^- + 16\text{ATP} \xrightarrow{\text{Nitrogenase}} 2\text{NH}_4^+ + 16\text{ADP} + 16\text{P}_i + \text{H}_2$$
+		![[hoa_sinh_protid_30.png]]
+### b. Các Phản ứng Tổng hợp & Cơ chế Điều hòa
+- **Các dạng phản ứng sinh học:** Chuyển amin (chuyển vị), amin hóa (gài nhóm $-NH_2$), amide hóa (gài nhóm $-CONH_2$), oxy hóa - khử,...
+    
+- **Ví dụ các phản ứng gài amin/amide hóa tiêu biểu:**
+		![[hoa_sinh_protid_31.png]]
+	    
+    - **Tạo Glutamate:**
+        $$\alpha\text{-ketoglutaric acid} + \text{NH}_3 \rightarrow \text{glutamic acid}$$
+    - **Tạo Aspartate:**
+        $$\text{oxaloacetic acid} + \text{NH}_3 \rightarrow \text{aspartic acid}$$
+    - **Tạo Asparagine:**
+        $$\text{aspartic acid} + \text{NH}_3 \rightarrow \text{asparagine}$$
+- **Cơ chế điều hòa:**
+    - Được kiểm soát chặt chẽ theo cơ chế **ức chế ngược (Feedback inhibition)**.
+    - Khi lượng sản phẩm cuối cùng của con đường tổng hợp tích lũy đủ, chính sản phẩm này sẽ quay lại ức chế enzyme xúc tác phản ứng đầu tiên của chuỗi để tránh lãng phí cơ chất và năng lượng.
 
+
+
+### c. Các Tiền chất Trung gian Tổng hợp Acid Amin (Mối liên quan Chuyển hóa)
+![[hoa_sinh_protid_32.png]]
+
+Các acid amin mới được hình thành trực tiếp từ các chất trung gian của 3 con đường chuyển hóa năng lượng chính:
+
+**1. Từ Con đường Pentose Phosphate (PPP)**
+- **Ribose 5-phosphate (R5P):** Tiền chất tạo **Histidine (His)**.
+- **Erythrose 4-phosphate (E4P):** Kết hợp với PEP tạo các acid amin nhân thơm (**Phenylalanine - Phe, Tyrosine - Tyr, Tryptophan - Trp**).
+    
+
+**2. Từ Con đường Đường phân (Glycolysis)**
+- **3-Phosphoglycerate (3PG):** Tiền chất tạo **Serine (Ser)**.
+- **Phosphoenolpyruvate (PEP):** Tham gia tổng hợp Phe, Tyr, Trp.
+- **Pyruvate:** Tiền chất tạo **Alanine (Ala), Valine (Val), Isoleucine (Ile), Leucine (Leu)**.
+    
+
+**3. Từ Chu trình Krebs (Citric Acid Cycle - CAC)**
+- **$\alpha$-Ketoglutarate:** Tiền chất tạo **Glutamate (Glu)** $\rightarrow$ từ Glutamate tiếp tục tổng hợp **Glutamine (Gln), Proline (Pro), Arginine (Arg)**.
+- **Oxaloacetate:** Tiền chất tạo **Aspartate (Asp)** $\rightarrow$ từ Aspartate tiếp tục tổng hợp **Asparagine (Asn), Methionine (Met), Threonine (Thr), Lysine (Lys)**.
 
 ## 4.2 Tổng hợp Protid
+Sự sinh tổng hợp protid diễn ra qua hai quá trình chính liên tiếp: **Phiên mã** (trong nhân tế bào) và **Dịch mã** (tại tế bào chất).
+### a. Quá trình Phiên mã (Transcription)
+- **Định nghĩa:** Quá trình tổng hợp phân tử $\text{mRNA}$ (ARN thông tin) dựa trên khuôn mẫu của một mạch $\text{DNA}$.
+    
+- **Enzyme xúc tác:** **RNA polymerase** (ARN polymerase).
+    
+- **Bổ sung chi tiết:**
+    - Diễn ra trong nhân tế bào (ở sinh vật nhân thực).
+    - Chiều tổng hợp chuỗi $\text{mRNA}$ luôn theo chiều $5' \rightarrow 3'$.
+    - Phân tử $\text{mRNA}$ sau khi tổng hợp và chế bản (ở nhân thực) sẽ chui qua lỗ màng nhân ra ngoài tế bào chất để làm khuôn cho quá trình dịch mã.
+
+
+### b. Quá trình Dịch mã (Translation) - Sinh tổng hợp Protid
+Vị trí diễn ra tại **Ribosome** nằm trong tế bào chất. Quá trình bao gồm 2 bước chính:
+##### Bước 1: Hoạt hóa Acid Amin (Activation of Amino Acids)
+- **Cơ chế:** Kết hợp acid amin do môi trường nội bào cung cấp với $\text{tRNA}$ (ARN vận chuyển) tương ứng để tạo thành phức hợp **Aminoacyl-tRNA**.
+    
+- **Enzyme xúc tác:** **Aminoacyl-tRNA synthetase** (đặc hiệu cho từng loại acid amin).
+- **Tiêu tốn năng lượng:** $1\text{ ATP}$ (thủy phân thành $\text{AMP} + \text{PP}_i$).
+- **Phương trình phản ứng:**
+    
+    $$\text{Acid amin} + \text{ATP} + \text{tRNA} \xrightarrow{\text{Aminoacyl-tRNA synthetase}} \text{Aminoacyl-tRNA} + \text{AMP} + \text{PP}_i$$
+    
+##### Bước 2: Quá trình Dịch mã trên Ribosome
+Gồm 3 giai đoạn liên tiếp:
+1. **Giai đoạn Mở đầu (Initiation):**
+    - Tiểu đơn vị nhỏ của Ribosome gắn vào vị trí nhận diện trên $\text{mRNA}$ và di chuyển đến bộ ba mở đầu **$\text{AUG}$**.
+    - Phức hợp $\text{tRNA}$ mang acid amin mở đầu tiến vào vị trí (Mã mở đầu $\text{AUG}$ mã hóa **Methionine** ở sinh vật nhân thực hoặc **Formyl-methionine** ở sinh vật nhân sơ).
+    - Tiểu đơn vị lớn của Ribosome ráp vào hoàn chỉnh phức hợp dịch mã.
+        
+2. **Giai đoạn Kéo dài (Elongation):**
+    - $\text{Aminoacyl-tRNA}$ tiếp theo mang acid amin tương ứng với mã bộ ba tiếp theo tiến vào vị trí Ribosome.
+    - Enzyme **Peptidyl transferase** hình thành **liên kết peptide** nối acid amin trước với acid amin vừa đến.
+    - Ribosome dịch chuyển (translocation) một bộ ba ($3\text{ nucleotide}$) theo chiều $5' \rightarrow 3'$ trên $\text{mRNA}$ để giải phóng $\text{tRNA}$ cũ và đón $\text{tRNA}$ mới. Quá trình lặp lại để kéo dài chuỗi polypeptide.
+        
+3. **Giai đoạn Kết thúc (Termination):**
+    - Ribosome di chuyển đến gặp một trong ba **mã kết thúc** trên $\text{mRNA}$ (**$\text{UAA}, \text{UAG}, \text{UGA}$**).
+    - Yếu tố phóng thích (Release factor) gắn vào, làm ngừng quá trình dịch mã, giải phóng chuỗi polypeptide hoàn chỉnh và tách rời các thành phần của Ribosome.
+
+### c. Biến đổi sau Dịch mã (Post-translational Modifications)
+Chuỗi polypeptide mới sinh ra chưa có hoạt tính sinh học ngay mà phải trải qua quá trình biến đổi:
+- **Cắt bỏ gốc Mở đầu:** Loại bỏ acid amin Methionine (hoặc Formyl-methionine) ở đầu N tận.
+
+- **Cuộn gập cấu trúc (Folding):** Nhờ các protein hỗ trợ (Chaperone) giúp chuỗi cuộn gập tạo thành cấu trúc không gian bậc II, III hoặc IV.
+
+- **Sửa đổi hóa học:** Gắn thêm các nhóm chức (Phosphoryl hóa, Glycosyl hóa tạo Glycoprotein, Hydroxy hóa), hoặc tạo các **cầu nối Disulfide ($-S-S-$)** giữa các gốc Cysteine để cố định cấu trúc hoạt động hoàn chỉnh.

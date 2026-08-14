@@ -1324,6 +1324,7 @@ Hai xương được nối với nhau bằng **màng gian cốt (Interosseous me
 
 > **(Bổ sung)** Khác với cẳng tay, hai xương cẳng chân **không xoay quanh nhau**. **Xương chày** chịu gần như toàn bộ trọng lượng cơ thể, còn **xương mác** chủ yếu giúp ổn định cổ chân và là nơi bám của cơ.
 
+
 ##### 1. Xương chày _(Tibia)_
 Xương chày (**Tibia**) là xương lớn và khỏe nhất của cẳng chân, nằm ở **phía trong**.
 

@@ -3,6 +3,8 @@
 > https://youtu.be/bLyXFixmVps?si=jopdqtxtiy466hrL
 > https://youtu.be/L-QT_tARIFs?si=DlWIVCHPwvOsgkPP
 
+Hệ xương
+===
 # 1. Đại cương 
 Hệ xương chi dưới bao gồm tổng cộng **62 xương** (mỗi bên 31 xương), được chia làm hai phần chính kết nối từ gốc chi đến ngọn chi: 
 
@@ -880,6 +882,8 @@ Mỗi xương bàn chân gồm 3 phần:
 - **Nền (Base)** – đầu gần.
 - **Thân (Shaft/Body)**.
 - **Chỏm (Head)** – đầu xa.
+![[GPSL_xuong_ban_chan_5.png]]
+
 ### 7.2.1 Nền xương (Base)
 - Nằm ở đầu gần.
 - Tiếp khớp với các **xương cổ chân (Tarsal bones)** tạo **khớp cổ chân – bàn chân (Tarsometatarsal joints – TMT joints)**.
@@ -1137,3 +1141,208 @@ Có thể gặp:
 Và riêng ngón cái:
 
 > **Metatarsal I → Proximal phalanx → Distal phalanx**
+
+
+---
+Hệ khớp
+===
+# 8 Đại cương
+Các khớp của chi dưới liên kết **đai chậu và các xương chi dưới**, giúp cơ thể:
+
+- **Chịu và truyền trọng lượng cơ thể**.
+- Giữ **thăng bằng và tư thế đứng**.
+- Thực hiện các động tác **đi, chạy, nhảy**.
+- Kết hợp giữa **độ vững chắc** và **khả năng vận động**.
+
+Các khớp chính của chi dưới có thể sắp xếp theo thứ tự:
+
+1. **Khớp hông (Hip joint)**
+2. **Khớp gối (Knee joint)**
+3. **Khớp chày – mác (Tibiofibular joints)**
+4. **Khớp cổ chân (Ankle / Talocrural joint)**
+5. **Các khớp của bàn chân (Joints of foot)**
+
+> **Đặc điểm chung:** Các khớp lớn của chi dưới, đặc biệt **khớp hông và khớp gối**, phải chịu tải trọng lớn nên thường có hệ thống **dây chằng và cấu trúc ổn định rất phát triển**.
+
+# 9. Khớp Hông (Hip joint) 
+## 9.1 Đại cương 
+Khớp hông (**Hip joint**) là khớp nối **xương đùi (Femur)** với **xương chậu (Hip bone)**.
+
+Đây là một **khớp hoạt dịch (Synovial joint)** thuộc loại **khớp cầu (Ball-and-socket joint)**, cho phép vận động quanh nhiều trục.
+
+### Đặc điểm chính
+
+- **Khớp cầu đa trục (Multiaxial ball-and-socket joint)**.
+- Có **độ vững chắc cao**.
+- Chịu và truyền **phần lớn trọng lượng cơ thể** từ thân mình xuống chi dưới.
+- Cho phép vận động rộng nhưng **ít linh hoạt hơn khớp vai**, do ổ cối sâu và hệ thống dây chằng chắc.
+![[xuong_dui_2.png]]
+![[GPSL_xuong_chi_duoi_khop_hong_1.png]]
+![[GPSL_xuong_chi_duoi_khop_hong_2.png]]
+![[GPSL_xuong_chi_duoi_khop_hong_3.png]]
+![[GPSL_xuong_chi_duoi_khop_hong_4.png]]
+
+
+## 9.2 Diện khớp (Articular surfaces)
+Khớp hông được tạo bởi hai diện khớp chính:
+
+### 9.2.1. Chỏm xương đùi (Head of femur)
+
+- Có dạng gần hình cầu.
+- Hướng vào trong, lên trên và hơi ra trước.
+- Phần lớn bề mặt được phủ **sụn khớp (Articular cartilage)**.
+- Có **hố chỏm xương đùi (Fovea of head of femur)** ở trung tâm.
+
+> **Lưu ý:** Hố chỏm **không phải là diện khớp**, vì không được phủ sụn khớp như phần còn lại của chỏm.
+
+### 9.2.2. Diện nguyệt của ổ cối (Lunate surface of acetabulum)
+
+- Nằm trên mặt trong của **ổ cối (Acetabulum)**.
+- Có hình móng ngựa.
+- Được phủ sụn khớp.
+- Tiếp khớp với **chỏm xương đùi**.
+
+Ở trung tâm ổ cối có:
+
+- **Hố ổ cối (Acetabular fossa)** → không phải diện khớp.
+
+Phía dưới ổ cối có:
+
+- **Khuyết ổ cối (Acetabular notch)**.
+
+Khuyết này được bắc qua bởi:
+
+- **Dây chằng ngang ổ cối (Transverse acetabular ligament)**.
+
+## 9.3 Sụn viền ổ cối (Acetabular labrum)
+
+**Sụn viền ổ cối (Acetabular labrum)** là một vòng sụn sợi bám quanh **bờ ổ cối**.
+
+### Chức năng
+
+- Làm **sâu thêm ổ cối**.
+- Tăng diện tích tiếp xúc với chỏm xương đùi.
+- Giúp **giữ chỏm xương đùi trong ổ cối**.
+- Góp phần làm tăng độ vững của khớp.
+
+> **Nhớ:**  
+> **Ổ cối sâu + sụn viền + dây chằng chắc → khớp hông rất vững.**
+
+
+## 9.4 Bao khớp (Articular capsule)
+Bao khớp (**Joint capsule**) bao quanh toàn bộ khớp hông.
+### Phía ngoài
+
+Bao khớp bám vào:
+
+- **Bờ ổ cối**.
+- **Sụn viền ổ cối**.
+
+### Phía xương đùi
+
+Bao khớp bám:
+
+- Phía trước: gần **đường gian mấu (Intertrochanteric line)**.
+- Phía sau: bám vào vùng **cổ xương đùi**, gần đường mào gian mấu.
+
+→ Vì vậy, **phần lớn cổ xương đùi nằm trong bao khớp**, nhưng vùng phía sau của cổ có một phần nằm ngoài bao khớp.
+
+## 9.5 Màng hoạt dịch (Synovial membrane)
+
+Mặt trong bao khớp được lót bởi:
+
+- **Màng hoạt dịch (Synovial membrane)**.
+
+Màng hoạt dịch:
+
+- Tiết **dịch hoạt dịch (Synovial fluid)**.
+- Giúp **bôi trơn khớp**.
+- Giảm ma sát.
+- Hỗ trợ dinh dưỡng cho sụn khớp.
+
+Theo hình bạn gửi, màng hoạt dịch **lót mặt trong bao khớp nhưng không phủ lên bề mặt sụn khớp**.
+
+## 9.6 Các dây chằng của khớp hông
+Khớp hông có hệ thống dây chằng rất chắc, giúp hạn chế trật khớp và duy trì tư thế đứng.
+
+Có 3 dây chằng chính ở mặt ngoài bao khớp:
+
+### 9.6.1. Dây chằng chậu – đùi (Iliofemoral ligament)
+
+- Nằm ở mặt trước khớp hông.
+- Nối **xương chậu** với **xương đùi**.
+- Là **một trong những dây chằng khỏe nhất cơ thể**.
+- Có hình chữ Y.
+
+### Chức năng
+
+- Hạn chế **duỗi quá mức (Hyperextension)** khớp hông.
+- Giúp ổn định khớp khi đứng.
+
+> Đây là dây chằng rất quan trọng đối với **tư thế đứng**.
+
+---
+
+### 9.6.2. Dây chằng mu – đùi (Pubofemoral ligament)
+
+- Nằm ở phía trước – dưới khớp.
+- Đi từ vùng **xương mu** đến bao khớp và xương đùi.
+
+### Chức năng
+
+- Hạn chế **dạng quá mức (Excessive abduction)**.
+- Góp phần ổn định khớp.
+
+---
+
+### 9.6.3. Dây chằng ngồi – đùi (Ischiofemoral ligament)
+
+- Nằm ở phía sau khớp.
+- Đi từ vùng **xương ngồi** đến vùng cổ xương đùi.
+
+### Chức năng
+
+- Tăng cường mặt sau bao khớp.
+- Hạn chế một số động tác **xoay và duỗi quá mức**.
+
+## 9.7  Dây chằng chỏm xương đùi (Ligament of head of femur)
+
+Còn gọi là:
+
+**Dây chằng tròn xương đùi (Ligamentum teres femoris)**.
+
+- Đi từ vùng **khuyết ổ cối** đến **hố chỏm xương đùi**.
+- Nằm bên trong khớp.
+
+### Vai trò
+
+- Góp phần giữ chỏm xương đùi.
+- Có thể mang theo **nhánh động mạch đến chỏm xương đùi (Artery to head of femur)**.
+
+> Ở người trưởng thành, mạch này thường **không phải nguồn cấp máu chính cho chỏm xương đùi**; nguồn quan trọng hơn là các nhánh của **động mạch mũ đùi trong (Medial circumflex femoral artery)**.
+
+
+## 9.8 Bao khớp và các dây chằng
+Các dây chằng của khớp hông có một đặc điểm rất quan trọng:
+
+> **Các bó sợi của bao khớp xoắn quanh cổ xương đùi.**
+
+Khi khớp hông **duỗi**, các sợi này căng lên → giúp:
+
+- Tăng độ vững của khớp.
+- Hạn chế duỗi quá mức.
+- Hỗ trợ cơ thể **đứng thẳng mà không cần cơ phải hoạt động liên tục**.
+
+Đây là một đặc điểm giải phẫu rất đáng nhớ của **khớp hông**.
+
+## 9.9
+
+# 10. Khớp gối (Knee joint)
+
+# 11. Khớp chày – mác (Tibiofibular joints)
+
+# 12. Khớp cổ chân (Ankle / Talocrural joint)
+
+
+# 13. Các khớp của bàn chân (Joints of foot)
+

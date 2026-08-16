@@ -71,7 +71,7 @@ Mũi được cấu tạo chủ yếu bởi khung xương-sụn và lớp niêm 
 - **Khung xương mũi** (_Bony framework_):
     - Xương mũi (_Nasal bones_), xương hàm trên (_Maxilla_), xương trán (_Frontal bone_), xương sàng (_Ethmoid bone_), xương bướm (_Sphenoid bone_) và xương lá mía (_Vomer_).
         
-- **Khung sụn mũi** (_Cartilaginous framework_):
+- **Khung sụn mũi** (_Cartilaginous framework_):               
     - Sụn vách ngăn mũi (_Septal cartilage_)
     - Sụn mũi bên (_Lateral nasal cartilage_)
     - Sụn cánh mũi lớn/nhỏ (_Major/Minor alar cartilages_)

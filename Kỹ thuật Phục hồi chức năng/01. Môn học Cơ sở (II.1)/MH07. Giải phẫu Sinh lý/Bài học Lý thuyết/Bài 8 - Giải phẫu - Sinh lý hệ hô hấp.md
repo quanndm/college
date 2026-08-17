@@ -135,11 +135,12 @@ Hầu được chia thành **3 tầng / 3 đoạn** từ trên xuống dưới:
 - **Các chi tiết giải phẫu quan trọng**:
     - **Lỗ mũi sau** (_Choanae_): Thông phía trước với hố mũi.
     - **Vòm hầu** => niêm mạc phủ mặt dưới của xương thân bướm, phần nền xương chẩm, cung trước đốt đội
-	    -  **Tuyến hạnh nhân hầu / VA** (_Pharyngeal tonsil / Adenoid_): Nằm ở trần và thành sau tỵ hầu. Khi phì đại gọi là **chêm VA**, gây nghẹt mũi ở trẻ em.
+	    -  **Tuyến hạnh nhân hầu / VA** (_Pharyngeal tonsil / Adenoid_): Nằm ở trần và thành sau tỵ hầu. Khi phì đại gọi là **sùi VA**, gây nghẹt mũi ở trẻ em.
     - **Lỗ vòi tai / Vòi Eustache** (_Pharyngeal opening of auditory tube_): Nằm ở thành bên, thông tỵ hầu với hòm tai (giúp cân bằng áp suất không khí ở tai giữa).
 	    - Mô bạch huyết quanh lỗ hầu của vòi tai => **hạnh nhân vòi**
 		- **Tuyến hạnh nhân vòi** (_Tubal tonsil_): Nằm vây quanh lỗ vòi tai.
 ![[he_ho_hap_hau_2.png]]
+
 #### B. Khẩu hầu / Hầu miệng (Oropharynx)
 - **Vị trí**: Nằm sau khoang miệng, từ khẩu cái mềm xuống đến bờ trên **Sụn nắp thanh nhiệt** (_Epiglottis_). Là đoạn chung cho cả hô hấp và tiêu hóa.
 
@@ -163,6 +164,8 @@ Hầu được chia thành **3 tầng / 3 đoạn** từ trên xuống dưới:
 > **Ghi chú mở rộng (Vòng Waldeyer - Waldeyer's ring):**
 > 
 > Các tuyến hạnh nhân tập hợp lại thành một **vòng bạch huyết quanh hầu** bảo vệ cửa ngõ hô hấp/tiêu hóa gồm: _Tuyến hạnh nhân hầu (VA) + (2) Tuyến hạnh nhân vòi + (2) Tuyến hạnh nhân khẩu cái (Amydal) + Tuyến hạnh nhân lưỡi_.
+
+
 ![[he_ho_hap_hau_4.png]]
 #### C. Thanh hầu / Hầu thanh quản (Laryngopharynx / Hypopharynx)
 - **Vị trí**: 
@@ -362,7 +365,7 @@ Khí quản là một ống dẫn khí hình trụ, dẹt ở phía sau, nối t
 	- **Đoạn ngực (_thoracic part_).**
 		- Đi từ đốt sống ngực II tới đốt sống ngực IV.
 		- Liên quan:
-			- Phía trước và 2 bên liên quan với các mạch máu lớn, dây thần kinh X phải và trái.
+				- Phía trước và 2 bên liên quan với các mạch máu lớn, dây thần kinh X phải và trái.
 			- Phía sau liên quan với thực quản.
 
 	![[he_ho_hap_khi_quan_4.png]]
@@ -593,7 +596,9 @@ Phổi được chia thành các đơn vị giải phẫu độc lập gọi là
 
 ### 1.6.4 Cấu tạo (_Structure_)
 
-Phổi được cấu tạo bởi **Cây phế quản** (_Bronchial tree_), **Phế nang** (_Alveoli_), **Mạch máu (Động/tĩnh mạch phổi, Động/tĩnh mạch phế quản), Thần kinh**.
+Phổi được cấu tạo bởi **Cây phế quản** (_Bronchial tree_), **Tiểu Phế Quản** (_Bronchioles_), **Phế nang** (_Alveoli_), **Mạch máu (Động/tĩnh mạch phổi, Động/tĩnh mạch phế quản), Thần kinh**.
+
+
 #### A. Phế nang (_Alveoli_) — Đơn vị chức năng
 
 - Nơi diễn ra **sự trao đổi khí** (_gas exchange_).
@@ -662,10 +667,10 @@ Ngoặc vào rốn phổi phải và chia thành **3 Phế quản thùy** (_Loba
         
     - Phổi phải: Liên quan với **tĩnh mạch chủ trên, tĩnh mạch đơn, thực quản**.
 ### 1.6.6 Chức năng (_Function_)
-|**Loại chức năng**|**Chi tiết**|
-|---|---|
-|**Chức năng Hô hấp** (_Respiratory function_)|**Trao đổi khí:** Tiếp nhận $O_2$ từ không khí vào máu và thải $CO_2$ từ máu ra ngoài qua màng phế nang - mao mạch (_alveolar-capillary membrane_).|
-|**Chức năng Phi hô hấp** (_Non-respiratory functions_)|• **Cân bằng Bazo - Axit** (_Acid-base balance_): Điều hòa pH máu bằng cách tăng/giảm thông khí để điều chỉnh lượng $CO_2$.<br><br>  <br><br>• **Chuyển hóa** (_Metabolic function_): Chuyển hóa Angiotensin I thành Angiotensin II nhờ enzym ACE trên bề mặt tế bào nội mô phổi.<br><br>  <br><br>• **Bảo vệ** (_Protective function_): Lọc bụi bẩn, vi khuẩn nhờ hệ thống lông chuyển và đại thực bào phế nang (_alveolar macrophages_).|
+| **Loại chức năng**                                     | **Chi tiết**                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Chức năng Hô hấp** (_Respiratory function_)          | **Trao đổi khí:** Tiếp nhận $O_2$ từ không khí vào máu và thải $CO_2$ từ máu ra ngoài qua màng phế nang - mao mạch (_alveolar-capillary membrane_).                                                                                                                                                                                                                                                                                        |
+| **Chức năng Phi hô hấp** (_Non-respiratory functions_) | • **Cân bằng Bazo - Axit** (_Acid-base balance_): Điều hòa pH máu bằng cách tăng/giảm thông khí để điều chỉnh lượng $CO_2$.<br><br>  <br><br>• **Chuyển hóa** (_Metabolic function_): Chuyển hóa Angiotensin I thành Angiotensin II nhờ enzym ACE trên bề mặt tế bào nội mô phổi.<br><br>  <br><br>• **Bảo vệ** (_Protective function_): Lọc bụi bẩn, vi khuẩn nhờ hệ thống lông chuyển và đại thực bào phế nang (_alveolar macrophages_). |
 
 ## 1.7 Màng Phổi (_Pleura_)
 ![[he_ho_hap_mang_phoi_1.png]]

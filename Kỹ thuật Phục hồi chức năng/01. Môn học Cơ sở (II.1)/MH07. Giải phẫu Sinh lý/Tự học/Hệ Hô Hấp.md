@@ -1,3 +1,11 @@
+
+> [!NOTE] Học thêm
+> https://youtu.be/S3Kxx6PTESU
+> https://youtu.be/2ZkG9BmEBfc
+> https://youtu.be/P6fYx60JCp8
+
+
+
 # 1. Đặc điểm cấu tạo chung của hệ hô hấp
 
 ***Các thành phần trong hệ hô hấp*** 

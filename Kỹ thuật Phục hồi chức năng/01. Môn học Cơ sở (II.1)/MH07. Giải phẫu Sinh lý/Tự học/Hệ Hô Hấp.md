@@ -2,7 +2,7 @@
 > [!NOTE] Học thêm
 > https://youtu.be/S3Kxx6PTESU
 > https://youtu.be/2ZkG9BmEBfc
-> https://youtu.be/P6fYx60JCp8
+> https://youtu.be/P6fYx60JCp8   (GP phổi - Sinh lý hô hấp)
 
 
 

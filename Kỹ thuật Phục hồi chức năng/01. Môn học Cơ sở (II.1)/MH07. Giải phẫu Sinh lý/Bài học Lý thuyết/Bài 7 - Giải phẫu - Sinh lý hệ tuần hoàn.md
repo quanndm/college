@@ -158,19 +158,30 @@
 ![[tim_cau_tao.jpeg]]
 #### 1.1.4.1 Màng ngoài tim (Ngoại tâm mạc- Pericardium)
 Là túi bao bọc bên ngoài bảo vệ tim và cố định tim trong lồng ngực. Gồm **2 phần chính**:
-- **Màng ngoài tim sợi (Fibrous Pericardium):** Lớp bao dai, khỏe ở ngoài cùng, giúp giữ vị trí tim và ngăn tim căng giãn quá mức.
-- **Màng ngoài tim thanh mạc (Serous Pericardium):** Gồm 2 lá:
-    - _Lá thành:_ Dính vào mặt trong lớp sợi.
-    - _Lá tạng (Epicardium):_ Áp sát vào bề mặt cơ tim.
-    - _Khoang màng ngoài tim (Pericardial cavity):_ Nằm giữa lá thành và lá tạng, chứa **dịch màng tim** giúp giảm ma sát tối đa khi tim co bóp.
+1. **Màng ngoài tim - sợi (Fibrous Pericardium):** 
+   - Lớp bao dai, khỏe ở ngoài cùng.
+   - Giúp giữ vị trí tim cố định với cơ hoành/xương ức và ngăn tim căng giãn quá mức.
+
+2. **Màng ngoài tim - thanh mạc (Serous Pericardium): Gồm 2 lá**
+   - Lá thành (Parietal layer): Dính sát vào mặt trong lớp sợi.
+   - Lá tạng (Visceral layer / Epicardium): Áp sát trực tiếp vào bề mặt cơ tim.
+
+3. **Khoang màng ngoài tim (Pericardial cavity):**
+   - Nằm giữa lá thành và lá tạng.
+   - Chứa khoảng 15 – 50 ml dịch màng tim (dịch thanh mạc).
+   - Tác dụng: Bôi trơn, giảm ma sát tối đa khi tim co bóp.
+
+* **Lưu ý Lâm sàng:**
+  - Viêm màng ngoài tim: Gây tiếng cọ màng tim và đau ngực.
+  - Tràn dịch màng ngoài tim / Chèn ép tim cấp (Tamponade): Dịch tích tụ nhiều ép tim không co bóp được, cần chọc dò giải áp cấp cứu.
 #### 1.1.4.2 Cơ tim (Trung tâm mạc - Myocardium)
 Là **lớp dày nhất** và đóng vai trò chủ đạo trong hoạt động co bóp bơm máu của tim.
 - **Đặc điểm tế bào:** Là cơ bắp đặc biệt (vừa có vân như cơ xương, vừa hoạt động tự động không theo ý muốn như cơ trơn). Các tế bào liên kết chặt chẽ qua các _đĩa nối (intercalated discs)_ giúp dẫn truyền điện thế cực nhanh.
 - **Sự phân bố độ dày:**    
-    - _Tâm nhĩ:_ Thành mỏng (chỉ cần co nhẹ để đẩy máu xuống tâm thất).
-    - _Tâm thất:_ Thành rất dày. Trong đó, **thất trái dày gấp 3 lần thất phải** vì phải tạo áp lực lớn đẩy máu đi toàn cơ thể (vòng tuần hoàn lớn).
+    - ***Tâm nhĩ:*** Thành **mỏng** (chỉ cần co nhẹ để đẩy máu xuống tâm thất).
+    - ***Tâm thất:*** Thành **rất dày**. Trong đó, **thất trái dày gấp 3 lần thất phải** vì phải tạo áp lực lớn đẩy máu đi toàn cơ thể (vòng tuần hoàn lớn).
 - **Hệ thống dẫn truyền riêng:** Chứa các tế bào cơ tim biệt hóa (nút xoang nhĩ, nút thất nhĩ, bó His, sợi Purkinje) tự phát xung điện nhịp nhàng.
-
+![[tim_mat_cat_trong.png]]
 #### 1.1.4.3 Màng trong tim (Nội tâm mạc - Endocardium)
 Là lớp màng mỏng, trơn láng lót toàn bộ mặt trong các buồng tim.
 - **Cấu tạo:** Bao gồm một lớp tế bào nội mạc mềm mại tiếp xúc trực tiếp với dòng máu.
@@ -208,6 +219,10 @@ Tim có thể tự đập kể cả khi cắt đứt thần kinh nối với cơ
 ## 1.2 Hệ thống mạch máu
 - Hệ thống mạch máu bao gồm động mạch, tĩnh mạch, mao mạch
 ### 1.2.1 Hệ động mạch
+#### Đại cương 
+- ĐM là những mạch máu dẫn máu từ tâm thất đến lưới mao mạch 
+- Các ĐM càng xa tim càng nhỏ dần. Nhỏ nhất là tiểu động mạch 
+- Thành ĐM dày, có cấu tạo 3 lớp, có nhiều sợi trun và các sợi cơ trơn => có tính đàn hồi cao để điều hòa lưu lượng, làm cho máu chảy liên tục và đều đặn 
 ![[tim_tong_quan_dong_mach.png]]
 #### 1.2.1.1 Cấu trúc thành mạch
 ![[tim_cau_truc_tbanh_mach_dong_mach.jpg]]
@@ -216,7 +231,7 @@ Tim có thể tự đập kể cả khi cắt đứt thần kinh nối với cơ
 		- **Thành phần chính:** Được cấu tạo bởi các tế bào nội mạc (_endothelial cells_).
 	- Lớp áo giữa (Lớp cơ / Tunica media)
 		- **Thành phần chính:** Chủ yếu gồm cơ trơn (_smooth muscle_) và sợi chun (_elastin_).
-		- Dày nhất, có nheièu sợi cơ trơn xen kẽ sợi đàn hồi để điều hòa lưu lượng máu, cho dòng máu chảy liên tục và đều đặn 
+		- Dày nhất, có nhiều sợi cơ trơn xen kẽ sợi đàn hồi để điều hòa lưu lượng máu, cho dòng máu chảy liên tục và đều đặn 
 	- Lớp áo ngoài (Lớp mô liên kết / Tunica externa /Tunica adventitia)
 		- **Thành phần chính:** Mô liên kết sợi lỏng lẻo (_loose fibrous connective tissue_).
 - Lớp thanh mạc(Serosa)
@@ -226,7 +241,8 @@ Tim có thể tự đập kể cả khi cắt đứt thần kinh nối với cơ
 
 Về mặt giải phẫu, ĐMC được chia thành **3 đoạn chính**:
 ###### 1. Quai động mạch chủ (Cung ĐMC)
- _Mốc: Từ Tâm thất trái đến đốt sống ngực 4 ($D4$)_
+ _Mốc: Từ Tâm thất trái đến đốt sống ngực 4 (D4)(T4)_
+ (Đi từ tâm thất trái, uốn vòng qua phế quản trái đến mặt bên trái của đốt sống ngực 4 (D/T4)) 
 Tách ra **5 nhánh** cấp máu cho tim, đầu mặt cổ và hai tay:
 - **2 ĐM vành (phải và trái):** Tách ra ngay sát gốc ĐMC để nuôi tim.
 - **Thân ĐM cánh tay đầu:** Chạy lên trên rồi chia thành 2 nhánh: _ĐM cảnh gốc phải_ (ĐM cảnh chung phải) là _ĐM dưới đòn phải_.
@@ -239,6 +255,11 @@ Chạy trong trung thất sau, tách ra **4 loại nhánh** cấp máu cho vách
 - **ĐM trung thất sau:** Nuôi màng ngoài tim.
 - **3 – 5 ĐM thực quản:** Nuôi 2/3 trên thực quản.
 - **9 đôi ĐM liên sườn cuối:** Nuôi vách ngực.
+
+
+- DM chủ ngực: chạy tiếp nối quai động mạch chủ xuống cơ hoành (ngang đốt sống ngực 11), nằm trong trung thất sau. Ở trên, ĐM nằm bên trái thực quản. Ở dưới, nằm sau thực quản, trước cột sống. ĐM chủ ngực cho ra các nhánh
+	- DM phế quản phải - trái 
+
 
 ###### 3. Động mạch chủ bụng
 _Mốc: Từ đốt sống ngực 4 ($D4$) đến đốt sống ngực 11 ($D11$) – chui qua cơ hoành_
@@ -285,14 +306,20 @@ Ngang mức đốt sống thắt lưng 4 ($L4$), động mạch chủ bụng chi
 - Dẫn máu từ các cơ quan về tim, gồm có tĩnh mạch chủ trên, tĩnh mạch chủ dưới và
 tĩnh mạch phổi.
 #### a.Tổng quan & Khái niệm
+- **Khái niệm**:
+	- TM là những mạch máu đưa máu từ các cơ quan, tổ chức về 2 tâm nhĩ => máu chảy ngược dòng so với máu ĐM 
+	- TM càng gần tim càng lớn, các TM nhỏ nhất gọi là tiểu TM 
+	- Thành TM cũng có 3 lớp, nhưng mỏng, ít sợi trun và cơ hơn ĐM => ít đàn hồi và dễ xẹp 
+	- Ở TM lớn, đặc biệt là TM chi dưới có các van 1 chiều làm cho máu không chảy theo chiều ngược lại 
+	- Các TM lớn thường đi cùng và có tên gọi giống ĐM 
+	- Các TM nông thường nằm ngay dưới da nên người ta thường hay sử dụng để đưa thuốc vào máu 
+
+		![[tim_cau_truc_tbanh_mach_dong_mach.jpg]]
 - **Chức năng:** Dẫn máu nghèo $O_2$ (chứa nhiều $CO_2$ và chất chuyển hóa) từ các cơ quan, mô về **tâm nhĩ phải** của tim (trừ hệ tĩnh mạch phổi đưa máu giàu $O_2$ về tâm nhĩ trái).
     
 - **Phân loại chính:** Hệ tĩnh mạch trong cơ thể được chia làm 3 hệ thống lớn:
-    
     1. **Hệ Tĩnh mạch chủ trên** (thu máu nửa trên cơ thể).
-        
     2. **Hệ Tĩnh mạch chủ dưới** (thu máu nửa dưới cơ thể).
-        
     3. **Hệ Tĩnh mạch phổi**
 #### b. Hệ Tĩnh mạch chủ trên ($Superior\ Vena\ Cava$)
 Thu nhận toàn bộ máu từ **đầu, mặt, cổ, hai chi trên và lồng ngực** đổ về **tâm nhĩ phải**.
@@ -320,6 +347,8 @@ Thu nhận toàn bộ máu từ **chi dưới, vùng chậu hông, thành bụng
 ![[tim_he_mao_mach.jpg]]
 #### a. Khái niệm & Chức năng cốt lõi
 - **Khái niệm:** Mao mạch là những mạch máu **nhỏ nhất** trong hệ tuần hoàn (đường kính khoảng $5 - 10\ \mu m$, chỉ đủ cho 1 tế bào hồng cầu đi qua lần lượt), nối giữa **tiểu động mạch** và **tiểu tĩnh mạch**.
+	- Ở mao mạch, máu ĐM chuyển dần thành máu TM 
+	- Thành mao mạch rất mỏng, chỉ có 2 lớp (liên quan mật thiết với tb) => diễn ra sự trao đổi giữa máu và mô   
 - **Chức năng quan trọng nhất:** Là **nơi duy nhất diễn ra sự trao đổi chất** (chất dinh dưỡng, $O_2$, $CO_2$, chất thải và nước) giữa **máu** và **tế bào/mô** của cơ thể.
 #### b. Cấu tạo giải phẫu đặc biệt
 

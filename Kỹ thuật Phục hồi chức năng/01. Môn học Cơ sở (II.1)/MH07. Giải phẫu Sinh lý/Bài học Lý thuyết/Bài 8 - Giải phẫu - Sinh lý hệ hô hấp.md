@@ -757,6 +757,11 @@ Quá trình hô hấp gồm:
 
 **Kết quả:** Phổi chứa nhiều không khí hơn (giàu O₂).
 
+**Chất hạ sức căng bề mặt (Surfactant):** Do tế bào phế nang týp II (Pneumocyte type II) tiết ra.
+
+- **Tác dụng:** Làm giảm sức căng bề mặt của lớp dịch lót phế nang, giúp phế nang không bị xẹp ở thì thở ra và giúp phổi dễ nở ra ở thì hít vào.
+- **Lâm sàng:** Trẻ sinh non thiếu Surfactant dễ bị hội chứng suy hô hấp cấp ở trẻ sơ sinh (bệnh màng trong).
+
 ### 2.1.3 Động tác thở ra (Expiration)
 **Cơ chế**
 
@@ -826,6 +831,11 @@ Bao gồm:
 
 → Lượng khí hít vào hoặc thở ra trong một lần thở bình thường.
 
+**Khoảng chết (Dead space):** Là thể tích khí nằm trong đường dẫn khí nhưng không tham gia trao đổi khí với máu.
+
+- **Khoảng chết giải phẫu:** Từ mũi đến phế quản tận (khoảng $150 \text{ ml}$).
+    
+- Vì vậy, trong $500 \text{ ml}$ khí lưu thông (TV), thực tế chỉ có khoảng $350 \text{ ml}$ đi vào phế nang để trao đổi khí ($500 - 150 = 350 \text{ ml}$).
 ---
 
 ##### b. Thể tích dự trữ hít vào (Inspiratory Reserve Volume – IRV)
@@ -874,7 +884,7 @@ khoảng 1- 1,5 lít
 #### b. Máu tĩnh mạch trong mao mạch phổi:
 
 - PO₂ ≈ **40 mmHg**
-- PCO₂ ≈ **50 mmHg**
+- PCO₂ ≈ **45 – 46 mmHg** (50 mmHg)
 
 #### d. Kết quả
 **Theo quy luật khuếch tán:**
@@ -919,29 +929,42 @@ CO₂:
 
 Máu (nhận nhiều CO₂ → trở thành máu đỏ sẫm) trở về tim rồi lên phổi để tiếp tục trao đổi khí, đào thải CO₂.
 
-### 2.2.4 Vai trò của Hemoglobin (Hb)
+### 2.2.4 Sự vận chuyển khí trong máu
 ![[he_ho_hap_sinh_ly_2.png]]
-**Ở phổi**
 
-- HbCO₂ nhận từ tế bào sẽ phân ly để giải phóng khí CO₂: HbCO₂ → Hb + CO₂
-- Phổi cung cấp O₂ cho máu để kết hợp với Hb : \(Hb + O₂ → HbO₂\)
-- Máu vận chuyển HbO₂ từ phổi đến các mô và tế bào.
+#### a. Vận chuyển Oxy ($O_2$)
 
----
+Oxy được vận chuyển từ phổi đến tế bào dưới **2 dạng**:
 
-**Ở tế bào**
+- **Dạng hòa tan ($\approx 1.5\%$):** Rất ít nhưng tạo ra phân áp $PO_2$ trong máu, giúp $O_2$ khuếch tán vào tế bào.
+    
+- **Dạng kết hợp với Hemoglobin ($\approx 98.5\%$ - Dạng vận chuyển chủ yếu):**
+    
+    - **Tại phổi:** $Hb + O_2 \rightarrow HbO_2$ (Oxyhemoglobin - máu đỏ tươi).
+        
+    - **Tại tế bào:** $HbO_2 \rightarrow Hb + O_2$ ($O_2$ giải phóng để đi vào tế bào sử dụng).
+        
 
-- HbO₂ phân ly để giải phóng O₂: HbO₂ → Hb + O₂
-- Tế bào giữ lại O₂ để sử dụng cho các hoạt động sống.
-- Hb tự do kết hợp với CO₂ thải ra từ tế bào:  Hb + CO₂ →HbCO₂
-- Máu vận chuyển HbCO₂ về lại phổi để đào thải CO₂ ra ngoài.
+#### b. Vận chuyển Carbonic ($CO_2$)
 
-- Khoảng 98–99% O₂ được vận chuyển dưới dạng HbO₂.
-- Chỉ khoảng 20–30% CO₂ gắn với Hb (HbCO₂), phần lớn CO₂ được vận chuyển dưới dạng HCO₃⁻ (bicarbonat).
+$CO_2$ được vận chuyển từ tế bào về phổi dưới **3 dạng**:
 
-***Kết luận*** 
-- **Ở phổi:** máu tĩnh mạch → máu động mạch.
-- **Ở mô:** máu động mạch → máu tĩnh mạch.
+- **Dạng hòa tan ($\approx 7\%$):** Tạo ra phân áp $PCO_2$ trong máu.
+    
+- **Dạng muối Bicarbonat $HCO_3^-$ ($\approx 70\%$ - Dạng vận chuyển chủ yếu):** $CO_2$ vào hồng cầu kết hợp với $H_2O$ nhờ enzym CA (Carbonic Anhydrase) tạo $H_2CO_3$, sau đó phân ly thành $HCO_3^- + H^+$.
+    
+- **Dạng kết hợp với Hemoglobin ($\approx 23\%$):**
+    
+    - **Tại tế bào:** $Hb + CO_2 \rightarrow HbCO_2$ (Carbaminohemoglobin - máu đỏ sẫm).
+        
+    - **Tại phổi:** $HbCO_2 \rightarrow Hb + CO_2$ ($CO_2$ giải phóng để khuếch tán vào phế nang và thở ra ngoài).
+        
+
+#### c. Tóm tắt sự biến đổi màu sắc máu
+
+- **Ở Phổi:** Máu tĩnh mạch (đỏ sẫm, giàu $CO_2$) $\rightarrow$ Máu động mạch (đỏ tươi, giàu $O_2$).
+    
+- **Ở Mô/Tế bào:** Máu động mạch (đỏ tươi) $\rightarrow$ Máu tĩnh mạch (đỏ sẫm).
 ### 2.2.5 Biến đổi tính chất vật lý của không khí
 Khi đi qua đường dẫn khí (từ mũi đến phổi), không khí được:
 - **Làm ấm đến 37°C**: Nhờ hệ thống mạch máu dày đặc.

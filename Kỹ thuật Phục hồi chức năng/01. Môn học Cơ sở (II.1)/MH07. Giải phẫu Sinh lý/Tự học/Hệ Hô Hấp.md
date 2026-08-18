@@ -1019,3 +1019,180 @@ Màng phổi là một bao thanh mạc (_Serous membrane_) hoàn toàn kín, g�
 
 
 # 3. Sinh lý
+### 3.1 Hiện tượng cơ học của hô hấp (Mechanics of Respiration)
+
+#### 3.1.1 Khái niệm
+- **Khái niệm:** Hô hấp là quá trình đưa $O_2$ từ môi trường ngoài vào tế bào và thải $CO_2$ từ tế bào ra ngoài cơ thể. Quá trình này diễn ra nhờ sự co giãn của các cơ hô hấp (đặc biệt là cơ hoành) cùng với áp lực âm trong khoang màng phổi, làm thay đổi thể tích lồng ngực và áp suất trong phổi để lưu thông không khí.
+    
+- **Các thành phần của quá trình hô hấp cơ học:**
+    1. Động tác hít vào (Inspiration)
+    2. Động tác thở ra (Expiration)
+    3. Nhịp thở (Respiratory cycle)
+    4. Tần số thở (Respiratory rate)
+    5. Thể tích và dung tích phổi (Lung volumes & capacities)
+#### 3.1.2 Động tác hít vào (Inspiration)
+
+- **Cơ chế:**
+    - **Cơ hô hấp co:** Cơ hoành co (hạ xuống làm tăng chiều dọc) và cơ liên sườn ngoài co (nâng xương sườn làm tăng chiều trước – sau và chiều ngang).
+    - **Lồng ngực nở theo 3 chiều:** Thể tích lồng ngực tăng kéo phổi nở theo.
+    - **Chênh lệch áp suất:** Thể tích phổi tăng làm áp suất trong phế nang giảm xuống thấp hơn áp suất khí quyển.
+    - **Áp lực âm khoang màng phổi:** Áp suất âm trong khoang màng phổi càng giảm sâu hơn, giúp phổi luôn ôm sát và nở theo lồng ngực.        
+    - **Luồng khí:** Không khí tự động đi từ môi trường ngoài vào phổi theo chênh lệch áp suất.
+        
+- **Kết quả:** Phổi chứa nhiều không khí mới (giàu $O_2$).
+    
+- **Vai trò của Surfactant (Chất hoạt dịch):** Do tế bào phế nang týp II (_Pneumocyte type II_) tiết ra, giúp làm giảm sức căng bề mặt lớp dịch lót phế nang. Tác dụng giữ cho phế nang không bị xẹp ở cuối thì thở ra và giúp phổi nở ra dễ dàng ở thì hít vào.
+
+#### 3.1.3 Động tác thở ra (Expiration)
+
+- **Cơ chế:**
+    - **Cơ hô hấp giãn:** Cơ hoành và cơ liên sườn ngoài giãn ra.
+    - **Trả lại vị trí:** Lồng ngực và phổi thu nhỏ về vị trí ban đầu nhờ tính đàn hồi tự nhiên.
+    - **Chênh lệch áp suất:** Thể tích phổi giảm làm áp suất trong phế nang tăng cao hơn áp suất khí quyển.
+    - **Luồng khí:** Không khí bị đẩy từ phổi ra môi trường ngoài.
+        
+- **Lưu ý:**
+    
+    - **Thở ra bình thường:** Là quá trình **thụ động** (không tốn năng lượng, chủ yếu do tính đàn hồi của phổi và lồng ngực).
+        
+    - **Thở ra gắng sức:** Là quá trình **chủ động**, có sự tham gia hỗ trợ của cơ thành bụng và cơ liên sườn trong.
+
+#### 3.1.4 Nhịp thở và tần số thở (Respiratory Rate)
+
+- **a. Nhịp thở:**
+    - Một nhịp thở (1 chu kỳ) = 1 lần hít vào + 1 lần thở ra.
+    - Tỷ lệ tham khảo: 1 nhịp thở $\approx$ 4 nhịp tim.
+        
+- **b. Tần số thở bình thường:**
+    - Khái niệm: Số nhịp thở thực hiện trong 1 phút.
+    - Người lớn: $16 - 20$ lần/phút.
+    - Trẻ em: $25 - 30$ lần/phút.
+        
+- **c. Dấu hiệu gợi ý thở nhanh/viêm phổi ở trẻ em (Lâm sàng):**
+    - Trẻ $< 2$ tháng: $\ge 60$ lần/phút.
+    - Trẻ $2 - 12$ tháng: $\ge 50$ lần/phút.
+    - Trẻ $1 - 5$ tuổi: $\ge 40$ lần/phút.
+        
+- **d. Biến đổi sinh lý:**
+    - **Giảm:** Khi ngủ, nghỉ ngơi sâu.
+    - **Tăng:** Khi lao động, vận động gắng sức, xúc động.
+    - **Bệnh lý:** Có thể thở nhanh, chậm hoặc rối loạn nhịp thở.
+
+#### 3.1.5 Thể tích, dung tích phổi và khoảng chết (Lung Volumes & Capacities)
+
+##### a. Thể tích phổi (Lung Volumes)
+- **Thể tích khí lưu thông (Tidal Volume - TV $\approx 0.5 \text{ L}$):** Lượng khí hít vào hoặc thở ra trong một lần thở bình thường.
+- **Thể tích dự trữ hít vào (Inspiratory Reserve Volume - IRV $\approx 2.0 - 3.0 \text{ L}$):** Lượng khí có thể hít thêm vào sau khi đã hít vào bình thường.
+- **Thể tích dự trữ thở ra (Expiratory Reserve Volume - ERV $\approx 1.1 - 1.2 \text{ L}$):** Lượng khí có thể thở thêm ra sau khi đã thở ra bình thường.
+- **Thể tích khí cặn (Residual Volume - RV $\approx 1.1 - 1.2 \text{ L}$):** Lượng khí còn lại trong phổi sau khi đã thở ra hết sức. Tác dụng giữ phế nang không xẹp hoàn toàn và duy trì trao đổi khí liên tục giữa 2 thì hô hấp.
+    
+
+##### b. Dung tích phổi (Lung Capacities)
+- **Dung tích sống (Vital Capacity - VC $\approx 3.5 - 4.5 \text{ L}$):** Lượng khí tối đa có thể thở ra hết sức sau khi đã hít vào hết sức.
+    $$\text{VC} = \text{TV} + \text{IRV} + \text{ERV}$$
+    
+    - _Yếu tố ảnh hưởng đến VC:_ Tuổi (tuổi cao giảm), Giới tính (Nam > Nữ), Chiều cao, Cân nặng, Mức độ luyện tập thể lực và tình trạng sức khỏe.
+- **Tổng dung lượng phổi (Total Lung Capacity - TLC $\approx 4.5 - 6.0 \text{ L}$):** Tổng lượng khí tối đa chứa trong phổi sau khi hít vào hết sức.
+    $$\text{TLC} = \text{VC} + \text{RV}$$
+##### c. Khoảng chết hô hấp (Dead Space)
+- **Khái niệm:** Là thể tích khí nằm trong đường dẫn khí nhưng không tham gia trao đổi khí với máu.
+- **Khoảng chết giải phẫu:** Từ mũi đến phế quản tận ($\approx 150 \text{ ml}$).
+- **Thông khí phế nang thực tế:** Trong $500 \text{ ml}$ khí lưu thông (TV), chỉ có $350 \text{ ml}$ đi vào phế nang để trao đổi khí ($500 - 150 = 350 \text{ ml}$).
+
+
+### 3.2 Hiện tượng Lý - Hóa của hô hấp
+
+#### 3.2.1 Nguyên lý trao đổi khí
+
+- **Hiện tượng:** Không khí hít vào giàu $O_2$ và nghèo $CO_2$, không khí thở ra giàu $CO_2$ và giảm $O_2$.
+    
+- **Cơ chế:** Tuân theo **định luật khuếch tán khí**: Khí luôn di chuyển từ nơi có phân áp cao ($P$) đến nơi có phân áp thấp.
+    
+- **Bảng so sánh tỷ lệ % khí:**
+    
+    |**Thành phần**|**Không khí hít vào**|**Không khí thở ra**|
+    |**$O_2$**|$\approx 21\%$|$\approx 16\%$|
+    |**$CO_2$**|$\approx 0.03 - 0.04\%$|$\approx 4\%$|
+
+| Thành phần | Không khí hít vào       | Không khí thở ra |
+| ---------- | ----------------------- | ---------------- |
+| $O_2$      | $\approx 21\%$          | $\approx 16\%$   |
+| $CO_2$     | $\approx 0.03 - 0.04\%$ | $\approx 4\%$    |
+#### 3.2.2 Trao đổi khí tại Phổi (Giữa phế nang và máu)
+- **Phân áp khí:**
+    - Phế nang: $PO_2 \approx 100 \text{ mmHg}$, $PCO_2 \approx 40 \text{ mmHg}$.
+    - Máu tĩnh mạch (đến mao mạch phổi): $PO_2 \approx 40 \text{ mmHg}$, $PCO_2 \approx 45 - 46 \text{ mmHg}$.
+        
+- **Quá trình khuếch tán:**
+    - **$O_2$:** Từ phế nang ($100 \text{ mmHg}$) $\rightarrow$ đi vào Máu ($40 \text{ mmHg}$).
+    - **$CO_2$:** Từ Máu ($45 - 46 \text{ mmHg}$) $\rightarrow$ đi vào Phế nang ($40 \text{ mmHg}$).
+        
+- **Kết quả:** Máu tĩnh mạch (đỏ sẫm) biến thành máu động mạch giàu $O_2$ (đỏ tươi) về tim trái để đi nuôi cơ thể.
+#### 3.2.3 Trao đổi khí tại Tế bào / Mô (Giữa máu và tế bào)
+![[he_ho_hap_sinh_ly_1.png]]
+- **Phân áp khí:**
+    - Máu động mạch (đến tế bào): $PO_2 \approx 95 - 100 \text{ mmHg}$, $PCO_2 \approx 40 \text{ mmHg}$.
+    - Tế bào / Mô: $PO_2 \le 30 \text{ mmHg}$, $PCO_2 \ge 45 - 46 \text{ mmHg}$.
+        
+- **Quá trình khuếch tán:**
+    - **$O_2$:** Từ Máu $\rightarrow$ đi vào Tế bào để phục vụ hô hấp tế bào.
+    - **$CO_2$:** Từ Tế bào (sản phẩm chuyển hóa) $\rightarrow$ đi vào Máu.
+        
+- **Kết quả:** Máu động mạch (đỏ tươi) biến thành máu tĩnh mạch giàu $CO_2$ (đỏ sẫm) trở về tim phải để lên phổi trao đổi tiếp.
+
+#### 3.2.4 Sự vận chuyển khí trong máu (Gas Transport in Blood)
+![[he_ho_hap_sinh_ly_2.png]]
+##### a. Vận chuyển Oxy ($O_2$)
+- **Dạng hòa tan ($\approx 1.5\%$):** Tồn tại tự do trong huyết tương, là dạng duy nhất tạo ra phân áp $PO_2$ đẩy $O_2$ khuếch tán qua màng tế bào.
+    
+- **Dạng kết hợp với Hemoglobin ($\approx 98.5\%$ - Dạng vận chuyển chủ yếu):**
+    - _Tại phổi:_ $Hb + O_2 \rightarrow HbO_2$ (Oxyhemoglobin - tạo màu đỏ tươi).
+    - _Tại mô/tế bào:_ $HbO_2 \rightarrow Hb + O_2$ (giải phóng $O_2$ cho tế bào).
+
+##### b. Vận chuyển Carbonic ($CO_2$)
+- **Dạng hòa tan ($\approx 7\%$):** Tạo ra phân áp $PCO_2$ trong máu.
+    
+- **Dạng muối Bicarbonat $HCO_3^-$ ($\approx 70\%$ - Dạng vận chuyển chủ yếu):** $CO_2$ vào hồng cầu kết hợp với $H_2O$ (nhờ enzym Carbonic Anhydrase - CA) tạo thành $H_2CO_3$, sau đó phân ly thành $HCO_3^- + H^+$.
+    
+- **Dạng kết hợp với Hemoglobin ($\approx 23\%$):**
+    - _Tại mô/tế bào:_ $Hb + CO_2 \rightarrow HbCO_2$ (Carbaminohemoglobin - tạo màu đỏ sẫm).
+    - _Tại phổi:_ $HbCO_2 \rightarrow Hb + CO_2$ (giải phóng $CO_2$ thải vào phế nang).
+#### 3.2.5 Biến đổi tính chất vật lý của không khí ở đường dẫn khí
+Khi đi từ mũi đến phổi, không khí được làm sạch và biến đổi để bảo vệ phổi:
+
+- **Làm ấm (đến $37^\circ\text{C}$):** Nhờ hệ thống mạng lưới mao mạch dày đặc ở niêm mạc mũi.
+- **Làm ẩm (bão hòa hơi nước):** Nhờ dịch tiết từ các tuyến chất nhầy niêm mạc.
+- **Lọc sạch & diệt khuẩn:** Nhờ lông mũi, lớp chất nhầy giữ bụi bẩn và hệ thống lông chuyển quét bụi ra ngoài.
+
+### 3.3 Điều hòa hô hấp (Regulation of Respiration)
+
+#### 3.3.1 Trung khu hô hấp (Respiratory Centers)
+
+- **Vị trí:** Nằm ở **Hành não** và **Cầu não**.
+    
+- **Các thành phần chính:**
+    - **Trung khu hít vào (ở hành não):** Phát xung động tự động, đều đặn liên tục suốt đời để duy trì nhịp thở cơ bản.
+    - **Trung khu thở ra (ở hành não):** Bình thường ít hoạt động, chỉ tham gia khi thở ra gắng sức.
+    - **Trung khu điều khiển / Điều hòa nhịp thở (ở cầu não):** Khống chế trung khu hít vào để chuyển thì hít vào sang thở ra, giữ nhịp thở ổn định.
+#### 3.3.2 Cơ chế điều hòa hóa học (Chemical Regulation)
+Yếu tố hóa học là yếu tố quan trọng nhất điều khiển hoạt động hô hấp.
+##### a. Các thụ thể cảm nhận hóa học (Chemoreceptors)
+- **Thụ thể hóa học trung ương (ở hành não):** Rất nhạy cảm với sự gia tăng nồng độ $H^+$ và $CO_2$ trong dịch não tủy (là kích thích chính duy trì nhịp thở hàng ngày).
+- **Thụ thể hóa học ngoại biên (ở Xoang động mạch cảnh và Quai động mạch chủ):** Nhạy cảm chính với sự **giảm Oxy trong máu** ($PO_2 < 60 \text{ mmHg}$).
+##### b. Tác động của các chất khí và $H^+$
+- **Khí $CO_2$ & $H^+$:** Khi $CO_2$ máu tăng hoặc pH máu giảm ($H^+$ tăng) $\rightarrow$ Kích thích trung khu hô hấp $\rightarrow$ Tăng tần số và biên độ hô hấp (thở nhanh và sâu). Ngược lại khi $CO_2$ giảm quá mức có thể gây ngừng thở tạm thời.
+    - _Ứng dụng lâm sàng:_ Sử dụng hỗn hợp khí Carbogen ($95\% O_2 + 5\% CO_2$) để cấp cứu hồi sức, dùng $5\% CO_2$ nhằm kích thích trung khu hô hấp của bệnh nhân hoạt động lại.
+- **Khí $O_2$:** Chỉ khi $PO_2$ giảm xuống rất thấp ($< 60 \text{ mmHg}$) thì mới kích thích mạnh thụ thể ngoại biên để tăng hô hấp.
+#### 3.3.3 Các cơ chế điều hòa thần kinh & Phản xạ
+- **Điều hòa của vỏ não (Chủ động & Tâm lý):**
+    - Con người có thể tự ý thay đổi hơi thở (nín thở, thở nhanh, chậm, sâu).
+    - Cảm xúc mạnh (sợ hãi, lo âu, giận dữ) tác động từ vỏ não xuống trung khu hô hấp làm biến đổi nhịp thở.
+        
+- **Phản xạ Hering - Breuer (Phản xạ căng giãn phổi):**
+    - Khi hít vào sâu, phổi căng giãn đột ngột kích thích thụ thể áp lực ở thành phế nang $\rightarrow$ truyền xung động theo **dây thần kinh X (dây phế vị)** về hành não để ức chế trung khu hít vào $\rightarrow$ chuyển sang thì thở ra.
+    - _Ý nghĩa:_ Phản xạ tự nhiên bảo vệ phổi không bị căng giãn quá mức.
+        
+- **Các phản xạ ngoại biên khác:**
+    - **Phản xạ nuốt:** Ức chế trung khu hô hấp gây ngừng thở tạm thời để tránh thức ăn rơi vào đường thở.
+    - **Kích thích cảm giác (Đau, nóng, lạnh):** Kích thích vừa làm tăng nhịp thở; kích thích quá mạnh/đột ngột gây nín thở ngắn (ứng dụng vỗ đít trẻ sơ sinh để trẻ khóc và bắt đầu tự thở).
+    - **Kích thích khứu giác:** Mùi thơm gây thở sâu; mùi hôi thối gây ức chế hô hấp; ngửi khí độc hoặc độc chất mạnh (Clorofoc) có thể gây phản xạ ngừng thở đột ngột để bảo vệ.

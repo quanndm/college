@@ -125,7 +125,7 @@ Hầu (**Pharynx**) là đoạn chung của **đường tiêu hóa (Digestive tr
 Thực quản (**Esophagus**) là một ống cơ (**Muscular tube**) nối **hầu (Pharynx)** với **dạ dày (Stomach)**, có chức năng vận chuyển thức ăn xuống dạ dày nhờ nhu động (**Peristalsis**).
 ### 3.1 Vị trí và hình thể
 - Là ống dẫn thức ăn dài khoảng **25 cm**.
-- Bắt đầu từ **hầu (Pharynx)** và kết thúc tại **tâm vị dạ dày (Cardia of stomach)**.
+- Bắt đầu từ **hầu (Pharynx)** - C6 và kết thúc tại **tâm vị dạ dày (Cardia of stomach)** - D/T10.
 - Chia thành **4 đoạn (4 parts)**:
     - Đoạn cổ (**Cervical part**)
     - Đoạn ngực (**Thoracic part**)

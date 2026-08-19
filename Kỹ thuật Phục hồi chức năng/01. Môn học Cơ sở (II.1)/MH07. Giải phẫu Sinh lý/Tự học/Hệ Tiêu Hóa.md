@@ -252,18 +252,132 @@ Bao gồm các tuyến nhỏ rải rác niêm mạc và **3 đôi tuyến nướ
 - **Thực quản** (_Esophagus_): Là một ống cơ (_muscular tube_) tiếp nối **hầu** (_pharynx_) với **dạ dày** (_stomach_).
 - **Chức năng (_Function_):** Vận chuyển thức ăn và chất lỏng từ hầu xuống dạ dày nhờ **sóng nhu động** (_peristaltic waves_) và sự mở ra tự do của các cơ vòng.
 
+- **Kích thước (_Dimensions_):** Dài khoảng $25\text{ cm}$, đường kính trung bình $2\text{ cm}$ (khi dãn).
+- **Giới hạn (_Boundaries_):**
+    - **Bắt đầu (_Origin_):** Ngang mức **đốt sống cổ C6** (_6th cervical vertebra_), tương ứng với bờ dưới **sụn nhẫn** (_cricoid cartilage_).
+    - **Kết thúc (_Termination_):** Ngang mức **đốt sống ngực T11** (_11th thoracic vertebra_), đổ vào **tâm vị dạ dày** (_cardia of stomach_). _(Lưu ý: Thực quản chui qua cơ hoành ở mức T10 và kết thúc tại tâm vị ở mức T11)._
 
-
+- Thực quản được chia làm **3 đoạn chính**:
+	- **Đoạn cổ (_Cervical part_):**
+	    - Chiều dài: Khoảng **$4-5\text{ cm}$**.
+	    - Nằm sau khí quản (_trachea_), trước cột sống cổ (_cervical spine_).
+	        
+	- **Đoạn ngực (_Thoracic part_):**
+	    - Chiều dài: Khoảng **$18-20\text{ cm}$** (chiếm đa số chiều dài).
+	    - Đi trong trung thất sau (_posterior mediastinum_).
+	        
+	- **Đoạn bụng (_Abdominal part_):**
+	    - Chiều dài: Khoảng **$1-2\text{ cm}$** (rất ngắn).
+	    - Bắt đầu từ **lỗ thực quản cơ hoành** (_esophageal hiatus of diaphragm_ - mức T10) đến **tâm vị** (_cardia_ - mức T11).
 ### 3.2 Liên quan 
+#### 1. Đoạn cổ (Cervical Part) — _Đi từ C6 đến T1 (D1)_
 
+- **Phía trước (_Anterior_):** **Khí quản** (_Trachea_) – thực quản hơi lệch sang trái so với khí quản ở đoạn dưới cổ.
+    
+- **Phía sau (_Posterior_):** **Cột sống cổ** (_Cervical vertebral column_) và **mạc trước cột sống** (_Prevertebral fascia_).
+    
+- **Hai bên (_Lateral_):**
+    
+    - **Thùy tuyến giáp** (_Thyroid gland lobes_).
+        
+    - **Bó mạch cảnh** (_Carotid sheath_): Chứa **động mạch cảnh chung** (_Common carotid artery_), **tĩnh mạch cảnh trong** (_Internal jugular vein_) và **dây thần kinh lang thang / CN X** (_Vagus nerve_).
+        
+    - **Thần kinh thanh quản ngoặt ngược** (_Recurrent laryngeal nerve_): Đi trong rãnh khí-thực quản (_tracheoesophageal groove_).
+        
+
+#### 2. Đoạn ngực (Thoracic Part) — _Đi từ T1 đến T10 (D1–D10)_
+
+Đi qua trung thất trên (_superior mediastinum_) và trung thất sau (_posterior mediastinum_).
+
+- **Phía trước (_Anterior_):**
+    
+    - **Đoạn trên trung thất:** Khí quản (_Trachea_) và **cung động mạch chủ** (_Aortic arch_).
+        
+    - **Đoạn dưới trung thất:** **Phế quản chính trái** (_Left main bronchus_), **tâm nhĩ trái** (_Left atrium_) và **màng ngoài tim** (_Pericardium_). _(Ý nghĩa lâm sàng: Tâm nhĩ trái phì đại có thể chèn ép thực quản gây nuốt khó)._
+        
+- **Phía sau (_Posterior_):** **Cột sống ngực** (_Thoracic vertebral column_), **ống ngực** (_Thoracic duct_), **động mạch chủ ngực** (_Thoracic aorta_ - ở đoạn dưới) và **tĩnh mạch đơn** (_Azygos vein_).
+    
+- **Hai bên (_Lateral_):**
+    
+    - **Bên phải:** **Màng phổi trung thất phải** (_Right mediastinal pleura_) và tĩnh mạch đơn.
+        
+    - **Bên trái:** **Màng phổi trung thất trái** (_Left mediastinal pleura_), **cung động mạch chủ** và **động mạch chủ ngực** (_Thoracic aorta_).
+        
+    - **Thần kinh:** Hai **dây thần kinh lang thang** (_Vagus nerves / CN X_) áp sát hai bên thực quản, tạo thành **đám rối thực quản** (_Esophageal plexus_).
+        
+
+#### 3. Đoạn bụng (Abdominal Part) — _Đi từ T10 đến T11 (D10–D11)_
+
+Dài khoảng **$1-2\text{ cm}$**, đi từ **lỗ thực quản cơ hoành** (_Esophageal hiatus_) đến **tâm vị** (_Cardia_).
+
+- **Phía trước (_Anterior_):** Phủ bởi niêm mạc phúc mạc, liên quan trực tiếp với **thùy trái của gan** (_Left lobe of liver_) và **thân thần kinh lang thang trước** (_Anterior vagal trunk_).
+    
+- **Phía sau (_Posterior_):** Cột sống, **thần kinh lang thang sau** (_Posterior vagal trunk_) và **cột trụ cơ hoành trái** (_Left crus of diaphragm_).
+    
+- **Bên trái (_Left_):** **Khuyết tâm vị** (_Cardiac notch_) nối liền với **đáy vị dạ dày** (_Fundus of stomach_).
 
 ### 3.3 Cấu tạo 
-
-
+Thành thực quản gồm **4 lớp**, tính từ ngoài vào trong:
+#### 1. Lớp vỏ ngoài (Adventitia)
+- Chủ yếu là **mô liên kết thưa** (_Loose connective tissue_), giúp gắn thực quản vào các cấu trúc xung quanh trong trung thất.
+- **Lưu ý:** Thực quản **không có lớp thanh mạc** (_Serosa_) ở đoạn cổ và ngực; chỉ có một đoạn rất ngắn ở đoạn bụng được bao phủ bởi **phúc mạc** (_Peritoneum_ / _Serosa_).
+    
+#### 2. Lớp cơ (Muscular Layer / Muscularis Externa)
+Gồm **2 lớp cơ**: Lớp cơ dọc ở ngoài (_outer longitudinal layer_) và lớp cơ vòng ở trong (_inner circular layer_). Cấu tạo mô cơ thay đổi theo chiều dài thực quản:
+- **$1/3$ trên:** Là **cơ vân** (_Skeletal muscle_) – co bóp theo ý muốn (hỗ trợ phản xạ nuốt).
+- **$1/3$ giữa:** Pha trộn giữa **cơ vân và cơ trơn** (_Mixed skeletal & smooth muscle_).
+- **$1/3$ dưới:** Hoàn toàn là **cơ trơn** (_Smooth muscle_) – co bóp tự động tạo **sóng nhu động** (_Peristaltic waves_) đẩy viên thức ăn (_food bolus_) xuống dạ dày.
+    
+#### 3. Lớp dưới niêm mạc (Submucosa)
+- Là mô liên kết xốp, dày và đàn hồi, chứa nhiều mạch máu, thần kinh (**đám rối thần kinh dưới niêm mạc Meissner** / _Submucosal plexus_) và các **tuyến thực quản chính thức** (_Esophageal glands proper_).
+- Các tuyến này tiết chất nhầy giúp bôi trơn niêm mạc, hỗ trợ thức ăn di chuyển dễ dàng.
+    
+#### 4. Lớp niêm mạc (Mucosa)
+Là lớp trong cùng tiếp xúc với thức ăn, gồm 3 lớp nhỏ:
+- **Biểu mô (_Epithelium_):** **Biểu mô lát tầng không sừng hóa** (_Non-keratinized stratified squamous epithelium_), dày và dai để chịu ma sát cơ học khi thức ăn đi qua.
+- **Lớp đệm (_Lamina propria_):** Mô liên kết chứa các tuyến tâm vị thực quản (_Esophageal cardiac glands_) tiết chất nhầy bảo vệ.
+- **Lớp cơ niêm (_Muscularis mucosae_):** Lớp cơ trơn mỏng giúp niêm mạc gấp nếp thành các rãnh dọc khi thực quản xẹp (khi rỗng).
 
 ### 3.4 Mạch máu & Thần kinh 
+#### 1. Động mạch (Arteries)
+Máu cấp cho thực quản đến từ nhiều nguồn tùy theo từng đoạn giải phẫu:
+- **Đoạn cổ (_Cervical part_):** Cấp máu bởi các nhánh của **động mạch giáp dưới** (_Inferior thyroid artery_) – một nhánh của thân giáp cổ (_Thyrocervical trunk_).
+- **Đoạn ngực (_Thoracic part_):** Cấp máu trực tiếp bởi các **nhánh thực quản của động mạch chủ ngực** (_Esophageal branches of thoracic aorta_) và các nhánh từ **động mạch phế quản** (_Bronchial arteries_).
+- **Đoạn bụng (_Abdominal part_):** Cấp máu bởi **nhánh thực quản của động mạch vị trái** (_Left gastric artery_) và các nhánh từ **động mạch hoành dưới trái** (_Left inferior phrenic artery_).
+![[he_tieu_hoa_thuc_quan_3.png]]
+#### 2. Tĩnh mạch (Veins)
+Dẫn lưu tĩnh mạch của thực quản tương ứng với nguồn cấp máu động mạch:
+- **Đoạn cổ:** Đổ về **tĩnh mạch giáp dưới** (_Inferior thyroid veins_) $\rightarrow$ **tĩnh mạch đầu-tay** (_Brachiocephalic veins_).
+- **Đoạn ngực:** Đổ về **hệ tĩnh mạch đơn** (_Azygos vein_) và **tĩnh mạch bán đơn** (_Hemiazygos vein_) $\rightarrow$ **tĩnh mạch chủ trên** (_Superior vena cava_ - Hệ chủ).
+- **Đoạn bụng:** Đổ về **tĩnh mạch vị trái** (_Left gastric vein_ / _Coronary vein_) $\rightarrow$ **tĩnh mạch cửa** (_Portal vein_ - Hệ cửa).
 
+> **Ý nghĩa lâm sàng – Vòng nối Cửa - Chủ (_Portocaval / Portosystemic Anastomosis_):**
+> 
+> - Tại đoạn dưới thực quản có sự nối liền giữa tĩnh mạch vị trái (hệ cửa) và tĩnh mạch đơn (hệ chủ).
+>     
+> - Khi bệnh nhân bị **xơ gan** (_Cirrhosis_) gây **tăng áp lực tĩnh mạch cửa** (_Portal hypertension_), máu bị cản trở đổ về gan sẽ dồn qua vòng nối này để về hệ chủ.
+>     
+> - Điều này làm các tĩnh mạch dưới niêm mạc thực quản bị giãn căng, tạo thành **giãn tĩnh mạch thực quản** (_Esophageal varices_). Các tĩnh mạch này rất dễ vỡ, gây **xuất huyết tiêu hóa cao** (_Upper gastrointestinal bleeding_) ồ ạt, nguy hiểm đến tính mạng.
 
+![[he_tieu_hoa_thuc_quan_2.png]]
+#### 3. Dẫn lưu bạch huyết (Lymphatic Drainage)
+- **Đoạn cổ:** Đổ vào **hạch cổ sâu** (_Deep cervical lymph nodes_).
+- **Đoạn ngực:** Đổ vào **hạch trung thất sau** (_Posterior mediastinal lymph nodes_) và **hạch phế quản-phổi** (_Bronchopulmonary / Hilar nodes_).
+- **Đoạn bụng:** Đổ vào **hạch vị trái** (_Left gastric lymph nodes_) và **hạch thân tạng** (_Celiac lymph nodes_).
+
+#### 4. Thần kinh chi phối (Innervation)
+Gồm cả thần kinh tự chủ (đối giao cảm & giao cảm) và thần kinh cảm giác:
+- **Hệ Đối giao cảm (_Parasympathetic_):**
+    - Do **dây thần kinh lang thang / Dây X** (_Vagus nerve - CN X_) chi phối.
+    - Hai dây X chui xuống ngực tạo thành **đám rối thực quản** (_Esophageal plexus_).
+    - _Chức năng:_ Tăng nhu động cơ trơn, tăng tiết dịch tuyến và giãn cơ vòng thực quản dưới (_LES_).
+- **Hệ Giao cảm (_Sympathetic_):**
+    - Đến từ **chuỗi hạch giao cảm ngực** (_Thoracic sympathetic trunk_) và các **thần kinh tạng lớn/bé** (_Greater & Lesser splanchnic nerves_).
+    - _Chức năng:_ Giảm nhu động, co mạch máu và co cơ vòng.
+- **Đám rối thần kinh ruột (_Enteric Nervous System - ENS_):**
+    - **Đám rối cơ Auerbach** (_Myenteric plexus_): Nằm giữa 2 lớp cơ, điều hòa nhu động.
+    - **Đám rối dưới niêm mạc Meissner** (_Submucosal plexus_): Nằm ở lớp dưới niêm mạc, điều hòa tiết dịch.
+![[he_tieu_hoa_thuc_quan_4.png]]
 ## 4. Dạ dày 
 
 

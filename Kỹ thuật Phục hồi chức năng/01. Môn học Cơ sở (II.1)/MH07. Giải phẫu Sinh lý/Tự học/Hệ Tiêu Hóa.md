@@ -269,6 +269,7 @@ Bao gồm các tuyến nhỏ rải rác niêm mạc và **3 đôi tuyến nướ
 	- **Đoạn bụng (_Abdominal part_):**
 	    - Chiều dài: Khoảng **$1-2\text{ cm}$** (rất ngắn).
 	    - Bắt đầu từ **lỗ thực quản cơ hoành** (_esophageal hiatus of diaphragm_ - mức T10) đến **tâm vị** (_cardia_ - mức T11).
+![[he_tieu_hoa_thuc_quan_1.png]]
 ### 3.2 Liên quan 
 #### 1. Đoạn cổ (Cervical Part) — _Đi từ C6 đến T1 (D1)_
 

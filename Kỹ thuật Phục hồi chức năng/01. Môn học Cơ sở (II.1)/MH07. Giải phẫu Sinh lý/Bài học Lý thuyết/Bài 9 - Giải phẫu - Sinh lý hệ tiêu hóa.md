@@ -186,16 +186,29 @@ Thành thực quản gồm **4 lớp (Four layers)**, từ ngoài vào trong:
 
 - Chi phối chủ yếu bởi **dây thần kinh lang thang (Vagus nerve – Cranial nerve X)**.
 ## 4. Dạ dày 
-Dạ dày (**Stomach**) là đoạn phình to nhất của **ống tiêu hóa (Alimentary canal)**, nằm giữa **thực quản (Esophagus)** và **tá tràng (Duodenum)**. Đây là nơi **chứa tạm thời, nhào trộn và tiêu hóa bước đầu thức ăn**, đặc biệt là protein nhờ dịch vị (**Gastric juice**).
 
-> **(Bổ sung)** Dung tích trung bình của dạ dày người trưởng thành khoảng **1,2–1,5 L**, khi giãn tối đa có thể đạt **2–3 L**.
-### 4.1 Vị trí
-- Nằm ở **tầng trên mạc treo đại tràng ngang (Supracolic compartment)** của ổ bụng.
-- Chủ yếu ở **vùng thượng vị (Epigastric region)** và **hạ sườn trái (Left hypochondriac region)**.
-- Nối với:
-    - **Thực quản (Esophagus)** qua **tâm vị (Cardia)**.
-    - **Tá tràng (Duodenum)** qua **môn vị (Pylorus)**.
-- Dài 25 - 30cm, rộng 10 - 15cm chứa được khoảng 1 - 2 lít thức ăn
+### 4.1 Đại cương 
+#### 4.1.1. Đại cương & Chức năng (Overview & Function)
+- **Dạ dày** (_Stomach / Ventriculus / Gaster_): Là đoạn phình to nhất của **ống tiêu hóa** (_alimentary canal / digestive tract_), nằm nối giữa **thực quản** (_esophagus_) và **tá tràng** (_duodenum_).
+    
+- **Chức năng (_Function_):**
+    - Chứa đựng thức ăn tạm thời.
+    - **Tiêu hóa cơ học:** Co bóp, nhào trộn thức ăn với **dịch vị** (_gastric juice_).
+    - **Tiêu hóa hóa học:** Tiêu hóa bước đầu protein nhờ enzyme pepsin và $HCl$.
+    - **Chức năng nội tiết:** Tiết hormone gastrin, ghrelin...
+        
+- **Kích thước & Dung tích (_Dimensions & Capacity_):**
+    - **Kích thước:** Dài khoảng $25-30\text{ cm}$, rộng $10-15\text{ cm}$, dày $8-10\text{ cm}$.
+    - **Dung tích:** Ở người trưởng thành khoảng **$1.2-1.5\text{ L}$** (khi trống khoảng $50\text{ mL}$, khi giãn tối đa có thể đạt **$2-3\text{ L}$**).
+        
+#### 4.1.2. Vị trí & Giới hạn (Location & Boundaries)
+- **Vị trí trong ổ bụng (_Abdominal location_):**
+    - Nằm ở **ô dưới hoành trái** (_left subphrenic space_), thuộc **tầng trên mạc treo đại tràng ngang** (_supracolic compartment_).
+    - Chiếu lên bề mặt thành bụng: Nằm chủ yếu ở **vùng thượng vị** (_epigastric region_) và **vùng hạ sườn trái** (_left hypochondriac region_).
+
+- **Nối tiếp (_Connections_):**
+    - Phía trên: Nối với **thực quản** qua **lỗ tâm vị** (_cardiac orifice_).
+    - Phía dưới: Nối với **tá tràng** qua **lỗ môn vị** (_pyloric orifice_).
 ### 4.2 Hình thể ngoài 
 Dạ dày có hình chữ **J**, gồm:
 

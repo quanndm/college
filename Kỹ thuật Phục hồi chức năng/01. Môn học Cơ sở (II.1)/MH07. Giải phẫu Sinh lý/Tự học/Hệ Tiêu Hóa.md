@@ -380,7 +380,160 @@ Gồm cả thần kinh tự chủ (đối giao cảm & giao cảm) và thần ki
     - **Đám rối dưới niêm mạc Meissner** (_Submucosal plexus_): Nằm ở lớp dưới niêm mạc, điều hòa tiết dịch.
 ![[he_tieu_hoa_thuc_quan_4.png]]
 ## 4. Dạ dày 
+### 4.1 Đại cương 
+#### 4.1.1. Đại cương & Chức năng (Overview & Function)
+- **Dạ dày** (_Stomach / Ventriculus / Gaster_): Là đoạn phình to nhất của **ống tiêu hóa** (_alimentary canal / digestive tract_), nằm nối giữa **thực quản** (_esophagus_) và **tá tràng** (_duodenum_).
+    
+- **Chức năng (_Function_):**
+    - Chứa đựng thức ăn tạm thời.
+    - **Tiêu hóa cơ học:** Co bóp, nhào trộn thức ăn với **dịch vị** (_gastric juice_).
+    - **Tiêu hóa hóa học:** Tiêu hóa bước đầu protein nhờ enzyme pepsin và $HCl$.
+    - **Chức năng nội tiết:** Tiết hormone gastrin, ghrelin...
+        
+- **Kích thước & Dung tích (_Dimensions & Capacity_):**
+    - **Kích thước:** Dài khoảng $25-30\text{ cm}$, rộng $10-15\text{ cm}$, dày $8-10\text{ cm}$.
+    - **Dung tích:** Ở người trưởng thành khoảng **$1.2-1.5\text{ L}$** (khi trống khoảng $50\text{ mL}$, khi giãn tối đa có thể đạt **$2-3\text{ L}$**).
+        
+#### 4.1.2. Vị trí & Giới hạn (Location & Boundaries)
+- **Vị trí trong ổ bụng (_Abdominal location_):**
+    - Nằm ở **ô dưới hoành trái** (_left subphrenic space_), thuộc **tầng trên mạc treo đại tràng ngang** (_supracolic compartment_).
+    - Chiếu lên bề mặt thành bụng: Nằm chủ yếu ở **vùng thượng vị** (_epigastric region_) và **vùng hạ sườn trái** (_left hypochondriac region_).
 
+- **Nối tiếp (_Connections_):**
+    - Phía trên: Nối với **thực quản** qua **lỗ tâm vị** (_cardiac orifice_).
+    - Phía dưới: Nối với **tá tràng** qua **lỗ môn vị** (_pyloric orifice_).
+### 4.2 Hình thể ngoài 
+![[he_tieu_hoa_da_day_1.png]]
+Dạ dày có hình chữ J (khi rỗng hoặc ở tư thế đứng), gồm **2 mặt, 2 bờ cong, 2 đầu/lỗ** và **4 phần chính**:
+#### 1. Hai mặt (Surfaces)
+- **Mặt trước (_Anterior surface_):** Hướng ra trước và lên trên, liên quan với thùy trái gan, cơ hoành và thành bụng trước.
+- **Mặt sau (_Posterior surface_):** Hướng ra sau và xuống dưới, liên quan với tụy, thận trái, tuyến thượng thận trái, lách và đại tràng ngang (tạo nên **hậu môn mạc nối** / _lesser sac_)
+
+#### 2. Hai bờ cong (Curvatures)
+- **Bờ cong nhỏ (_Lesser curvature_):**
+    - Nằm ở bên phải, lõm, là nơi bám của **mạc nối nhỏ** (_lesser omentum_).
+    - Có **khuyết góc** (_angular incisure / angular notch_) – mốc phân cách giữa phần đứng (thân vị) và phần ngang (phần môn vị).
+
+- **Bờ cong lớn (_Greater curvature_):**
+    - Nằm ở bên trái, lồi, dài gấp 4-5 lần bờ cong nhỏ, là nơi bám của **mạc nối lớn** (_greater omentum_).
+    - Phía trên có **khuyết tâm vị** (_cardiac notch_) ngăn cách giữa thực quản và đáy vị.
+
+#### 3. Hai lỗ (Orifices)
+- **Lỗ tâm vị (_Cardiac orifice_):** Nơi thực quản đổ vào dạ dày (ngang mức T11), không có cơ thắt giải phẫu thực sự.
+- **Lỗ môn vị (_Pyloric orifice_):** Nơi dạ dày thông với tá tràng (ngang mức L1), có **cơ thắt môn vị** (_pyloric sphincter_) dày dặn giúp điều hòa thức ăn xuống tá tràng.
+
+#### 4. Các phần của dạ dày (Parts of the Stomach)
+Dạ dày được chia làm 2 phần chính: **Phần đứng** và **Phần ngang**.
+- **Phần tâm vị (_Cardia_):** Vùng niêm mạc xung quanh lỗ tâm vị (rộng khoảng $1-2\text{ cm}$).
+- **Đáy vị (_Fundus_):**
+    - Phần phình hình vòm nằm trên đường nằm ngang đi qua khuyết tâm vị.
+    - Thường chứa túi hơi/khí (thấy rõ trên phim X-quang).
+- **Thân vị (_Body / Corpus_):**
+    - Phần lớn nhất của dạ dày, đi từ đường ngang qua khuyết tâm vị xuống đến **khuyết góc**.
+- **Phần môn vị (_Pyloric part_):** Nằm ngang, đi từ khuyết góc đến môn vị, chia làm 2 phần nhỏ:
+    - **Hang môn vị (_Pyloric antrum_):** Phần phình rộng nối tiếp thân vị.
+    - **Ống môn vị (_Pyloric canal_):** Đoạn hẹp dài khoảng $2-3\text{ cm}$ dẫn đến **môn vị** (_Pylorus_).
+### 4.3 Liên quan 
+![[he_tieu_hoa_da_day_gan_1.png]]
+#### 4.3.1. Phía trước (Anterior Relations)
+Mặt trước dạ dày liên quan với các cơ quan qua 2 phần (vùng ngực và vùng bụng):
+- **Phần ngực (Nằm trên bờ sườn trái):**
+    - **Cơ hoành** (_Diaphragm_): Ngăn cách dạ dày với màng phổi trái, đáy phổi trái và tim.
+    - **Thùy trái của gan** (_Left lobe of liver_): Phủ lên một phần phía trước đáy vị và thân vị.
+
+- **Phần bụng (Nằm dưới bờ sườn trái - Tam giác Labbé):**
+    - Tiếp xúc trực tiếp với **thành bụng trước** (_Anterior abdominal wall_).
+
+#### 4.3.2. Phía sau (Posterior Relations) — Giường dạ dày (Stomach Bed)
+Mặt sau dạ dày ngăn cách với các cơ quan phía sau bởi một khoang phúc mạc gọi là **Túi mạc nối / Hậu môn mạc nối** (_Lesser sac / Omental bursa_).
+Mặt sau áp lên các cấu trúc tạo nên **Giường dạ dày** (_Stomach bed_), bao gồm:
+- **Cơ hoành** (_Diaphragm_): Đoạn vòm hoành trái.
+- **Tuyến thượng thận trái** (_Left suprarenal gland_).
+- **Thận trái** (_Left kidney_): Phần cực trên và bờ ngoài.
+- **Tụy / Tuyến tụy** (_Pancreas_): Thân và đuôi tụy, cùng với **động mạch lách** (_Splenic artery_) đi ở bờ trên tụy.
+- **Lách** (_Spleen / Lien_): Nằm ở phía ngoài - sau.
+- **Đại tràng ngang** (_Transverse colon_) và **Mạc treo đại tràng ngang** (_Transverse mesocolon_): Tạo thành nền nâng đỡ mặt sau dạ dày.
+
+> **Ý nghĩa lâm sàng (_Clinical significance_):**
+> - **Lỗ thủng mặt sau dạ dày:** Dịch dạ dày sẽ chảy vào túi mạc nối.
+> - **Ổ loét mặt sau dạ dày:** Có thể ăn sâu và dính vào **tụy** (gây viêm tụy cấp/mạn), hoặc ăn thủng vào **động mạch lách** gây chảy máu tiêu hóa ồ ạt.
+#### 4.3.3. Bờ cong nhỏ & Bờ cong lớn (Lesser & Greater Curvatures)
+- **Bờ cong nhỏ (_Lesser curvature_):** Liên quan với **mạc nối nhỏ** (_Lesser omentum_), bên trong chứa vòng động mạch bờ cong nhỏ. Qua mạc nối nhỏ liên quan với thùy đuôi gan và vòm cơ hoành.
+- **Bờ cong lớn (_Greater curvature_):** Liên quan với **mạc nối lớn** (_Greater omentum_) treo xuống phía dưới, bên trong chứa vòng động mạch bờ cong lớn và các dây chằng (dây chằng vị-lách, dây chằng vị-hoành).
+
+### 4.4 Cấu tạo
+
+![[he_tieu_hoa_da_day_2.png]]
+![[he_tieu_hoa_da_day_4.png]]
+
+Thành dạ dày gồm **5 lớp** (nếu tính chi tiết lớp mô liên kết dưới thanh mạc) hoặc **4 lớp chính** theo thứ tự từ ngoài vào trong:
+#### 4.4.1. Lớp thanh mạc & Tấm dưới thanh mạc (Serosa & Subserosa)
+- **Thanh mạc (_Serosa_):** Là lớp ngoài cùng, thuộc **phúc mạc tạng** (_visceral peritoneum_), bề mặt nhẵn bóng giúp dạ dày trượt dễ dàng.
+- **Tấm dưới thanh mạc (_Subserous layer / Subserosa_):** Lớp mô liên kết mỏng nằm ngay dưới thanh mạc, chứa các mạch máu và thần kinh nhỏ.
+
+#### 4.4.2. Lớp cơ (Muscular Layer / Muscularis Externa)
+Gồm **3 lớp cơ trơn** (_smooth muscle_) xếp theo các hướng khác nhau (dày nhất ở vùng môn vị):
+- **Lớp cơ dọc ở ngoài (_Outer longitudinal layer_):** Dày nhất dọc theo hai bờ cong.    
+- **Lớp cơ vòng ở giữa (_Middle circular layer_):** Phủ toàn bộ dạ dày, đặc biệt dày lên ở môn vị tạo thành **cơ thắt môn vị** (_pyloric sphincter_).
+- **Lớp cơ chéo ở trong (_Inner oblique layer_):** **Đặc trưng riêng của dạ dày** (không có ở các đoạn khác của ống tiêu hóa), tập trung chủ yếu ở đáy vị và thân vị.
+- **Chức năng:** Sự co bóp phối hợp của 3 lớp cơ giúp nhào trộn thức ăn mạnh mẽ với dịch vị thành **vị trấp** (_chyme_) và tống thức ăn xuống tá tràng (_gastric emptying_).
+
+#### 4.4.3. Lớp dưới niêm mạc (Submucosa)
+- Là lớp mô liên kết xốp, đàn hồi cao.
+- Chứa mạng lưới mạch máu, mạch bạch huyết và **đám rối thần kinh dưới niêm mạc Meissner** (_Submucosal plexus_).
+- Cho phép lớp niêm mạc trượt và gấp nếp linh hoạt.
+#### 4.4.4. Lớp niêm mạc (Mucosa)
+Lớp trong cùng tiếp xúc với thức ăn, có màu hồng nhạt:
+- **Các nếp gấp dạ dày (_Gastric rugae_):** Các nếp gấp dọc chạy dọc theo chiều dài dạ dày (rõ nhất ở bờ cong lớn), giúp dạ dày giãn rộng khi chứa thức ăn.
+- **Đường chữ Z / Đường zic-zắc (_Z-line_):** Ranh giới chuyển tiếp giữa biểu mô lát tầng thực quản và biểu mô trụ đơn dạ dày tại vùng tâm vị.
+- **Tuyến vị (_Gastric glands_):** Chứa các loại tế bào tiết quan trọng:
+    - **Tế bào nhầy (_Mucous neck cells_):** Tiết chất nhầy giàu $HCO_3^-$ tạo hàng rào bảo vệ niêm mạc khỏi acid và pepsin.
+    - **Tế bào viền / Tế bào thành (_Parietal cells_):** Tiết **Axit clohydric** ($HCl$) và **Yếu tố nội** (_Intrinsic factor_ - cần cho sự hấp thu Vitamin $B_{12}$).
+    - **Tế bào chính (_Chief cells_):** Tiết **Pepsinogen** (tiền chất của enzyme pepsin tiêu hóa protein) và **Lipase vị**.
+    - **Tế bào nội tiết (_Enteroendocrine / G cells_):** Tiết hormone **Gastrin** vào máu để kích thích tế bào viền tiết $HCl$.
+
+### 4.5 Mạch máu và thần kinh 
+![[he_tieu_hoa_da_day_3.png]]
+#### 1. Hệ Động mạch (Arteries)
+Các động mạch nối với nhau tạo thành các vòng mạch nằm trong hai mạc nối:
+
+##### A. Vòng động mạch bờ cong nhỏ (Lesser Curvature Arterial Arch)
+Nằm trong mạc nối nhỏ, ôm sát bờ cong nhỏ dạ dày, được tạo thành bởi sự nối tiếp của:
+- **Động mạch vị trái** (_Left gastric artery_ - [1] trên hình): Nhánh trực tiếp từ thân tạng [9].
+- **Động mạch vị phải** (_Right gastric artery_ - [3] trên hình): Thường tách từ động mạch gan riêng [7] hoặc động mạch gan chung.
+    
+##### B. Vòng động mạch bờ cong lớn (Greater Curvature Arterial Arch)
+Nằm trong mạc nối lớn, cách bờ cong lớn khoảng $1-2\text{ cm}$, được tạo thành bởi:
+- **Động mạch vị-mạc nối trái / Động mạch vị-chày trái** (_Left gastro-omental / gastroepiploic artery_ - [4] trên hình): Tách từ động mạch lách.
+- **Động mạch vị-mạc nối phải / Động mạch vị-chày phải** (_Right gastro-omental / gastroepiploic artery_ - [4] trên hình): Tách từ động mạch vị-tá tràng (_Gastroduodenal artery_ - [6] trên hình).
+##### C. Các động mạch khác
+- **Các động mạch vị ngắn** (_Short gastric arteries_ - [2] trên hình): Gồm $5-7$ nhánh tách từ động mạch lách, cấp máu cho đáy vị.
+- **Động mạch vị sau** (_Posterior gastric artery_): Tách từ động mạch lách, cấp máu cho mặt sau đáy vị và thân vị.
+    
+#### 2. Tĩnh mạch (Veins)
+Các tĩnh mạch đi song song và mang tên tương ứng với động mạch, toàn bộ máu đều dẫn lưu về **hệ tĩnh mạch cửa** (_Portal venous system_):
+- **Tĩnh mạch vị trái** (_Left gastric vein_) & **Tĩnh mạch vị phải** (_Right gastric vein_): Đổ trực tiếp vào **tĩnh mạch cửa** (_Portal vein_ - [5] trên hình).
+- **Tĩnh mạch vị-mạc nối trái** & **Các tĩnh mạch vị ngắn**: Đổ vào **tĩnh mạch lách** (_Splenic vein_).
+- **Tĩnh mạch vị-mạc nối phải**: Đổ vào **tĩnh mạch mạc treo tràng trên** (_Superior mesenteric vein_).
+
+#### 3. Dẫn lưu bạch huyết (Lymphatic Drainage)
+Rất quan trọng trong định hướng phẫu thuật nạo vét hạch ung thư dạ dày. Mạch bạch huyết đổ về các nhóm hạch chính:
+- **Hạch vị** (_Gastric nodes_): Dọc bờ cong nhỏ.
+- **Hạch vị-mạc nối** (_Gastro-omental nodes_): Dọc bờ cong lớn.
+- **Hạch tụy-lách** (_Pancreaticosplenic nodes_): Vùng đáy vị và thân vị.
+- **Hạch môn vị** (_Pyloric nodes_): Vùng hang môn vị.
+    $\rightarrow$ Tất cả cuối cùng đều tập trung về **hạch thân tạng** (_Celiac lymph nodes_).
+#### 4. Thần kinh chi phối (Innervation)
+
+##### A. Thần kinh Đối giao cảm (Parasympathetic Innervation)
+Do **dây thần kinh lang thang / Dây X** (_Vagus nerve - CN X_) chi phối:
+- **Thân thần kinh lang thang trước** (_Anterior vagal trunk_ - chủ yếu từ dây X trái): Cho nhánh đến mặt trước dạ dày, nhánh gan và nhánh vị trước (_Latarjet trước_).
+- **Thân thần kinh lang thang sau** (_Posterior vagal trunk_ - chủ yếu từ dây X thực sự): Cho nhánh đến mặt sau dạ dày, nhánh tạng và nhánh vị sau (_Latarjet sau_).
+- **Tác dụng:** **Kích thích** tăng nhu động dạ dày, **tăng tiết** dịch vị ($HCl$, pepsinogen) và mở cơ thắt môn vị.
+
+##### B. Thần kinh Giao cảm (Sympathetic Innervation)
+Xuất phát từ đoạn ngực T6–T9 qua **thần kinh tạng lớn** (_Greater splanchnic nerve_) đến **đám rối tạng / đám rối thái dương** (_Celiac plexus_):
+- **Tác dụng:** **Ức chế** nhu động và co mạch máu, **co cơ thắt môn vị**, truyền cảm giác đau từ dạ dày về trung ương.
 
 ## 5. Tiểu tràng 
 

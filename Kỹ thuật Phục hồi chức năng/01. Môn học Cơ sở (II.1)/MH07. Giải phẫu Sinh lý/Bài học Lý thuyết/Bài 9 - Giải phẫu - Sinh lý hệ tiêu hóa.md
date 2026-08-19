@@ -249,7 +249,7 @@ Tạo nên **giường dạ dày (Stomach bed)**, liên quan với:
 ### 4.4 Cấu tạo 
 Thành dạ dày gồm **4 lớp (Four layers)**.
 ![[he_tieu_hoa_da_day_2.png]]
-
+![[he_tieu_hoa_da_day_4.png]]
 #### 1. Thanh mạc _(Serosa)_
 
 - Là lớp ngoài cùng.
@@ -405,11 +405,12 @@ Thành ruột gồm **4 lớp**:
     - **Phó giao cảm (Parasympathetic):** Dây thần kinh lang thang (**Vagus nerve**).
     - **Giao cảm (Sympathetic):** Các sợi từ đám rối tạng (**Celiac & Mesenteric plexus**).
 
-## 6. Đại tràng (Large Intestine / Colon)
+## 6. Đại tràng (Ruột già / Large Intestine / Colon)
 Đại tràng (**Large intestine**) là đoạn cuối của **ống tiêu hóa (Alimentary canal)**, nối **hồi tràng (Ileum)** với **ống hậu môn (Anal canal)**. Chức năng chính là **hấp thu nước, điện giải (Water and electrolyte absorption)**, tạo khuôn phân và thải phân ra ngoài.
 
 > **(Bổ sung)** Đại tràng dài khoảng **1,5 m**, đường kính trung bình **2.5–6 cm**, lớn hơn ruột non nên được gọi là **đại tràng (Large intestine)**.
 ### 6.1. Vị trí và hình thể
+
 Đại tràng tạo thành một **khung (Colonic frame)** bao quanh các quai ruột non trong ổ bụng.
 
 Bao gồm các đoạn:
@@ -432,6 +433,8 @@ Bao gồm các đoạn:
 > Đây là ba đặc điểm giúp phân biệt đại tràng với ruột non.
 ### 6.2. Phân đoạn (Segments)
 ![[he_tieu_hoa_dai_trang_1.png]]
+![[he_tieu_hoa_dai_trang_2.png]]
+
 #### Manh tràng _(Cecum)_
 
 - Là đoạn đầu của đại tràng.
@@ -572,6 +575,10 @@ Gồm có 2 mặt, 2 bờ:
 > **(Bổ sung)** Túi mật (**Gallbladder**) nằm ở mặt dưới gan, có nhiệm vụ dự trữ và cô đặc dịch mật.
 
 ![[he_tieu_hoa_gan_1.png]]
+![[he_tieu_hoa_gan_4.png]]
+![[he_tieu_hoa_gan_5.png]]
+![[he_tieu_hoa_gan_6.png]]
+
 #### c. Cấu tạo _(Structure)_
 **Cấu tạo của gan** gồm bao gan và mô gan. Bao gan có 2 lớp: thanh mạc (ngoài) và bao xơ (trong), đi vào nhu mô gan qua cửa gan. Mô gan gồm các tiểu thùy gan và khoảng cửa.
 

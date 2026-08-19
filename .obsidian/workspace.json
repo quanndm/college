@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6fd6f6482765d8dc",
+        "id": "e9c9d184575ee283",
         "type": "tabs",
         "children": [
           {
-            "id": "8223ae35d42f3e56",
+            "id": "a761b743b191efd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tuần Hoàn.md",
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tiêu Hóa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hệ Tuần Hoàn"
+              "title": "Hệ Tiêu Hóa"
+            }
+          },
+          {
+            "id": "a123be8b96c57fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 9 - Giải phẫu - Sinh lý hệ tiêu hóa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bài 9 - Giải phẫu - Sinh lý hệ tiêu hóa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -181,13 +197,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8223ae35d42f3e56",
+  "active": "a123be8b96c57fe6",
   "lastOpenFiles": [
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 7 - Giải phẫu - Sinh lý hệ tuần hoàn.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tuần Hoàn.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tiêu Hóa.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 9 - Giải phẫu - Sinh lý hệ tiêu hóa.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_tieu_hoa_gan_6.png",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_tieu_hoa_gan_5.png",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_tieu_hoa_gan_4.png",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_tieu_hoa_dai_trang_2.png",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_tieu_hoa_da_day_4.png",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tiết Niệu.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Thần Kinh.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Sinh Dục.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Nội Tiết.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Máu.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 6 - Sinh lý máu.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Hô Hấp.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Xương (Tiếp theo).md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 6 - Sinh lý máu.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tuần Hoàn.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 7 - Giải phẫu - Sinh lý hệ tuần hoàn.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương chi dưới (Ossa membri inferioris) (đang học khớp).md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Chuyển hoá - Thân nhiệt - Điều hòa thân nhiệt.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 8 - Giải phẫu - Sinh lý hệ hô hấp.md",
@@ -196,12 +224,6 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_phe_quan_3.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_phe_quan_2.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_thanh_quan_19.png",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_thanh_quan_18 1.png",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_thanh_quan_18.png",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_thanh_quan_17.png",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_thanh_quan_16.png",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_thanh_quan_15.png",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Xương (Tiếp theo).md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương chi trên (Ossa membri superioris).md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Chưa đặt tên.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Chưa đặt tên.md",
@@ -209,16 +231,10 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Mắt.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Chuyển hóa - Thân nhiệt - Điều hòa thân nhiệt.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Sinh Dục.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Nội Tiết.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tiết Niệu.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Thần Kinh.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tiêu Hóa.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương cột sống (Columna vertebralis).md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Sinh lý hệ cơ.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 9 - Giải phẫu - Sinh lý hệ tiêu hóa.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Baigiang GPSLcaodang.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/8 - Trình bày chức năng của thận.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/7 - Trình bày hiện tượng hấp thu trong tiêu hóa.md",

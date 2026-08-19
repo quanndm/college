@@ -6,6 +6,7 @@
 > https://youtu.be/vGsM38Rz9Ho
 
 # 1. Giải Phẫu 
+## Đại cương
 - Gồm tim, hệ thống mạch máu (động mạch, tĩnh mạch, mao mạch) và hệ bạch huyết 
 ## 1.1 Tim 
 - Là cơ quan chính của hệ tuần hoàn, làm nhiẹm vụ bơm máu vào các động mạch và hút máu từ các tĩnh mạch trở về tim

@@ -45,12 +45,15 @@ Quá trình tiêu hóa diễn ra qua **3 hiện tượng**:
 > **(Bổ sung)** Trong sinh lý học hiện đại, tiêu hóa cơ học không làm thay đổi bản chất hóa học của thức ăn mà chỉ làm tăng diện tích tiếp xúc để enzyme hoạt động hiệu quả hơn.
 # I. Giải phẫu 
 ## 1. Miệng (Mouth)
+### Đại cương  
 Miệng (**Oral cavity**) là đoạn đầu tiên của ống tiêu hóa, đồng thời là nơi bắt đầu quá trình tiêu hóa.
+- Vai trò: Nhai, nuốt, nếm, nói, tiết nước bọt
 - Miệng gồm ba phần:
 	- Tiền đình miệng
 	- Cung răng lợi
 	- Khoang miệng
 ![[he_tieu_hoa_2.png]]
+	![[he_tieu_hoa_mieng_1.jpeg]]
 ### 1.1 Tiền đình miệng (Oral vestibule)
 Là khoang nằm giữa môi, má và cung răng.
 
@@ -116,7 +119,7 @@ Trong khoang miệng có các **tuyến nước bọt (Salivary glands)** tiết
 Hầu (**Pharynx**) là đoạn chung của **đường tiêu hóa (Digestive tract)** và **đường hô hấp (Respiratory tract)**, nối khoang miệng với thực quản và thanh quản. Trong hệ tiêu hóa, hầu có chức năng **dẫn thức ăn từ miệng xuống thực quản trong quá trình nuốt (Swallowing)**.
 
 > **Chi tiết cấu tạo và sinh lý: xem nội dung sau [[Bài 8 - Giải phẫu - Sinh lý hệ hô hấp#1.2 Hầu (Pharynx)|Hầu]].**
-> 
+
 
 ## 3. Thực quản (Esophagus)
 Thực quản (**Esophagus**) là một ống cơ (**Muscular tube**) nối **hầu (Pharynx)** với **dạ dày (Stomach)**, có chức năng vận chuyển thức ăn xuống dạ dày nhờ nhu động (**Peristalsis**).
@@ -232,7 +235,7 @@ Liên quan với:
 - Gan (**Liver**)
 - Cơ hoành (**Diaphragm**)
 - Thành bụng trước (**Anterior abdominal wall**)
-
+![[he_tieu_hoa_da_day_gan_1.png]]
 #### Phía sau _(Posterior)_
 
 Tạo nên **giường dạ dày (Stomach bed)**, liên quan với:

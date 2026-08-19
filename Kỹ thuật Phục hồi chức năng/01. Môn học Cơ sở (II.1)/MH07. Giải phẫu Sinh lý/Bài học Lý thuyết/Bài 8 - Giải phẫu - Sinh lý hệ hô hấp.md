@@ -117,7 +117,8 @@ Mũi được cấu tạo chủ yếu bởi khung xương-sụn và lớp niêm 
 ### 1.2.1 Vị trí và giới hạn
 - Là một ống cơ - mạc hình phễu, nằm phía trước cột sống cổ và phía sau khoang mũi, khoang miệng, thanh quản.
 
-- **Vị trí giao thoa**: Là nơi ngã tư gặp nhau giữa **đường hô hấp** (_Respiratory tract_) và **đường tiêu hóa** (_Digestive tract_).
+- **Vị trí giao thoa**: Là nơi **ngã tư** gặp nhau giữa **đường hô hấp** (_Respiratory tract_) và **đường tiêu hóa** (_Digestive tract_).
+	- Ngã 3 hầu họng: hầu mũi - hầu miệng - hầu thanh quản
     
 - **Chiều dài & Giới hạn**:
     - Đi từ **Nền sọ** (_Base of skull_) ở phía trên.

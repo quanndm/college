@@ -323,9 +323,10 @@ Chi phối bởi:
 - **Dây thần kinh lang thang (Vagus nerve – Parasympathetic)**: kích thích tiết dịch vị và tăng nhu động.
 - **Đám rối tạng (Celiac plexus – Sympathetic)**: ức chế hoạt động của dạ dày.
 
-## 5. Tiểu tràng (Ruột non)
+## 5. Tiểu tràng (Ruột non / Small intesstines)
 Đi từ môn vị tới góc hồi manh tràng, dài 4- 5m, màu trằng hồng, chia làm 3 đoạn: tá
 tràng, hỗng và hồi tràng.
+![[he_tieu_hoa_tieu_trang.png]]
 ### 5.1 Tá tràng _(Duodenum)_
 Tá tràng (**Duodenum**) là đoạn đầu của ruột non, nối **môn vị (Pylorus)** với **hỗng tràng (Jejunum)**.
 ![[he_tieu_hoa_tieu_trang_1.png]]
@@ -379,9 +380,7 @@ Thành tá tràng gồm **4 lớp**:
 - **Hồi tràng (Ileum)** chiếm khoảng **3/5** chiều dài.
 - Đều được treo vào thành bụng sau bởi **mạc treo ruột (Mesentery)** nên có khả năng di động.
 
-
-
-| Hỗng tràng _(Jejunum)_     | \|Hồi tràng _(Ileum)_\|              |
+| Hỗng tràng _(Jejunum)_     | \|Hồi tràng _(Ileum)_                |
 | -------------------------- | ------------------------------------ |
 | Thành dày hơn              | Thành mỏng hơn                       |
 | Đường kính lớn hơn         | Đường kính nhỏ hơn                   |
@@ -403,8 +402,7 @@ Thành ruột gồm **4 lớp**:
 > - **Vi nhung mao (Microvilli/Brush border)**
 > 
 > Ba cấu trúc này làm diện tích hấp thu tăng lên rất nhiều, giúp ruột non là cơ quan hấp thu chính của cơ thể.
-![[he_tieu_hoa_hong_trang_hoi_trang_1.png]]
-![[he_tieu_hoa_ta_trang_1.png]]
+
 #### c. Mạch máu và thần kinh _(Blood Supply and Innervation)_
 ##### Động mạch _(Arteries)_
 
@@ -421,8 +419,8 @@ Thành ruột gồm **4 lớp**:
     - **Phó giao cảm (Parasympathetic):** Dây thần kinh lang thang (**Vagus nerve**).
     - **Giao cảm (Sympathetic):** Các sợi từ đám rối tạng (**Celiac & Mesenteric plexus**).
 
-## 6. Đại tràng (Ruột già / Large Intestine / Colon)
-Đại tràng (**Large intestine**) là đoạn cuối của **ống tiêu hóa (Alimentary canal)**, nối **hồi tràng (Ileum)** với **ống hậu môn (Anal canal)**. Chức năng chính là **hấp thu nước, điện giải (Water and electrolyte absorption)**, tạo khuôn phân và thải phân ra ngoài.
+## 6. Đại tràng (Ruột già / Large intesstines / Colon)
+Đại tràng (**Large intesstines**) là đoạn cuối của **ống tiêu hóa (Alimentary canal)**, nối **hồi tràng (Ileum)** với **ống hậu môn (Anal canal)**. Chức năng chính là **hấp thu nước, điện giải (Water and electrolyte absorption)**, tạo khuôn phân và thải phân ra ngoài.
 
 > **(Bổ sung)** Đại tràng dài khoảng **1,5 m**, đường kính trung bình **2.5–6 cm**, lớn hơn ruột non nên được gọi là **đại tràng (Large intestine)**.
 ### 6.1. Vị trí và hình thể

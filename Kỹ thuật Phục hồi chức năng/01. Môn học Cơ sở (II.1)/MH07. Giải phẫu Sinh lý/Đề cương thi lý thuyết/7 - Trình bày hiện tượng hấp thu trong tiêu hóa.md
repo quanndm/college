@@ -1,69 +1,54 @@
-## 1. Khái niệm
+# **1. Khái niệm & Ý nghĩa**
 
-**Hấp thu (Absorption)** là quá trình đưa các sản phẩm tiêu hóa từ **lòng ống tiêu hóa (Lumen of the gastrointestinal tract)** qua **niêm mạc ống tiêu hóa (Gastrointestinal mucosa)** vào **máu (Blood)** hoặc **hệ bạch huyết (Lymphatic system)** để cung cấp cho cơ thể.
+- **Định nghĩa:** Hấp thu (**Absorption**) là quá trình đưa các chất dinh dưỡng, nước, điện giải từ lòng ống tiêu hóa (**Lumen**) qua tế bào biểu mô niêm mạc (**Epithelial cells**) vào máu (**Blood**) hoặc hệ bạch huyết (**Lymphatic system**).
+    
+- **Ý nghĩa:** Cung cấp nguyên liệu cho chuyển hóa, năng lượng và duy trì nội môi.
+    
 
-Quá trình hấp thu diễn ra ở nhiều đoạn của ống tiêu hóa, trong đó **ruột non (Small intestine)** là nơi hấp thu chủ yếu.
+# **2. Hấp thu theo từng đoạn của Ống tiêu hóa**
 
----
+## **2.1. Miệng & Dạ dày (Oral Cavity & Stomach)**
 
-## 2. Hấp thu ở các đoạn của ống tiêu hóa
+- **Miệng:** Hấp thu rất ít. Chỉ hấp thu một số thuốc tan trong mỡ ngậm dưới lưỡi (**Sublingual drugs** - như _Nitroglycerin_) đi thẳng vào tĩnh mạch chủ, tránh **Hiệu ứng chuyển hóa lần đầu tại gan** (**First-pass metabolism**).
+    
+- **Dạ dày:** Hấp thu kém do thiếu nhung mao và tế bào có liên kết chặt. Chỉ hấp thu ít nước, rượu (**Alcohol**), và thuốc tan trong lipid (_Aspirin_).
+    
 
-### 2.1. Hấp thu ở miệng _(Oral cavity)_
+## **2.2. Ruột non - Cơ quan hấp thu chính (Small Intestine)**
 
-Quá trình hấp thu ở miệng diễn ra **rất ít**.
+- **Đặc điểm thuận lợi:**
+    
+    - Diện tích hấp thu mở rộng gấp ~600 lần ($250\text{ m}^2$) nhờ **Nếp gấp vòng** (_Circular folds_), **Nhung mao** (_Villi_), và **Vi nhung mao** (_Microvilli / Brush border_).
+        
+    - Mạng lưới mao mạch và mạch bạch huyết trung tâm (**Central lacteal**) phong phú.
+        
+- **Cơ chế hấp thu từng chất dinh dưỡng:**
+    
 
-Chỉ một số chất có thể hấp thu trực tiếp qua **niêm mạc miệng (Oral mucosa)** như:
+|**Chất dinh dưỡng**|**Cơ chế vận chuyển qua bờ bàn chải**|**Đường vận chuyển sau hấp thu**|
+|---|---|---|
+|**Glucose & Galactose**|Vận chuyển tích cực thứ phát đồng vận chuyển $\text{Na}^+$ (**SGLT-1**)|Vào mao mạch $\rightarrow$ **Tĩnh mạch cửa** $\rightarrow$ Gan|
+|**Fructose**|Khuếch tán hỗ trợ (**GLUT-5**)|Vào mao mạch $\rightarrow$ **Tĩnh mạch cửa** $\rightarrow$ Gan|
+|**Protein (Acid amin / Peptid nhỏ)**|Đồng vận chuyển với $\text{Na}^+$ hoặc $\text{H}^+$|Vào mao mạch $\rightarrow$ **Tĩnh mạch cửa** $\rightarrow$ Gan|
+|**Lipid (Acid béo & Monoglyceride)**|Muối mật nhũ tương hóa tạo **Hạt Micelle** đưa đến vi nhung mao $\rightarrow$ Tự do khuếch tán qua màng|Tái tổng hợp thành Triglyceride, tạo **Chylomicron** $\rightarrow$ **Mạch bạch huyết**|
+|**Muối mật & Vitamin $\text{B}_{12}$**|Vận chuyển tích cực đặc hiệu **chỉ diễn ra tại Cuối Hồi tràng** (_Terminal ileum_)|Muối mật về gan qua **Chu trình gan - ruột** (_Enterohepatic circulation_)|
+|**Vitamin tan trong dầu (A, D, E, K)**|Đi kèm lipid trong hạt Micelle|Vào hệ Bạch huyết qua Chylomicron|
+|**Vitamin tan trong nước (B, C)**|Khuếch tán hoặc vận chuyển tích cực phụ thuộc $\text{Na}^+$|Vào mao mạch $\rightarrow$ Tĩnh mạch cửa|
+|**Nước & Điện giải ($\text{Na}^+, \text{Cl}^-$)**|Hấp thu đẳng trương theo chênh lệch áp suất thẩm thấu|Vào mao mạch|
 
-- Một số thuốc ngậm dưới lưỡi _(Sublingual drugs)_.
-- Một lượng rất nhỏ nước _(Water)_ và rượu _(Alcohol)_.
+## **2.3. Ruột già (Large Intestine)**
 
----
+- Chủ yếu hấp thu **Nước** ($1-1.5\text{ L/ngày}$ dịch đi vào, hấp thu $90\%$, còn $100-200\text{ mL}$ ra phân) và các **Điện giải** ($\text{Na}^+, \text{Cl}^-$).
+    
+- Hấp thu các **Vitamin K, Biotin, Folate** do hệ vi sinh đường ruột (**Gut microbiota**) tổng hợp.
+    
 
-### 2.2. Hấp thu ở dạ dày _(Stomach)_
+# **3. Các yếu tố ảnh hưởng đến quá trình hấp thu**
 
-Dạ dày hấp thu rất ít, chủ yếu:
-
-- Một ít nước _(Water)_.
-- Rượu _(Alcohol)_.
-- Một số thuốc tan trong lipid như **Aspirin**.
-
-Phần lớn các chất dinh dưỡng **không được hấp thu ở dạ dày** mà sẽ tiếp tục xuống ruột non.
-
----
-
-### 2.3. Hấp thu ở ruột non _(Small intestine)_
-
-Ruột non là **nơi hấp thu chủ yếu của cơ thể**.
-
-#### a. Đặc điểm cấu tạo thuận lợi cho hấp thu
-
-Diện tích hấp thu được tăng lên nhờ:
-
-- **Nếp gấp vòng (Circular folds)**.
-- **Nhung mao ruột (Intestinal villi)**.
-- **Vi nhung mao (Microvilli/Brush border)**.
-
-#### b. Các chất được hấp thu
-
-- **Glucid (Carbohydrates)** → hấp thu dưới dạng **Monosaccharid**.
-- **Protid (Proteins)** → hấp thu dưới dạng **Acid amin (Amino acids)**.
-- **Lipid (Fats)** → hấp thu dưới dạng **Acid béo (Fatty acids)** và **Monoglycerid**, sau đó được tái tổng hợp thành triglycerid và vận chuyển dưới dạng **Chylomicron** vào **hệ bạch huyết (Lymphatic system)**.
-- **Vitamin**, **nước (Water)** và **muối khoáng (Minerals)** cũng được hấp thu chủ yếu tại ruột non.
-
----
-
-### 2.4. Hấp thu ở ruột già _(Large intestine)_
-
-Ruột già tiếp tục hấp thu:
-
-- **Nước (Water)**.
-- **Điện giải (Electrolytes)**, chủ yếu là **Na⁺** và **Cl⁻**.
-- Một số vitamin do **vi khuẩn đường ruột (Gut microbiota)** tổng hợp, đặc biệt là **Vitamin K** và một số **vitamin nhóm B**.
-
-Quá trình hấp thu nước giúp cô đặc phân trước khi thải ra ngoài.
-
----
-
-## 3. Kết luận
-
-Hấp thu diễn ra ở nhiều đoạn của **ống tiêu hóa (Alimentary canal)**, nhưng **ruột non là cơ quan hấp thu quan trọng nhất**, đảm nhiệm hấp thu hầu hết các chất dinh dưỡng; **ruột già** chủ yếu hấp thu nước, điện giải và một số vitamin, còn **miệng** và **dạ dày** chỉ hấp thu với lượng rất ít.
+- **Cấu trúc niêm mạc:** Tổn thương vi nhung mao (như trong bệnh Celiac, viêm ruột) làm giảm diện tích hấp thu.
+    
+- **Thời gian lưu chuyển (Nhu động ruột):** Tiêu chảy làm thức ăn di chuyển quá nhanh làm giảm hấp thu; táo bón làm tăng hấp thu nước.
+    
+- **Tuần hoàn máu & Bạch huyết:** Rối loạn tưới máu mạc treo hoặc tắc mạch bạch huyết làm giảm khả năng vận chuyển chất dinh dưỡng.
+    
+- **Dịch tiêu hóa:** Thiếu mật hoặc enzyme tụy làm giảm nghiêm trọng khả năng tiêu hóa và hấp thu Lipid.

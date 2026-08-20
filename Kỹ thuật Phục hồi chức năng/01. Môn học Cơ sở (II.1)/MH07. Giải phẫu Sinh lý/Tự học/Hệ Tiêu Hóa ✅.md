@@ -237,14 +237,15 @@ Bao gồm các tuyến nhỏ rải rác niêm mạc và **3 đôi tuyến nướ
 
 1. **Tuyến mang tai (_Parotid gland_):**
     - Lớn nhất, nằm ở hố sau hàm dưới (trước tai).
-    - **Ống Stenon** (_Parotid duct_) đổ vào tiền đình miệng (đối diện răng cối lớn 2 hàm trên / răng số 7).
+    - **Ống Stenon** (_Parotid duct_ / Ống tuyến mang tai) đổ vào tiền đình miệng (đối diện răng cối lớn 2 hàm trên / răng số 7).
 
 2. **Tuyến dưới hàm (_Submandibular gland_):**
-    - Nằm ở tam giác dưới hàm.
+    - Nằm ở tam giác dưới hàm (dưới xương hàm dưới).
+    - Tiết phần lớn lượng nước bọt khi nghỉ.
     - **Ống Wharton** (_Submandibular duct_) đổ vào **cục dưới lưỡi** ở sàn miệng.
 
 3. **Tuyến dưới lưỡi (_Sublingual gland_):**
-    - Nhỏ nhất, nằm ở sàn miệng dưới nếp gấp dưới lưỡi.
+    - Nhỏ nhất, nằm ở sàn miệng dưới nếp gấp dưới lưỡi ( niêm mạc sàn miệng).
     - Đổ vào sàn miệng qua nhiều **ống dưới lưỡi nhỏ** (_Minor sublingual ducts / Ducts of Rivinus_).
 ## 2. Hầu ([[Bài 8 - Giải phẫu - Sinh lý hệ hô hấp#1.2 Hầu (Pharynx)|Xem thêm]])
 ## 3. Thực quản 
@@ -389,11 +390,10 @@ Gồm cả thần kinh tự chủ (đối giao cảm & giao cảm) và thần ki
     - **Tiêu hóa cơ học:** Co bóp, nhào trộn thức ăn với **dịch vị** (_gastric juice_).
     - **Tiêu hóa hóa học:** Tiêu hóa bước đầu protein nhờ enzyme pepsin và $HCl$.
     - **Chức năng nội tiết:** Tiết hormone gastrin, ghrelin...
-        
+    
 - **Kích thước & Dung tích (_Dimensions & Capacity_):**
     - **Kích thước:** Dài khoảng $25-30\text{ cm}$, rộng $10-15\text{ cm}$, dày $8-10\text{ cm}$.
     - **Dung tích:** Ở người trưởng thành khoảng **$1.2-1.5\text{ L}$** (khi trống khoảng $50\text{ mL}$, khi giãn tối đa có thể đạt **$2-3\text{ L}$**).
-        
 #### 4.1.2. Vị trí & Giới hạn (Location & Boundaries)
 - **Vị trí trong ổ bụng (_Abdominal location_):**
     - Nằm ở **ô dưới hoành trái** (_left subphrenic space_), thuộc **tầng trên mạc treo đại tràng ngang** (_supracolic compartment_).
@@ -535,17 +535,287 @@ Do **dây thần kinh lang thang / Dây X** (_Vagus nerve - CN X_) chi phối:
 Xuất phát từ đoạn ngực T6–T9 qua **thần kinh tạng lớn** (_Greater splanchnic nerve_) đến **đám rối tạng / đám rối thái dương** (_Celiac plexus_):
 - **Tác dụng:** **Ức chế** nhu động và co mạch máu, **co cơ thắt môn vị**, truyền cảm giác đau từ dạ dày về trung ương.
 
-## 5. Tiểu tràng 
+## 5. Tiểu tràng (Ruột non) 
+### Đại cương 
+- Đi từ môn vị tới góc hồi manh tràng, dài 4- 5m, màu trằng hồng, chia làm 3 đoạn: tá  tràng, hỗng và hồi tràng.
+### 5.1 Tá tràng (Duodenum)
+![[he_tieu_hoa_tieu_trang_1.png]]
 
+**a. Khái niệm - Vị trí và kích thước (Position and Size)**
+- **Định nghĩa:** Tá tràng (**Duodenum**) là đoạn đầu của ruột non, nối môn vị (**Pylorus**) với hỗng tràng (**Jejunum**) tại **Góc tá - hỗng tràng** (**Duodenojejunal flexure**).
 
+- Dài khoảng 25 cm ($\approx 12$ khoát ngón tay).
+- Uốn hình chữ C ôm quanh **Đầu tụy** (**Head of pancreas**).
 
-## 6. Đại tràng 
+- **Đặc điểm phúc mạc:** 2/3 đầu đoạn trên di động (trong phúc mạc), phần còn lại cố định nằm **Sau phúc mạc** (**Retroperitoneal**).
+    
+**b. Phân đoạn & Hình thể ngoài (Morphology & Parts)**
+- **Đoạn trên / D1 (Superior part / D1):** 2/3 đầu phình to gọi là **Hành tá tràng** (**Duodenal bulb/cap**), niêm mạc nhẵn.
+    
+- **Đoạn xuống / D2 (Descending part / D2):** Chứa **Nhú tá lớn** (**Major duodenal papilla / Ampulla of Vater**) – nơi bóng gan-tụy (lỗ chung ống mật chủ **Common bile duct** & ống tụy chính **Main pancreatic duct**) đổ vào; và **Nhú tá bé** (**Minor duodenal papilla**) – nơi đổ của ống tụy phụ (**Accessory pancreatic duct / Duct of Santorini**).
+    
+- **Đoạn ngang / D3 (Horizontal part / D3):** Nằm ngang qua cột sống, bị **Mạch máu treo tràng trên** (**Superior mesenteric vessels - SMA/SMV**) bắt chéo phía trước.
+    
+- **Đoạn lên / D4 (Ascending part / D4):** Chạy lên nối với hỗng tràng. Cố định bởi **Dây chằng Treitz / Cơ treo tá tràng** (**Ligament of Treitz / Suspensory muscle of duodenum**).
+    
 
+**c. Liên quan quan trọng (Relations)**
+- **Phía trước/trên:** Gan (**Liver**), Túi mật (**Gallbladder**).
+- **Phía trong (lõm):** Ôm sát Đầu tụy (**Head of pancreas**).
+- **Mạch máu liên quan:** Động mạch vị - tá tràng (**Gastroduodenal artery**), Động/Tĩnh mạch treo tràng trên (**Superior mesenteric artery/vein**).
+    
 
+**d. Hình thể trong & Cấu tạo (Internal features & Microstructure)**
+- **Niêm mạc:** Có các **Nếp gấp vòng** (**Circular folds / Plicae circulares / Kerckring folds**), ngoại trừ vùng hành tá tràng. Có nhiều **Nhung mao ruột** (**Intestinal villi**).
+- **Lớp dưới niêm mạc (Submucosa):** Chứa **Tuyến tá tràng / Tuyến Brunner** (**Duodenal glands / Brunner's glands**) tiết nhầy kiềm bảo vệ niêm mạc khỏi acid.
+- **Cấu tạo 4 lớp:** Thanh mạc (**Serosa/Adventitia**), Cơ (**Muscularis externa** - vòng ngoài dọc trong), Dưới niêm mạc (**Submucosa**), Niêm mạc (**Mucosa**).
+![[he_tieu_hoa_ta_trang_1.png]]
 
+### 5.2 Hỗng tràng và hồi tràng (Jejunum and Ileum)
+![[he_tieu_hoa_hong_trang_1.png]]
+![[he_tieu_hoa_hoi_trang_2.png]]
+#### **a. Vị trí, phân đoạn và Mạc treo (Position, Subdivisions & Mesentery)**
+- Là phần di động của ruột non, xếp thành các **Quai ruột** (**Intestinal loops**) hình chữ U.
+- Được treo vào thành bụng sau bởi **Rễ mạc treo ruột** (**Root of mesentery**).
+- **Hỗng tràng (Jejunum):** Chiếm 2/5 trên.
+- **Hồi tràng (Ileum):** Chiếm 3/5 dưới, kết thúc tại **Lỗ hồi - manh tràng** (**Ileoecal orifice / Ileocecal valve**).
+- _Lưu ý giải phẫu:_ Khoảng 2% dân số có **Túi thừa Meckel** (**Meckel's diverticulum**) ở bờ đối mạc treo của hồi tràng.
+
+**So sánh chi tiết Hỗng tràng & Hồi tràng:**
+
+|**Đặc điểm**|**Hỗng tràng (Jejunum)**|**Hồi tràng (Ileum)**|
+|---|---|---|
+|**Vị trí**|Thường nằm ở hạ sườn trái & quanh rốn|Thường nằm ở hạ vị & hố chậu phải|
+|**Đường kính & Thành**|Rộng hơn, thành dày hơn|Hẹp hơn, thành mỏng hơn|
+|**Mạch máu & Màu sắc**|Đỏ hồng (giàu mạch máu)|Hồng nhạt|
+|**Nếp gấp vòng (Plicae circulares)**|Nhiều, cao và dày|Ít, thấp, biến mất ở đoạn cuối|
+|**Nang bạch huyết (Mô lympho)**|Nang bạch huyết đơn độc (_Solitary lymphoid nodules_)|Mảng Peyer (_Peyer's patches / Aggregated lymphoid nodules_)|
+|**Cung động mạch (Arterial arcades)**|1 – 2 tầng cung đơn giản|3 – 5 tầng cung phức tạp|
+|**Động mạch thẳng (Vasa recta)**|Dài và đường kính lớn|Ngắn và đường kính nhỏ|
+|**Mỡ mạc treo (Mesenteric fat)**|Ít mỡ ở sát bờ ruột (có cửa sổ mạc treo)|Mỡ dày lấn sát đến tận bờ ruột|
+
+#### **b. Cấu tạo thành ruột (Structure of intestinal wall)**
+Gồm 4 lớp từ ngoài vào trong:
+- **Thanh mạc (Serosa):** Phúc mạc tạng bao bọc.
+- **Lớp cơ (Muscularis externa):** Cơ dọc bên ngoài, cơ vòng bên trong. Giữa 2 lớp cơ có **Đám rối thần kinh cơ Auerbach** (**Auerbach's myenteric plexus**).
+- **Lớp dưới niêm mạc (Submucosa):** Chứa mô liên kết, mạch máu và **Đám rối thần kinh dưới niêm mạc Meissner** (**Meissner's submucosal plexus**).
+- **Lớp niêm mạc (Mucosa):** Biểu mô hấp thu với 3 cấp độ tăng diện tích bề mặt:
+    - Nếp gấp vòng (**Circular folds / Plicae circulares / Kerckring folds**)
+    - Nhung mao ruột (**Intestinal villi**)
+    - Vi nhung mao / Bờ bàn chải (**Microvilli / Brush border**)
+
+#### **c. Mạch máu và Thần kinh (Vascularization & Innervation)**
+- **Động mạch:** Các nhánh ruột non xuất phát từ bờ trái **Động mạch mạc treo tràng trên** (**Superior mesenteric artery - SMA**).
+- **Tĩnh mạch:** Đi kèm động mạch, đổ về **Tĩnh mạch mạc treo tràng trên** (**Superior mesenteric vein - SMV**) $\rightarrow$ hợp với Tĩnh mạch lách thành **Tĩnh mạch cửa** (**Portal vein**).
+- **Thần kinh:** Chi phối bởi **Đám rối mạc treo tràng trên** (**Superior mesenteric plexus**):
+    - **Phó giao cảm (Parasympathetic):** Dây thần kinh lang thang / Dây X (**Vagus nerve**) $\rightarrow$ Tăng nhu động ruột, tăng tiết dịch.
+    - **Giao cảm (Sympathetic):** Các sợi từ Tủy sống T8-T10 qua **Đám rối tạng & Đám rối mạc treo tràng trên** (**Celiac & Superior mesenteric plexus**) $\rightarrow$ Giảm nhu động, co mạch.
+## 6. Đại tràng (Ruột già)
+Ruột già (**Large intestine**) nối từ hồi tràng đến hậu môn. Chức năng chính là hấp thu nước, điện giải (**Water and electrolyte absorption**), cô đặc và đào thải phân.
+
+**a. Đặc điểm giải phẫu đặc trưng (Morphological characteristics)**
+Giúp phân biệt với ruột non (chỉ có ở kết tràng, không có ở trực tràng/ruột thừa):
+
+- **3 Dải cơ dọc (**Taeniae coli**):** Dải tự do (_Free_), dải mạc nối (_Omental_), dải mạc treo (_Mesocolic_). Cả 3 quy tụ tại **Gốc ruột thừa** (**Base of appendix**).
+- **Túi phình kết tràng (**Haustra coli**):** Tạo bởi sự co rút của các dải cơ dọc.
+- **Túi mỡ mạc nối (**Epiploic appendages / Omental appendices**):** Các túi mỡ nhỏ treo dọc dải cơ.
+    
+
+**b. Phân đoạn chi tiết (Anatomical Segments)**
+![[he_tieu_hoa_dai_trang_1.png]]
+![[he_tieu_hoa_dai_trang_2.png]]
+
+- **Manh tràng (**Cecum**) & Ruột thừa (**Vermiform appendix**):**
+    - Nằm ở hố chậu phải (**Right iliac fossa**). Tiếp nhận hồi tràng qua **Van hồi - manh tràng** (**Ileocecal valve / Bauhin valve**).
+    - Gốc ruột thừa đối chiếu lên thành bụng là **Điểm McBurney** (**McBurney's point**). Chứa nhiều nang bạch huyết (**Lymphoid follicles**).
+        
+- **Đại tràng lên (**Ascending colon**):** Chạy dọc mạn sườn phải, dính vào thành bụng sau (dính sau phúc mạc). Kết thúc ở **Góc kết tràng phải / Góc gan** (**Right colic flexure / Hepatic flexure**).
+    
+- **Đại tràng ngang (**Transverse colon**):** Di động, có **Mạc treo kết tràng ngang** (**Transverse mesocolon**). Đi từ góc gan đến **Góc kết tràng trái / Góc lách** (**Left colic flexure / Splenic flexure**).
+    
+- **Đại tràng xuống (**Descending colon**):** Dính sau phúc mạc, chạy dọc mạn sườn trái xuống hố chậu trái.
+    
+- **Đại tràng sigma (**Sigmoid colon**):** Hình chữ S, di động nhờ **Mạc treo kết tràng sigma** (**Sigmoid mesocolon**), nằm trong chậu hông bé.
+    
+- **Trực tràng (**Rectum**) & Ống hậu môn (**Anal canal**):**
+	    ![[he_tieu_hoa_truc_trang_hau_mon_1.png]]
+    - **Trực tràng:** Phần phình to là **Bóng trực tràng** (**Rectal ampulla**), bên trong có 3 **Van trực tràng** (**Transverse rectal folds / Houston's valves**).
+        
+    - **Ống hậu môn:** Đoạn cuối chứa các **Cột hậu môn** (**Anal columns**), **Van hậu môn** (**Anal valves**) và **Đường lược** (**Pectinate / Dentate line**).
+        
+    - **Hệ thống cơ thắt:** Cơ thắt trong (**Internal sphincter** - cơ trơn, không tự chủ) và Cơ thắt ngoài (**External sphincter** - cơ vân, tự chủ, được nâng đỡ bởi **Cơ nâng hậu môn** - _Levator ani_).
+        
+
+**c. Cấu tạo thành đại tràng (Structure)**
+- **Thanh mạc (**Serosa**):** Phúc mạc tạng (một số đoạn bị dính thành sau phúc mạc).
+- **Lớp cơ (**Muscular layer**):** Cơ dọc tập trung thành 3 dải (_Taeniae coli_); cơ vòng ở trong.
+- **Lớp dưới niêm mạc (**Submucosa**):** Chứa đám rối tĩnh mạch trĩ (**Rectal venous plexus**).
+- **Niêm mạc (**Mucosa**):** Không có nhung mao, chứa nhiều **Tuyến Lieberkühn** (**Crypts of Lieberkühn**) với các tế bào đài (**Goblet cells**) tiết nhầy bôi trơn.
+
+**d. Mạch máu & Thần kinh (Vascularization & Innervation)**
+
+|**Vùng cấp máu / Thần kinh**|**2/3 Phải Đại tràng (Manh tràng → 2/3 ĐT Ngang)**|**1/3 Trái Đại tràng (1/3 ĐT Ngang → Trực tràng)**|
+|---|---|---|
+|**Động mạch**|**ĐM mạc treo tràng trên** (_SMA_)|**ĐM mạc treo tràng dưới** (_IMA_)|
+|**Vòng nối quan trọng**|**ĐM bờ Drummond / Cung Riolan** (_Marginal artery of Drummond / Arc of Riolan_)|**ĐM bờ Drummond / Cung Riolan**|
+|**Tĩnh mạch**|Đổ về **TM mạc treo tràng trên** (_SMV_)|Đổ về **TM mạc treo tràng dưới** (_IMV_) $\rightarrow$ Hệ Tĩnh mạch cửa|
+|**Thần kinh phó giao cảm**|**Dây thần kinh lang thang** (_Vagus nerve - CN X_)|**Thần kinh tạng chậu** (_Pelvic splanchnic nerves - S2, S3, S4_)|
 
 ## 7. Tuyến tiêu hóa
+### 7.1 Đại cương 
+Tuyến tiêu hóa (**Digestive glands**) là các cơ quan có chức năng **tiết dịch tiêu hóa (Digestive secretions)** chứa enzyme và các chất cần thiết để hỗ trợ quá trình tiêu hóa thức ăn.
+
+Hệ tiêu hóa gồm ba tuyến lớn:
+
+- **Tuyến nước bọt (Salivary glands)**
+- **Gan (Liver)**
+- **Tuyến tụy (Pancreas)**
+
+> **(Bổ sung)** Ngoài ba tuyến lớn, trong thành ống tiêu hóa còn có các **tuyến tiêu hóa nhỏ (Mucosal glands)** tiết chất nhầy và dịch tiêu hóa.
+
+### 7.2 Tuyến nước bọt (Salivary glands) ([[#1.3.5 Các tuyến nước bọt (Salivary Glands / Glandulae Salivariae)|Xem thêm]])
+
+### 7.3 Gan (Liver)
+#### a. Đại cương 
+- Gan (**Liver / Hepar**) là tuyến tiêu hóa lớn nhất cơ thể, nặng khoảng 1,2–1,5 kg.
+#### **b. Hình thể ngoài & Liên quan (External Morphology & Relations)**
+
+![[he_tieu_hoa_gan_1.png]]
+![[he_tieu_hoa_gan_4.png]]
+![[he_tieu_hoa_gan_5.png]]
+![[he_tieu_hoa_gan_6.png]]
 
 
+- **Mặt hoành (**Diaphragmatic surface**):**
+    - Lồi, áp sát cơ hoành. Có **Dây chằng liềm** (**Falciform ligament**) chia thành **Thùy phải** (**Right lobe**) và **Thùy trái** (**Left lobe**).
+    - **Vùng trần** (**Bare area**): Vùng ở mặt sau không có phúc mạc bao bọc, nằm giữa 2 lá của **Dây chằng vành** (**Coronary ligament**).
+        
+- **Mặt tạng (**Visceral surface**):**
+    - Phẳng/lõm, mang các ấn tạng (ấn dạ dày, ấn thận, ấn đại tràng, ấn tá tràng).
+    - Có 2 rãnh dọc và 1 rãnh ngang tạo thành hình chữ H. Rãnh ngang chính là **Cửa gan** (**Porta hepatis**).
+    - Hình chữ H chia mặt tạng thành 4 thùy: Thùy phải, Thùy trái, **Thùy vuông** (**Quadrate lobe**) và **Thùy đuôi** (**Caudate lobe**).
+
+- **Phương tiện cố định gan:** Dây chằng liềm, dây chằng vành, **Dây chằng tam giác phải/trái** (**Triangular ligaments**), **Dây chằng tròn** (**Round ligament / Ligamentum teres** - di tích TM rốn), **Dây chằng tĩnh mạch** (_Ligamentum venosum_ - di tích ống TM) và Tĩnh mạch chủ dưới.
+#### **c. Cấu tạo mô học & Mạch máu (Microstructure & Blood Supply)**
+
+![[he_tieu_hoa_gan_2.png]]	
+![[he_tieu_hoa_gan_3.png]]
+
+- **Bao gan:** Bao bọc bởi lớp mô liên kết xơ gọi là **Bao Glisson** (**Glisson's capsule**).
+    
+- **Đơn vị cấu tạo - Tiểu thùy gan (**Hepatic lobule**):**
+    - Hình đa giác, trung tâm là **Tĩnh mạch trung tâm tiểu thùy** (**Central vein**).
+    - **Bè tế bào gan (bè Remak):** Tế bào gan dạng hình hộp xoe tròn, xếp thành chuỗi tỏa ra từ trung tâm.
+    - **Xoang gan (**Hepatic sinusoids**):** Mao mạch kiểu xoang nằm giữa các bè Remak, chứa **Tế bào Kupffer** (**Kupffer cells** - đại thực bào) và **Tế bào Íto** (_Hepatic stellate cells_ - dự trữ Vitamin A).
+
+- **Khoảng cửa (**Portal tract / Portal area**):**
+    - Chứa **Bộ ba khoảng cửa** (**Portal triad**): Nhánh động mạch gan (_Arteriole_), nhánh tĩnh mạch cửa (_Venule_), và **Ống mật liên tiểu thùy** (_Interlobular bile duct_).
+
+- **Hệ thống tuần hoàn đôi (Double Blood Supply):**
+    - **Tĩnh mạch cửa (**Portal vein - PV**):** Cung cấp ~75-80% lượng máu (giàu chất dinh dưỡng từ ống tiêu hóa).
+    - **Động mạch gan riêng (**Proper hepatic artery - PHA**):** Cung cấp ~20-25% lượng máu (giàu Oxy).
+    - **Dòng chảy Máu:** ĐM gan + TM cửa $\rightarrow$ Xoang gan $\rightarrow$ Tĩnh mạch trung tâm tiểu thùy $\rightarrow$ Tĩnh mạch trên gan (TM gan) $\rightarrow$ Tĩnh mạch chủ dưới (**IVC**).
+
+#### **d. Phân đoạn giải phẫu ngoại khoa (Couinaud Classification)**
+
+Dựa vào sự phân nhánh của tĩnh mạch cửa và tĩnh mạch gan, gan được chia thành **8 Hạ phân thùy** (**Segments I to VIII**) đánh số theo chiều kim đồng hồ ở mặt trước, giúp định vị chính xác trong phẫu thuật cắt gan.
+
+#### **e. Chức năng sinh lý (Physiological Functions)**
+- **Chuyển hóa (**Metabolism**):**
+    - _Glucid:_ Dự trữ Glycogen, tân tạo đường (**Gluconeogenesis**), duy trì đường huyết.
+    - _Lipid:_ Tổng hợp Cholesterol, Lipoprotein (VLDL, LDL, HDL), Triglyceride, chuyển hóa Acid béo.
+    - _Protid:_ Tổng hợp Hầu hết Albumin, Globulin, các yếu tố đông máu; khử amin tạo **Ure** đào thải qua thận.
+
+- **Bài tiết mật (**Bile secretion**):** Tế bào gan tiết mật $\rightarrow$ **Tiểu quản mật** (_Bile canaliculi_) $\rightarrow$ Đường mật ngoài gan $\rightarrow$ Dự trữ tại **Túi mật** (**Gallbladder**).
+
+- **Chống độc & Chuyển hóa thuốc (**Detoxification**):** Nhờ hệ thống Enzyme Cytochrome P450 biến chất độc thành dạng hòa tan để thải qua nước tiểu hoặc mật.
+
+- **Dự trữ & Khác (**Storage & Other functions**):**
+    - Dự trữ sắt (dạng Ferritin), Vitamin tan trong dầu (A, D, E, K), Vitamin B12.
+    - Tổng hợp các **Yếu tố đông máu** (**Clotting factors** I, II, VII, IX, X).
+### 7.4 Tuyến tụy (Pancreas)
+Tụy (**Pancreas**) là tuyến pha (vừa ngoại tiết vừa nội tiết), nằm ngang ở thành bụng sau, bắt qua các đốt sống L1–L2.
+![[he_tieu_hoa_tuy_1.png]]
+![[he_tieu_hoa_tuy_2.png]]
+
+#### **a. Vị trí & Phân đoạn giải phẫu (Anatomical position & Divisions)**
+- **Đặc điểm phúc mạc:** Nằm sau phúc mạc (**Retroperitoneal**), riêng phần đuôi tụy di động trong dây chằng tụy - lách.
+- **Phân đoạn:**    
+    - **Đầu tụy (**Head of pancreas**):** Nằm gọn trong vòng uốn hình chữ C của tá tràng. Có **Mỏm móc** (**Uncinate process**) quặt ra sau mạch máu treo tràng trên.
+    - **Cổ tụy (**Neck**):** Đoạn hẹp nối đầu và thân tụy, nằm ngay phía trước tĩnh mạch cửa.
+    - **Thân tụy (**Body**):** Chạy sang trái, vắt ngang trước động mạch chủ bụng.
+    - **Đuôi tụy (**Tail**):** Đoạn cuối thuôn nhọn, đi tới tận **Rốn lách** (**Splenic hylum**).
+#### **b. Hệ thống ống dẫn & Mạch máu (Duct system & Blood supply)**
+- **Ống tụy chính (**Main pancreatic duct / Duct of Wirsung**):** Chạy dọc từ đuôi đến đầu tụy, kết hợp với **Ống mật chủ** (**Common bile duct - CBD**) tại **Bóng gan - tụy** (**Ampulla of Vater**) rồi đổ vào **Nhú tá lớn** (**Major duodenal papilla**). Cơ thắt quanh bóng này là **Cơ thắt Oddi** (**Sphincter of Oddi**).
+- **Ống tụy phụ (**Accessory pancreatic duct / Duct of Santorini**):** Đổ vào **Nhú tá bé** (**Minor duodenal papilla**), nằm phía trên nhú tá lớn.
+- **Mạch máu cấp máu:** Nhánh của **Động mạch thân tạng** (_Celiac trunk_) và **Động mạch mạc treo tràng trên** (_SMA_).
+
+#### **c. Cấu tạo mô học & Chức năng sinh lý (Microstructure & Functions)**
+**Chức năng Ngoại tiết (Exocrine function - chiếm 98-99% khối lượng tụy)**
+- **Nang tụy (**Pancreatic acini**):** Cấu tạo từ các tế bào nang (**Acinar cells**), tiết các enzyme tiêu hóa dưới dạng tiền chất (_Trypsinogen, Chymotrypsinogen, Lipase, Amylase_).
+- **Tế bào ống tuyến (**Ductal cells**):** Tiết dung dịch giàu **Bicarbonate ($\text{HCO}_3^-$)** giúp trung hòa dịch acid từ dạ dày xuống tá tràng, tạo pH thích hợp cho enzyme hoạt động.
+
+**Chức năng Nội tiết (Endocrine function - chiếm 1-2% khối lượng tụy)**
+Được thực hiện bởi các **Tiểu đảo tụy** (**Islets of Langerhans**), gồm 4 loại tế bào chính:
+- **Tế bào Beta (**$\beta$-cells): Chiếm ~60-70%, tiết **Insulin** $\rightarrow$ Giảm đường huyết (đưa glucose vào tế bào & gan dự trữ dưới dạng glycogen).
+- **Tế bào Alpha (**$\alpha$-cells): Chiếm ~20%, tiết **Glucagon** $\rightarrow$ Tăng đường huyết (phân giải glycogen thành glucose).
+- **Tế bào Delta (**$\delta$-cells): Chiếm ~10%, tiết **Somatostatin** $\rightarrow$ Ức chế tiết cả Insulin lẫn Glucagon.
+- **Tế bào PP / F (**PP cells**):** Tiết **Pancreatic polypeptide** $\rightarrow$ Điều hòa bài tiết dịch tụy ngoại tiết.
 
 # II. Sinh lý
+## **1. Tiêu hóa ở Miệng (Digestion in the Mouth)**
+- **Cơ học (**Mechanical digestion**):**
+    - Nhai (**Mastication**): Răng xé nghiền thức ăn, tăng diện tích tiếp xúc enzyme.
+
+    - Nuốt (**Swallowing / Deglutition**): Trung tâm nuốt ở **Hành não** (**Medulary swallowing center**).
+        - Giai đoạn miệng (_Voluntary stage_): Tự ý.
+        - Giai đoạn hầu & thực quản (_Pharyngeal & Esophageal stage_): Phản xạ không tự ý.
+            
+- **Hóa học (**Chemical digestion**):**
+    - Tuyến nước bọt tiết 1–1,5 L/ngày, chi phối bởi TK VII và IX.
+    - **Enzyme Amylase nước bọt / Ptyalin:** Thủy phân tinh bột chín thành Maltose & Dextrin (pH tối thích $6,6-7,0$).
+    - Chứa **Lysozyme** và **IgA** diệt khuẩn, bảo vệ răng miệng.
+        
+- **Hấp thu (**Absorption**):** Rất ít. Nhận các thuốc ngậm dưới lưỡi (**Sublingual drugs**) đi thẳng vào hệ tuần hoàn chung, tránh **Hiệu ứng chuyển hóa lần đầu qua gan** (**First-pass metabolism**).
+
+## **2. Tiêu hóa ở Dạ dày (Digestion in the Stomach)**
+- **Cơ học (**Mechanical digestion**):**
+    - Chứa thức ăn (**Receptive relaxation**): Giãn cơ dạ dày nhờ dây X.
+    - Nhào trộn (**Mixing waves**): Co bóp 3 lớp cơ (vòng, dọc, chéo).
+    - Thoát thức ăn (**Gastric emptying**): Lipid làm chậm thoát thức ăn nhất qua phản xạ **Enterogastric reflex**.
+    - Lúc đói có **Phức hợp vận động di chuyển** (**Migrating Motor Complex - MMC**) dọn sạch lòng dạ dày.
+- **Hóa học & Tiết dịch (**Chemical digestion & Secretions**):**
+    - **Tế bào thành (**Parietal cells**):** Tiết **Acid Hydrochloric (HCl)** nhờ bơm $\text{H}^+/\text{K}^+$-ATPase và **Yếu tố nội** (**Intrinsic factor** - giúp hấp thu B12 ở hồi tràng).
+    - **Tế bào chính (**Chief cells**):** Tiết **Pepsinogen** (được HCl hoạt hóa thành Pepsin cắt Protein thành Peptid) và **Gastric Lipase**.
+    - **Tế bào G (**G cells**):** Tiết hormone **Gastrin** kích thích bài tiết HCl.
+    - **Tế bào nhầy (**Mucous cells**):** Tiết chất nhầy chứa $\text{HCO}_3^-$ tạo **Hàng rào niêm mạc dạ dày** (**Gastric mucosal barrier**).
+- **3 Giai đoạn tiết dịch vị:** Giai đoạn tâm trí (**Cephalic phase**), Giai đoạn dạ dày (**Gastric phase** - mạnh nhất), Giai đoạn ruột (**Intestinal phase**).
+    
+## **3. Tiêu hóa & Hấp thu ở Ruột non (Small Intestine)**
+- **Cơ học (**Mechanical digestion**):** Co bóp phân đoạn (**Segmentation** - chủ yếu), Nhu động (**Peristalsis**), Cử động lắc (**Pendular movement**).
+
+- **Hóa học (**Chemical digestion**):**
+    - **Dịch mật (**Bile**):** Không chứa enzyme. **Muối mật** (**Bile salts**) nhũ tương hóa lipid (**Emulsification**) và tạo hạt **Micelle** vận chuyển lipid.
+    - **Dịch tụy (**Pancreatic juice**):** Giàu $\text{HCO}_3^-$ trung hòa acid.
+        - Protid: Trypsinogen (hoạt hóa bởi _Enteropeptidase_ ở bờ bàn chải thành Trypsin), Chymotrypsinogen, Carboxypeptidase.
+        - Lipid: Pancreatic Lipase.
+        - Glucid: Pancreatic Amylase.
+    - **Dịch ruột (**Intestinal juice**):** Các enzyme nằm ở **Bờ bàn chải** (**Brush border enzymes**): Disaccharidase (_Maltase, Sucrase, Lactase_), Peptidase.
+
+- **Cơ chế Hấp thu (**Absorption mechanisms**):**
+    - **Glucose & Galactose:** Vận chuyển tích cực thứ phát đồng vận chuyển với $\text{Na}^+$ (**SGLT-1**).
+    - **Fructose:** Khuếch tán hỗ trợ (**GLUT-5**).
+    - **Lipid:** Acid béo & Monoglyceride qua màng tế bào $\rightarrow$ Tái tổng hợp thành Triglyceride $\rightarrow$ Tạo **Chylomicron** $\rightarrow$ Đi vào **Hệ bạch huyết** (**Lacteals / Lymphatic system**).
+    - **Muối mật & Vitamin B12:** Tái hấp thu đặc hiệu tại **Cuối hồi tràng** (**Terminal ileum**). Muối mật quay về gan qua **Chu trình gan - ruột** (**Enterohepatic circulation**).
+
+## **4. Tiêu hóa & Hấp thu ở Đại tràng (Large Intestine)**
+- **Cơ học (**Mechanical digestion**):** Co bóp túi phình (**Haustral contractions**), Nhu động khối (**Mass movement / Mass peristalsis**) xuất hiện sau ăn do **Phản xạ dạ dày - đại tràng** (**Gastrocolic reflex**).
+    
+- **Hệ vi sinh đường ruột (**Gut microbiota**):**
+    - Lên men xơ không tiêu tạo **Acid béo chuỗi ngắn** (**Short-chain fatty acids - SCFAs**: _Acetate, Propionate, Butyrate_).
+    - Tổng hợp **Vitamin K** và Vitamin nhóm B (_Biotin, Folate_).
+    - Tạo các khí ($CO_2, H_2, CH_4, H_2S$).
+
+- **Hấp thu & Phản xạ đại tiện (**Absorption & Defecation**):**
+    - Tái hấp thu $90\%$ lượng nước còn lại ($1-1.5\text{ L/ngày} \rightarrow 100-200\text{ mL}$ thải theo phân) và điện giải ($\text{Na}^+, \text{Cl}^-$).
+    - Phản xạ đại tiện (**Defecation reflex**): Phân vào trực tràng kích thích thụ thể căng $\rightarrow$ Xung động theo **Thần kinh tạng chậu** (**Pelvic splanchnic nerves - S2–S4**) $\rightarrow$ Giãn **Cơ thắt trong** (_Internal anal sphincter_ - không tự chủ) $\rightarrow$ Mở **Cơ thắt ngoài** (_External anal sphincter_ - tự chủ) để tống phân.

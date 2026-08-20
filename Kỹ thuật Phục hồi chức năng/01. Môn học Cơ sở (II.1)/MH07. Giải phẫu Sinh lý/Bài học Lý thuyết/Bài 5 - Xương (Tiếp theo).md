@@ -1,4 +1,5 @@
 # Hệ xương 
+## Đại cương
 **Cấu trúc và số lượng**
 - **Số lượng**: 206 đến 208 xương (ở người trưởng thành).
 - **Liên kết**: Tiếp khớp với nhau tạo thành khung xương vững chắc.

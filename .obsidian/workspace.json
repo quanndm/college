@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương đầu mặt ❌.md",
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương đầu mặt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xương đầu mặt ❌"
+              "title": "Xương đầu mặt"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -190,7 +191,7 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/GPSL_xuong_dau_mat_xuong_ham_duoi_2.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/GPSL_xuong_dau_mat_xuong_ham_duoi_1.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_mui_4.png",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương đầu mặt ❌.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương đầu mặt.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_mui_3.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_mui_2.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/he_ho_hap_mui_1.png",

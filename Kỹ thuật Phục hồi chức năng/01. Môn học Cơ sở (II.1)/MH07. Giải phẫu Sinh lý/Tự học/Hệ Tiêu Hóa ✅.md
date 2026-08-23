@@ -611,12 +611,12 @@ Gồm 4 lớp từ ngoài vào trong:
     - **Phó giao cảm (Parasympathetic):** Dây thần kinh lang thang / Dây X (**Vagus nerve**) $\rightarrow$ Tăng nhu động ruột, tăng tiết dịch.
     - **Giao cảm (Sympathetic):** Các sợi từ Tủy sống T8-T10 qua **Đám rối tạng & Đám rối mạc treo tràng trên** (**Celiac & Superior mesenteric plexus**) $\rightarrow$ Giảm nhu động, co mạch.
 ## 6. Đại tràng (Ruột già)
-Ruột già (**Large intestine**) nối từ hồi tràng đến hậu môn. Chức năng chính là hấp thu nước, điện giải (**Water and electrolyte absorption**), cô đặc và đào thải phân.
+Ruột già (**Large intestine**) nối từ hồi tràng đến hậu môn. Chức năng chính là **hấp thu nước**, điện giải (**Water and electrolyte absorption**), cô đặc và đào thải phân.
 
 **a. Đặc điểm giải phẫu đặc trưng (Morphological characteristics)**
 Giúp phân biệt với ruột non (chỉ có ở kết tràng, không có ở trực tràng/ruột thừa):
 
-- **3 Dải cơ dọc (**Taeniae coli**):** Dải tự do (_Free_), dải mạc nối (_Omental_), dải mạc treo (_Mesocolic_). Cả 3 quy tụ tại **Gốc ruột thừa** (**Base of appendix**).
+- **3 Dải cơ dọc (**Taeniae coli**): Dải tự do (_Free_), dải mạc nối (_Omental_), dải mạc treo (_Mesocolic_). Cả 3 quy tụ tại **Gốc ruột thừa** (**Base of appendix**).
 - **Túi phình kết tràng (**Haustra coli**):** Tạo bởi sự co rút của các dải cơ dọc.
 - **Túi mỡ mạc nối (**Epiploic appendages / Omental appendices**):** Các túi mỡ nhỏ treo dọc dải cơ.
     
@@ -625,19 +625,19 @@ Giúp phân biệt với ruột non (chỉ có ở kết tràng, không có ở 
 ![[he_tieu_hoa_dai_trang_1.png]]
 ![[he_tieu_hoa_dai_trang_2.png]]
 
-- **Manh tràng (**Cecum**) & Ruột thừa (**Vermiform appendix**):**
+- **Manh tràng (Cecum) & Ruột thừa (Vermiform appendix):**
     - Nằm ở hố chậu phải (**Right iliac fossa**). Tiếp nhận hồi tràng qua **Van hồi - manh tràng** (**Ileocecal valve / Bauhin valve**).
     - Gốc ruột thừa đối chiếu lên thành bụng là **Điểm McBurney** (**McBurney's point**). Chứa nhiều nang bạch huyết (**Lymphoid follicles**).
         
-- **Đại tràng lên (**Ascending colon**):** Chạy dọc mạn sườn phải, dính vào thành bụng sau (dính sau phúc mạc). Kết thúc ở **Góc kết tràng phải / Góc gan** (**Right colic flexure / Hepatic flexure**).
+- **Đại tràng lên (Ascending colon):** Chạy dọc mạn sườn phải, dính vào thành bụng sau (dính sau phúc mạc). Kết thúc ở **Góc kết tràng phải / Góc gan** (**Right colic flexure / Hepatic flexure**).
     
-- **Đại tràng ngang (**Transverse colon**):** Di động, có **Mạc treo kết tràng ngang** (**Transverse mesocolon**). Đi từ góc gan đến **Góc kết tràng trái / Góc lách** (**Left colic flexure / Splenic flexure**).
+- **Đại tràng ngang (Transverse colon):** Di động, có **Mạc treo kết tràng ngang** (**Transverse mesocolon**). Đi từ góc gan đến **Góc kết tràng trái / Góc lách** (**Left colic flexure / Splenic flexure**).
     
-- **Đại tràng xuống (**Descending colon**):** Dính sau phúc mạc, chạy dọc mạn sườn trái xuống hố chậu trái.
+- **Đại tràng xuống (Descending colon):** Dính sau phúc mạc, chạy dọc mạn sườn trái xuống hố chậu trái.
     
-- **Đại tràng sigma (**Sigmoid colon**):** Hình chữ S, di động nhờ **Mạc treo kết tràng sigma** (**Sigmoid mesocolon**), nằm trong chậu hông bé.
+- **Đại tràng sigma (Sigmoid colon):** Hình chữ S, di động nhờ **Mạc treo kết tràng sigma** (**Sigmoid mesocolon**), nằm trong chậu hông bé.
     
-- **Trực tràng (**Rectum**) & Ống hậu môn (**Anal canal**):**
+- **Trực tràng (Rectum) & Ống hậu môn (Anal canal):**
 	    ![[he_tieu_hoa_truc_trang_hau_mon_1.png]]
     - **Trực tràng:** Phần phình to là **Bóng trực tràng** (**Rectal ampulla**), bên trong có 3 **Van trực tràng** (**Transverse rectal folds / Houston's valves**).
         
@@ -647,7 +647,7 @@ Giúp phân biệt với ruột non (chỉ có ở kết tràng, không có ở 
         
 
 **c. Cấu tạo thành đại tràng (Structure)**
-- **Thanh mạc (**Serosa**):** Phúc mạc tạng (một số đoạn bị dính thành sau phúc mạc).
+- **Thanh mạc (Serosa):** Phúc mạc tạng (một số đoạn bị dính thành sau phúc mạc).
 - **Lớp cơ (**Muscular layer**):** Cơ dọc tập trung thành 3 dải (_Taeniae coli_); cơ vòng ở trong.
 - **Lớp dưới niêm mạc (**Submucosa**):** Chứa đám rối tĩnh mạch trĩ (**Rectal venous plexus**).
 - **Niêm mạc (**Mucosa**):** Không có nhung mao, chứa nhiều **Tuyến Lieberkühn** (**Crypts of Lieberkühn**) với các tế bào đài (**Goblet cells**) tiết nhầy bôi trơn.
@@ -764,19 +764,19 @@ Tụy (**Pancreas**) là tuyến pha (vừa ngoại tiết vừa nội tiết), 
 
 # II. Sinh lý
 ## **1. Tiêu hóa ở Miệng (Digestion in the Mouth)**
-- **Cơ học (**Mechanical digestion**):**
+- **Cơ học (Mechanical digestion):**
     - Nhai (**Mastication**): Răng xé nghiền thức ăn, tăng diện tích tiếp xúc enzyme.
 
     - Nuốt (**Swallowing / Deglutition**): Trung tâm nuốt ở **Hành não** (**Medulary swallowing center**).
         - Giai đoạn miệng (_Voluntary stage_): Tự ý.
         - Giai đoạn hầu & thực quản (_Pharyngeal & Esophageal stage_): Phản xạ không tự ý.
             
-- **Hóa học (**Chemical digestion**):**
+- **Hóa học (Chemical digestion):**
     - Tuyến nước bọt tiết 1–1,5 L/ngày, chi phối bởi TK VII và IX.
     - **Enzyme Amylase nước bọt / Ptyalin:** Thủy phân tinh bột chín thành Maltose & Dextrin (pH tối thích $6,6-7,0$).
     - Chứa **Lysozyme** và **IgA** diệt khuẩn, bảo vệ răng miệng.
         
-- **Hấp thu (**Absorption**):** Rất ít. Nhận các thuốc ngậm dưới lưỡi (**Sublingual drugs**) đi thẳng vào hệ tuần hoàn chung, tránh **Hiệu ứng chuyển hóa lần đầu qua gan** (**First-pass metabolism**).
+- **Hấp thu (Absorption):** Rất ít. Nhận các thuốc ngậm dưới lưỡi (**Sublingual drugs**) đi thẳng vào hệ tuần hoàn chung, tránh **Hiệu ứng chuyển hóa lần đầu qua gan** (**First-pass metabolism**).
 
 ## **2. Tiêu hóa ở Dạ dày (Digestion in the Stomach)**
 - **Cơ học (**Mechanical digestion**):**
@@ -792,9 +792,9 @@ Tụy (**Pancreas**) là tuyến pha (vừa ngoại tiết vừa nội tiết), 
 - **3 Giai đoạn tiết dịch vị:** Giai đoạn tâm trí (**Cephalic phase**), Giai đoạn dạ dày (**Gastric phase** - mạnh nhất), Giai đoạn ruột (**Intestinal phase**).
     
 ## **3. Tiêu hóa & Hấp thu ở Ruột non (Small Intestine)**
-- **Cơ học (**Mechanical digestion**):** Co bóp phân đoạn (**Segmentation** - chủ yếu), Nhu động (**Peristalsis**), Cử động lắc (**Pendular movement**).
+- **Cơ học (Mechanical digestion):** Co bóp phân đoạn (**Segmentation** - chủ yếu), Nhu động (**Peristalsis**), Cử động lắc (**Pendular movement**).
 
-- **Hóa học (**Chemical digestion**):**
+- **Hóa học (Chemical digestion):**
     - **Dịch mật (**Bile**):** Không chứa enzyme. **Muối mật** (**Bile salts**) nhũ tương hóa lipid (**Emulsification**) và tạo hạt **Micelle** vận chuyển lipid.
     - **Dịch tụy (**Pancreatic juice**):** Giàu $\text{HCO}_3^-$ trung hòa acid.
         - Protid: Trypsinogen (hoạt hóa bởi _Enteropeptidase_ ở bờ bàn chải thành Trypsin), Chymotrypsinogen, Carboxypeptidase.
@@ -809,13 +809,13 @@ Tụy (**Pancreas**) là tuyến pha (vừa ngoại tiết vừa nội tiết), 
     - **Muối mật & Vitamin B12:** Tái hấp thu đặc hiệu tại **Cuối hồi tràng** (**Terminal ileum**). Muối mật quay về gan qua **Chu trình gan - ruột** (**Enterohepatic circulation**).
 
 ## **4. Tiêu hóa & Hấp thu ở Đại tràng (Large Intestine)**
-- **Cơ học (**Mechanical digestion**):** Co bóp túi phình (**Haustral contractions**), Nhu động khối (**Mass movement / Mass peristalsis**) xuất hiện sau ăn do **Phản xạ dạ dày - đại tràng** (**Gastrocolic reflex**).
+- **Cơ học (Mechanical digestion):** Co bóp túi phình (**Haustral contractions**), Nhu động khối (**Mass movement / Mass peristalsis**) xuất hiện sau ăn do **Phản xạ dạ dày - đại tràng** (**Gastrocolic reflex**).
     
-- **Hệ vi sinh đường ruột (**Gut microbiota**):**
+- **Hệ vi sinh đường ruột (Gut microbiota):**
     - Lên men xơ không tiêu tạo **Acid béo chuỗi ngắn** (**Short-chain fatty acids - SCFAs**: _Acetate, Propionate, Butyrate_).
     - Tổng hợp **Vitamin K** và Vitamin nhóm B (_Biotin, Folate_).
     - Tạo các khí ($CO_2, H_2, CH_4, H_2S$).
 
-- **Hấp thu & Phản xạ đại tiện (**Absorption & Defecation**):**
+- **Hấp thu & Phản xạ đại tiện (Absorption & Defecation):**
     - Tái hấp thu $90\%$ lượng nước còn lại ($1-1.5\text{ L/ngày} \rightarrow 100-200\text{ mL}$ thải theo phân) và điện giải ($\text{Na}^+, \text{Cl}^-$).
     - Phản xạ đại tiện (**Defecation reflex**): Phân vào trực tràng kích thích thụ thể căng $\rightarrow$ Xung động theo **Thần kinh tạng chậu** (**Pelvic splanchnic nerves - S2–S4**) $\rightarrow$ Giãn **Cơ thắt trong** (_Internal anal sphincter_ - không tự chủ) $\rightarrow$ Mở **Cơ thắt ngoài** (_External anal sphincter_ - tự chủ) để tống phân.

@@ -489,6 +489,7 @@ Bao gồm các đoạn:
 	- tiền liệt tuyến, túi tinh ở nam
 	- tử cung và âm đạo ở nữ
 - Dài khoảng 15-20cm, phần trên phình to gọi là bóng trực tràng, phần dưới hẹp là ống hậu môn.
+
 ![[he_tieu_hoa_truc_trang_hau_mon_1.png]]
 ### 6.3. Cấu tạo
 Thành đại tràng gồm **4 lớp (Four layers)**:

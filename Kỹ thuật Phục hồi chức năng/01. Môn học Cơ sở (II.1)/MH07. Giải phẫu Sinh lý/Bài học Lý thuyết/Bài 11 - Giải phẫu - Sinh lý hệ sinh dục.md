@@ -462,7 +462,146 @@ Thành âm đạo gồm **3 lớp** _(bản gốc thiếu lớp bao ngoài)_:
     - Thần kinh vận động/cảm giác sâu ($1/3$ dưới âm đạo): Nhận nhánh từ **thần kinh thẹn** (tủy sống S2 - S4), giàu thụ thể cảm giác đau và nhiệt hơn.
 
 ## 5. Âm hộ 
+Âm hộ là tập hợp các cơ quan sinh dục ngoài của nữ giới, giới hạn phía trước bởi gò mu, phía sau bởi tầng sinh môn, và hai bên bởi rãnh bẹn - đùi. Cấu tạo gồm: các môi, tiền đình, các tạng cương và các tuyến sinh dục phụ thuộc.
+![[GPSL_he_sinh_duc_am_ho_1.png]]
+### 5.1. Gò mu và Các môi (Labia)
+- **Gò mu (Mons pubis):** Là nhô mỡ nằm phía trước khớp mu, được phủ bởi da và lông mu từ tuổi dậy thì.
+    
+- **Môi lớn (Labia majora):**
+    - Là hai nếp gấp da dày, chạy dọc hai bên khe âm hộ. Mặt ngoài có lông, da giàu tuyến mồ hôi và tuyến bã; mặt trong nhẵn.
+    - Phía trước hai môi lớn hợp lại tại **mép trước**, phía sau gặp nhau tạo thành **mép sau** (ngăn cách với hậu môn bởi tầng sinh môn).
+	
+- **Môi bé (Labia minora):**
+    - Là hai nếp da nhỏ, mỏng, nằm phía trong môi lớn, không có lông và không có mô mỡ.
+    - **Đầu trước:** Mỗi môi bé chia làm 2 lá: lá trên phủ lên âm vật tạo thành **mũ âm vật**, lá dưới tạo thành **hãm âm vật**.
+    - **Đầu sau:** Hai môi bé nối với nhau ở phía sau tạo thành **hãm môi âm hộ** (hoặc hãm môi bé).
+### 5.2. Tiền đình âm đạo (Vestibule)
+Là khoảng không gian lõm nằm giữa hai môi bé. Đáy tiền đình chứa các lỗ tự nhiên:
 
+- **Lỗ niệu đạo ngoài:** Nằm dưới âm vật khoảng $2\text{ cm}$ và ngay phía trước lỗ âm đạo. Hai bên lỗ niệu đạo có lỗ mở của **tuyến Skene** (tuyến niệu đạo phụ).
+    
+- **Lỗ âm đạo:** Nằm sau lỗ niệu đạo, mở vào âm đạo.
+    
+- **Màng trinh (Hymen):**
+    - Là một nếp niêm mạc mỏng che một phần lỗ âm đạo, thường có một hoặc nhiều lỗ nhỏ để kinh nguyệt thoát ra.
+        
+    - Khi bị rách (do quan hệ tình dục hoặc chấn thương), màng trinh để lại các nốt sẹo nhỏ gọi là **nhú màng trinh** (carunculae hymenales).
+### 5.3. Các tạng cương (Erectile tissues)
+Chứa nhiều mô xốp, giàu mạch máu, có khả năng cương tụ khi bị kích thích tình dục:
 
+- **Âm vật (Clitoris):** Tương đương với dương vật ở nam giới nhưng nhỏ hơn. Gồm có **thân âm vật** và **quy đầu âm vật** (nằm ở đỉnh, cực kỳ nhạy cảm với vô số đầu tận thần kinh).
+    
+- **Hành tiền đình (Vestibular bulbs) _(bản gốc gọi là hành âm đạo)_:** Là hai khối mô cương hình hạt đậu nằm hai bên lỗ âm đạo, áp sát vào nền của môi lớn và môi bé.
+    
+### 5.4. Các tuyến sinh dục phụ thuộc
+- **Tuyến Bartholin (Tuyến tiền đình lớn):**
+    
+    - Gồm 2 tuyến nằm hai bên thành sau lỗ âm đạo (sâu trong đáy môi lớn).
+        
+    - Chức năng: Tiết chất nhầy giúp làm trôi và bôi trơn tiền đình cũng như âm đạo khi kích thích tình dục.
+        
+- **Tuyến Skene (Tuyến tiền đình nhỏ / Tuyến quanh niệu đạo):** Nằm hai bên lỗ niệu đạo, tiết dịch nhầy bảo vệ niệu đạo.
+    
+
+### 5.5. Mạch máu và Thần kinh
+- **Mạch máu nuôi dưỡng:**
+    - **Động mạch:** Chủ yếu từ **động mạch thẹn trong** (tách từ động mạch chậu trong) và các nhánh nông/sâu của **động mạch thẹn ngoài** (tách từ động mạch đùi).
+        
+    - **Tĩnh mạch:** Đổ về tĩnh mạch thẹn trong và tĩnh mạch hiển lớn.
+        
+- **Mạch bạch huyết:** Tất cả dẫn lưu chủ yếu về các **hạch bẹn nông**.
+- **Thần kinh chi phối:**
+    - Mặt trước (gò mu, phần trước môi lớn): Chi phối bởi **thần kinh chậu bẹn** và **nhánh sinh dục của thần kinh sinh dục đùi** _(bản gốc viết nhầm thành thần kinh sinh dục bụng)_.
+        
+    - Phần sau và âm vật: Chi phối bởi **thần kinh thẹn** (nhánh thần kinh âm vật và các nhánh âm hộ).
 
 ## 6. Sinh lý sinh dục nữ
+### 6.1. Chức năng của buồng trứng
+
+#### 6.1.1. Chức năng ngoại tiết
+![[GPSL_he_sinh_duc_SLnu_1.png]]
+- Sản sinh và phóng thích tế bào noãn (trứng) theo chu kỳ.
+    
+- Nếu được thụ tinh với tinh trùng tại $1/3$ ngoài vòi tử cung, noãn phát triển thành hợp tử và di chuyển vào tử cung làm tổ. Nếu không thụ tinh, noãn thoái hóa và bị tiêu hủy.
+    
+#### 6.1.2. Chức năng nội tiết
+
+- **Estrogen (chủ yếu là Estradiol - $E_2$):** Do các tế bào hạt và tế bào lớp áo trong của nang trứng tiết ra (dưới tác dụng của FSH và LH).
+    
+    - _Tác dụng:_ Kích thích phát triển và hoàn thiện cơ quan sinh dục nữ (tử cung, âm đạo, vòi tử cung); thúc đẩy tăng sinh niêm mạc tử cung; phát triển hệ thống ống tuyến vú và các đặc tính sinh dục thứ phát ở nữ (giọng nói, phân bố mỡ, khung chậu).
+        
+- **Progesterone:** Do **hoàng thể** tiết ra ở nửa sau chu kỳ kinh nguyệt (và do nhau thai tiết ra trong thời kỳ mang thai).
+    
+    - _Tác dụng:_ Chuẩn bị niêm mạc tử cung dày lên, tiết dịch (giai đoạn chế tiết) để sẵn sàng cho trứng làm tổ; giảm co bóp cơ tử cung giúp giữ thai; phát triển các nang tuyến vú; làm giãn các khớp và dây chằng khung chậu khi chuyển dạ.
+
+### 6.2. Hoạt động buồng trứng và Chu kỳ kinh nguyệt
+
+#### 6.2.1. Khái niệm chu kỳ kinh nguyệt
+
+- **Kinh nguyệt:** Là sự chảy máu có chu kỳ từ tử cung ra ngoài qua âm đạo, do sự thoái hóa và bong tróc lớp niêm mạc tử cung, xảy ra khi có sự **sụt giảm đột ngột nồng độ Estrogen và Progesterone** trong máu ở cuối chu kỳ.
+    
+- Chu kỳ kinh nguyệt được điều hòa bởi trục **Đồi thị – Tuyến yên – Buồng trứng**.
+    
+
+#### 6.2.2. Các giai đoạn của chu kỳ kinh nguyệt (Chu kỳ 28 ngày)
+![[GPSL_he_sinh_duc_SLnu_2.png]]
+1. **Giai đoạn tăng sinh (Giai đoạn nang trứng):** _Ngày 1 đến ngày 13_
+    
+    - **Tại buồng trứng:** Dưới tác động của **FSH** (Follicle-Stimulating Hormone) từ thùy trước tuyến yên, một số nang trứng nguyên thủy phát triển, cuối cùng chọn lọc được 1 nang ưu thế trở thành **nang trứng trưởng thành (nang De Graaf)**. Nang trứng tiết lượng lớn **Estrogen** vào máu.
+        
+    - **Tại tử cung:** Trong 3–5 ngày đầu xảy ra hành kinh (bong niêm mạc chu kỳ trước). Sau đó, Estrogen tăng cao kích thích tế bào niêm mạc tử cung tăng sinh dày lên (đạt $3-4\text{ mm}$), các tuyến kéo dài và các mạch máu phát triển.
+        
+2. **Giai đoạn phóng noãn (Rụng trứng):** _Khoảng ngày thứ 14_
+    
+    - Nồng độ Estrogen đạt đỉnh kích thích thùy trước tuyến yên tạo nên **đỉnh LH (LH surge)**.
+        
+    - Đỉnh LH làm nang De Graaf vỡ ra, phóng thích noãn chín vào tai vòi tử cung.
+        
+3. **Giai đoạn chế tiết (Giai đoạn hoàng thể):** _Ngày 15 đến ngày 28_
+    
+    - **Tại buồng trứng:** Phần vỏ nang trứng còn lại sau khi rụng dưới tác dụng của LH biến đổi thành **hoàng thể**, tiết ra lượng lớn **Progesterone** và một phần Estrogen.
+        
+    - **Tại tử cung:** Dưới tác dụng phối hợp của Progesterone và Estrogen, niêm mạc tử cung tiếp tục dày lên ($5-6\text{ mm}$), các tuyến trở nên ngoằn ngoèo và bắt đầu chế tiết chất dinh dưỡng (glycogen), các động mạch xoắn phát triển mạnh để sẵn sàng đón hợp tử.
+        
+    - **Diễn biến cuối chu kỳ:**
+        
+        - _Nếu có thụ tinh:_ Hợp tử tiết hCG duy trì hoàng thể (hoàng thể thai kỳ) tiếp tục tiết Progesterone giữ thai.
+            
+        - _Nếu không thụ tinh:_ Hoàng thể thoái hóa sau 10–12 ngày thành thể trắng (corpus albicans). Nồng độ Progesterone và Estrogen sụt giảm đột ngột vào khoảng ngày 26–28 $\rightarrow$ gây co thắt các động mạch xoắn $\rightarrow$ thiếu máu cục bộ, hoại tử và bong tróc niêm mạc $\rightarrow$ xuất hiện kinh nguyệt của chu kỳ mới.
+            
+    - _Thông số kinh nguyệt bình thường:_ Kéo dài **3 – 7 ngày**; tổng lượng máu mất khoảng **30 – 80 ml** (bản gốc ghi 100–150 ml là quá cao, dễ dẫn đến thiếu máu).
+
+### 6.3. Thai nghén, Sinh đẻ và Cho con bú
+
+#### 6.3.1. Sự thụ tinh và làm tổ
+
+Thụ tinh diễn ra tại $1/3$ ngoài vòi tử cung. Sau khi thụ tinh, hợp tử vừa phân chia vừa di chuyển về buồng tử cung (mất khoảng 3–4 ngày) và bắt đầu làm tổ vào khoảng ngày thứ 6–8 sau khi phóng noãn.
+
+#### 6.3.2. Thay đổi hormon trong thời kỳ mang thai
+![[GPSL_he_sinh_duc_SLnu_4.png]]
+- **Giai đoạn đầu thai kỳ:**
+    
+    - Nhau thai hình thành tiết ra **hCG** (_Human Chorionic Gonadotropin_ - bản gốc gọi là _Prolan B_). hCG có tác dụng duy trì hoàng thể thai kỳ tiếp tục tiết Progesterone và Estrogen, ngăn niêm mạc tử cung bong tróc.
+        
+    - Nồng độ Progesterone và Estrogen cao ức chế ngược (negative feedback) lên tuyến yên, dừng tiết FSH và LH $\rightarrow$ **không có nang trứng chín và không rụng trứng (mất kinh khi mang thai)**.
+        
+- **Từ tháng thứ 3 – 4 trở đi:**
+    
+    - Nhau thai phát triển hoàn thiện và đảm nhận vai trò chính tiết **Estrogen và Progesterone** thay thế cho hoàng thể thoái hóa.
+        
+- **Cuối thai kỳ & Chuyển dạ:**
+    
+    - Tỷ lệ **Estrogen/Progesterone tăng cao** (Progesterone giảm tác dụng ức chế, Estrogen tăng làm tăng tính chịu kích thích của cơ tử cung).
+        
+    - **Oxytocin** (do thùy sau tuyến yên tiết ra) phối hợp với Prostaglandin tại chỗ gây các cơn co tử cung mạnh, kết hợp với áp lực đầu thai nhi $\rightarrow$ thúc đẩy cuộc chuyển dạ (sinh con).
+        
+
+#### 6.3.3. Sinh lý bài tiết và phun sữa
+![[GPSL_he_sinh_duc_SLnu_3.png]]
+- **Bài tiết sữa (Prolactin):** Trong thai kỳ, Estrogen và Progesterone ức chế tuyến yên tiết Prolactin. Sau khi sinh, nhau thai bong ra làm Estrogen và Progesterone sụt giảm đột ngột $\rightarrow$ giải phóng thùy trước tuyến yên tiết **Prolactin** $\rightarrow$ kích thích các tế bào tuyến vú sản xuất sữa (thường sau 24–48 giờ).
+    
+- **Phun sữa (Oxytocin):** Động tác mút núm vú của trẻ tạo phản xạ thần kinh truyền về tuyến yên:
+    
+    - Kích thích thùy trước tiếp tục tiết **Prolactin** (duy trì sản xuất sữa cho các lần sau).
+        
+    - Kích thích thùy sau tiết **Oxytocin** $\rightarrow$ co bóp các tế bào biểu mô cơ quanh nang tuyến vú $\rightarrow$ tống sữa ra các ống dẫn sữa (phản xạ xuống sữa), đồng thời giúp tử cung co hồi tốt sau sinh.

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff9b3998e8cb8b75",
+        "id": "2b3447f8f03e1cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "58eaf4ecb460fdcc",
+            "id": "c06b96f369f3d999",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -176,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea5a5144df693d3d",
+  "active": "c06b96f369f3d999",
   "lastOpenFiles": [
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/1. Glucid.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/2. Lipid.pdf",

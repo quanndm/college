@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45745d7bf7d026bc",
+        "id": "3e94998b22242d73",
         "type": "tabs",
         "children": [
           {
-            "id": "104f4d0bf5f5f5a3",
+            "id": "68596717d44601af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/10 - Trình bày hoạt động cơ bản của hệ thần kinh.md",
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/6 - Chuyển hóa muối nước.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Trình bày hoạt động cơ bản của hệ thần kinh"
+              "title": "6 - Chuyển hóa muối nước"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -104,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/10 - Trình bày hoạt động cơ bản của hệ thần kinh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến của 10 - Trình bày hoạt động cơ bản của hệ thần kinh"
+              "title": "Liên kết đến"
             }
           },
           {
@@ -180,54 +180,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "104f4d0bf5f5f5a3",
+  "active": "68596717d44601af",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_chuyen_hoa_muoi_nuoc_5.png",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_chuyen_hoa_muoi_nuoc_4.png",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/6 - Chuyển hóa muối nước.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_chuyen_hoa_muoi_nuoc_3.png",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_chuyen_hoa_muoi_nuoc_2.png",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_chuyen_hoa_muoi_nuoc_1.png",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/10 - Trình bày hoạt động cơ bản của hệ thần kinh.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 11 - Giải phẫu - Sinh lý hệ sinh dục.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 10 - Giải phẫu - Sinh lý hệ tiết niệu.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH16. Điều dưỡng cơ sở - Cấp cứu ban đầu/00. MỤC LỤC & ĐỀ CƯƠNG.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH16. Điều dưỡng cơ sở - Cấp cứu ban đầu/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH14. Dược lý/DUOC-LY-1.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH13. Bệnh học cơ sở/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/01. TÀI LIỆU & LINK THAM KHẢO.md",
+    "README.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/00. MỤC LỤC & ĐỀ CƯƠNG.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Hô Hấp ✅.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Máu ✅.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Nội Tiết.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Sinh Dục.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Thần Kinh.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tiết Niệu.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tiêu Hóa ✅.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tuần Hoàn ✅.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Tai.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Mắt.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/9 - Mô tả về giải phẫu của buồng trứng và nêu chức năng nội tiết của buồng trứng.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/8 - Trình bày chức năng của thận.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 10 - Giải phẫu - Sinh lý hệ tiết niệu.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/7 - Trình bày hiện tượng hấp thu trong tiêu hóa.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/10 - Trình bày hoạt động cơ bản của hệ thần kinh.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 9 - Giải phẫu - Sinh lý hệ tiêu hóa.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/6 - Cân bằng Muối nước.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/7 - Cân bằng Acid - Base.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/7. CÂN BẰNG  ACID BASE.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/8. ENZYM - NĂNG LƯỢNG SINH HỌC.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/5 - Hormon.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_14.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_13.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_12.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_11.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_10.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_9.png",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_8.png",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_7.png",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/1 - Glucid.md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_6.png",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/hoa_sinh_hormon_5.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/9. HEMOGLOBIN - GAN - THẬN.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Tự học/4 - Acid Nucleic.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/6. CÂN BẰNG MUỐI NƯỚC.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/VI-SINH---KY-SINH-TRUNG.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Baigiang GPSLcaodang.pdf.part",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/1. Glucid.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/2. Lipid.pdf",
-    "README.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/4. Acid nucleic.pdf.part",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Thần Kinh.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tiết Niệu.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương đầu mặt.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương cột sống (Columna vertebralis) ✅.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương chi trên (Ossa membri superioris) ✅.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương chi dưới (Ossa membri inferioris) (đang học khớp).md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Sinh Dục.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Nội Tiết.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tiêu Hóa ✅.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Tuần Hoàn ✅.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Xương (Tiếp theo).md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Sinh lý hệ cơ.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Chưa đặt tên.md",
     "Chưa đặt tên.canvas"
   ]
 }

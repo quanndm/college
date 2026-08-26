@@ -101,7 +101,6 @@ Nước tiểu cuối (Urine Excretion) = Lọc (Filtration) - Tái hấp thu (R
     
 
 ### b. Cơ chế tái hấp thu ở ống thận (Tubular Reabsorption)
-
 Khoảng **99%** thể tích dịch lọc được tái hấp thu về máu, chỉ khoảng **1.5 – 2 L/ngày** trở thành nước tiểu chính thức (Final urine).
 
 - **Ống lượn gần (Proximal Convoluted Tubule - PCT):**
@@ -152,71 +151,42 @@ Khoảng **99%** thể tích dịch lọc được tái hấp thu về máu, ch�
 ## 2. Chức năng của thận 
 Thận thực hiện hai nhóm chức năng chính: **Chức năng ngoại tiết** (bài tiết chất thải, điều hòa nội môi) và **Chức năng nội tiết/Chuyển hóa** (tiết hormone, tổng hợp chất).
 ### a. Chức năng bài tiết chất thải và chất độc (Excretion of Wastes and Toxins)
-
 Thận lọc và đào thải các sản phẩm chuyển hóa cuối cùng (End-products of metabolism) cùng các ngoại chất ra khỏi cơ thể:
 
 - **Sản phẩm chuyển hóa đạm (Nitrogenous wastes):** **Urea** (từ protein), **Uric acid** (từ nucleic acid), **Creatinine** (từ creatine ở cơ).
-    
 - **Các sản phẩm khác:** Acid lactic, bilirubin, chất chuyển hóa của hormone.
-    
 - **Ngoại chất (Xenobiotics):** Các loại thuốc, chất hóa học, chất phụ gia thực phẩm.
     
-
 ### b. Chức năng điều hòa nội môi (Homeostatic Regulation)
-
 - **Điều hòa thể tích nước và áp suất thẩm thấu (Osmoregulation):**
-    
     - Điều chỉnh lượng nước đào thải phụ thuộc vào hormone **ADH** (_Antidiuretic Hormone / Vasopressin_).
-        
     - Uống nhiều nước $\rightarrow$ ức chế ADH $\rightarrow$ giảm tái hấp thu nước $\rightarrow$ bài tiết nước tiểu loãng (diuresis).
-        
     - Thiếu nước $\rightarrow$ kích thích ADH $\rightarrow$ tăng tái hấp thu nước $\rightarrow$ cô đặc nước tiểu.
         
 - **Điều hòa nồng độ điện giải (Electrolyte Balance):**
-    
     - Điều hòa chính xác các ion $\text{Na}^+, \text{K}^+, \text{Cl}^-, \text{Ca}^{2+}, \text{HPO}_4^{2-}$.
-        
     - Ion $\text{Na}^+$ giữ vai trò quyết định áp lực thẩm thấu máu (Blood osmolarity). Khi thận giảm đào thải $\text{Na}^+$ (như trong suy thận, viêm cầu thận), muối và nước bị giữ lại ở khoảng kẽ gây **phù** (Edema) $\rightarrow$ chỉ định ăn nhạt (Low-sodium diet).
-        
+    
 - **Điều hòa thăng bằng Acid - Base (pH điều hòa):**
-    
     - pH máu luôn được duy trì ổn định ở mức **7.35 – 7.45**, trong khi pH nước tiểu có thể biến thiên từ **4.5 đến 8.0** (trung bình ~6.0).
-        
+    
     - Thận điều hòa pH máu qua 3 cơ chế chính tại ống thận:
-        
         1. Bài tiết ion $\text{H}^+$ vào lòng ống.
-            
         2. Tái hấp thu và sản sinh mới ion Bicarbonate ($\text{HCO}_3^-$).
-            
         3. Tổng hợp **Amoniac ($\text{NH}_3$)** tại tế bào ống thận để gắn với $\text{H}^+$ tạo thành $\text{NH}_4^+$ đào thải ra ngoài, đồng thời đệm pH bằng hệ phốt phát ($\text{HPO}_4^{2-} / \text{H}_2\text{PO}_4^-$).
-            
-
 ### c. Chức năng nội tiết và chuyển hóa (Endocrine and Metabolic Functions)
-
 - **Điều hòa huyết áp (Blood Pressure Regulation):**
-    
     - Thận tiết ra enzyme **Renin** khi huyết áp hoặc thể tích máu giảm.
-        
     - Renin kích hoạt hệ thống **RAAS** (_Renin - Angiotensin - Aldosterone System_) gây co mạch và giữ muối/nước để tăng huyết áp.
-        
     - Bệnh lý thận mãn tính (CKD) gây tăng tiết Renin hoặc ứ đọng muối nước $\rightarrow$ dẫn đến **tăng huyết áp do thận** (Renal hypertension).
-        
 - **Kích thích tạo máu (Erythropoiesis Regulation):**
-    
     - Tế bào quanh ống thận sản xuất hormone **Erythropoietin (EPO)** khi có tình trạng giảm oxy máu (Hypoxia).
-        
     - **EPO** kích thích tủy xương sản xuất hồng cầu. Bệnh nhân suy thận mãn bị giảm tiết EPO dẫn đến **thiếu máu do bệnh thận** (Anemia of kidney disease).
-        
 - **Chuyển hóa Vitamin D (Vitamin D Activation):**
-    
     - Thận tổng hợp enzyme _1-alpha-hydroxylase_ để chuyển Vitamin D thành dạng hoạt tính sinh học: **Calcitriol** ($1,25\text{-(OH)}_2\text{ Vitamin D}_3$).
-        
     - Calcitriol giúp ruột hấp thu $\text{Ca}^{2+}$ và Phốt phát. Suy thận gây giảm Calcitriol dẫn đến hạ $\text{Ca}^{2+}$ máu và **bệnh xương do thận** (Renal osteodystrophy).
-        
 - **Tạo đường mới (Gluconeogenesis):**
-    
     - Trong điều kiện nhịn ăn kéo dài (Fasting/Starvation), thận có khả năng tự tổng hợp Glucose từ amino acid để cung cấp cho cơ thể.
-
 ## 3. Những yếu to ảnh hưởng tới sự tạo thành nước tiểu
 Quá trình tạo nước tiểu chịu sự điều hòa chặt chẽ bởi **huyết động**, **thành phần máu**, **nội tiết**, **thần kinh** và **tác động của thuốc**.
 ### a. Lưu lượng máu thận và Huyết áp (Renal Blood Flow & Blood Pressure)

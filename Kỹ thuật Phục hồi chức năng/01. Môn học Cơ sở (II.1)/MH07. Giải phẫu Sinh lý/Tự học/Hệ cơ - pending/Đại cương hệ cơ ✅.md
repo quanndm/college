@@ -1,3 +1,8 @@
+
+> [!NOTE] Học thêm 
+> https://youtu.be/U0tVwkFG7Kk
+
+
 # 1. Đại cương
 - Hệ thống cơ thể được cấu tạo bởi mô cơ 
 - Đặc trưng: co rút nhờ các sợi vi cơ actine và myosine 

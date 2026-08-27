@@ -57,7 +57,7 @@ Vai trò của dịch hoạt dịch:
 - Hấp thu và phân tán lực tác động.
 
 - là khe kẽ giới hạn bởi bao khớp và sụn khớp, trong ổ khớp có dịch do bao hoạt dịch tiết ra làm giảm ma sát khi khớp cử động.
-![[khop.png|485]]
+
 
 
 ### 4 Chức năng của khớp động

@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e7776e8e925f261d",
+        "id": "ee122640bf09a832",
         "type": "tabs",
         "children": [
           {
-            "id": "83f2c3ef0d3cf66a",
+            "id": "b060ef6e82f87813",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Tab mới"
+              "type": "pdf",
+              "state": {
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/9. HEMOGLOBIN - GAN - THẬN.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "9. HEMOGLOBIN - GAN - THẬN"
             }
           }
         ]

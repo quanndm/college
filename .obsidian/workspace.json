@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1cc3bef974684b",
+        "id": "c8d795a861bb6836",
         "type": "tabs",
         "children": [
           {
-            "id": "3a80b43af7adaeaf",
+            "id": "db20d1edb4c44b7c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -175,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a4d401fa01b03f4",
+  "active": "35d8c7b42acc851a",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/Tài liệu tham khảo/CÂU HỎI ÔN TẬP MÔN SINH HỌC DI TRUYỀN (4.26).pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/Tài liệu tham khảo",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH17. Tâm lý - Y đức - Tổ chức y tế/Tài liệu tham khảo/Tam Ly Hoc Y Hoc Y Duc (CĐYH) - BYT.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH17. Tâm lý - Y đức - Tổ chức y tế/Tài liệu tham khảo",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/Bệnh học cơ xương khớp.pdf",
@@ -186,8 +189,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/takenotesGP2/Đáy Chậu.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/takenotesGP2/Xương cột sống - xương ức - xương sườn GP2.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/takenotesGP2/Trung thất.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/takenotesGP2/Tim GP2.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/takenotesGP2/Ruột non - ruột già GP2.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Đại cương hệ cơ ✅.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng cổ.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng đầu mặt.md",

@@ -1,6 +1,4 @@
-# Nguyên tắc truyền máu (Blood Transfusion)
-
-## 1. Hệ nhóm máu ABO
+# 1. Hệ nhóm máu ABO
 
 Hệ nhóm máu ABO được phân loại dựa trên:
 - **Kháng nguyên (Antigen)** A, B trên bề mặt hồng cầu.
@@ -67,15 +65,7 @@ Nếu truyền khác nhóm (chỉ trong trường hợp đặc biệt):
 
 ## Người cho → Người nhận
 
-```
-          O
-     ↙   ↓   ↘
-    A    B    AB
-     ↘   ↓   ↙
-         AB
-```
-
-Hoặc dễ nhớ hơn:
+![[So_do_truyen_mau.png]]
 
 | Nhóm máu | Có thể cho | Có thể nhận |
 |----------|------------|-------------|
@@ -105,11 +95,9 @@ Nguyên tắc:
 - Rh (−) → Rh (+): được.
 - Rh (+) → Rh (−): **không nên truyền**, vì có thể gây tạo kháng thể anti-D và tai biến truyền máu.
 
----
-
-# Tóm tắt nguyên tắc cần nhớ
-
-1. Truyền cùng nhóm ABO là tốt nhất.
-2. Không để kháng nguyên hồng cầu người cho gặp kháng thể của người nhận.
-3. Luôn kiểm tra ABO và Rh, làm phản ứng hòa hợp trước truyền.
-4. Chỉ truyền khác nhóm khi thật cần thiết và phải theo dõi chặt chẽ.
+# 5. Vận dụng
+- **Trong cấp cứu cần truyền máu**, phải xác định nhanh và chính xác nhóm **ABO và Rh** của người bệnh để lựa chọn máu phù hợp, hạn chế xảy ra phản ứng truyền máu.
+- Nếu **truyền nhầm nhóm máu**, kháng nguyên trên hồng cầu người cho có thể gặp kháng thể tương ứng trong huyết tương người nhận → **ngưng kết, tan máu**, gây sốc truyền máu và có thể đe dọa tính mạng.
+- **Phản ứng hòa hợp (Cross-match)** được thực hiện trước truyền máu nhằm kiểm tra sự tương thích giữa máu người cho và người nhận, giúp phát hiện nguy cơ phản ứng kháng nguyên–kháng thể.
+- Khi truyền máu cần **theo dõi người bệnh trong và sau truyền**, đặc biệt chú ý các biểu hiện bất thường như sốt, rét run, đau lưng, khó thở, tụt huyết áp, tiểu đỏ… để phát hiện sớm tai biến truyền máu.
+- **Vận dụng hệ Rh:** người **Rh(−)** khi nhận máu Rh(+) có thể hình thành kháng thể **anti-D**, do đó cần đặc biệt chú ý tương hợp Rh trong truyền máu và những lần truyền máu sau.

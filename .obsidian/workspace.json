@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d42973dc88707125",
+        "id": "92b7c5311b432787",
         "type": "tabs",
         "children": [
           {
-            "id": "111648c072ed013e",
+            "id": "61b30f4e445b67f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL"
             }
           }
         ]
@@ -175,13 +179,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "111648c072ed013e",
+  "active": "61b30f4e445b67f4",
   "lastOpenFiles": [
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/TỔNG HỢP - Tham Khảo phương pháp VLTL.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/Phục hồi chức năng sau tai biến mạch máu não.pdf",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/2 - GÃY XƯƠNG ĐÒN - XỬ TRÍ VÀ CHĂM SÓC.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/1 - PHÂN LOẠI GÃY XƯƠNG VÀ GÃY XƯƠNG CÀNH TƯƠI.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/Giáo trình phục hồi chức năng Vật lý trị liệu.pdf",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/1 - CÁC PHƯƠNG PHÁP PHỤC HỒI CHỨC NĂNG VẬN ĐỘNG VÀ NGÔN NGỮ SAU ĐỘT QUỴ.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/TỔNG HỢP - Tham Khảo phương pháp PHCN.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/4 - HƯỚNG DẪN CÁC BÀI TẬP GIẢM ĐAU CỔ VAI GÁY TẠI NHÀ.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/3 - CHƯƠNG TRÌNH VẬT LÝ TRỊ LIỆU PHỤC HỒI CHỨC NĂNG SAU PHẪU THUẬT THAY KHỚP GỐI.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/2 - ĐIỀU TRỊ ĐAU THẦN KINH TỌA BẰNG VẬT LÝ TRỊ LIỆU.md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/1 - CÁC PHƯƠNG PHÁP PHỤC HỒI CHỨC NĂNG VẬN ĐỘNG VÀ NGÔN NGỮ SAU ĐỘT QUỴ.md",
     "README.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/Chưa đặt tên.base",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Hô Hấp ✅.md",
@@ -203,18 +213,11 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/2 - Mô tả vị trí và hình thể ngoài của tim.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/1 - Phân loại khớp và mô tả cấu trúc của một khớp động.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/9 - Mô tả về giải phẫu của buồng trứng và nêu chức năng nội tiết của buồng trứng.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/---10 - Trình bày hoạt động cơ bản của hệ thần kinh.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/---7 - Trình bày hiện tượng hấp thu trong tiêu hóa.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/---5 - Trình bày về hiện tượng lý hóa trong hô hấp.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/9. HEMOGLOBIN - GAN - THẬN.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/de_cuong_on_thi_GPSL.jpg",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/De_GPSL.jpg",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/2000 Câu Trắc Nghiệm Sinh Lý Học BSNT Thông Chia Sẻ .pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH14. Dược lý/Tài liệu tham khảo/DUOC-LY-1.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH14. Dược lý/Tài liệu tham khảo",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/Tài liệu tham khảo/SINH-HOC-DI-TRUYEN.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/Tài liệu tham khảo/CÂU HỎI ÔN TẬP MÔN SINH HỌC DI TRUYỀN (4.26).pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Đại cương hệ cơ ✅.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/GPSL_co_dau_mat_10.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/GPSL_co_dau_mat_9.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/GPSL_co_dau_mat_8.png",

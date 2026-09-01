@@ -10,8 +10,9 @@
 1. Phục hồi chức năng bệnh nhân liệt nửa người:  https://drive.google.com/file/d/1b_MO_3Gn1TV4ZzCpqeJLYB3IUsyPDHjF/view
 2. Giáo trình PHCN và VLTL (nxb SGD&DT HN): [[Giáo trình phục hồi chức năng Vật lý trị liệu.pdf]]
 3. Phục hồi chức năng sau tai biến mạch máu não: [[Phục hồi chức năng sau tai biến mạch máu não.pdf]]
-4. [[1 - PHÂN LOẠI GÃY XƯƠNG VÀ GÃY XƯƠNG CÀNH TƯƠI]]
-5. [[2 - GÃY XƯƠNG ĐÒN - XỬ TRÍ VÀ CHĂM SÓC]]
+4. Lượng giá chức năng Hệ vận động: [[Lượng giá chức năng Hệ vận động.pdf]]
+5. [[1 - PHÂN LOẠI GÃY XƯƠNG VÀ GÃY XƯƠNG CÀNH TƯƠI]]
+6. [[2 - GÃY XƯƠNG ĐÒN - XỬ TRÍ VÀ CHĂM SÓC]]
 
 
 

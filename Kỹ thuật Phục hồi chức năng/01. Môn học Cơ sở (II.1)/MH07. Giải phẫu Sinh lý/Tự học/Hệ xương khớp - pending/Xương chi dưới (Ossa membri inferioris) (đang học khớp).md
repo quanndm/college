@@ -361,8 +361,8 @@ Ngoài ra trên thân xương còn có:
 - Mặt khớp của mắt cá trong tiếp khớp với **xương sên (Talus)**.
 
 > **Nhớ:**  
-> **Mắt cá trong = Tibia**  
-> **Mắt cá ngoài = Fibula**
+> **Mắt cá trong = Tibia** (Xương chày)
+> **Mắt cá ngoài = Fibula** (Xương mác)
 
 #### 4.2. Diện khớp dưới (Inferior articular surface)
 

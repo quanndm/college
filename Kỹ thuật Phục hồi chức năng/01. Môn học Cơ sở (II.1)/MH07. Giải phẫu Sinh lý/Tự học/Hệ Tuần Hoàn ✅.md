@@ -120,10 +120,10 @@
 - Van 3 lá : Ngăn cách giữa tâm nhĩ phải và tâm thất phải
 #### 1.1.3.3 Tâm nhĩ phải 
 ![[tim_tam_nhi_phai.png]]
-- Tĩnh mạch chủ trên và tĩnh mạch chủ dưới
+- **Tĩnh mạch chủ trên** và **tĩnh mạch chủ dưới**
 - Hố bầu dục 
-- Lỗ xoang tĩnh mạch vành
-- Thông với tâm thất phải qua van 3 lá (Trên hình có lá van vách trong của van 3 lá)
+- **Lỗ xoang tĩnh mạch vành**
+- Thông với tâm thất phải qua **van 3 lá** (Trên hình có lá van vách trong của van 3 lá)
 #### 1.1.3.4 Tâm nhĩ trái 
 ![[tim_tam_nhi_that_trai.png]]
 - Có **4 lỗ tĩnh mạch phổi** đổ vào thành sau (gồm 2 tĩnh mạch phổi trái và 2 tĩnh mạch phổi phải), mang máu giàu oxy từ phổi về tim.
@@ -136,8 +136,9 @@
 - **Phân chia lòng thất:** Chia làm 2 vùng rõ rệt nhờ cấu trúc **Mào trên thất**:
     - **Buồng nhận (phía sau dưới):** Thành tim gồ ghề, chứa nhiều **bè cơ** và hệ thống van 3 lá để nhận máu từ nhĩ phải.
     - **Buồng tống / Nón động mạch (phía trước trên):** Thành nhẵn mịn, dẫn máu hướng lên **Van động mạch phổi**.
-- Thông với Tâm nhĩ phải qua van 3 lá (lá van trước, lá van vách/trong, lá van sau)
+- Thông với Tâm nhĩ phải qua **van 3 lá** (lá van trước, lá van vách/trong, lá van sau)
 - Thông với Động mạch phổi qua van động mạch phổi(**Van tổ chim**) (**Lá van bán nguyệt trước**, **Lá van bán nguyệt phải**, và **Lá van bán nguyệt trái**.)
+- **Cơ nhú**: nối liền van 3 lá, giữ cho van không bị di chuyển khi tim co bóp
 #### 1.1.3.6 Tâm thất trái 
 ![[tim_tam_that_trai.png]]
 ![[tim_tam_nhi_that_trai.png]]

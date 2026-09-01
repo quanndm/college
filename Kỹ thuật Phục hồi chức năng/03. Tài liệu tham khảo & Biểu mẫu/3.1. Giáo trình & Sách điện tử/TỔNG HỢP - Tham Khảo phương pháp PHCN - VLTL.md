@@ -11,8 +11,9 @@
 2. Giáo trình PHCN và VLTL (nxb SGD&DT HN): [[Giáo trình phục hồi chức năng Vật lý trị liệu.pdf]]
 3. Phục hồi chức năng sau tai biến mạch máu não: [[Phục hồi chức năng sau tai biến mạch máu não.pdf]]
 4. Lượng giá chức năng Hệ vận động: [[Lượng giá chức năng Hệ vận động.pdf]]
-5. [[1 - PHÂN LOẠI GÃY XƯƠNG VÀ GÃY XƯƠNG CÀNH TƯƠI]]
-6. [[2 - GÃY XƯƠNG ĐÒN - XỬ TRÍ VÀ CHĂM SÓC]]
+5. Giải phẫu chức nặng hệ vận động và hệ thần kinh: [[Giải phẫu chức nặng hệ vận động và hệ thần kinh.pdf]]
+6. [[1 - PHÂN LOẠI GÃY XƯƠNG VÀ GÃY XƯƠNG CÀNH TƯƠI]]
+7. [[2 - GÃY XƯƠNG ĐÒN - XỬ TRÍ VÀ CHĂM SÓC]]
 
 
 

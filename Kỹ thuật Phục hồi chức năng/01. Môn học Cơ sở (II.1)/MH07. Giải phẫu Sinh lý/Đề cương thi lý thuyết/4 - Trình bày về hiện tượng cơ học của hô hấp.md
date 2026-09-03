@@ -1,156 +1,82 @@
-## 1. Khái niệm
+# 1. Đại cương
+- Hiện tượng cơ học của hô hấp: 
+	- là động tác thở làm thay đổi thể tích của lồng ngực 
+	- Dẫn đến thay đổi áp suất trong phổi để hút và thải không khí ra ngoài 
+- Quá trình được diễn ra nhờ:
+	- Các cơ hô hấp
+	- Đặc biệt là cơ hoành 
+	- Áp lực âm tính của khoang màng phổi
+	- => Giúp cho 2 lá màng phổi luôn dính vào nhau
+- Quá trình hô hấp gồm:
+	- Các động tác thở : 
+		- Động tác hít vào 
+		- Động tác thở ra
+	- Nhịp thở
+	- Tần số thở 
+	- Dung lượng phổi
 
-Hiện tượng cơ học của hô hấp là quá trình không khí ra vào phổi nhờ sự thay đổi **thể tích lồng ngực (Thoracic Volume)** và **áp suất trong phổi (Intrapulmonary Pressure)** dưới tác dụng của các **cơ hô hấp (Respiratory Muscles)**.
 
-Không khí luôn di chuyển từ nơi có áp suất cao đến nơi có áp suất thấp.
+# 2. Các động tác thở
+- Động tác hít vào :
+	- Các cơ hô hấp co lại
+	- Cơ hoành hạ xuống
+	- Khung xương sườn lồng ngực nở ra theo 3 chiều:
+		- Chiều ngang
+		- Chiều dọc
+		- Chiều trước - sau
+	- Thể tích lồng ngực tăng kéo phổi nở ra => thể tích phổi tăng lên
+	- Áp suất trong phổi giảm thấp hơn bên ngoài cơ thể => không khí từ ngoài bị hút vào phổi
 
-Quá trình hô hấp cơ học gồm:
-- Hít vào (Inspiration).
-- Thở ra (Expiration).
+- Động tác thở ra:
+	- Các cơ hô hấp giãn ra
+	- Cơ hoành nâng lên
+	- Khung xương sườn lồng ngực trở về vị trí ban đầu 
+	- Thể tích lồng ngực giảm xuống => thể tích phổi giảm
+	- Áp suất không khí trong phổi cao hơn bên ngoài cơ thể => không khí trong phổi bị đẩy ra ngoài
+# 3. Nhịp thở và tần số thở 
+- Nhịp thở: 
+	- Là một chu kỳ gồm một lần hít vào và một lần thở ra.
+	- Một nhịp thở tương ứng 4 nhịp tim
+- Tần số thở:  Số nhịp thở trên 1 phút gọi là tần sổ thở
+	- Bình thường nhịp thở:
+		- Người lớn khoảng 16 - 20 lần / phút
+		- Trẻ em khoảng 25 - 30 lần/phút.
+	- Nếu:
+		- Trẻ dưới 2 tháng tuổi thở > 60 nhịp thở/1 p là viêm phổi.
+		- Từ 2 tháng đến 12 tháng > 50 nhịp thở/1 p là viêm phổi.
+		- Từ 1 tuổi đến 5 tuổi > 40 nhịp thở/1 p là viêm phổi.
+- Nhịp thở: có thể nhanh, chậm, hoặc rối loạn.
+	- giảm khi ngủ
+	- tăng khi lao động, khi gẳng sức, khi bệnh lý
+# 4. Dung lượng phổi 
+## a. Đại cương
+- Dung lượng phổi: Là sức chứa không khí của phổi
+	- Khoảng 4 - 4,5L
+- Gồm có: 
+	- Dung tích sống
+	- Thể tích khí cặn
+## b. Dung tích sống
+- Tổng dung tích: khảong 3,5L
+- Thể tích khí lưu thông: Khoảng 0,5L
+	- Là lượng khí  ra vào phổi trong một lần thở bình thường
+- Thể tích khí dự trữ hít vào: Khoảng 1,5L
+	- Là lượng khí khi hít vào gắng sức.
+- Thể tích khí dự trữ thờ ra: Khoảng 1,5L
+	- Là lượng khí khi  thở ra hết sức.
 
----
+- Dung tích sống thay đổi theo 
+	- Lứa tuổi: tuổi càng cao thì càng giảm
+	- Giới tính: nam > nữ ở cùng độ tuổi, chiều cao, căn nặng
+	- tình trạng sức khoẻ
+	- Rèn luyện
+	- Tư thế
 
-# 2. Động tác hít vào (Inspiration)
+## c. Thể tích khí cặn 
+- Là thể tích khí còn lại trong phổi sau khi đã thở ra hết sức
+- Khoảng 1 - 1,5L
 
-### Cơ chế
-
-Đây là **quá trình chủ động**, cần sự co của các cơ hô hấp.
-
-### Diễn biến
-
-- Cơ hoành (Diaphragm) co → hạ xuống.
-- Cơ liên sườn ngoài (External Intercostal Muscles) co → nâng xương sườn và xương ức.
-- Lồng ngực nở ra theo ba chiều:
-    - Trước – sau.
-    - Ngang.
-    - Trên – dưới (chiều dọc).
-- Thể tích lồng ngực tăng.
-- Áp suất trong khoang màng phổi giảm hơn nữa (áp lực âm tăng).
-- Phổi nở theo lồng ngực.
-- Thể tích phổi tăng.
-- Áp suất trong phế nang giảm thấp hơn áp suất khí quyển.
-- Không khí từ ngoài đi vào phổi.
-
-### Kết quả
-
-- Phổi chứa thêm không khí giàu O₂.
-
----
-
-# 3. Động tác thở ra (Expiration)
-
-### Cơ chế
-
-Ở trạng thái bình thường, đây là **quá trình thụ động**.
-
-### Diễn biến
-
-- Cơ hoành giãn → vòm cơ hoành nâng lên.
-- Cơ liên sườn ngoài giãn.
-- Lồng ngực thu nhỏ trở lại.
-- Thể tích phổi giảm.
-- Áp suất trong phế nang tăng cao hơn áp suất khí quyển.
-- Không khí bị đẩy ra ngoài.
-
-### Thở ra gắng sức
-
-Có thêm sự tham gia của:
-- Cơ liên sườn trong (Internal Intercostal Muscles).
-- Các cơ thành bụng (Abdominal Muscles).
-
----
-
-# 4. Chu kỳ hô hấp
-
-Một chu kỳ hô hấp gồm:
-
-- 1 lần hít vào.
-- 1 lần thở ra.
-
-Ở người trưởng thành:
-- 1 chu kỳ hô hấp ≈ 4 chu kỳ tim.
-
----
-
-# 5. Tần số thở (Respiratory Rate)
-
-Là số lần hô hấp trong một phút.
-
-| Đối tượng | Tần số bình thường |
-|-----------|--------------------|
-| Người lớn | **16–20 lần/phút** |
-| Trẻ em | **25–30 lần/phút** |
-
-### Thay đổi sinh lý
-
-Tần số thở:
-- Giảm khi ngủ.
-- Tăng khi vận động.
-- Tăng khi lao động hoặc gắng sức.
-- Có thể thay đổi trong các bệnh lý.
-
----
-
-# 6. Dung tích và thể tích phổi (Lung Volumes and Capacities)
-
-## 6.1 Tổng dung lượng phổi (Total Lung Capacity - TLC)
-
-Khoảng **4,5–5 L**.
-
-Bao gồm:
-- Dung tích sống (Vital Capacity - VC).
-- Thể tích khí cặn (Residual Volume - RV).
-
----
-
-## 6.2 Dung tích sống (Vital Capacity - VC)
-
-Khoảng **3,5 L**.
-
-Là lượng khí tối đa có thể thở ra sau khi hít vào tối đa.
-
-Gồm:
-
-### a. Thể tích khí lưu thông (Tidal Volume - TV)
-
-≈ **500 mL**
-
-Là lượng khí hít vào hoặc thở ra trong một lần hô hấp bình thường.
-
----
-
-### b. Thể tích dự trữ hít vào (Inspiratory Reserve Volume - IRV)
-
-≈ **1,5 L**
-
-Là lượng khí có thể hít thêm sau khi đã hít vào bình thường.
-
----
-
-### c. Thể tích dự trữ thở ra (Expiratory Reserve Volume - ERV)
-
-≈ **1,5 L**
-
-Là lượng khí có thể thở thêm sau khi đã thở ra bình thường.
-
----
-
-### d. Dung tích sống phụ thuộc vào
-
-- Tuổi (tuổi càng cao càng giảm).
-- Giới tính (nam > nữ).
-- Chiều cao.
-- Thể trạng.
-- Mức độ luyện tập.
-
----
-
-## 6.3 Thể tích khí cặn (Residual Volume - RV)
-
-Khoảng **1–1,5 L**.
-
-Là lượng khí vẫn còn lại trong phổi sau khi đã thở ra gắng sức tối đa.
-
-Vai trò:
-- Giúp phế nang không bị xẹp.
-- Duy trì trao đổi khí liên tục giữa các nhịp thở.
+# 5. Vận dụng
+- Khi **vận động, chạy hoặc gắng sức**, tần số và độ sâu của nhịp thở tăng → tăng lượng không khí trao đổi để đáp ứng nhu cầu O₂ của cơ thể.
+- **Tư thế và luyện tập** ảnh hưởng đến dung tích sống: người thường xuyên rèn luyện thể lực có dung tích sống tốt hơn; tư thế đúng giúp lồng ngực giãn nở thuận lợi.
+- Khi **bệnh lý đường hô hấp** làm cản trở sự lưu thông không khí hoặc làm giảm khả năng giãn nở của phổi, hoạt động hô hấp có thể bị ảnh hưởng → người bệnh dễ **khó thở, thở nhanh hoặc nông**.
+- Trong thực hành lâm sàng, có thể **đếm tần số thở và đo dung tích phổi** để đánh giá sơ bộ tình trạng hô hấp.

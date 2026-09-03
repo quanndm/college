@@ -1,19 +1,16 @@
 ## 1. Khái niệm
 
-Dạ dày (Stomach) là đoạn phình to nhất của **ống tiêu hóa (Alimentary Canal)**, nằm giữa **thực quản (Esophagus)** và **tá tràng (Duodenum)**.
+Dạ dày (Stomach) là đoạn phình to nhất của **ống tiêu hóa**, nằm giữa **thực quản** và **tá tràng**.
 
 Là nơi:
 - Chứa tạm thời thức ăn.
 - Nhào trộn thức ăn.
 - Tiêu hóa bước đầu, đặc biệt là protein nhờ dịch vị.
 
-Dung tích trung bình khoảng **1,2–1,5 L**, khi giãn tối đa có thể đạt **2–3 L**.
-
----
 
 # 2. Vị trí
 
-Dạ dày nằm ở **tầng trên mạc treo đại tràng ngang (Supracolic Compartment)** của ổ bụng.
+Dạ dày nằm ở **tầng trên mạc treo đại tràng ngang** của ổ bụng.
 
 Chủ yếu ở:
 
@@ -26,7 +23,6 @@ Hai đầu của dạ dày:
 - Dưới nối với tá tràng qua **môn vị (Pylorus)**.
 
 Kích thước trung bình:
-
 - Dài khoảng **25–30 cm**.
 - Rộng khoảng **10–12 cm**.
 - Dung tích: chứa được khoảng 1 - 2 lít thức ăn
@@ -96,44 +92,9 @@ Từ trên xuống dưới gồm:
 - Ống môn vị (Pyloric Canal).
 - Môn vị (Pylorus).
 
----
+# 4. Vận dụng 
 
-# 4. Liên quan
-
-## Phía trước
-
-Liên quan với:
-
-- Gan.
-- Cơ hoành.
-- Thành bụng trước.
-
----
-
-## Phía sau
-
-Tạo nên **giường dạ dày (Stomach Bed)**.
-
-Liên quan với:
-
-- Tuyến tụy.
-- Lách.
-- Thận trái.
-- Tuyến thượng thận trái.
-- Cơ hoành.
-- Đại tràng ngang và mạc treo đại tràng ngang.
-
----
-
-# 5. Tóm tắt cần nhớ
-
-- Dạ dày nằm giữa thực quản và tá tràng.
-- Chủ yếu ở vùng thượng vị và hạ sườn trái.
-- Có hình chữ J.
-- Gồm:
-    - Hai mặt.
-    - Hai bờ.
-    - Hai lỗ.
-    - Năm phần chính (tâm vị, đáy vị, thân vị, hang môn vị, môn vị).
-- Bờ cong nhỏ bám mạc nối nhỏ.
-- Bờ cong lớn bám mạc nối lớn.
+- Khi **đau vùng thượng vị hoặc hạ sườn trái**, có thể nghĩ đến các bệnh lý liên quan đến dạ dày như **viêm loét dạ dày – tá tràng**.
+- Dựa vào vị trí **môn vị nối với tá tràng**, có thể giải thích tại sao **cơ thắt môn vị** có vai trò điều hòa tốc độ đưa thức ăn từ dạ dày xuống ruột non.
+- Khi **dạ dày chứa nhiều thức ăn**, thành dạ dày có khả năng giãn ra để chứa một lượng lớn thức ăn; sau đó các cơ dạ dày co bóp giúp **nhào trộn thức ăn với dịch vị**.
+- Trong thăm khám lâm sàng, việc nắm rõ **vị trí và hình thể ngoài của dạ dày** giúp xác định vùng đau và định hướng các bệnh lý của hệ tiêu hóa.

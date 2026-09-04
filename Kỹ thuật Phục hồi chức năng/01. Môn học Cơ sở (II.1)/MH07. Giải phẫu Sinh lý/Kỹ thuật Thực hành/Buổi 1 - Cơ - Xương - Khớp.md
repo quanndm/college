@@ -166,17 +166,131 @@
 # 2. Cơ 
 ## a. Cơ đầu mặt cổ
 
+![[GPSL_co_dau_mat_11.png]]
+![[GPSL_co_dau_mat_6.png]]
+### Cơ đầu - mặt
+- Cơ trán
+- Cơ thái dương
+- cơ chẩm
+- Cơ tai: trước, trên, dưới
 
+- Cơ vòng mắt 
+- Cơ vòng mi
 
-## b. Cơ chi trước
+- Cơ cánh mũi
+- Cơ nâng môi trên cánh mũi 
+- Cơ nâng môi trên
+- Cơ gò má lớn 
+- Cơ mút (giữa cơ gò má lớn và cơ cười, bên trong)
+- Cơ cười 
+- Cơ cắn (giữa hàm dưới)
 
+- Cơ nâng góc miệng
+- Cơ hạ góc miệc
+- Cơ hạ môi dưới 
+- Cơ căm
+### Cơ cổ
+![[GPSL_co_dau_mat_co_12.png]]
 
-
-## c. Cơ thân mình
-
-
-
+- Phía trước
+	- Cơ ức - đòn chũm
+		- đầu ức - nối với xương ức
+		- đầu đòn - nối với xương đòn 
+	- Cơ giáp - móng: nối sụn giáp với xương móng
+	- Cơ vai - móng (Bụng trên)
+	- Cơ ức - móng: nối xương ức và xương móng
+- Phía sau ra trước
+	- Cơ thang
+	- Cơ gối đầu
+	- Cơ nâng vai 
+	- Cơ bậc thang giữa 
+	- Cơ vai móng (bụng dưới)
+## b. Cơ thân mình
+![[GPSL_co_than_minh_1.png]]
+![[GPSL_co_than_minh_2.png]]
+![[GPSL_co_than_minh_3.png]]
+- Phía sau cổ:
+	- **Cơ thang (bên ngoài)**
+	- **Cơ gối đầu** 
+	- **Co nâng vai**
+- Phía trước thân trên:
+	- Vùng ngực:
+		- **Cơ ngực lớn**
+		- **Cơ ngực bé**
+		- **Cơ liên sườn ngoài**
+	- Dưới ngực - phần liên sườn
+		- **Cơ răng trước**
+	- Vùng bụng trước 
+		- **Cơ chéo bụng ngoài** (dưới cơ răng trước)
+		- **Cơ thẳng bụng** 
+		- **Cơ chéo bụng trong**
+		- **Cơ ngang bụng**
+- Phía trong
+	- **Cơ hoành**
+## c. Cơ chi trước
+![[GPSL_co_chi_truoc_1.png]]
+![[GPSL_co_chi_truoc_3.png]]
+- Mặt trước (Mặt giải phẫu), bên ngoài 
+	- Cơ delta (Cơ vai)
+	- Cơ nhị đầu cánh tay
+	- Cơ cánh tay
+	- Từ Ngoài vào trong:
+		- Cơ cánh tay quay (Cơ ngửa dài)
+		- Cơ sấp tròn (cơ tròn to)
+		- Cơ gấp cổ tay quay (cơ gan tay lớn)
+		- Cơ gan tay dài (cơ gan tay bé)
+		- Cơ gấp cổ tay trụ
+- Mặt trước - bên trong
+	- Cơ gấp các ngón nông
+![[GPSL_co_chi_truoc_2.png]]
+![[GPSL_co_chi_truoc_4.png]]
+- Mặt sau, 
+	- Cơ tam đầu
+	- Từ ngoài vào trong
+		- Cơ cánh tay quay (Cơ ngửa dài)
+		- Cơ duỗi cổ tay quay dài
+		- Cơ duỗi cổ tay quay ngắn
+		- Cơ duỗi các ngón tay 
+		- Cơ duỗi ngón tay út
+		- Cơ duỗi cổ tay trụ
+		- Cơ khuỷu
+		- Cơ trụ trước
 ## d. Cơ chi dưới
+![[GPSL_co_chi_duoi_1.png]]
+![[GPSL_co_chi_duoi_3.png]]
+![[GPSL_co_chi_duoi_4.png]]
+- Cơ Vùng mông
+	- Cơ mông lớn
+	- Cơ mông nhỡ
+	- Cơ mông bé
+- Cơ vùng đùi trước:
+	- Cơ căng cân đùi 
+	- Cơ may 
+	- Cơ tứ đầu đùi:
+		- Cơ thẳng đùi
+		- Cơ rộng trong (phía ngón cái chân)
+		- Cơ rộng giữa (phía dưới cơ thẳng đùi)
+		- Cơ rộng ngoài
+	- Cơ thẳng trong (cơ thon)
 
+- Cơ vùng cẳng chân - trước
+	- Cơ mác dài
+	- Cơ duỗi các ngón chân dài
+	- Cơ chày trước
+![[GPSL_co_chi_duoi_2.png]]
+![[GPSL_co_chi_duoi_5.png]]
+![[GPSL_co_chi_duoi_6.png]]
+- Cơ vùng đùi sau:
+	- Cơ thon (cơ thẳng trong)
+	- Cơ khép lớn
+	- Cơ bán màng 
+	- Cơ bán gân
+	- Cơ nhị đầu đùi
+
+- Cơ vùng cẳng chân - sau:
+	- Cơ bụng chân
+	- Cơ dép (Nằm dưới cơ bụng chân)
+	- Gân gót
+	- Cơ mác ngắn 
 
 # 3. Khớp

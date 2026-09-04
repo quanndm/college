@@ -34,63 +34,45 @@ Dạ dày có hình chữ **J**.
 Gồm 2 phần: 
 - Phần đứng: gồm phình vị, thân vị và đáy vị.
 + Phần nằm: hang vị và môn vị.
-
-Dạ dày có:
-
+---
+**Dạ dày có:**
 - Hai mặt.
 - Hai bờ.
 - Hai lỗ.
 - Các phần của dạ dày.
 
 ---
-
-## 3.1 Hai mặt (Surfaces)
-
-- Mặt trước (Anterior Surface).
-- Mặt sau (Posterior Surface).
+- **Hai mặt (Surfaces)**
+	- Mặt trước (Anterior Surface).
+	- Mặt sau (Posterior Surface).
 
 ---
-
-## 3.2 Hai bờ (Curvatures)
-
-### Bờ cong nhỏ (Lesser Curvature)
-
-- Nằm bên phải.
-- Ngắn hơn.
-- Là nơi bám của **mạc nối nhỏ (Lesser Omentum).**
-
-### Bờ cong lớn (Greater Curvature)
-
-- Nằm bên trái.
-- Dài hơn.
-- Là nơi bám của **mạc nối lớn (Greater Omentum).**
+- **Hai bờ**
+	- **Bờ cong nhỏ**
+		- Nằm bên phải.
+		- Ngắn hơn.
+		- Là nơi bám của **mạc nối nhỏ.**
+		
+	- **Bờ cong lớn**
+		- Nằm bên trái.
+		- Dài hơn.
+		- Là nơi bám của **mạc nối lớn.**
+---
+- **Hai lỗ**
+	- **Lỗ tâm vị**  
+		- Thông với thực quản.
+	- **Lỗ môn vị**  
+		- Thông với tá tràng.
+		- Có **cơ thắt môn vị** giúp điều hòa thức ăn xuống tá tràng.
 
 ---
-
-## 3.3 Hai lỗ (Orifices)
-
-### Lỗ tâm vị (Cardiac Orifice)
-
-Thông với thực quản.
-
-### Lỗ môn vị (Pyloric Orifice)
-
-Thông với tá tràng.
-
-Tại đây có **cơ thắt môn vị (Pyloric Sphincter)** giúp điều hòa thức ăn xuống tá tràng.
-
----
-
-## 3.4 Các phần của dạ dày (Parts of the Stomach)
-
-Từ trên xuống dưới gồm:
-
-- Tâm vị (Cardia).
-- Đáy vị (Fundus).
-- Thân vị (Body).
-- Hang môn vị (Pyloric Antrum).
-- Ống môn vị (Pyloric Canal).
-- Môn vị (Pylorus).
+- **Các phần của dạ dày** - Từ trên xuống dưới gồm:
+	- Tâm vị.
+	- Đáy vị.
+	- Thân vị.
+	- Hang môn vị.
+	- Ống môn vị.
+	- Môn vị.
 
 # 4. Vận dụng 
 

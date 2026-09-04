@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afe842a646b4b261",
+        "id": "65efa404f8336bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "05e7a3c9a678ffb9",
+            "id": "af066039cd99ced8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05e7a3c9a678ffb9",
+  "active": "02333ab8d77fdd05",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng đầu mặt ✅.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Đại cương hệ cơ ✅.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng Lưng - Ngực - Bụng.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Sinh lý hệ cơ.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 1 - Cơ - Xương - Khớp.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/9 - Mô tả về giải phẫu của buồng trứng và nêu chức năng nội tiết của buồng trứng.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/De_GPSL.jpg",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/de_cuong_on_thi_GPSL.jpg",
@@ -193,7 +198,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 8 - Giải phẫu - Sinh lý hệ hô hấp.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Cơ - (xương) - khớp.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương chi dưới (Ossa membri inferioris) (đang học khớp).md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 1 - Cơ - Xương - Khớp.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Xương (Tiếp theo).md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 2 - Hệ tuần hoàn - Máu.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",
@@ -207,9 +211,6 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/1 - CÁC PHƯƠNG PHÁP PHỤC HỒI CHỨC NĂNG VẬN ĐỘNG VÀ NGÔN NGỮ SAU ĐỘT QUỴ.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/TỔNG HỢP - Tham Khảo phương pháp PHCN.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/4 - HƯỚNG DẪN CÁC BÀI TẬP GIẢM ĐAU CỔ VAI GÁY TẠI NHÀ.md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/3 - CHƯƠNG TRÌNH VẬT LÝ TRỊ LIỆU PHỤC HỒI CHỨC NĂNG SAU PHẪU THUẬT THAY KHỚP GỐI.md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/2 - ĐIỀU TRỊ ĐAU THẦN KINH TỌA BẰNG VẬT LÝ TRỊ LIỆU.md",
-    "README.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/Chưa đặt tên.base",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL",

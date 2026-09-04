@@ -164,7 +164,19 @@
 		- gần, xa, giữa
 	- Riêng ngón cái có 2 đốt: gần - xa
 # 2. Cơ 
+## a. Cơ đầu mặt cổ
 
+
+
+## b. Cơ chi trước
+
+
+
+## c. Cơ thân mình
+
+
+
+## d. Cơ chi dưới
 
 
 # 3. Khớp

@@ -1,22 +1,31 @@
-Thận là cơ quan đôi thuộc hệ tiết niệu, nằm sau phúc mạc ở hai bên cột sống. Với cấu trúc gồm vùng vỏ phía ngoài và vùng tủy phía trong chứa các tháp thận, mỗi quả thận sở hữu khoảng 1 triệu đơn vị chức năng (nephron) gồm cầu thận và hệ thống ống thận. Nhờ sự liên kết chặt chẽ với hệ tuần hoàn, thận đóng vai trò như một bộ lọc sinh học tinh vi, đảm nhận hai nhóm chức năng cốt lõi để duy trì sự sống: **chức năng bài tiết & điều hòa nội môi** và **chức năng nội tiết & chuyển hóa**.
+# 1. Bài tiết chất độc và chất cặn bã
+Thận đào thải theo nước tiểu nhiều chất độc và những chất cặn bã do chuyển hoá chất
+protit như: ure, axid uric, creatinin,.. acid lactic, do hoạt động của cơ thể sinh ra.
+# 2. Chức năng tổng hợp
+Sản sinh ra amoniac để tham gia vào việc điều hòa pH của máu (amoniac có tính
+kiềm....).
+# 3. Điều hòa các thành phần của máu
+- **Điều hòa nước.**
+Khi uống nhiều nước thành phần nước trong máu tăng lên, thận sẽ tăng cường đào
+thải nước nên đi tiểu nhiều.
+- **Điều hòa nồng độ NaCl (Natriclorid).**
+Khi NaCl trong máu tăng lên thận cũng tăng cường đào thải NaCl. Nồng độ NaCl giữ
+vai trò quan trọng trong sự điều hòa áp lực thẩm thấu. Khi viêm thận sự đào thải NaCl kém
+dẫn đến muối và nước ứ đọng lại trong các mô sẽ gây phù nên người bị viêm thận cần phải ăn nhạt
+- **Điều hòa pH.**
+Tuỳ theo pH của máu mà pH của nước tiểu thay đổi từ 4,2 (axit) tới 8,2 (kiềm) pH
+trung bình là 6. Nếu pH của máu giảm (tăng độ axid) thận sẽ điều hòa bằng cách tăng thải
+phốt phát 1 kiềm và khi pH của máu tăng thận sẽ tăng thải phốt phát 2 kiềm (tăng độ kiềm).
+- **Điều hòa huyết áp.**
+Thận sản xuất ra renin, gây tăng huyết áp, là một cơ chế đỉều hòa tự động bảo đảm
+đầy đủ khối lượng máu vào thận. Nên ở những người bị bệnh thận mãn tính, máu vào thận ít cũng làm tăng huyết áp.
+- **Kích thích tạo máu.**
+Thận sản xuất ra một chất là Erythroprotein có tác dụng kích thích tủy xương sản xuất
+hồng cầu. Khi suy thận, khả năng sản xuất Erythroprotein gỉm dẫn đấn thiếu máu.
 
-### 1. Nhóm chức năng bài tiết và điều hòa nội môi
-
-- **Đào thải chất thải và chất độc:** Thận liên tục lọc máu để loại bỏ các sản phẩm chuyển hóa đạm như urea, uric acid, creatinine, cùng các chất ngoại sinh như thuốc, chất phụ gia thực phẩm và độc chất ra khỏi cơ thể qua nước tiểu.
-    
-- **Điều hòa thể tích nước và áp suất thẩm thấu:** Thông qua hormone ADH (Vasopressin), thận linh hoạt điều chỉnh lượng nước bài tiết. Khi thiếu nước, ADH tăng tiết giúp thận tái hấp thu nước để cô đặc nước tiểu; ngược lại, khi thừa nước, ADH bị ức chế khiến thận bài tiết nước tiểu loãng để cân bằng thể tích dịch.
-    
-- **Điều hòa điện giải:** Thận kiểm soát chính xác nồng độ các ion quan trọng như $\text{Na}^+$, $\text{K}^+$, $\text{Cl}^-$, $\text{Ca}^{2+}$ và $\text{HPO}_4^{2-}$. Việc suy giảm khả năng đào thải $\text{Na}^+$ sẽ dẫn đến giữ muối, giữ nước, gây ra hiện tượng phù nề trên lâm sàng.
-    
-- **Điều hòa thăng bằng acid - base:** Thận duy trì pH máu ổn định ở mức 7,35–7,45 bằng cách bài tiết ion $\text{H}^+$, tái hấp thu hoặc tổng hợp mới $\text{HCO}_3^-$, đồng thời tận dụng hệ đệm phốt phát và Amoniac ($\text{NH}_3$) tại ống thận để đào thải acid dư thừa.
-    
-
-### 2. Nhóm chức năng nội tiết và chuyển hóa
-
-- **Điều hòa huyết áp:** Khi áp lực hoặc thể tích máu giảm, thận tiết ra enzyme Renin để kích hoạt hệ RAAS (Renin - Angiotensin - Aldosterone), gây co mạch và tăng giữ muối nước nhằm nâng huyết áp về mức bình thường.
-    
-- **Kích thích tạo hồng cầu:** Nhờ khả năng nhận biết tình trạng giảm oxy máu, tế bào quanh ống thận sẽ tiết hormone Erythropoietin (EPO) để kích thích tủy xương tăng sản xuất hồng cầu. Sự thiếu hụt EPO ở bệnh nhân suy thận mạn tính là nguyên nhân chính gây ra tình trạng thiếu máu.
-    
-- **Chuyển hóa Vitamin D và xương:** Thận tổng hợp enzyme 1-$\alpha$-hydroxylase để chuyển hóa Vitamin D thành dạng hoạt tính sinh học Calcitriol ($1,25\text{-(OH)}_2\text{ Vitamin D}_3$), giúp ruột hấp thu tối đa $\text{Ca}^{2+}$ và Phốt phát, từ đó bảo vệ cấu trúc xương.
-    
-- **Tạo đường mới (Gluconeogenesis):** Trong tình trạng nhịn ăn kéo dài, thận có khả năng tự tổng hợp Glucose từ các nguồn không phải carbohydrate (như amino acid) để bổ sung năng lượng cho cơ thể.
+# 4. Vận dụng 
+- Khi **cơ thể thiếu nước**, ADH tăng → thận tăng tái hấp thu nước → lượng nước tiểu giảm và nước tiểu cô đặc hơn. Ngược lại, khi uống nhiều nước, thận tăng thải nước → nước tiểu nhiều và loãng hơn.
+- Khi **chức năng thận suy giảm**, khả năng đào thải muối và nước giảm → cơ thể dễ **ứ nước, phù và tăng huyết áp**.
+- Suy giảm chức năng thận còn làm giảm tiết **Erythropoietin (EPO)** → giảm sản xuất hồng cầu → có thể gây **thiếu máu, mệt mỏi**.
+- Thận tham gia điều hòa **pH máu, điện giải và huyết áp**, vì vậy xét nghiệm **máu và nước tiểu** có thể được sử dụng để đánh giá chức năng thận.
+- **Uống đủ nước, hạn chế sử dụng thuốc tùy tiện và kiểm soát huyết áp** góp phần bảo vệ chức năng thận và duy trì cân bằng nội môi.

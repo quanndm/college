@@ -77,7 +77,7 @@
 #### 1.1.2.3 Nền (Đáy tim)
 ![[day_tim_nhin_sau.png]]
 ![[tim_mat_hoanh_nhin_sau_duoi.png]]
-%% **thân cánh tay đầu => động mạch cảnh cánh tay đầu**  %%
+**thân cánh tay đầu => động mạch cảnh cánh tay đầu** 
 - hướng lên trên, ra sau, và sang phải là 2 mặt sau của tâm nhĩ (phải và trái)
 - Giữa 2 tâm nhĩ có rãnh dọc gọi là rãnh gian nhĩ là mặt sau của 2 tâm nhĩ phải và trái 
 - Chủ yếu do **tâm nhĩ trái** tạo nên.
@@ -116,6 +116,7 @@
 - Hố bầu dục 
 - Lỗ xoang tĩnh mạch vành
 - Thông với tâm thất phải qua van 3 lá (Trên hình có lá van vách trong của van 3 lá)
+- tiểu nhĩ phải: phần phụ, là túi cơ nhô ra ở bên ngoài tâm nhĩ phải 
 #### 1.1.3.4 Tâm nhĩ trái 
 ![[tim_tam_nhi_that_trai.png]]
 - Có **4 lỗ tĩnh mạch phổi** đổ vào thành sau (gồm 2 tĩnh mạch phổi trái và 2 tĩnh mạch phổi phải), mang máu giàu oxy từ phổi về tim.

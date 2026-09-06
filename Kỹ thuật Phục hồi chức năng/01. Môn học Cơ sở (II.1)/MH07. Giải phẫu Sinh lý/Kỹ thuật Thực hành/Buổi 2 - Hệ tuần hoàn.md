@@ -18,7 +18,7 @@
 - Van ĐM phổi
 
 ### 2. Tâm nhĩ phải
-![[tim_tam_nhi_that_trai.png]]
+![[tim_tam_nhi_phai.png]]
 - **Tĩnh mạch chủ trên** và **tĩnh mạch chủ dưới**
 - **Hố bầu dục** 
 - **Lỗ xoang tĩnh mạch vành**
@@ -102,3 +102,17 @@
 		- TM chậu ngoài => phải - trái
 
 # 3. Sinh lý - hệ tuần hoàn 
+![[so-do-vong-tuan-hoan-mau-o-nguoi-min_1.png]]
+
+## a. Vòng tuần hoàn nhỏ/phổi
+- Máu từ tâm nhĩ phải, đỏ thẫm, giàu CO2, đổ xuống tâm thất phải qua van 3 lá
+- Từ tâm thất phải, máu được đưa qua buồng tống và tống qua van ĐM phổi 
+- Máu đi tiếp tới ĐM phổi vào phổi, chia 2 nhánh trái - phải, trao đổi khí CO2 thành O2, máu thành đỏ tươi.
+- Máu đi tiếp về TM phổi
+- Từ TM phổi, máu đổ về tâm nhĩ trái
+
+## b. Vòng tuần hoàn lớn
+- Máu từ Tâm nhĩ trái, đỏ tươi, giàu O2, đổ xuống tâm thất trái qua van 2 lá
+- Từ tâm thất trái, máu được đưa qua buồng tống và tống qua van ĐM chủ
+- Máu đi tiếp qua ĐM chủ, nuôi cơ thể, tới các mao mạch, thu gom chất thải, trao đổi khí O2 thành CO2, máu thành đỏ thẫm
+- Máu từ các mao mạch sau khi trao đổi xong, đi theo hệ thống tĩnh mạch chủ trên dưới đổ về tâm nhĩ phải

@@ -1,5 +1,6 @@
 
 > [!NOTE] Học thêm 
+> https://www.youtube.com/watch?v=wEz9YLfwUUI
 > https://youtu.be/f49x6NBHpEU
 > https://youtu.be/JYFfLA89xr8
 > https://www.slideshare.net/slideshow/gii-phu-xng-u-mt-thn-mnh-by-tranggbb/250161472

@@ -1,6 +1,7 @@
 
 > [!NOTE] Học thêm 
 > https://youtu.be/U0tVwkFG7Kk
+> https://www.youtube.com/watch?v=ZhSzEMtdUeo
 
 
 # 1. Đại cương

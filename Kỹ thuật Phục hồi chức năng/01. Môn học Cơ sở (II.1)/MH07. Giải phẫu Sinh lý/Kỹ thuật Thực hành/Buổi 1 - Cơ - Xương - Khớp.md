@@ -253,8 +253,8 @@
 		- Cơ duỗi các ngón tay 
 		- Cơ duỗi ngón tay út
 		- Cơ duỗi cổ tay trụ
+		- Cơ gấp cổ tay trụ 
 		- Cơ khuỷu
-		- Cơ trụ trước
 ## d. Cơ chi dưới
 ![[GPSL_co_chi_duoi_1.png]]
 ![[GPSL_co_chi_duoi_3.png]]

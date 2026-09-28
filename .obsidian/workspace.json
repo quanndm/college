@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2950accfa17601e",
+        "id": "0bf71d81398eafc0",
         "type": "tabs",
         "children": [
           {
-            "id": "fc76de654abcb4d9",
+            "id": "6a341063ba7d72ce",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc76de654abcb4d9",
+  "active": "0e3b895140d699c3",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/THỰC HÀNH GIẢI PHẪU.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/GP1.pdf",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 1 - Cơ - Xương - Khớp.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 1 - Cơ - Xương - Khớp.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/3 - Trình bày các nguyên tắc truyền máu. Vẽ sơ đồ.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/2 - Mô tả vị trí và hình thể ngoài của tim.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/1 - Phân loại khớp và mô tả cấu trúc của một khớp động.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/2023-rehab_knee_10-16-23.pdf",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/foot-and-ankle-conditioning-program---2025.pdf",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/note",
@@ -187,16 +196,10 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/4.jpeg",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/3.jpeg",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/2.jpeg",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/note",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 2 - Hệ tuần hoàn.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 2 - Hệ tuần hoàn.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 1 - Cơ - Xương - Khớp.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 1 - Cơ - Xương - Khớp.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Bài học Lý thuyết/9. HEMOGLOBIN - GAN - THẬN.pdf.part",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Đề cương /học/9. Hemoglobin.docx",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/Đề cương /học/8. Enzym, Năng lượng sinh học.docx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 7 - Giải phẫu - Sinh lý hệ tuần hoàn.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng đầu mặt ✅.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng Lưng - Ngực - Bụng.md",
@@ -209,9 +212,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/8 - Trình bày chức năng của thận.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/6 - Mô tả vị trí và hình thể ngoài của dạ dày.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/4 - Trình bày về hiện tượng cơ học của hô hấp.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/2 - Mô tả vị trí và hình thể ngoài của tim.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/3 - Trình bày các nguyên tắc truyền máu. Vẽ sơ đồ.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/1 - Phân loại khớp và mô tả cấu trúc của một khớp động.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 10 - Giải phẫu - Sinh lý hệ tiết niệu.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 9 - Giải phẫu - Sinh lý hệ tiêu hóa.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 8 - Giải phẫu - Sinh lý hệ hô hấp.md",

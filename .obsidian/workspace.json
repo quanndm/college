@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c691efe493fee055",
+        "id": "55862ac870984b47",
         "type": "tabs",
         "children": [
           {
-            "id": "ba0e8153e92e1196",
+            "id": "99549ed7b46c6a16",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba0e8153e92e1196",
+  "active": "8a4d401fa01b03f4",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH19_2. Nghiên cứu khoa học/Tài liệu tham khảo/3-TONG QUAN TAI LIEU.pdf",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH19_2. Nghiên cứu khoa học/Tài liệu tham khảo/2-Xac dinh van de NC.pdf",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH19_2. Nghiên cứu khoa học/Tài liệu tham khảo/1-Dai cuong NCKH-YTHD.pdf",
+    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH19_2. Nghiên cứu khoa học/Tài liệu tham khảo",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Đại cương hệ cơ ✅.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương đầu mặt.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương cột sống (Columna vertebralis) ✅.md",
@@ -194,13 +198,10 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/1.jpeg",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/7.jpeg",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/6.jpeg",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/5.jpeg",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/4.jpeg",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/3.jpeg",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/2.jpeg",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/note",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 2 - Hệ tuần hoàn.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 7 - Giải phẫu - Sinh lý hệ tuần hoàn.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng đầu mặt ✅.md",
@@ -221,7 +222,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Xương (Tiếp theo).md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/2 - GÃY XƯƠNG ĐÒN - XỬ TRÍ VÀ CHĂM SÓC.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/1 - PHÂN LOẠI GÃY XƯƠNG VÀ GÃY XƯƠNG CÀNH TƯƠI.md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/VLTL/1 - CÁC PHƯƠNG PHÁP PHỤC HỒI CHỨC NĂNG VẬN ĐỘNG VÀ NGÔN NGỮ SAU ĐỘT QUỴ.md",
     "Chưa đặt tên.canvas"
   ]
 }

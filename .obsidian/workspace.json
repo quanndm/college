@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55862ac870984b47",
+        "id": "5723533f3faf9c7e",
         "type": "tabs",
         "children": [
           {
-            "id": "99549ed7b46c6a16",
+            "id": "34eaff327d551490",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,25 +176,27 @@
   },
   "active": "8a4d401fa01b03f4",
   "lastOpenFiles": [
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH19_2. Nghiên cứu khoa học/Tài liệu tham khảo/3-TONG QUAN TAI LIEU.pdf",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH19_2. Nghiên cứu khoa học/Tài liệu tham khảo/2-Xac dinh van de NC.pdf",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH19_2. Nghiên cứu khoa học/Tài liệu tham khảo/1-Dai cuong NCKH-YTHD.pdf",
-    "Kỹ thuật Phục hồi chức năng/02. Chuyên môn & Trị liệu (II.2 & II.3)/MH19_2. Nghiên cứu khoa học/Tài liệu tham khảo",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/35 CÂU HỎI CÓ đáp án.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/35 CÂU HỎI CÓ đáp án.docx",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/11.6 BỆNH DO SÁN DẢI (DÂY) BÒ.docx",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/11.5 BỆNH DO SÁN DẢI (DÂY) HEO OK.docx",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/11.4 BỆNH DO SÁN LÁ LỚN Ở GAN FASCIOLA SPP.docx",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/11.3 BỆNH DO SÁN LÁ NHỎ Ở GAN.docx",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/11.2 BỆNH DO SÁN LÁ RUỘT LỚN FASCIOLOPSIS BUSKI.docx",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/11.1 SÁN LÁ PHỔI.docx",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/10.5 BỆNH DO GIUN CHỈ HỆ BẠCH HUYẾT.docx",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/10.4 BỆNH DO GIUN KIM.docx",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/10.3 BỆNH DO GIUN MÓC.docx",
+    "README.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Đại cương hệ cơ ✅.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương đầu mặt.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương cột sống (Columna vertebralis) ✅.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/THỰC HÀNH GIẢI PHẪU.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/GP1.pdf",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 1 - Cơ - Xương - Khớp.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Kỹ thuật Thực hành/Buổi 1 - Cơ - Xương - Khớp.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/3 - Trình bày các nguyên tắc truyền máu. Vẽ sơ đồ.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/2 - Mô tả vị trí và hình thể ngoài của tim.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Đề cương thi lý thuyết/1 - Phân loại khớp và mô tả cấu trúc của một khớp động.md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/2023-rehab_knee_10-16-23.pdf",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/foot-and-ankle-conditioning-program---2025.pdf",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/note",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/1.jpeg",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/7.jpeg",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/CHƯƠNG TRÌNH PHCN - AAOS/knee/6.jpeg",
@@ -220,8 +222,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Cơ - (xương) - khớp.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương chi dưới (Ossa membri inferioris) (đang học khớp).md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Bài học Lý thuyết/Bài 5 - Xương (Tiếp theo).md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/2 - GÃY XƯƠNG ĐÒN - XỬ TRÍ VÀ CHĂM SÓC.md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/1 - PHÂN LOẠI GÃY XƯƠNG VÀ GÃY XƯƠNG CÀNH TƯƠI.md",
     "Chưa đặt tên.canvas"
   ]
 }

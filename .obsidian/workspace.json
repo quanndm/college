@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5723533f3faf9c7e",
+        "id": "46507a055cd5a5b3",
         "type": "tabs",
         "children": [
           {
-            "id": "34eaff327d551490",
+            "id": "76f2a8a94d72110d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/Tài liệu tham khảo/SINH-HOC-DI-TRUYEN.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "SINH-HOC-DI-TRUYEN"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Tab mới"
             }
           }
         ]
@@ -176,8 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a4d401fa01b03f4",
+  "active": "0e3b895140d699c3",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/Tài liệu tham khảo/SINH-HOC-DI-TRUYEN.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/TÀI LIỆU ÔN TẬP VI SINH KÝ SINH.docx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/Tài liệu tham khảo/CÂU HỎI ÔN TẬP MÔN SINH HỌC DI TRUYỀN (4.26).pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/35 CÂU HỎI CÓ đáp án.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/35 CÂU HỎI CÓ đáp án.docx",
@@ -187,8 +187,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/11.3 BỆNH DO SÁN LÁ NHỎ Ở GAN.docx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/11.2 BỆNH DO SÁN LÁ RUỘT LỚN FASCIOLOPSIS BUSKI.docx",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/11.1 SÁN LÁ PHỔI.docx",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/10.5 BỆNH DO GIUN CHỈ HỆ BẠCH HUYẾT.docx",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/10.4 BỆNH DO GIUN KIM.docx",
     "README.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Đại cương hệ cơ ✅.md",

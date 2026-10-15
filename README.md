@@ -13,7 +13,7 @@ class code (name): 26K3PHCN01B / 26K3PHCN1.1
 *Kiến thức nền tảng y học, giải phẫu và sinh lý người.*
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/00. MỤC LỤC & ĐỀ CƯƠNG|MH07.Giải phẫu Sinh lý]]
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Hóa học - Vật lý đại cương - Lý sinh/00. MỤC LỤC & ĐỀ CƯƠNG|MH08. Hóa học - Vật lý đại cương - Lý sinh]]
-- [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh/00. MỤC LỤC & ĐỀ CƯƠNG|MH09. Hóa sinh]]
+- [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh ✅/00. MỤC LỤC & ĐỀ CƯƠNG|MH09. Hóa sinh]]
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/00. MỤC LỤC & ĐỀ CƯƠNG|MH10. Vi sinh - Ký sinh trùng]]
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/00. MỤC LỤC & ĐỀ CƯƠNG|MH11. Sinh học và Di truyền]]
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/00. MỤC LỤC & ĐỀ CƯƠNG|MH12. Xác suất thống kê Y]]

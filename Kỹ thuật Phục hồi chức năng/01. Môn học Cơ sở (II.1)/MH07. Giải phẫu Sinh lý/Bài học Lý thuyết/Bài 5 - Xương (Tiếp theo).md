@@ -514,6 +514,7 @@ Lồng ngực gồm ba thành phần chính:
 - Gồm **12 đôi xương sườn**.
 - Tạo thành hai thành bên của lồng ngực.
 - Mỗi xương sườn khớp phía sau với đốt sống ngực, phía trước nối với xương ức hoặc sụn sườn.
+- Bờ dưới của thân sườn có rãnh, được gọi **Rãnh sườn** => Là nơi có **mạch máu** và **thần kinh gian sườn** đi qua 
 ![[xuong_suon_6.png]]
 ![[xuong_suon_5.png]]
 ##### Xương ức (**Sternum**)

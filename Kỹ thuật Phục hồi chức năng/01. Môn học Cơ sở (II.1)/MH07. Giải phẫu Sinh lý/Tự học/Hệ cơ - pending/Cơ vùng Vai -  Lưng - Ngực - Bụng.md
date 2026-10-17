@@ -427,7 +427,7 @@ Nhóm cơ này nối xương vai hoặc xương đòn với thành ngực, giúp
 - Nguyên ủy: Mào mu và khớp mu.
 - Bám tận: Đường trắng bụng ở phần dưới.
 - Động tác: Căng đường trắng bụng.
-- Lưu ý: Cơ![[co_thap.png]] này có thể không hiện diện ở một hoặc cả hai bên ở một số người.
+- Lưu ý: Cơ này có thể không hiện diện ở một hoặc cả hai bên ở một số người. ![[co_thap.png]]
 
 ## II. Cơ thành bụng sau (Posterior abdominal wall)
 

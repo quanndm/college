@@ -1,21 +1,3 @@
-Cao đẳng
-      ↓
-Liên thông Đại học
-      ↓
-GPHN -> CME 
-      ↓
-3–5 năm kinh nghiệm
-      ↓
-PTE
-      ↓
-Đánh giá bằng cấp / đăng ký hành nghề
-      ↓
-Đi Úc hoặc New Zealand
-      ↓
-Ổn định công việc
-      ↓
-Học Master nếu muốn phát triển tiếp
-
 
 ---
 1. **Bằng cao đẳng**
@@ -31,11 +13,13 @@ Học Master nếu muốn phát triển tiếp
 ---
 Đại học công
 1. Alice Salomon Hochschule Berlin (ASH Berlin)
-2. **Hochschule für Gesundheit Bochum (HS Gesundheit)** (ưu tiên 2, phí thấp, cần C1)
+2. University of Applied Sciences Osnabrück (Hochschule Osnabrück)
+3. **Hochschule für Gesundheit Bochum (HS Gesundheit)** (ưu tiên 2, phí thấp, cần C1)
 
 ---
 1. clevermann.vn
 2. https://www.facebook.com/bla.com.vn  (# BLA Group - Học tiếng Đức Trực Tuyến)
 	1. https://tiengduc.bla.vn/sasprograms/543
 3. https://www.facebook.com/tiengducnhadevis (# Tiếng Đức Nhà Devis)
+	1. https://www.facebook.com/DacHoan
 4. https://www.facebook.com/dlb.vietnam/ (# Dlb Việt Nam)

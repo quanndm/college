@@ -1,6 +1,5 @@
 Học kỳ 1: Nền tảng Y sinh cơ bản (17 Tín chỉ)
 
-
 - **Giải phẫu Sinh lý** (4 TC) (p. 2)
 - **Hóa sinh** (3 TC) (p. 2) 
 - **Hóa học - Vật lý đại cương & Lý sinh** (2 TC) (p. 2)

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "73684859e49063fe",
+        "id": "40f18cbbc5483246",
         "type": "tabs",
         "children": [
           {
-            "id": "c3096013a0fbb923",
+            "id": "ccebe3d8de30d5b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "Tài liệu tham khảo thêm"
             }
           }
         ]
@@ -174,8 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3096013a0fbb923",
+  "active": "ccebe3d8de30d5b5",
   "lastOpenFiles": [
+    "Ghi chú tổng quan/timeline demo.md",
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Tài liệu tham khảo/2. File CT đc mang vào phòng thi.pdf",
+    "Ghi chú tổng quan/Lộ trình.md",
+    "Ghi chú tổng quan/Lộ trình 2.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/02. NGÂN HÀNG CÂU HỎI & ĐỀ THI.md",
@@ -185,10 +194,7 @@
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Ôn thi/Công thức ôn thi XSTK giữa kì.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Ôn thi/Công thức cuối HK.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Tài liệu tham khảo/2. File CT đc mang vào phòng thi.pdf",
-    "Ghi chú tổng quan/Lộ trình 2.md",
     "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
-    "Ghi chú tổng quan/Lộ trình.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH--.Tiếng Anh chuyên ngành/Tự học/3 - Hậu tố - liên quan đến 1 thứ gì đó.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH--.Tiếng Anh chuyên ngành/Tự học/0 - NOTE.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH--.Tiếng Anh chuyên ngành/Tự học/2 - Gốc từ chỉ màu sắc.md",
@@ -200,10 +206,8 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Ôn thi",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/01. TÀI LIỆU & LINK THAM KHẢO.md",
-    "Ghi chú tổng quan/timeline demo.md",
     "README.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.4 Templates/Template bài học lý thuyết.md",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng cổ.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/co_cam_mong.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/co_ham_mong.png",
@@ -220,7 +224,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng Vai -  Lưng - Ngực - Bụng✅.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/co_hoanh.png",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.2. Hình ảnh & Video/co_that_lung_be.png",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương chi trên (Ossa membri superioris) ✅.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/Tài liệu tham khảo/SINH-HOC-DI-TRUYEN.pdf",
     "Chưa đặt tên.canvas"
   ]

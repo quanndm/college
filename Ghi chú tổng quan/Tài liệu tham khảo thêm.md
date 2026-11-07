@@ -7,3 +7,6 @@
 	- PHCN playlist 1: https://www.youtube.com/@nhatminh7126/playlists
 	- CKCB - PHCN: https://www.youtube.com/playlist?list=PLROPQL3d2Cint5ZDvFLtuM6HZKazWdCF9
 	- PHCN 3T: https://www.youtube.com/@PHCN3T/playlists
+	- Hà Hoàng Kiệm
+		- VLTL  : https://www.youtube.com/playlist?list=PLpA34-qIzHxAcO1fkNFtQ6j8S4MC1B1fS
+		- PCHN: https://www.youtube.com/playlist?list=PLpA34-qIzHxAWsQg5quInGYhWGdEXFIij

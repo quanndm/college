@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "40f18cbbc5483246",
+        "id": "4f6b377001859ccf",
         "type": "tabs",
         "children": [
           {
-            "id": "ccebe3d8de30d5b5",
+            "id": "6d37215e068064ec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Tài liệu tham khảo/2. File CT đc mang vào phòng thi.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2. File CT đc mang vào phòng thi"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Tab mới"
             }
           }
         ]
@@ -178,16 +176,17 @@
   },
   "active": "8a4d401fa01b03f4",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 2. Chuyển động vật chất trong cơ thể sống.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 1-Dai cuong SX thong ke.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Tài liệu tham khảo/2. File CT đc mang vào phòng thi.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 6-7-Dai luong ngau nhien.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 8-Mau va thong ke mo ta.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 6-7-Dai luong ngau nhien (1).pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 3-Dinh nghia xac suat.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 2-Phep thu va bien co ngau nhien.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 1-Dai cuong SX thong ke.pdf",
     "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
     "Ghi chú tổng quan/timeline demo.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Tài liệu tham khảo/2. File CT đc mang vào phòng thi.pdf",
     "Ghi chú tổng quan/Lộ trình.md",
     "Ghi chú tổng quan/Lộ trình 2.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/01. TÀI LIỆU & LINK THAM KHẢO.md",
@@ -196,7 +195,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 1. Bài mở đầu. Sự biến đổi năng lượng trên cơ thể sống.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/[2]- Sách Lý sinh tham khảo - Phan Sỹ An.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 0. Giới thiệu môn học.pdf",
-    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Ôn thi/Công thức ôn thi XSTK giữa kì.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Ôn thi/Công thức cuối HK.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH--.Tiếng Anh chuyên ngành/Tự học/3 - Hậu tố - liên quan đến 1 thứ gì đó.md",

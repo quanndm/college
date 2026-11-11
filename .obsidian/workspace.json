@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a2fca80ab1a8469",
+        "id": "05e9d9d06b23d87d",
         "type": "tabs",
         "children": [
           {
-            "id": "66ed716ba8bd7a02",
+            "id": "6dcabea42bc66eb2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Sách Lý sinh tham khảo - Phan Sỹ An.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Sách Lý sinh tham khảo - Phan Sỹ An"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Tab mới"
             }
           }
         ]
@@ -176,8 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66ed716ba8bd7a02",
+  "active": "0e3b895140d699c3",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/CHUONG-TRINH-DAO-TAO-KY-THUAT-PHUC-HOI-CHUC-NANG.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Sách Lý sinh tham khảo - Phan Sỹ An.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Ôn thi/Tóm tắt công thức và bài tập buổi 6-7.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Kế hoạch học tập VLLS.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/00. MỤC LỤC & ĐỀ CƯƠNG.md",
@@ -186,12 +187,10 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Ôn thi",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/PHCN/BT_PHCN_dau_goi.jpg",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 2. Chuyển động vật chất trong cơ thể sống.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Sách Lý sinh tham khảo - Phan Sỹ An.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 1. Bài mở đầu. Sự biến đổi năng lượng trên cơ thể sống.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 0. Giới thiệu môn học.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 1-Dai cuong SX thong ke.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Tài liệu tham khảo/2. File CT đc mang vào phòng thi.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 6-7-Dai luong ngau nhien.pdf",
     "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
     "Ghi chú tổng quan/timeline demo.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",

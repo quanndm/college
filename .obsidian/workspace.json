@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "833e5e7afed4f8b8",
+        "id": "263113a724a08d80",
         "type": "tabs",
         "children": [
           {
-            "id": "35a607ab205fc447",
+            "id": "eaa50124a8fe77ff",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Ôn thi/.~lock.lythuyet-VL-LS.docx#",
-                "bFile": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Ôn thi/.~lock.lythuyet-VL-LS.docx#",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .~lock.lythuyet-VL-LS.docx#  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Tab mới"
             }
           }
         ]
@@ -178,8 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35a607ab205fc447",
+  "active": "eaa50124a8fe77ff",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 9-Cac dac trung cua mau.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 6-7-Dai luong ngau nhien.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 4-Cong thuc cong va cong thuc nhan xac suat (06-11).pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/Bài học Lý thuyết/Bai 5-Công thức xác suất đầy đủ và Bayes (06-11).pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 3. Các hiện tượng điện sinh học và ứng dụng.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 2. Chuyển động vật chất trong cơ thể sống.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Ôn thi/Tóm tắt công thức và bài tập buổi 6-7.pdf",
@@ -189,10 +189,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Kế hoạch học tập VLLS.pdf",
     "Ghi chú tổng quan/Xin đề cương môn học.md",
     "Ghi chú tổng quan/Lộ trình 2.md",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/GIAI-PHAU-SINH-LY.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/GP1.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/GP2.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/THỰC HÀNH GIẢI PHẪU.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",

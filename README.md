@@ -17,7 +17,7 @@ MSSV: 2667206030026
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH09. Hóa sinh ✅/00. MỤC LỤC & ĐỀ CƯƠNG|MH09. Hóa sinh]]
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/00. MỤC LỤC & ĐỀ CƯƠNG|MH10. Vi sinh - Ký sinh trùng]]
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH11. Sinh học và Di truyền/00. MỤC LỤC & ĐỀ CƯƠNG|MH11. Sinh học và Di truyền]]
-- [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y/00. MỤC LỤC & ĐỀ CƯƠNG|MH12. Xác suất thống kê Y]]
+- [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH12. Xác suất thống kê Y ✅/00. MỤC LỤC & ĐỀ CƯƠNG|MH12. Xác suất thống kê Y]]
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH13. Bệnh học cơ sở/00. MỤC LỤC & ĐỀ CƯƠNG|MH13. Bệnh học cơ sở]]
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH14. Dược lý/00. MỤC LỤC & ĐỀ CƯƠNG|MH14. Dược lý]]
 - [[Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH16. Điều dưỡng cơ sở - Cấp cứu ban đầu/00. MỤC LỤC & ĐỀ CƯƠNG|MH16. Điều dưỡng cơ sở - Cấp cứu ban đầu]]

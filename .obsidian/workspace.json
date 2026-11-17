@@ -11,14 +11,12 @@
             "id": "972e7ee1a1479832",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Ghi chú tổng quan/Lộ trình 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 1. Bài mở đầu. Sự biến đổi năng lượng trên cơ thể sống.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Lộ trình 2"
+              "icon": "lucide-file-text",
+              "title": "Bài 1. Bài mở đầu. Sự biến đổi năng lượng trên cơ thể sống"
             }
           }
         ]
@@ -178,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e3b895140d699c3",
+  "active": "972e7ee1a1479832",
   "lastOpenFiles": [
+    "Ghi chú tổng quan/Lộ trình 2.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 4. Các hiện tượng âm trên cơ thể sống.pdf.part",
     "Ghi chú tổng quan/Lộ trình.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 4. Các hiện tượng âm trên cơ thể sống.pdf",
@@ -194,11 +193,9 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/takenotesGP2/Đáy Chậu.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/takenotesGP2/Dạ dày - Tá tụy GP2.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/takenotesGP2/Cơ thân mình - cơ hoành - ống bẹn GP2.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tài liệu tham khảo/THỰC HÀNH GIẢI PHẪU.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Ghi chú/Bài 3 - Các hiện tượng điện sinh học và ứng dụng.md",
     "Ghi chú tổng quan/Xin đề cương môn học.md",
-    "Ghi chú tổng quan/Lộ trình 2.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/00. MỤC LỤC & ĐỀ CƯƠNG.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/01. TÀI LIỆU & LINK THAM KHẢO.md",
     "Kỹ thuật Phục hồi chức năng/03. Tài liệu tham khảo & Biểu mẫu/3.1. Giáo trình & Sách điện tử/TỔNG HỢP - Tham Khảo phương pháp PHCN - VLTL.md",

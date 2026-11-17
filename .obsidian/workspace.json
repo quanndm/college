@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9e63ea7b53b0c025",
+        "id": "da683764ff30a02b",
         "type": "tabs",
         "children": [
           {
-            "id": "972e7ee1a1479832",
+            "id": "1c985a360ac6c640",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 1. Bài mở đầu. Sự biến đổi năng lượng trên cơ thể sống.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Bài 1. Bài mở đầu. Sự biến đổi năng lượng trên cơ thể sống"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Tab mới"
             }
           }
         ]
@@ -176,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "972e7ee1a1479832",
+  "active": "0e3b895140d699c3",
   "lastOpenFiles": [
     "Ghi chú tổng quan/Lộ trình 2.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 4. Các hiện tượng âm trên cơ thể sống.pdf.part",

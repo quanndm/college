@@ -24,14 +24,18 @@
 		    - Phía trên dưới đều nhau 
 	    - Đóng vai trò chịu lực chính cho toàn bộ cột sống.
 	- **Cung đốt sống (Arcus vertebrae):** Nằm ở **phía sau**, uốn lại thành vòng phẳng tạo với mặt sau thân đốt sống một lỗ lớn gọi là **Lỗ đốt sống** (Foramen vertebrale).
-		- **Lỗ đốt sống**: cho tủy sống chạy qua 
-	- Cung đốt sống gồm 2 phần:
-	    - **Cuống cung đốt sống (Pediculus arcus vertebrae):** Phần xương ngắn, dày nối liền thân đốt sống với các mỏm phía sau. Gờ trên và gờ dưới của cuống lõm vào tạo thành **khuyết sống trên/dưới**.
-	    - **Mảnh cung đốt sống (Lamina arcus vertebrae):** Tấm xương dẹt mỏng uốn cong ở phía sau, nối tiếp từ cuống cung đến mỏm gai.
+		- **Lỗ đốt sống**: cho tủy sống và các dây thần kinh chạy qua 
+		- Cung đốt sống **gồm 2 phần**:
+		    - **Cuống cung đốt sống (Pediculus arcus vertebrae):** Phần xương ngắn, dày nối liền thân đốt sống với các mỏm phía sau. Gờ trên và gờ dưới của cuống lõm vào tạo thành **khuyết sống trên/dưới** (Incisura vertebralis superior - inferior).
+		    - **Mảnh cung đốt sống (Lamina arcus vertebrae):** Tấm xương dẹt mỏng uốn cong ở phía sau, nối tiếp từ cuống cung đến mỏm gai.
 	- **Các mỏm đốt sống (7 mỏm nhô ra từ cung đốt sống):**
 	    - **1 Mỏm gai (Processus spinosus):** Nhánh xương nhô dài hẳn ra phía sau, nằm trên đường giữa.
 	    - **2 Mỏm ngang (Processus transversus):** Hai nhánh xương nhô đối xứng, chạy ngang sang hai bên.
-	    - **4 Mỏm khớp (Processus articularis):** Gồm 2 mỏm khớp trên và 2 mỏm khớp dưới. Mỗi mỏm khớp đều có một **diện khớp (mặt khớp)** nhẵn để liên kết với đốt sống lân cận.
+	    - **4 Mỏm khớp (Processus articularis):** Gồm 2 mỏm khớp trên và 2 mỏm khớp dưới. Mỗi mỏm khớp đều có một **diện khớp (mặt khớp)** nhẵn để liên kết với đốt sống lân cận. (**facet joints** - khớp liên mỏm khớp)
+		    - **Diện khớp (articular facet - articular surface):** 
+			    - Diện sườn trên - dưới (Superior - Inferior costal facet)
+			    - Diện sườn ngang (Transverse costal facet)
+			    - Diện khớp trên - dưới (Superior - Inferior articular facet)
 
 - **Sự liên kết giữa các đống sống và chức năng liên quan** 
 	- **Ống sống (Canalis vertebralis):**

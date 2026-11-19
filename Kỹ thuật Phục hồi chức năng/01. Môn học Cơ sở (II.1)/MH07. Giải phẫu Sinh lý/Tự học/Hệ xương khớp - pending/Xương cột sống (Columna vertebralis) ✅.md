@@ -111,7 +111,7 @@
     - **Mỏm gai:** Rất dài, đỉnh **không chẻ đôi**, chạy ngang ra sau (thay vì chếch xuống như đốt sống ngực)
 - **Mốc lâm sàng quan trọng:**
     - **Đốt sống lồi:** Mỏm gai nhô cao, dễ dàng sờ thấy rõ qua da ở gốc gáy. Đây là mốc giải phẫu cốt lõi để đếm các đốt sống khác khi khám lâm sàng. 
-- **Đặc điểm lỗ mỏm ngang (Rất hay thi):**
+- **Đặc điểm lỗ mỏm ngang:**
     - **Kích thước:** Lỗ mỏm ngang rất nhỏ (hoặc đôi khi không có).
     - **Thành phần đi qua:** Chỉ có **tĩnh mạch đốt sống phụ** (nếu có) đi qua. **Không có động mạch đốt sống** đi qua (động mạch đốt sống bắt đầu chui vào lỗ từ đốt C6 đi lên). 
 ![[xuong_dot_song_co_9.png]]
@@ -121,22 +121,18 @@
 ![[xuong_dot_song_co_3.png]]
 ![[xuong_dot_song_co_4.png]]
 - **a. Thân đốt sống:**
-    
     - Nhỏ, thấp, dẹt theo chiều trước - sau và có hình bầu dục.
     - Bờ trên có **mỏm móc (uncinate process)**, khớp với thân đốt sống phía trên tạo thành **khớp mỏm móc (khớp Luschka)**.
     
 - **b. Cung đốt sống:**
-    
     - Cuống và mảnh cung mỏng.
     - Lỗ đốt sống rộng, hình tam giác (để chứa đoạn phình tủy cổ lớn).
     
 - **c. Mỏm ngang (Đặc điểm định danh đốt sống cổ):**
-    
     - Có **lỗ mỏm ngang (foramen transversarium)** cho động mạch đốt sống (từ C6 đi lên C1), tĩnh mạch đốt sống và đám rối giao cảm đi qua.
     - Mỗi mỏm ngang tách làm 2 củ: **Củ trước** và **Củ sau**, kẹp giữa là **rãnh thần kinh sống** (nơi rễ thần kinh tủy cổ chui ra).
     
-- **d. Mỏm gai:**
-    
+- **d. Mỏm gai:**    
     - Ngắn, đỉnh **chẻ đôi (hai chẽ)** giúp tăng diện bám cho các cơ vùng gáy.
     
 - **e. Mỏm khớp:**
@@ -186,8 +182,6 @@ Về mặt hình thái, các đốt sống cổ được chia thành hai nhóm c
     - **Định hướng:** Diện khớp trên hướng ra sau (và hơi ra ngoài); diện khớp dưới hướng ra trước (và hơi vào trong).
     - **Chức năng vận động:** Cấu trúc này rất thuận lợi cho động tác **xoay thân mình**, nhưng hạn chế tối đa động tác gấp và duỗi vùng ngực.
 
-
-
 ## 5.3 Các đốt sống đặc biệt (T1, T10, T11, T12)
 - **a. Đốt sống ngực I (T1) – Đốt sống chuyển tiếp Cổ - Ngực:**
     - Thân đốt sống vẫn còn dẹt ngang (hơi giống đốt sống cổ).
@@ -201,7 +195,7 @@ Về mặt hình thái, các đốt sống cổ được chia thành hai nhóm c
 - **d. Đốt sống ngực XII (T12) – Đốt sống chuyển tiếp Ngực - Thắt lưng:**
     - Chỉ có **1 hố sườn nguyên** trên thân đốt sống để khớp với xương sườn XII.
     - **Không có hố sườn mỏm ngang** (do xương sườn XII không có củ sườn).
-    - **Tính chất chuyển tiếp đặc biệt (Rất hay thi):** Mỏm khớp dưới của T12 không còn nằm trên mặt phẳng trán nữa mà quay hướng ra ngoài, nằm trên **mặt phẳng đứng dọc** để khớp khít với đốt sống thắt lưng L1 bên dưới.
+    - **Tính chất chuyển tiếp đặc biệt:** Mỏm khớp dưới của T12 không còn nằm trên mặt phẳng trán nữa mà quay hướng ra ngoài, nằm trên **mặt phẳng đứng dọc** để khớp khít với đốt sống thắt lưng L1 bên dưới.
 	![[xuong_cot_song_4.png|423]]
 
 

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "427352a377ff274e",
+        "id": "37c2067c67170bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe36e41072073c3",
+            "id": "01fbf68297f4041d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/cau_hoi_on_tap_extra.pdf"
+                "file": "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Ghi chú/Bài 3 - Các hiện tượng điện sinh học và ứng dụng.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "cau_hoi_on_tap_extra"
+              "icon": "lucide-file",
+              "title": "Bài 3 - Các hiện tượng điện sinh học và ứng dụng"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4b4bd4f9014a1b5",
@@ -87,7 +90,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e3b895140d699c3",
+            "id": "cb17c859cbf06671",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,11 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a4d401fa01b03f4",
+  "active": "01fbf68297f4041d",
   "lastOpenFiles": [
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/cau_hoi_on_tap_extra.pdf",
+    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/35 CÂU HỎI CÓ đáp án.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 6. Bức xạ ion hóa và cơ thể sống.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Bài học Lý thuyết/Bài 5. Ánh sáng và tác dụng quang học trên cơ thể sống.pdf",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/35 CÂU HỎI CÓ đáp án.pdf",
     "Ghi chú tổng quan/Tài liệu tham khảo thêm.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương chi trên (Ossa membri superioris) ✅.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ chi trên.md",
@@ -189,7 +193,6 @@
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng cổ.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ cơ - pending/Cơ vùng đầu mặt ✅.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH08. Vật lý - Lý sinh/Ôn thi/Tóm tắt công thức và bài tập buổi 6-7.pdf.part",
-    "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/cau_hoi_on_tap_extra.pdf",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ Thần Kinh.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH07. Giải phẫu Sinh lý/Tự học/Hệ xương khớp - pending/Xương cột sống (Columna vertebralis) ✅.md",
     "Kỹ thuật Phục hồi chức năng/01. Môn học Cơ sở (II.1)/MH10. Vi sinh - Ký sinh trùng/Bài học Lý thuyết/cau_hoi_on_tap_extra.docx",
